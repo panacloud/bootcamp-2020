@@ -1,6 +1,6 @@
 # Bootcamp 2020: Free Online Learn to Earn Fasttrack Bootcamp to Learn Freelancing and do Remote Work in the COVID-19 Economic Environment
 
-We will teach you online to Build Full Stack Mobile Web Apps including e-commerce apps using React, Gatsby.js, Redux, QraphQL, Node.js/Express, MongoDB, Git, GitHub, GitHub Actions, Terraform, Google Cloud Run, AWS EC2, Contentful, etc. and to sell your services on Upwork and Fiverr. 
+We will teach you online to Build Full Stack Mobile Web Apps including e-commerce apps using React, Gatsby.js, Redux, QraphQL, Node.js/Express, MongoDB, Git, GitHub, GitHub Actions, Terraform, Google Cloud Run, AWS EC2, Contentful, Stripe, SnipCart, Shopify, etc. and to sell your services on Upwork and Fiverr. 
 
 We have to understand humanity is facing a COVID-19 induced global economic recession and only the high-tech and software companies have grown and their stock prices and business have risen in this environment. We need to immediately get ready to face the upcoming economic crises boldly.
 
