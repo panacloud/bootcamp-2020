@@ -147,12 +147,12 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 [Options to build a ecommerce site](https://www.gatsbyjs.org/docs/building-an-e-commerce-site/)
 
 6. Pakistani Payment Services
+[Ecommerce in Pakistan](https://www.dawn.com/news/1549691)
 [JazzCash](https://sandbox.jazzcash.com.pk/sandbox)
 [JazzCash Documentation](https://payments.jazzcash.com.pk/SandboxDocumentation/)
 [JazzCash Developer Certer](https://developer.jazzcash.com.pk/)
 [Payment Gateway](https://sandbox.jazzcash.com.pk/SandboxDocumentation/Content/documentation/Payment%20Gateway%20Integration%20Guide%20for%20Merchants-v4.2.pdf)
 [Online Payment Gateway](https://www.jazzcash.com.pk/jazzcash-for-business/online-payment-gateway/)
-
 [Telenor Opens API](https://www.centerforfinancialinclusion.org/telenor-opens-mobile-money-apis-for-third-party-developers)
 [Integration Guide](http://happening.pk/gsmahackathon/apidocument3.pdf)
 
