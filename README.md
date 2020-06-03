@@ -1,4 +1,4 @@
-# Panacloud Bootcamp 2020: Free Online Learn to Earn Fasttrack Bootcamp to Learn Freelancing and do Remote Work in the COVID-19 Economic Environment
+# Bootcamp 2020: Free Online Learn to Earn Fasttrack Bootcamp to Learn Freelancing and do Remote Work in the COVID-19 Economic Environment
 
 We will teach you online to Build Full Stack Mobile Web Apps including e-commerce apps using React, Gatsby.js, Redux, QraphQL, Node.js/Express, MongoDB, Git, GitHub, GitHub Actions, Terraform, Google Cloud Run, AWS EC2, Contentful, etc. and to sell your services on Upwork and Fiverr. 
 
@@ -87,7 +87,9 @@ All our learning will be project based. Once we start Freelancing and Working Re
 ### Bootcamp 2020 Project 1: COVID-19 Tracker App
 You will use React, React Material UI, Chart.js, and React Suspense to build this COVID-19 Tracker React App
 
-1. [Learn React](https://daveceddia.com/react-tutorial/)
+1. Learn React
+
+[Learn React Tutorial](https://daveceddia.com/react-tutorial/)
 
 [Backup Website](http://react-guide-backup.surge.sh/)
 
@@ -112,9 +114,13 @@ You will use React, React Material UI, Chart.js, and React Suspense to build thi
 [Getting Started](https://www.chartjs.org/docs/latest/getting-started/)
 
 
-4. [How to fetch data in JavaScript](https://javascript.info/fetch)
+4. JavaScript Fetch
 
-5. [Different ways to fetch data in React](https://dmitripavlutin.com/react-fetch-lifecycle-methods-hooks-suspense/)
+[How to fetch data in JavaScript](https://javascript.info/fetch)
+
+5. Different Options to get data in React
+
+[Different ways to fetch data in React](https://dmitripavlutin.com/react-fetch-lifecycle-methods-hooks-suspense/)
 
 6. Data fetching with React Suspense
 
@@ -136,6 +142,7 @@ References:
 
 [Example COVID-19 Tracker App Demo](https://www.youtube.com/watch?v=khJlrj3Y6Ls)
 
+
 8. Choose one or more COVID-19 API's that you are going to use:
 
 [COVID-19 API Listing 1](https://rapidapi.com/collection/coronavirus-covid-19)
@@ -145,6 +152,7 @@ References:
 [COVID-19 API Listing 2](https://dataconomy.com/2020/04/apis-to-track-coronavirus-covid-19/)
 
 [COVID-19 Google Map API](https://developers.google.com/maps/covid19)
+
 
 9. Start building your COVID-19 Tracker App
 
