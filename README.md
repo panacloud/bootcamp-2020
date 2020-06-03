@@ -88,79 +88,47 @@ All our learning will be project based. Once we start Freelancing and Working Re
 You will use React, React Material UI, Chart.js, and React Suspense to build this COVID-19 Tracker React App
 
 1. Learn React
-
 [Learn React Tutorial](https://daveceddia.com/react-tutorial/)
-
 [Backup Website](http://react-guide-backup.surge.sh/)
 
-
 2. Learn Material UI
-
 [Main Website](https://material-ui.com/)
-
 [Installation](https://material-ui.com/getting-started/installation/)
-
 [Getting Started](https://material-ui.com/getting-started/usage/)
-
 [Details](https://react.school/material-ui)
-
 [Templates](https://material-ui.com/getting-started/templates/)
 
-
 3. Learn Chart.js
-
 [Mian Docs](https://www.chartjs.org/docs/latest/)
-
 [Getting Started](https://www.chartjs.org/docs/latest/getting-started/)
 
-
 4. JavaScript Fetch
-
 [How to fetch data in JavaScript](https://javascript.info/fetch)
 
 5. Different Options to get data in React
-
 [Different ways to fetch data in React](https://dmitripavlutin.com/react-fetch-lifecycle-methods-hooks-suspense/)
 
 6. Data fetching with React Suspense
-
 [React Suspense 1](https://rahmanfadhil.com/fetch-data-with-react-suspense/)
-
 [React Suspense 2](https://blog.logrocket.com/react-suspense-for-data-fetching/)
-
 [React Suspense 3](https://dev.to/andreiduca/practical-implementation-of-data-fetching-with-react-suspense-that-you-can-use-today-273m)
-
 [React Suspense 4](https://medium.com/better-programming/diving-into-react-suspense-render-as-you-fetch-for-rest-apis-bf2d20ea7c59)
-
 References:
 [React Suspense Reference 1](https://reactjs.org/docs/concurrent-mode-suspense.html)
-
 [React Suspense Reference 2](https://www.manning.com/books/react-hooks-in-action)
 
-
 7. Watch this video as a example for the app but build your own app don't just copy it:
-
 [Example COVID-19 Tracker App Demo](https://www.youtube.com/watch?v=khJlrj3Y6Ls)
 
-
 8. Choose one or more COVID-19 API's that you are going to use:
-
 [COVID-19 API Listing 1](https://rapidapi.com/collection/coronavirus-covid-19)
-
 [COVID-19 API Listing 1](https://covid-19-apis.postman.com/)
-
 [COVID-19 API Listing 2](https://dataconomy.com/2020/04/apis-to-track-coronavirus-covid-19/)
-
 [COVID-19 Google Map API](https://developers.google.com/maps/covid19)
-
 
 9. Start building your COVID-19 Tracker App
 
 Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD Actions and hosted on Surge.
-
-
-
-
 
 ### Get AWS and Google Cloud Accounts for Bootcamp 2020
 The software industry has completely shifted toward multi-cloud usage in projects. In our bootcamp we will be using Amazon and Google clouds extensively. It is requested from all participants that they make arrangements to get the following free AWS and Google accounts within one month:
