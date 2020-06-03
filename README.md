@@ -1,6 +1,6 @@
 # Panacloud Bootcamp 2020: Free Online Learn to Earn Fasttrack Bootcamp to Learn Freelancing and do Remote Work in the COVID-19 Economic Environment
 
-We will teach you online to Build Full Stack Mobile Web Apps including e-commerce aps using React, Gatsby.js, Redux, QraphQL, Node.js/Express, and MongoDB and to sell your services on Upwork and Fiverr. We will also teach how to integrate AI, Blockchian, IoT, and Cloud Native technologies that you are learning in our regular programs.
+We will teach you online to Build Full Stack Mobile Web Apps including e-commerce apps using React, Gatsby.js, Redux, QraphQL, Node.js/Express, MongoDB, Git, GitHub, GitHub Actions, Terraform, Google Cloud Run, AWS EC2, Contentful, etc. and to sell your services on Upwork and Fiverr. 
 
 We have to understand humanity is facing a COVID-19 induced global economic recession and only the high-tech and software companies have grown and their stock prices and business have risen in this environment. We need to immediately get ready to face the upcoming economic crises boldly.
 
@@ -37,6 +37,8 @@ These topics have been released for everyone in Urdu:
 [Learn CSS Intro by Hira Khan](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQSWIen_zUSEBmtqzPLuRob)
 
 [Learn JavaScript by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
+
+Note: Material in English is already available extensively on the web.
 
 
 ## Class 1:
@@ -77,12 +79,12 @@ Urdu Video:
 Not Availabe Yet
 
 
-## Material for Class 3 and onwards
+## Study Material for Class 3 and onwards
 
 All our learning will be project based. Once we start Freelancing and Working Remotely we will use this app as our portfolio to show to our clients our technical capabilities. Those developers who will build the best app and submit it ASAP will be immediately selected to be part of our teaching and software development team. 
 
 
-### Bootcamp 2020 COVID-19 Tracker App Project:
+### Bootcamp 2020 Project 1: COVID-19 Tracker App
 You will use React, React Material UI, Chart.js, and React Suspense to build this COVID-19 Tracker React App
 
 1. [Learn React](https://daveceddia.com/react-tutorial/)
@@ -92,59 +94,57 @@ You will use React, React Material UI, Chart.js, and React Suspense to build thi
 
 2. Learn Material UI
 
-https://material-ui.com/
+[Main Website](https://material-ui.com/)
 
-https://material-ui.com/getting-started/installation/
+[Installation](https://material-ui.com/getting-started/installation/)
 
-https://material-ui.com/getting-started/usage/
+[Getting Started](https://material-ui.com/getting-started/usage/)
 
-https://react.school/material-ui
+[Details](https://react.school/material-ui)
 
-https://material-ui.com/getting-started/templates/
+[Templates](https://material-ui.com/getting-started/templates/)
+
 
 3. Learn Chart.js
 
-https://www.chartjs.org/docs/latest/
+[Mian Docs](https://www.chartjs.org/docs/latest/)
 
-https://www.chartjs.org/docs/latest/getting-started/
+[Getting Started](https://www.chartjs.org/docs/latest/getting-started/)
 
-4. How to fetch data in JavaScript
 
-https://javascript.info/fetch
+4. [How to fetch data in JavaScript](https://javascript.info/fetch)
 
-5. Different ways to fetch data in React
-
-https://dmitripavlutin.com/react-fetch-lifecycle-methods-hooks-suspense/
+5. [Different ways to fetch data in React](https://dmitripavlutin.com/react-fetch-lifecycle-methods-hooks-suspense/)
 
 6. Data fetching with React Suspense
 
-https://rahmanfadhil.com/fetch-data-with-react-suspense/
+[React Suspense 1](https://rahmanfadhil.com/fetch-data-with-react-suspense/)
 
-https://blog.logrocket.com/react-suspense-for-data-fetching/
+[React Suspense 2](https://blog.logrocket.com/react-suspense-for-data-fetching/)
 
-https://dev.to/andreiduca/practical-implementation-of-data-fetching-with-react-suspense-that-you-can-use-today-273m
+[React Suspense 3](https://dev.to/andreiduca/practical-implementation-of-data-fetching-with-react-suspense-that-you-can-use-today-273m)
 
-https://medium.com/better-programming/diving-into-react-suspense-render-as-you-fetch-for-rest-apis-bf2d20ea7c59
+[React Suspense 4](https://medium.com/better-programming/diving-into-react-suspense-render-as-you-fetch-for-rest-apis-bf2d20ea7c59)
 
 References:
-https://reactjs.org/docs/concurrent-mode-suspense.html
+[React Suspense Reference 1](https://reactjs.org/docs/concurrent-mode-suspense.html)
 
-https://www.manning.com/books/react-hooks-in-action
+[React Suspense Reference 2](https://www.manning.com/books/react-hooks-in-action)
 
 
 7. Watch this video as a example for the app but build your own app don't just copy it:
 
-https://www.youtube.com/watch?v=khJlrj3Y6Ls
+[Example COVID-19 Tracker App Demo](https://www.youtube.com/watch?v=khJlrj3Y6Ls)
 
 8. Choose one or more COVID-19 API's that you are going to use:
 
-https://rapidapi.com/collection/coronavirus-covid-19
+[COVID-19 API Listing 1](https://rapidapi.com/collection/coronavirus-covid-19)
 
-https://covid-19-apis.postman.com/
+[COVID-19 API Listing 1](https://covid-19-apis.postman.com/)
 
-https://dataconomy.com/2020/04/apis-to-track-coronavirus-covid-19/
+[COVID-19 API Listing 2](https://dataconomy.com/2020/04/apis-to-track-coronavirus-covid-19/)
 
-https://developers.google.com/maps/covid19
+[COVID-19 Google Map API](https://developers.google.com/maps/covid19)
 
 9. Start building your COVID-19 Tracker App
 
@@ -157,9 +157,9 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 ### Get AWS and Google Cloud Accounts for Bootcamp 2020
 The software industry has completely shifted toward multi-cloud usage in projects. In our bootcamp we will be using Amazon and Google clouds extensively. It is requested from all participants that they make arrangements to get the following free AWS and Google accounts within one month:
 
-https://aws.amazon.com/free/
+[AWS Free Offer](https://aws.amazon.com/free/)
 
-https://cloud.google.com/free
+[Google Cloud Free Offer](https://cloud.google.com/free)
 
 Note 1: It is very easy the difficult part is getting your account verified by using credit cards or bank accounts. 
 
