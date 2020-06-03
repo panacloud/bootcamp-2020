@@ -25,22 +25,19 @@ Every Sunday 10:00 pm to 11:15 pm Pakistan Standard Time
 
 Learning Material for Class 1:
 
-https://github.com/panacloud/Bootcamp-Setup
+[Assignment Notes](https://github.com/panacloud/Bootcamp-Setup)
 
-https://docs.google.com/presentation/d/1f1AKJIS6WkZ3PjGWG-WVJzurrEb9wNreIgmfftgQSjE/edit#slide=id.g72e8d8e333_0_978
+[Presentation](https://docs.google.com/presentation/d/1f1AKJIS6WkZ3PjGWG-WVJzurrEb9wNreIgmfftgQSjE/edit#slide=id.g72e8d8e333_0_978)
 
-https://docs.google.com/document/d/11D43REjdlsoZgchrhwf8UeuGdtXaFFMnHS9CAkVkXoY/edit
+[Notes](https://docs.google.com/document/d/11D43REjdlsoZgchrhwf8UeuGdtXaFFMnHS9CAkVkXoY/edit)
 
-English Videos:
-https://www.facebook.com/piaic.main/videos/170335457846407/
+[Class 1 in English on Facebook](]https://www.facebook.com/piaic.main/videos/170335457846407/)
 
-https://www.youtube.com/watch?v=pjc441QKJFE
+[Class 1 in English on YouTube](https://www.youtube.com/watch?v=pjc441QKJFE)
 
-Urdu Videos:
+[Class 1 in Urdu on Facebook](https://www.facebook.com/piaic.main/videos/170952927784660/)
 
-https://www.facebook.com/piaic.main/videos/170952927784660/
-
-https://www.youtube.com/watch?v=OiP7N_ztnik
+[Class 1 in Urdu on YouTube](https://www.youtube.com/watch?v=OiP7N_ztnik)
 
 
 
@@ -48,15 +45,15 @@ https://www.youtube.com/watch?v=OiP7N_ztnik
 
 Learning material
 
-[https://github.com/panacloud/Base-React-App]
+[Assignment](https://github.com/panacloud/Base-React-App)
 
-https://docs.google.com/document/d/13GYhCj3Ts8fWQfj35s6Xz9YZ3WhtK0iqugdnFkrtxwQ/edit?usp=sharing
+[Notes](https://docs.google.com/document/d/13GYhCj3Ts8fWQfj35s6Xz9YZ3WhtK0iqugdnFkrtxwQ/edit?usp=sharing)
 
 English Videos:
 
-https://www.facebook.com/piaic.main/videos/171414181071868/?fref=mentions
+[Class 2 in English on Facebook](https://www.facebook.com/piaic.main/videos/171414181071868/?fref=mentions)
 
-https://www.youtube.com/watch?v=G25BM3nPk3s
+[Class 2 in English on YouTube](https://www.youtube.com/watch?v=G25BM3nPk3s)
 
 Urdu Video:
 Not Availabe Yet
@@ -64,19 +61,15 @@ Not Availabe Yet
 
 ## Material for Class 3 and onwards
 
-All our learning will be project based. Once we start Freelancing and Working Remotely we will use this app as our portfolio to show to our clients our technical capabilities. Those developers who will build the best app will be immediately selected to be part of our teaching and software development team. 
+All our learning will be project based. Once we start Freelancing and Working Remotely we will use this app as our portfolio to show to our clients our technical capabilities. Those developers who will build the best app and submit it ASAP will be immediately selected to be part of our teaching and software development team. 
 
 
 ### Bootcamp 2020 COVID-19 Tracker App Project:
 You will use React, React Material UI, Chart.js, and React Suspense to build this COVID-19 Tracker React App
 
-1. Learn React
+1. [Learn React](https://daveceddia.com/react-tutorial/)
 
-https://daveceddia.com/react-tutorial/
-
-Backup:
-
-http://react-guide-backup.surge.sh/
+[Backup Website](http://react-guide-backup.surge.sh/)
 
 
 2. Learn Material UI
