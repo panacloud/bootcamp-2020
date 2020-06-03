@@ -18,7 +18,7 @@ Every Sunday 10:00 pm to 11:15 pm Pakistan Standard Time
 
 [Urdu broadcast live on Facebook](https://www.facebook.com/groups/freelance.remote.work/)
 
-[YouTube Urdu Channel)(https://www.youtube.com/channel/UCfAX44elSfBV66jU53akpBA)
+[YouTube Urdu Channel](https://www.youtube.com/channel/UCfAX44elSfBV66jU53akpBA)
 
 
 ## Class 1:
@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=OiP7N_ztnik
 
 Learning material
 
-https://github.com/panacloud/Base-React-App
+[https://github.com/panacloud/Base-React-App]
 
 https://docs.google.com/document/d/13GYhCj3Ts8fWQfj35s6Xz9YZ3WhtK0iqugdnFkrtxwQ/edit?usp=sharing
 
