@@ -26,7 +26,7 @@ Every Sunday 10:00 pm to 11:15 pm Pakistan Standard Time
 
 ### Teaching Team:
 
-Zeeshan Hanif, Hira Khan, Bashir Aziz, Daniyal Nogori, Moshin Khalid, Aamir Pinger, Adil Altaf, and Ameen Alam.
+[Zeeshan Hanif](https://github.com/zeeshanhanif), Hira Khan, Bashir Aziz, Daniyal Nogori, [Moshin Khalid](https://github.com/MuhammadMohsin), Aamir Pinger, Adil Altaf, Ameen Alam and [Zia Khan](https://github.com/ziaukhan).
 
 ### Prerequisites: HTML, CSS, and JavaScript
 
