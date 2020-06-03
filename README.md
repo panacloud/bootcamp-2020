@@ -6,13 +6,9 @@ Every Tuesday at 10:00 PM – 11:15 PM Pakistan Standard Time
 
 Every Saturday at 10:00 PM – 11:15 PM Pakistan Standard Time
 
-English broadcast live on Facebook:
+[English broadcast live on Facebook](https://www.facebook.com/groups/4irug)
 
-https://www.facebook.com/groups/4irug
-
-YouTube English Channel:
-
-https://www.youtube.com/channel/UCZUgRzBPk8CoYeHhbPL8OWg
+[YouTube English Channel](https://www.youtube.com/channel/UCZUgRzBPk8CoYeHhbPL8OWg)
 
 ## Urdu Section:
 
@@ -20,13 +16,9 @@ Every Wednesday 10:00 pm to 11:15 pm Pakistan Standard Time
 
 Every Sunday 10:00 pm to 11:15 pm Pakistan Standard Time
 
-Urdu broadcast live on Facebook:
+[Urdu broadcast live on Facebook](https://www.facebook.com/groups/freelance.remote.work/)
 
-https://www.facebook.com/groups/freelance.remote.work/
-
-YouTube Urdu Channel:
-
-https://www.youtube.com/channel/UCfAX44elSfBV66jU53akpBA
+[YouTube Urdu Channel)(https://www.youtube.com/channel/UCfAX44elSfBV66jU53akpBA)
 
 
 ## Class 1:
