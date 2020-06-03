@@ -148,6 +148,7 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 
 6. Pakistani Payment Services
 [Ecommerce in Pakistan](https://www.dawn.com/news/1549691)
+[Alipay in Pakistan](https://www.brandsynario.com/alipay-in-pakistan-e-commerce-giant-plans-to-boost-the-economy/)
 [JazzCash](https://sandbox.jazzcash.com.pk/sandbox)
 [JazzCash Documentation](https://payments.jazzcash.com.pk/SandboxDocumentation/)
 [JazzCash Developer Certer](https://developer.jazzcash.com.pk/)
