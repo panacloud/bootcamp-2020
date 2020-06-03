@@ -130,6 +130,26 @@ References:
 
 Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD Actions and hosted on Surge.
 
+### Bootcamp 2020 Project 2: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
+1. Learn Gatsby.js
+[Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
+
+2. Learn Contentful
+[Getting Started](https://www.contentful.com/get-started/)
+
+3. Gatsby Ecommerce 
+[Gatsby Ecommerce Tutorial](https://www.gatsbyjs.org/tutorial/ecommerce-tutorial/)
+
+4. Learn to build ecommerce website
+[Building an ecommerce site with Gatsby, Contentful and Snipcart](https://aquasar.io/articles/building-an-ecommerce-site-with-gatsby-contentful-and-snipcart?fbclid=IwAR0dZe4XoaTd5SLTgErPVC9VrzPA-68UXyTwLYhk5UoD6OOyM27CeYP9Drk)
+
+5. Ecommerce Services 
+[Options to build a ecommerce site](https://www.gatsbyjs.org/docs/building-an-e-commerce-site/)
+
+6. Build your own Ecommerce Website
+
+More Details will added as we go forward.
+
 ### Get AWS and Google Cloud Accounts for Bootcamp 2020
 The software industry has completely shifted toward multi-cloud usage in projects. In our bootcamp we will be using Amazon and Google clouds extensively. It is requested from all participants that they make arrangements to get the following free AWS and Google accounts within one month:
 
