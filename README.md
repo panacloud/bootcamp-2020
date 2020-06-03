@@ -143,10 +143,21 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 4. Learn to build ecommerce website
 [Building an ecommerce site with Gatsby, Contentful and Snipcart](https://aquasar.io/articles/building-an-ecommerce-site-with-gatsby-contentful-and-snipcart?fbclid=IwAR0dZe4XoaTd5SLTgErPVC9VrzPA-68UXyTwLYhk5UoD6OOyM27CeYP9Drk)
 
-5. Ecommerce Services 
+5. International Ecommerce Services 
 [Options to build a ecommerce site](https://www.gatsbyjs.org/docs/building-an-e-commerce-site/)
 
-6. Build your own Ecommerce Website
+6. Pakistani Payment Services
+[JazzCash](https://sandbox.jazzcash.com.pk/sandbox)
+[JazzCash Documentation](https://payments.jazzcash.com.pk/SandboxDocumentation/)
+[JazzCash Developer Certer](https://developer.jazzcash.com.pk/)
+[Payment Gateway](https://sandbox.jazzcash.com.pk/SandboxDocumentation/Content/documentation/Payment%20Gateway%20Integration%20Guide%20for%20Merchants-v4.2.pdf)
+[Online Payment Gateway](https://www.jazzcash.com.pk/jazzcash-for-business/online-payment-gateway/)
+
+[Telenor Opens API](https://www.centerforfinancialinclusion.org/telenor-opens-mobile-money-apis-for-third-party-developers)
+[Integration Guide](http://happening.pk/gsmahackathon/apidocument3.pdf)
+
+
+7. Build your own Ecommerce Website
 
 More Details will added as we go forward.
 
