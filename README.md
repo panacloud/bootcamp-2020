@@ -1,4 +1,8 @@
-# Panacloud Bootcamp 2020
+# Panacloud Bootcamp 2020: Free Online Learn to Earn Fasttrack Bootcamp to Learn Freelancing and do Remote Work in the COVID-19 Economic Environment
+
+We will teach you online to Build Full Stack Mobile Web Apps including e-commerce aps using React, Gatsby.js, Redux, QraphQL, Node.js/Express, and MongoDB and to sell your services on Upwork and Fiverr. We will also teach how to integrate AI, Blockchian, IoT, and Cloud Native technologies that you are learning in our regular programs.
+
+We have to understand humanity is facing a COVID-19 induced global economic recession and only the high-tech and software companies have grown and their stock prices and business have risen in this environment. We need to immediately get ready to face the upcoming economic crises boldly.
 
 ## English Section:
 
@@ -19,6 +23,20 @@ Every Sunday 10:00 pm to 11:15 pm Pakistan Standard Time
 [Urdu broadcast live on Facebook](https://www.facebook.com/groups/freelance.remote.work/)
 
 [YouTube Urdu Channel](https://www.youtube.com/channel/UCfAX44elSfBV66jU53akpBA)
+
+### Teaching Team:
+
+Zeeshan Hanif, Hira Khan, Bashir Aziz, Daniyal Nogori, Moshin Khalid, Aamir Pinger, Adil Altaf, and Ameen Alam.
+
+### Prerequisites: HTML, CSS, and JavaScript
+
+These topics have been released for everyone in Urdu:
+
+[Learn HTML by Hira Khan](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQ3BALy86tIXICkG874wAc6)
+
+[Learn CSS Intro by Hira Khan](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQSWIen_zUSEBmtqzPLuRob)
+
+[Learn JavaScript by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
 
 
 ## Class 1:
