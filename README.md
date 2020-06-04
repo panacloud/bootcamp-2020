@@ -75,8 +75,9 @@ English Videos:
 
 [Class 2 in English on YouTube](https://www.youtube.com/watch?v=G25BM3nPk3s)
 
-Urdu Video:
-Not Availabe Yet
+[Class 2 in Urdu on Facebook](https://www.facebook.com/piaic.main/videos/171837241029562/)
+
+[Class 2 in Urdu on YouTube](https://www.youtube.com/watch?v=mEFq3YGiauM)
 
 
 ## Study Material for Class 3 and onwards
