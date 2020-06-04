@@ -130,7 +130,30 @@ References:
 
 Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD Actions and hosted on Surge.
 
-### Bootcamp 2020 Project 2: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
+### Bootcamp 2020 Project 2: Shopping Cart with Context API and React Hooks 
+1. Learn the Context API with Hooks
+[Context API in React with Hooks](https://www.qed42.com/blog/context-api-react-hooks)
+[State Management with React Hooks and Context API in 10 lines of code!](https://medium.com/simply/state-management-with-react-hooks-and-context-api-at-10-lines-of-code-baf6be8302c)
+[Building a CRUD App with React Hooks & the Context API](https://www.digitalocean.com/community/tutorials/react-crud-context-hooks)
+
+2. Review Shopping Cart Demo
+[Demo](https://contextcart.netlify.app/)
+[Explanation](https://www.hoseinh.com/react-context-vs-redux-hooks/)
+[Video](https://www.reddit.com/r/learnjavascript/comments/cegnjx/reactjs_context_api_tutorial_shopping_cart_hooks/)
+[Code](https://github.com/hoseinhamzei/Shopping-Cart-with-react-context-api)
+[Another Example](https://dev.to/pixelagil/simple-react-shooping-cart-53ic)
+[Yet Another Example](https://www.hoseinh.com/react-context-vs-redux-hooks/)
+
+3. Now build your own Professional Shopping Cart with Context API and Hooks
+
+### Bootcamp 2020 Project 3: Shopping Cart with Redux Toolkit
+1. Learn Redux Toolkit
+[Basic Tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
+
+2. Build you Shopping Cart with Redux Toolkit
+[Create a shopping basket using React and Redux Toolkit](https://developerhandbook.com/stripe/create-shopping-basket-using-redux-toolkit/)
+
+### Bootcamp 2020 Project 4: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
 1. Learn Gatsby.js
 [Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
 
@@ -157,8 +180,13 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 [Telenor Opens API](https://www.centerforfinancialinclusion.org/telenor-opens-mobile-money-apis-for-third-party-developers)
 [Integration Guide](http://happening.pk/gsmahackathon/apidocument3.pdf)
 
-
 7. Build your own Ecommerce Website
+
+
+### Bootcamp 2020 Project 5: Build Scalable Microservices with Terraform, Express, Docker, Google Cloud Run and MongoDB Atlas
+1. What are Microservices?
+[Microservices 101](https://www.zdnet.com/article/microservices-101-a-guide-to-microservice-architecture/?fbclid=IwAR3z-BaumXGg3X9LlyHmP18mPkJ2tFU0t1tRuLXdBKDjVLhk7A6hEkbk7bw)
+
 
 More Details will added as we go forward.
 
