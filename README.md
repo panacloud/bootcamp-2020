@@ -92,6 +92,10 @@ You will use React, React Material UI, Chart.js, and React Suspense to build thi
 [Learn React Tutorial](https://daveceddia.com/react-tutorial/)
 [Backup Website](http://react-guide-backup.surge.sh/)
 
+### Class 3 English Videos
+[Class 3 Facebook English Video](https://www.facebook.com/piaic.main/videos/173417630871523)
+[Class 3 YouTube English Video](https://www.youtube.com/watch?v=AHC-Gas_sok)
+
 2. Learn Material UI
 [Main Website](https://material-ui.com/)
 [Installation](https://material-ui.com/getting-started/installation/)
