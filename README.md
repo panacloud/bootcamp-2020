@@ -86,7 +86,9 @@ All our learning will be project based. Once we start Freelancing and Working Re
 
 
 ### Bootcamp 2020 Project 1: COVID-19 Tracker App
+
 [Submit Project here](https://docs.google.com/forms/d/e/1FAIpQLSe73k_rbeFDLdZB_mynUVF8f8AZbcG5MkvCRG_omAZuiMPDGg/viewform)
+
 You will use React, React Material UI, Chart.js, and React Suspense to build this COVID-19 Tracker React App
 
 1. Learn React
@@ -94,9 +96,13 @@ You will use React, React Material UI, Chart.js, and React Suspense to build thi
 [Backup Website](http://react-guide-backup.surge.sh/)
 
 #### Class 3 Videos
+
 [Class 3 Facebook English Video](https://www.facebook.com/piaic.main/videos/173417630871523)
+
 [Class 3 YouTube English Video](https://www.youtube.com/watch?v=AHC-Gas_sok)
+
 [Class 3 Facebook Urdu Video](https://www.facebook.com/piaic.main/videos/173553557524597/)
+
 [Class 3 YouTube Urdu Video](https://www.youtube.com/watch?v=8TQ1i93pRsk)
 
 2. Learn Material UI
