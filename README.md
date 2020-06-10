@@ -80,22 +80,11 @@ English Videos:
 [Class 2 in Urdu on YouTube](https://www.youtube.com/watch?v=mEFq3YGiauM)
 
 
-## Study Material for Class 3 and onwards
+## Class 3, 4, and 5
 
-All our learning will be project based. Once we start Freelancing and Working Remotely we will use this app as our portfolio to show to our clients our technical capabilities. Those developers who will build the best app and submit it ASAP will be immediately selected to be part of our teaching and software development team. 
-
-
-### Bootcamp 2020 Project 1: COVID-19 Tracker App
-
-[Submit Project here](https://docs.google.com/forms/d/e/1FAIpQLSe73k_rbeFDLdZB_mynUVF8f8AZbcG5MkvCRG_omAZuiMPDGg/viewform)
-
-You will use React, React Material UI, Chart.js, and React Suspense to build this COVID-19 Tracker React App
-
-1. Learn React
+Learn React
 [Learn React Tutorial](https://daveceddia.com/react-tutorial/)
-[Backup Website](http://react-guide-backup.surge.sh/)
-
-#### Class 3 and 4 Videos
+Cover the Tutorial Before Fetching Data
 
 [Class 3 Facebook English Video](https://www.facebook.com/piaic.main/videos/173417630871523)
 
@@ -109,24 +98,27 @@ You will use React, React Material UI, Chart.js, and React Suspense to build thi
 
 [Class 4 YouTube English Video](https://www.youtube.com/watch?v=ye0yj5WdXg4)
 
-2. Learn Material UI
-[Main Website](https://material-ui.com/)
-[Installation](https://material-ui.com/getting-started/installation/)
-[Getting Started](https://material-ui.com/getting-started/usage/)
-[Details](https://react.school/material-ui)
-[Templates](https://material-ui.com/getting-started/templates/)
+### Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API
+Follow this Video and build the App: [Expense Tracker](https://www.youtube.com/watch?v=XuFDcZABiDQ)
 
-3. Learn Chart.js
-[Mian Docs](https://www.chartjs.org/docs/latest/)
-[Getting Started](https://www.chartjs.org/docs/latest/getting-started/)
+Project Due Date: Wednesday, June 17, 2020 Midnight Pakistan Standard Time
 
-4. JavaScript Fetch
+Project Submit Form: Available Soon
+
+
+## Class 6 and 7
+
+[JavaScript Promises, Callbacks, and Async/Await for Beginners](https://hackernoon.com/javascript-promises-callbacks-and-asyncawait-pu7432af)
+
+[Asynchronous JavaScript: How Callbacks, Promises, and Async-Await Work](https://www.youtube.com/watch?v=XuFDcZABiDQ)
+
+Learn JavaScript Fetch
 [How to fetch data in JavaScript](https://javascript.info/fetch)
 
-5. Different Options to get data in React
+Different Options to get data in React
 [Different ways to fetch data in React](https://dmitripavlutin.com/react-fetch-lifecycle-methods-hooks-suspense/)
 
-6. Data fetching with React Suspense
+Data fetching with React Suspense
 [React Suspense 1](https://rahmanfadhil.com/fetch-data-with-react-suspense/)
 [React Suspense 2](https://blog.logrocket.com/react-suspense-for-data-fetching/)
 [React Suspense 3](https://dev.to/andreiduca/practical-implementation-of-data-fetching-with-react-suspense-that-you-can-use-today-273m)
@@ -135,20 +127,38 @@ References:
 [React Suspense Reference 1](https://reactjs.org/docs/concurrent-mode-suspense.html)
 [React Suspense Reference 2](https://www.manning.com/books/react-hooks-in-action)
 
-7. Watch this video as a example for the app but build your own app don't just copy it:
+
+### Bootcamp 2020 Project 2: COVID-19 Tracker App
+
+[Submit Project here](https://docs.google.com/forms/d/e/1FAIpQLSe73k_rbeFDLdZB_mynUVF8f8AZbcG5MkvCRG_omAZuiMPDGg/viewform)
+
+You will use React, React Material UI, Chart.js, and React Suspense to build this COVID-19 Tracker React App
+
+1. Learn Material UI
+[Main Website](https://material-ui.com/)
+[Installation](https://material-ui.com/getting-started/installation/)
+[Getting Started](https://material-ui.com/getting-started/usage/)
+[Details](https://react.school/material-ui)
+[Templates](https://material-ui.com/getting-started/templates/)
+
+2. Learn Chart.js
+[Mian Docs](https://www.chartjs.org/docs/latest/)
+[Getting Started](https://www.chartjs.org/docs/latest/getting-started/)
+
+3. Watch this video as a example for the app but build your own app don't just copy it:
 [Example COVID-19 Tracker App Demo](https://www.youtube.com/watch?v=khJlrj3Y6Ls)
 
-8. Choose one or more COVID-19 API's that you are going to use:
+4. Choose one or more COVID-19 API's that you are going to use:
 [COVID-19 API Listing 1](https://rapidapi.com/collection/coronavirus-covid-19)
 [COVID-19 API Listing 1](https://covid-19-apis.postman.com/)
 [COVID-19 API Listing 2](https://dataconomy.com/2020/04/apis-to-track-coronavirus-covid-19/)
 [COVID-19 Google Map API](https://developers.google.com/maps/covid19)
 
-9. Start building your COVID-19 Tracker App
+5. Start building your COVID-19 Tracker App
 
 Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD Actions and hosted on Surge.
 
-### Bootcamp 2020 Project 2: Shopping Cart with Context API and React Hooks 
+### Bootcamp 2020 Project 3: Shopping Cart with Context API and React Hooks 
 1. Learn the Context API with Hooks
 [Context API in React with Hooks](https://www.qed42.com/blog/context-api-react-hooks)
 [State Management with React Hooks and Context API in 10 lines of code!](https://medium.com/simply/state-management-with-react-hooks-and-context-api-at-10-lines-of-code-baf6be8302c)
@@ -164,14 +174,14 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 
 3. Now build your own Professional Shopping Cart with Context API and Hooks
 
-### Bootcamp 2020 Project 3: Shopping Cart with Redux Toolkit
+### Bootcamp 2020 Project 4: Shopping Cart with Redux Toolkit
 1. Learn Redux Toolkit
 [Basic Tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
 
 2. Build you Shopping Cart with Redux Toolkit
 [Create a shopping basket using React and Redux Toolkit](https://developerhandbook.com/stripe/create-shopping-basket-using-redux-toolkit/)
 
-### Bootcamp 2020 Project 4: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
+### Bootcamp 2020 Project 5: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
 1. Learn Gatsby.js
 [Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
 
@@ -201,9 +211,14 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 7. Build your own Ecommerce Website
 
 
-### Bootcamp 2020 Project 5: Build Scalable Microservices with Terraform, Express, Docker, Google Cloud Run and MongoDB Atlas
-1. What are Microservices?
+### Bootcamp 2020 Project 6: Build Scalable Microservices with Terraform, Express, Docker, Google Cloud Run and MongoDB Atlas
+
+1. [Build a Expense Tracker Backend using Node.js & Express API](https://www.youtube.com/watch?v=KyWaXA_NvT0)
+
+2. What are Microservices?
 [Microservices 101](https://www.zdnet.com/article/microservices-101-a-guide-to-microservice-architecture/?fbclid=IwAR3z-BaumXGg3X9LlyHmP18mPkJ2tFU0t1tRuLXdBKDjVLhk7A6hEkbk7bw)
+
+
 
 
 More Details will added as we go forward.
