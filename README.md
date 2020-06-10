@@ -80,7 +80,7 @@ English Videos:
 [Class 2 in Urdu on YouTube](https://www.youtube.com/watch?v=mEFq3YGiauM)
 
 
-## Class 3, 4, and 5
+## Class 3 and 4
 
 Learn React
 [Learn React Tutorial](https://daveceddia.com/react-tutorial/)
@@ -98,15 +98,32 @@ Cover the Tutorial Before Fetching Data
 
 [Class 4 YouTube English Video](https://www.youtube.com/watch?v=ye0yj5WdXg4)
 
+
 ### Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API
+
+## Class 5 and 6
+After we have learned the useState Hook in class 4 using the [Learn React Tutorial](https://daveceddia.com/react-tutorial/) we will skip the fetch data (we will cover it latter) part of the tutorial and learn useContext and useReducer hooks and build the Expense Tracker App.
+
+First we will learn the hooks:
+
+[An Introduction To React’s Context API](https://www.smashingmagazine.com/2020/01/introduction-react-context-api/)
+
+[Working with the React Context API](https://www.toptal.com/react/react-context-api)
+
+[How to use the useReducer React hook](https://flaviocopes.com/react-hook-usereducer/)
+
+[Understanding the React useReducer Hook](https://alligator.io/react/usereducer/)
+
+The we will build the Expense Tracker App:
+
 Follow this Video and build the App: [Expense Tracker](https://www.youtube.com/watch?v=XuFDcZABiDQ)
 
-Project Due Date: Wednesday, June 17, 2020 Midnight Pakistan Standard Time
+Project Due Date: Monday, June 22, 2020 Midnight Pakistan Standard Time
 
 Project Submit Form: Available Soon
 
 
-## Class 6 and 7
+## Class 7 and 8
 
 [JavaScript Promises, Callbacks, and Async/Await for Beginners](https://hackernoon.com/javascript-promises-callbacks-and-asyncawait-pu7432af)
 
