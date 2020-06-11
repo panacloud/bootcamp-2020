@@ -270,16 +270,34 @@ Right now I have selected only nine developer:
 8. Muhammad Usman, Wah Cantt 
 9. Saad Baig, Karachi
 
-Now the one from the above who will submit Project 2 first will become the leader of the Ninjas
+Muhammad Naeem Akhtar from Turin, Italy and Nadir Ali from Karachi have jointly won Chief Ninja position in Bootcamp 2020
+I am extremely pleased to announce that Muhammad Naeem Akhtar ( https://www.facebook.com/profile.php?id=100014148211403 ) and Nadir Ali ( https://www.facebook.com/nadirali.abro.58/ ) have won the Chief Ninja position by submitting the following two React apps:
 
+Naeem Project 1: Expense Tracker
+http://expense-tracker-app-mna.surge.sh/
 
-Bilal will start helping the students and has been added to the Ninja Whatsapp group.
+Naeem Project 2: COVID-19 Tracker
+http://covid19-analytics-mna.surge.sh/
 
-The following four are issued first and last warning for submitting the wrong surge url:
-1. Syed Shaji Haider
-2. Saqib Shamim
-3. Muhammad Aziz
-4. Hatim 
+Nadir Project 1: Expense Tracker
+http://bootcamp2020-expense-trackerapp.surge.sh/
+
+Nadir Project 2: COVID-19 Tracker
+http://bootcamp2020-covid19-trackerapp.surge.sh/
+
+Naeem will be the Chief Ninja for the English Section:
+https://www.facebook.com/groups/4IRUG/
+
+Nadir will be the Chief Ninja for the Urdu Section:
+https://www.facebook.com/groups/freelance.remote.work/
+
+Both will also be joining the live classes representing the students.
+
+Interesting info about Naeem:
+Right now he is living in Turin, Italy. He has done Bachelor in Electronic Engineering and Master in Mechatronic Engineering from Italy. Right now he is doing a full time job as Junior Java and IoT developer. 
+
+Note for everyone: All positions are temporary, as we move forward anyone can replace anyone, everything is purely merit based. 
+
 
 Please note if I am leading a team two things are not tolerated under any circumstances: telling an untruth and unprofessional behavior. I do not care if you are not super-intelligent but what we are looking for are people who take ownership and are highly ethical and professional. 
 
