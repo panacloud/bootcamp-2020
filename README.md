@@ -256,12 +256,22 @@ Note 1: It is very easy the difficult part is getting your account verified by u
 Note 2: The cloud accounts are not required immediately. We will need them in about a months time.
 
 ### Bootcamp 2020 Ninja Team Selection
-I will be selecting the best of the best developers from the bootcampers to work closely me and our team. First they will help the students  and latter they will be doing freelancing with our team. The criteria for selection will be the submitted projects, professionalism and project ownership. Even once selected you can be removed from the team because you did not follow instructions, or your performance is not up to mark. Only one warning will be given before removal. 
+I will be selecting the best of the best developers from the bootcampers to work closely me and our team. First they will help the students and later they will be doing freelancing with our team. The criteria for selection will be the submitted projects, professionalism and project ownership. Even once selected you can be removed from the team because you did not follow instructions, or your performance is not up to mark. Only one warning will be given before removal. 
 
-Right now I have selected only one developer:
+Right now I have selected only nine developer:
 
- M. Bilal based on 
-http://expense-tracker-react-bilal.surge.sh/
+1. Jazzel Mehmood, Karachi
+2. Farhan Farooq, Karachi
+3. Abdul Raffay Rizwan, Karachi
+4. Nadir Ali, Karachi
+5. Maleeha Khalid, Lahore
+6. Muhammad Usman Tariq, Karachi
+7. Muhammad Bilal, Rawalpindi
+8. Muhammad Usman, Wah Cantt 
+9. Saad Baig, Karachi
+
+Now the one from the above who will submit Project 2 first will become the leader of the Ninjas
+
 
 Bilal will start helping the students and has been added to the Ninja Whatsapp group.
 
@@ -271,7 +281,6 @@ The following four are issued first and last warning for submitting the wrong su
 3. Muhammad Aziz
 4. Hatim 
 
-Please note if I am leading a team two things are not tolerated under any circumstances: telling an untruth and unprofessional behaviour. I do not care if you are not super intelligent but what we are looking for are people who take ownership and are highly ethical and professional. 
-
+Please note if I am leading a team two things are not tolerated under any circumstances: telling an untruth and unprofessional behavior. I do not care if you are not super-intelligent but what we are looking for are people who take ownership and are highly ethical and professional. 
 
 
