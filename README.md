@@ -105,7 +105,7 @@ Cover the Tutorial Before Fetching Data
 
 ### Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API
 
-## Class 5
+## Class 5 and 6
 After we have learned the useState Hook in class 4 using the [Learn React Tutorial](https://daveceddia.com/react-tutorial/) we will skip the fetch data (we will cover it latter) part of the tutorial and learn useContext and useReducer hooks and build the Expense Tracker App.
 
 First we will learn the hooks:
