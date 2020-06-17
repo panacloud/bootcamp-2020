@@ -202,7 +202,15 @@ You will use React, React Material UI, Chart.js, and React Suspense to build thi
 
 Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD Actions and hosted on Surge.
 
-### Bootcamp 2020 Project 3: Shopping Cart with Context API and React Hooks 
+### Bootcamp 2020 Project 3: Make your Expense Tracker App and COVID-19 Tracker App into a Progressive Web App (PWA)
+
+[What’s a PWA, and How Do I Build One?](https://medium.com/better-programming/what-is-a-pwa-and-how-do-i-build-it-e843c247efb5)
+
+[How to Make your React App a Progressive Web App (PWA)](https://felixgerschau.com/how-to-make-your-react-app-a-progressive-web-app-pwa/)
+
+[How to publish PWA app on Google Play Store – Step by step guide](https://www.vtnetzwelt.com/mobile/publishing-pwa-app-on-google-play-store/)
+
+### Bootcamp 2020 Project 4: Shopping Cart with Context API and React Hooks 
 1. Learn the Context API with Hooks
 [Context API in React with Hooks](https://www.qed42.com/blog/context-api-react-hooks)
 [State Management with React Hooks and Context API in 10 lines of code!](https://medium.com/simply/state-management-with-react-hooks-and-context-api-at-10-lines-of-code-baf6be8302c)
@@ -218,14 +226,14 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 
 3. Now build your own Professional Shopping Cart with Context API and Hooks
 
-### Bootcamp 2020 Project 4: Shopping Cart with Redux Toolkit
+### Bootcamp 2020 Project 5: Shopping Cart with Redux Toolkit
 1. Learn Redux Toolkit
 [Basic Tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
 
 2. Build you Shopping Cart with Redux Toolkit
 [Create a shopping basket using React and Redux Toolkit](https://developerhandbook.com/stripe/create-shopping-basket-using-redux-toolkit/)
 
-### Bootcamp 2020 Project 5: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
+### Bootcamp 2020 Project 6: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
 1. Learn Gatsby.js
 [Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
 
