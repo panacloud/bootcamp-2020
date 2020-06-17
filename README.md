@@ -212,6 +212,14 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 
 [How to publish PWA app on Google Play Store – Step by step guide](https://www.vtnetzwelt.com/mobile/publishing-pwa-app-on-google-play-store/)
 
+[How Progressive Web Apps Will Change Mobile Commerce In 2020](https://customerthink.com/how-progressive-web-apps-will-change-mobile-commerce-in-2020/)
+
+[Make your PWA feel more like an app](https://web.dev/app-like-pwas/)
+
+[Latest News](https://www.neowin.net/news/google-chrome-will-soon-allow-users-to-run-pwas-at-startup/)
+
+[PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+
 ### Bootcamp 2020 Project 4: Shopping Cart with Context API and React Hooks 
 1. Learn the Context API with Hooks
 [Context API in React with Hooks](https://www.qed42.com/blog/context-api-react-hooks)
