@@ -135,6 +135,16 @@ Project Due Date: Monday, June 22, 2020 Midnight Pakistan Standard Time
 
 [Project Submit Form](https://docs.google.com/forms/d/e/1FAIpQLSfnJKOcI5t-IKt7ebmdRgr5llo4PIMXUVMKGAptMjaIeN0Gsg/viewform)
 
+[Class 6 YouTube English Video](https://www.youtube.com/watch?v=q6GmIxnflfM)
+
+Expense Tracker App By Adil Altaf
+
+[Git Repo URL](https://github.com/adil-innovation-lab/react-expense-tracker)
+
+[Surge URL](http://react-expense-tracker-adil.surge.sh/)
+
+[Step by Step Guide](https://docs.google.com/document/d/1f6KBYJQAhwUzS0UtMzrshBWwOeYHH32kMAfuLIfuDgU/edit?usp=sharing)
+
 
 ## Class 7 and 8
 
@@ -144,6 +154,8 @@ Project Due Date: Monday, June 22, 2020 Midnight Pakistan Standard Time
 
 Learn JavaScript Fetch
 [How to fetch data in JavaScript](https://javascript.info/fetch)
+
+[Fetch API data using useEffect React hook](https://medium.com/thecodefountain/fetch-api-data-using-useeffect-react-hook-465809ca12c6)
 
 Different Options to get data in React
 [Different ways to fetch data in React](https://dmitripavlutin.com/react-fetch-lifecycle-methods-hooks-suspense/)
