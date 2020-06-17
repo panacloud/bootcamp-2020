@@ -228,6 +228,8 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 
 Now build a Shoe Store after watching this [video](https://www.youtube.com/watch?v=4NpGzBEySvI)
 
+[Also Build App with Nested Routing](https://www.youtube.com/watch?v=F5eDWtJRYaI)
+
 ### Bootcamp 2020 Project 5: Shopping Cart with Redux Toolkit
 1. Learn Redux Toolkit
 [Basic Tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
