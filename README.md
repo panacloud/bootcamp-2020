@@ -208,6 +208,8 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 
 [How to Make your React App a Progressive Web App (PWA)](https://felixgerschau.com/how-to-make-your-react-app-a-progressive-web-app-pwa/)
 
+[Google Play Store now open for Progressive Web Apps](https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc)
+
 [How to publish PWA app on Google Play Store – Step by step guide](https://www.vtnetzwelt.com/mobile/publishing-pwa-app-on-google-play-store/)
 
 ### Bootcamp 2020 Project 4: Shopping Cart with Context API and React Hooks 
