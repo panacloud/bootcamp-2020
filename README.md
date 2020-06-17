@@ -224,11 +224,9 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 
 [React Router v6 Video Tutorial](https://www.youtube.com/watch?v=Z89iY7xwBSU&feature=emb_logo)
 
-[Use the latest Experimental Release of V6](https://github.com/ReactTraining/react-router/releases)
-
 Now build a Shoe Store after watching this [video](https://www.youtube.com/watch?v=4NpGzBEySvI)
 
-[Also Build App with Nested Routing](https://www.youtube.com/watch?v=F5eDWtJRYaI)
+Note: [Use the latest Experimental Release of V6](https://github.com/ReactTraining/react-router/releases)
 
 ### Bootcamp 2020 Project 5: Shopping Cart with Redux Toolkit
 1. Learn Redux Toolkit
