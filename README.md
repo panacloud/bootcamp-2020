@@ -220,7 +220,7 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 3. Now build your own Professional Shopping Cart with Context API and Hooks
 
 ### Bootcamp 2020 Project 4: Shoe Store using React Router v6
-[Setting Started with React Router V6)](https://github.com/ReactTraining/react-router/blob/dev/docs/installation/getting-started.md)
+[Setting Started with React Router V6](https://github.com/ReactTraining/react-router/blob/dev/docs/installation/getting-started.md)
 
 [React Router v6 Video Tutorial](https://www.youtube.com/watch?v=Z89iY7xwBSU&feature=emb_logo)
 
