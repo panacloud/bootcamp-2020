@@ -139,6 +139,10 @@ Project Due Date: Monday, June 22, 2020 Midnight Pakistan Standard Time
 
 [Class 6 Facebook English Video](https://www.facebook.com/piaic.main/videos/177715090441777/)
 
+[Class 6 Facebook Urdu Video](https://www.facebook.com/imran82ali/videos/283949636075779/)
+
+[Class 6 YouTube Urdu Video](https://www.youtube.com/watch?v=dkMba8oK55w)
+
 Expense Tracker App By Adil Altaf
 
 [Git Repo URL](https://github.com/adil-innovation-lab/react-expense-tracker)
