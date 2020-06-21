@@ -158,6 +158,12 @@ Expense Tracker App By Adil Altaf
 
 [Asynchronous JavaScript: How Callbacks, Promises, and Async-Await Work](https://www.youtube.com/watch?v=XuFDcZABiDQ)
 
+[Class 7 English Facebook Video](https://web.facebook.com/imran82ali/videos/286047259199350/)
+
+[Class 7 English YouTube Video](https://www.youtube.com/watch?v=xSCo1sPk6mg)
+
+
+
 Learn JavaScript Fetch
 [How to fetch data in JavaScript](https://javascript.info/fetch)
 
