@@ -241,7 +241,7 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 
 Now build a Shoe Store after watching this [video](https://www.youtube.com/watch?v=4NpGzBEySvI)
 
-Note: [Use the latest Experimental Release of V6](https://github.com/ReactTraining/react-router/releases)
+Note: [Use the latest Beta Release of V6](https://github.com/ReactTraining/react-router/releases)
 
 ### Bootcamp 2020 Project 5: Shopping Cart with Redux Toolkit
 1. Learn Redux Toolkit
