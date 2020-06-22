@@ -315,14 +315,14 @@ Note: [Use the latest Experimental Release of V6](https://github.com/ReactTraini
 [Integration Guide](http://happening.pk/gsmahackathon/apidocument3.pdf)
 
 
-### Bootcamp 2020 Project 6: Build Scalable Microservices with Terraform, Express, Docker, Google Cloud Run and MongoDB Atlas
+### Bootcamp 2020 Project 8: Build Scalable Microservices with Terraform, Express, Docker, Google Cloud Run and MongoDB Atlas
 
 1. [Build a Expense Tracker Backend using Node.js & Express API](https://www.youtube.com/watch?v=KyWaXA_NvT0)
 
 2. What are Microservices?
 [Microservices 101](https://www.zdnet.com/article/microservices-101-a-guide-to-microservice-architecture/?fbclid=IwAR3z-BaumXGg3X9LlyHmP18mPkJ2tFU0t1tRuLXdBKDjVLhk7A6hEkbk7bw)
 
-### Bootcamp 2020 Final Project: Participate in Building a Open Ecommerce Framework using TypeScript, Gatsby.js, Node.js/Express, Atlas MongoDB, Google Cloud Run, and Terraform 
+### Bootcamp 2020 Final Project 9: Participate in Building a Open Source Ecommerce Framework using TypeScript, Gatsby.js, Node.js/Express, Atlas MongoDB, Google Cloud Run, and Terraform 
 
 
 
