@@ -254,6 +254,8 @@ Note: [Use the latest Experimental Release of V6](https://github.com/ReactTraini
 
 [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
+[TypeScript Tutorial: A step-by-step guide to learn TypeScript](https://www.educative.io/blog/typescript-tutorial)
+
 [React TypeScript: Basics and Best Practices](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
 
 [Getting started with React and TypeScript](https://www.educative.io/blog/react-and-typescript)
