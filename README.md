@@ -250,7 +250,13 @@ Note: [Use the latest Experimental Release of V6](https://github.com/ReactTraini
 2. Build you Shopping Cart with Redux Toolkit
 [Create a shopping basket using React and Redux Toolkit](https://developerhandbook.com/stripe/create-shopping-basket-using-redux-toolkit/)
 
-### Bootcamp 2020 Project 6: Make your Expense Tracker App and COVID-19 Tracker App into a Progressive Web App (PWA)
+### Bootcamp 2020 Project 6: Make your Expense Tracker App and COVID-19 Tracker App into a Progressive Web App (PWA) that uses TypeScript
+
+[TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+
+[React TypeScript: Basics and Best Practices](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
+
+[Getting started with React and TypeScript](https://www.educative.io/blog/react-and-typescript)
 
 [What’s a PWA, and How Do I Build One?](https://medium.com/better-programming/what-is-a-pwa-and-how-do-i-build-it-e843c247efb5)
 
@@ -268,6 +274,7 @@ Note: [Use the latest Experimental Release of V6](https://github.com/ReactTraini
 
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
+
 ### Bootcamp 2020 Project 7: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
 1. Learn Gatsby.js
 [Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
@@ -281,10 +288,18 @@ Note: [Use the latest Experimental Release of V6](https://github.com/ReactTraini
 4. Learn to build ecommerce website
 [Building an ecommerce site with Gatsby, Contentful and Snipcart](https://aquasar.io/articles/building-an-ecommerce-site-with-gatsby-contentful-and-snipcart?fbclid=IwAR0dZe4XoaTd5SLTgErPVC9VrzPA-68UXyTwLYhk5UoD6OOyM27CeYP9Drk)
 
-5. International Ecommerce Services 
+5. Build your own Ecommerce Website using Shopify and Gatsby
+
+[Shopify Tutorial: A Detailed Step-by-Step Guide for Beginners](https://themeisle.com/blog/shopify-tutorial/)
+
+[How to Set up Your Own Online Shop with the Help of Shopify](https://websitesetup.org/build-online-store-shopify/)
+
+[Building an E-commerce site with Shopify](https://www.gatsbyjs.org/docs/building-an-ecommerce-site-with-shopify/]
+
+6. International Ecommerce Services 
 [Options to build a ecommerce site](https://www.gatsbyjs.org/docs/building-an-e-commerce-site/)
 
-6. Pakistani Payment Services
+7. Pakistani Payment Services
 [Ecommerce in Pakistan](https://www.dawn.com/news/1549691)
 [Alipay in Pakistan](https://www.brandsynario.com/alipay-in-pakistan-e-commerce-giant-plans-to-boost-the-economy/)
 [JazzCash](https://sandbox.jazzcash.com.pk/sandbox)
@@ -295,8 +310,6 @@ Note: [Use the latest Experimental Release of V6](https://github.com/ReactTraini
 [Telenor Opens API](https://www.centerforfinancialinclusion.org/telenor-opens-mobile-money-apis-for-third-party-developers)
 [Integration Guide](http://happening.pk/gsmahackathon/apidocument3.pdf)
 
-7. Build your own Ecommerce Website
-
 
 ### Bootcamp 2020 Project 6: Build Scalable Microservices with Terraform, Express, Docker, Google Cloud Run and MongoDB Atlas
 
@@ -304,6 +317,8 @@ Note: [Use the latest Experimental Release of V6](https://github.com/ReactTraini
 
 2. What are Microservices?
 [Microservices 101](https://www.zdnet.com/article/microservices-101-a-guide-to-microservice-architecture/?fbclid=IwAR3z-BaumXGg3X9LlyHmP18mPkJ2tFU0t1tRuLXdBKDjVLhk7A6hEkbk7bw)
+
+### Bootcamp 2020 Final Project: Participate in Building a Open Ecommerce Framework using TypeScript, Gatsby.js, Node.js/Express, Atlas MongoDB, Google Cloud Run, and Terraform 
 
 
 
