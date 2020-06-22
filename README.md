@@ -258,6 +258,8 @@ Note: [Use the latest Experimental Release of V6](https://github.com/ReactTraini
 
 [React TypeScript: Basics and Best Practices](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
 
+[TypeScript tutorial in Visual Studio Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial)
+
 [Getting started with React and TypeScript](https://www.educative.io/blog/react-and-typescript)
 
 [What’s a PWA, and How Do I Build One?](https://medium.com/better-programming/what-is-a-pwa-and-how-do-i-build-it-e843c247efb5)
