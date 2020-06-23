@@ -294,6 +294,8 @@ Note: [Use the latest Beta Release of V6](https://github.com/ReactTraining/react
 
 5. Build your own Ecommerce Website using Shopify and Gatsby
 
+[Shopify vs Amazon](https://www.websitebuilderexpert.com/ecommerce-website-builders/comparisons/shopify-vs-amazon/)
+
 [Ecommerce is fragmenting. Shopify may be the glue that holds it together](https://www.protocol.com/shopify-plan-to-dominate-ecommerce)
 
 [Shopify Tutorial: A Detailed Step-by-Step Guide for Beginners](https://themeisle.com/blog/shopify-tutorial/)
