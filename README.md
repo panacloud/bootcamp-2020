@@ -328,12 +328,21 @@ Note: [Use the latest Beta Release of V6](https://github.com/ReactTraining/react
 
 ### Bootcamp 2020 Project 8: Learn Multicloud Serverless Application Development
 
+[Servlesss and Cloud Native Computing Overview in Urdu on YouTube](https://www.youtube.com/watch?v=4UEVD97kjKo&t=1204s)
+
+[Servlesss and Cloud Native Computing Overview in Urdu on Facebook](https://web.facebook.com/piaic.main/videos/178573860355900/)
+
+
 1. [Build a Expense Tracker Backend using Node.js & Express API](https://www.youtube.com/watch?v=KyWaXA_NvT0)
 
 2. What are Microservices?
 [Microservices 101](https://www.zdnet.com/article/microservices-101-a-guide-to-microservice-architecture/?fbclid=IwAR3z-BaumXGg3X9LlyHmP18mPkJ2tFU0t1tRuLXdBKDjVLhk7A6hEkbk7bw)
 
 3. [Learn Multicloud Serverless Application Development](https://github.com/panacloud/learn-multicloud-serverless-development)
+
+[Multicloud Serverless App Development Overview in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10223676898495365/)
+
+[Multicloud Serverless App Development Overview in Urdu on YouTube](https://www.youtube.com/watch?v=BYOsS1clC48/)
 
 ### Bootcamp 2020 Final Project 9: Participate in Building a Open Source Ecommerce Framework using TypeScript, Gatsby.js, Node.js/Express, Atlas MongoDB, Google Cloud Run, and Terraform 
 
