@@ -243,6 +243,11 @@ Videos Not Available Yet! Adil Altaf will build the COVID-19 Tracker App
 
 Note: [Use the latest Beta Release of V6](https://github.com/ReactTraining/react-router/releases)
 
+
+### Bootcamp 2020 Project 3: Shoe Store 
+
+Now build a Shoe Store after watching this [video](https://www.youtube.com/watch?v=4NpGzBEySvI)
+
 ## Class 11 and 12 Web Animations API
 Videos Not Available Yet!
 
@@ -265,14 +270,14 @@ Videos Not Available Yet!
 [More Web Animations Resources](http://danielcwilson.com/tags/web-animations-api/)
 
 
-### Bootcamp 2020 Project 3: Develop Tiny Short Animation
+### Bootcamp 2020 Project 4: Develop Tiny Short Animation
 
 Read this article: [The Tiny Short Animation Trend in Web Design](https://speckyboy.com/short-animation-web-design/)
 
 Clone the front page animation of one of the companies mentioned in the article, using the latest animation API.
 
 
-### Bootcamp 2020 Project 4: Build a Animated React Website which follows the Latest Trends like Animated Illustrations
+### Bootcamp 2020 Project 5: Build a Animated React Website which follows the Latest Trends like Animated Illustrations
 
 "Our eyes are hardwired to notice movement. Historically, it’s helped to keep us alive. And, in 2020, web designers are capitalizing on this default human setting.
 Animated illustrations are one of the newest trends being used to direct viewer attention within web designs.  You’ll see these petite animations on sites all over the web.
@@ -332,7 +337,7 @@ You may use AI to generate graphics:
 
 
 
-### Bootcamp 2020 Project 5: Shopping Cart with Context API, React Hooks, Animations API, and Router
+### Bootcamp 2020 Project 6: Shopping Cart with Context API, React Hooks, Animations API, and Router
 1. [Building a CRUD App with React Hooks & the Context API](https://www.digitalocean.com/community/tutorials/react-crud-context-hooks)
 
 2. Review Shopping Cart Demo
@@ -346,14 +351,14 @@ You may use AI to generate graphics:
 3. Now build your own Professional Shopping Cart with Context API, Hooks, Animation API and Router
 
 
-### Bootcamp 2020 Project 6: Shopping Cart with Redux Toolkit, Animations API, and Router
+### Bootcamp 2020 Project 7: Shopping Cart with Redux Toolkit, Animations API, and Router
 1. Learn Redux Toolkit
 [Basic Tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
 
 2. Build you Shopping Cart with Redux Toolkit
 [Create a shopping basket using React and Redux Toolkit](https://developerhandbook.com/stripe/create-shopping-basket-using-redux-toolkit/)
 
-### Bootcamp 2020 Project 7: Make your Expense Tracker App and COVID-19 Tracker App into a Progressive Web App (PWA) that uses TypeScript
+### Bootcamp 2020 Project 8: Make your Expense Tracker App and COVID-19 Tracker App into a Progressive Web App (PWA) that uses TypeScript
 
 [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
@@ -382,7 +387,7 @@ You may use AI to generate graphics:
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
 
-### Bootcamp 2020 Project 8: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
+### Bootcamp 2020 Project 9: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
 1. Learn Gatsby.js
 [Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
 
@@ -421,7 +426,7 @@ You may use AI to generate graphics:
 [Telenor Opens API](https://www.centerforfinancialinclusion.org/telenor-opens-mobile-money-apis-for-third-party-developers)
 [Integration Guide](http://happening.pk/gsmahackathon/apidocument3.pdf)
 
-### Bootcamp 2020 Project 9 Build a Facebook Shop
+### Bootcamp 2020 Project 10 Build a Facebook Shop
 
 [The end of eCommerce as we know it](https://marketing-interactive.com/opinion-the-end-of-ecommerce-as-we-know-it]
 
@@ -445,7 +450,7 @@ You may use AI to generate graphics:
 
 
 
-### Bootcamp 2020 Project 10: Learn Multicloud Serverless Application Development
+### Bootcamp 2020 Project 11: Learn Multicloud Serverless Application Development
 
 [Servlesss and Cloud Native Computing Overview in Urdu on YouTube](https://www.youtube.com/watch?v=4UEVD97kjKo&t=1204s)
 
