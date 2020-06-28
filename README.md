@@ -207,6 +207,8 @@ Learn Chart.js
 
 [Class 9 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223687587242577/)
 [Class 9 English YouTube Video](https://www.youtube.com/watch?v=UVd9YQJ8Ge4)
+[Class 9 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223699956751807/)
+[Class 9 Urdu YouTube Video](https://www.youtube.com/watch?v=GqRXcnxEZt0)
 
 
 ### Bootcamp 2020 Project 2: COVID-19 Tracker App
