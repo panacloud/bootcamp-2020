@@ -419,12 +419,30 @@ You may use AI to generate graphics:
 [Telenor Opens API](https://www.centerforfinancialinclusion.org/telenor-opens-mobile-money-apis-for-third-party-developers)
 [Integration Guide](http://happening.pk/gsmahackathon/apidocument3.pdf)
 
+### Bootcamp 2020 Project 9 Build a Facebook Shop
 
-### Bootcamp 2020 Project 9: Learn Multicloud Serverless Application Development
+[The end of eCommerce as we know it](https://marketing-interactive.com/opinion-the-end-of-ecommerce-as-we-know-it]
+
+[Introducing Facebook Shops, a new online shopping experience](https://www.facebook.com/business/news/announcing-facebook-shops)
+
+[Introducing Facebook Shops: Helping Small Businesses Sell Online](https://about.fb.com/news/2020/05/introducing-facebook-shops/)
+
+[About Facebook Shops](https://www.facebook.com/business/help/2343035149322466?id=1077620002609475)
+
+[Facebook Developer Platform](https://developers.facebook.com/docs/commerce-platform/)
+
+[Getting Started](https://developers.facebook.com/docs/commerce-platform/setup/getting-started/)
+
+[Reference Reading](https://www.websitebuilderexpert.com/building-online-stores/how-to-set-up-a-facebook-store/)
+
+
+
+### Bootcamp 2020 Project 10: Learn Multicloud Serverless Application Development
 
 [Servlesss and Cloud Native Computing Overview in Urdu on YouTube](https://www.youtube.com/watch?v=4UEVD97kjKo&t=1204s)
 
 [Servlesss and Cloud Native Computing Overview in Urdu on Facebook](https://web.facebook.com/piaic.main/videos/178573860355900/)
+
 
 
 1. [Build a Expense Tracker Backend using Node.js & Express API](https://www.youtube.com/watch?v=KyWaXA_NvT0)
@@ -443,7 +461,7 @@ You may use AI to generate graphics:
 
 [Multicloud Serverless App Development Overview in Urdu on YouTube](https://www.youtube.com/watch?v=BYOsS1clC48/)
 
-### Bootcamp 2020 Final Project 10: Participate in Building a Open Source Ecommerce Framework using TypeScript, Gatsby.js, Node.js/Express, Atlas MongoDB, Google Cloud Run, and Terraform 
+### Bootcamp 2020 Final Project 11: Participate in Building a Open Source Ecommerce Framework using TypeScript, Gatsby.js, Node.js/Express, Atlas MongoDB, Google Cloud Run, and Terraform 
 
 
 
