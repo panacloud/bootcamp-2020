@@ -230,12 +230,55 @@ You will use React, React Material UI, Chart.js, and React Suspense to build thi
 
 Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD Actions and hosted on Surge.
 
+## Class 10
+Videos Not Available Yet!
 
-### Bootcamp 2020 Project 3: Shopping Cart with Context API and React Hooks 
-1. Learn the Context API with Hooks
-[Context API in React with Hooks](https://www.qed42.com/blog/context-api-react-hooks)
-[State Management with React Hooks and Context API in 10 lines of code!](https://medium.com/simply/state-management-with-react-hooks-and-context-api-at-10-lines-of-code-baf6be8302c)
-[Building a CRUD App with React Hooks & the Context API](https://www.digitalocean.com/community/tutorials/react-crud-context-hooks)
+## Class 11 React Router v6
+
+[Setting Started with React Router V6](https://github.com/ReactTraining/react-router/blob/dev/docs/installation/getting-started.md)
+
+[React Router v6 Video Tutorial](https://www.youtube.com/watch?v=Z89iY7xwBSU&feature=emb_logo)
+
+Note: [Use the latest Beta Release of V6](https://github.com/ReactTraining/react-router/releases)
+
+## Class 11 and 12 Web Animations API
+Videos Not Available Yet!
+
+[Web Animations API Now Supported in All Evergreen Browsers](https://www.infoq.com/news/2020/06/web-animations-evergreen-browser/?fbclid=IwAR1GBet8ybffQ5Tlcfterc_sq8EledzsTHvWm-eLlSwvrFmwf63ggvM4Z_o)
+
+[Web Animations API Concepts](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Web_Animations_API_Concepts)
+
+[We will use this Shim](https://github.com/web-animations/web-animations-js)
+
+[We will learn from this Tutorial](https://github.com/web-animations/web-animations-codelabs)
+
+[Using the Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
+
+[Examples](https://github.com/web-animations/web-animations-js/blob/dev/docs/examples.md)
+
+[Live Demos](https://web-animations.github.io/web-animations-demos/)
+
+[Web Animations Resources](http://danielcwilson.com/tags/web-animations-api/)
+
+### Bootcamp 2020 Project 3: Build a Animated React Website
+
+In this project you will build a animated React Website, all animations must use the Web Animations API.
+
+You can use the ideas form these resourses or develop your own ideas:
+
+[8 Best Animated Websites](https://www.mockplus.com/blog/post/best-animated-websites)
+
+[Best Website examples of designs with animation](https://www.awwwards.com/websites/animation/)
+
+[Best websites that use Illustration and Animation](https://madebyshape.co.uk/web-design-blog/best-websites-that-use-illustration-and-animation/)
+
+[22 Websites with Impressive Illustrations and Animations](https://www.thebestdesigns.com/collections/websites-with-bold-colorful-illustrations-and-animations)
+
+
+
+
+### Bootcamp 2020 Project 4: Shopping Cart with Context API, React Hooks, Animations API, and Router
+1. [Building a CRUD App with React Hooks & the Context API](https://www.digitalocean.com/community/tutorials/react-crud-context-hooks)
 
 2. Review Shopping Cart Demo
 [Demo](https://contextcart.netlify.app/)
@@ -245,18 +288,10 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 [Another Example](https://dev.to/pixelagil/simple-react-shooping-cart-53ic)
 [Yet Another Example](https://www.hoseinh.com/react-context-vs-redux-hooks/)
 
-3. Now build your own Professional Shopping Cart with Context API and Hooks
+3. Now build your own Professional Shopping Cart with Context API, Hooks, Animation API and Router
 
-### Bootcamp 2020 Project 4: Shoe Store using React Router v6
-[Setting Started with React Router V6](https://github.com/ReactTraining/react-router/blob/dev/docs/installation/getting-started.md)
 
-[React Router v6 Video Tutorial](https://www.youtube.com/watch?v=Z89iY7xwBSU&feature=emb_logo)
-
-Now build a Shoe Store after watching this [video](https://www.youtube.com/watch?v=4NpGzBEySvI)
-
-Note: [Use the latest Beta Release of V6](https://github.com/ReactTraining/react-router/releases)
-
-### Bootcamp 2020 Project 5: Shopping Cart with Redux Toolkit
+### Bootcamp 2020 Project 5: Shopping Cart with Redux Toolkit, Animations API, and Router
 1. Learn Redux Toolkit
 [Basic Tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
 
