@@ -423,9 +423,15 @@ You may use AI to generate graphics:
 
 [The end of eCommerce as we know it](https://marketing-interactive.com/opinion-the-end-of-ecommerce-as-we-know-it]
 
+[Facebook Shops: What Shops could spell for the future of social commerce](https://www.thedrum.com/opinion/2020/06/10/facebook-shops-what-shops-could-spell-the-future-social-commerce)
+
 [Introducing Facebook Shops, a new online shopping experience](https://www.facebook.com/business/news/announcing-facebook-shops)
 
 [Introducing Facebook Shops: Helping Small Businesses Sell Online](https://about.fb.com/news/2020/05/introducing-facebook-shops/)
+
+[Facebook Shop a No Brainer for Advertisers, Says 5-Star Analyst](https://finance.yahoo.com/news/facebook-shop-no-brainer-advertisers-190700846.html)
+
+[Complete Details about Facebook Shops](https://www.dailydot.com/debug/facebook-shops/)
 
 [About Facebook Shops](https://www.facebook.com/business/help/2343035149322466?id=1077620002609475)
 
