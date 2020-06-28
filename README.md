@@ -231,7 +231,7 @@ You will use React, React Material UI, Chart.js, and React Suspense to build thi
 Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD Actions and hosted on Surge.
 
 ## Class 10
-Videos Not Available Yet!
+Videos Not Available Yet! Adil Altaf will build the COVID-19 Tracker App
 
 ## Class 11 React Router v6
 
@@ -269,13 +269,27 @@ Animated illustrations are one of the newest trends being used to direct viewer 
 Some animated illustrations are merely still graphics that jiggle, while other illustrated animations are more thoughtful and complex. When used to their fullest capacity, animated illustrations can tell stories, explain concepts, or help viewers navigate a website."
 [The 8 Biggest Web Design Trends of 2020](https://www.crowdspring.com/blog/web-design-trends-2020/)
 
+[20 Extraordinary Web Design Ideas That Will Get Everyone Clicking](https://www.jeffbullas.com/web-design-ideas/)
+Incorporating illustration on a website has been a trend for a few years. However, designers are now focusing to create custom and 3D illustrations to define a brand.
+An illustration can empower a brand if blended well with minimalism. See how the brand Neat has rightly executed this trend:
+
+[Neat Website](https://thisisneat.com.au/)
+
+To intrigue viewers, brands like Pitch have introduced 3D illustration design:
+[Pitch Website](https://pitch.com/)
+
+
 In this project you will build a animated React Website, all animations must use the latest Web Animations API and latest trends.
 
+Resources:
+
+[Beautiful, free illustrations](https://www.drawkit.io/)
+
+[free illustrations](https://freellustrations.com/)
+
+[Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
+
 You can use the ideas form these resourses or develop your own ideas:
-
-[8 Best Animated Websites](https://www.mockplus.com/blog/post/best-animated-websites)
-
-[Best Website examples of designs with animation](https://www.awwwards.com/websites/animation/)
 
 [Best websites that use Illustration and Animation](https://madebyshape.co.uk/web-design-blog/best-websites-that-use-illustration-and-animation/)
 
@@ -285,7 +299,12 @@ You can use the ideas form these resourses or develop your own ideas:
 
 [Animated Sites](https://www.cssdesignawards.com/website-gallery?feature=animated)
 
-[Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
+[8 Best Animated Websites](https://www.mockplus.com/blog/post/best-animated-websites)
+
+[Best Website examples of designs with animation](https://www.awwwards.com/websites/animation/)
+
+
+
 
 You may use AI to generate graphics:
 
