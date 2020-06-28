@@ -285,6 +285,8 @@ You can use the ideas form these resourses or develop your own ideas:
 
 [Animated Sites](https://www.cssdesignawards.com/website-gallery?feature=animated)
 
+[Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
+
 You may use AI to generate graphics:
 
 [Creative Tools to Generate AI Art](https://aiartists.org/ai-generated-art-tools)
