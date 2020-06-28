@@ -254,15 +254,22 @@ Videos Not Available Yet!
 
 [Using the Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
 
+[Additive Animation with the Web Animations API](https://css-tricks.com/additive-animation-web-animations-api/)
+
 [Examples](https://github.com/web-animations/web-animations-js/blob/dev/docs/examples.md)
 
 [Live Demos](https://web-animations.github.io/web-animations-demos/)
 
-[Web Animations Resources](http://danielcwilson.com/tags/web-animations-api/)
+[More Web Animations Resources](http://danielcwilson.com/tags/web-animations-api/)
 
-### Bootcamp 2020 Project 3: Build a Animated React Website
+### Bootcamp 2020 Project 3: Build a Animated React Website which follows the Latest Trends like Animated Illustrations
 
-In this project you will build a animated React Website, all animations must use the Web Animations API.
+"Our eyes are hardwired to notice movement. Historically, it’s helped to keep us alive. And, in 2020, web designers are capitalizing on this default human setting.
+Animated illustrations are one of the newest trends being used to direct viewer attention within web designs.  You’ll see these petite animations on sites all over the web.
+Some animated illustrations are merely still graphics that jiggle, while other illustrated animations are more thoughtful and complex. When used to their fullest capacity, animated illustrations can tell stories, explain concepts, or help viewers navigate a website."
+[The 8 Biggest Web Design Trends of 2020](https://www.crowdspring.com/blog/web-design-trends-2020/)
+
+In this project you will build a animated React Website, all animations must use the latest Web Animations API and latest trends.
 
 You can use the ideas form these resourses or develop your own ideas:
 
@@ -274,6 +281,23 @@ You can use the ideas form these resourses or develop your own ideas:
 
 [22 Websites with Impressive Illustrations and Animations](https://www.thebestdesigns.com/collections/websites-with-bold-colorful-illustrations-and-animations)
 
+[10 Inspiring Websites with Gorgeous Animations](https://1stwebdesigner.com/10-inspiring-websites-with-gorgeous-animations/)
+
+[Animated Sites](https://www.cssdesignawards.com/website-gallery?feature=animated)
+
+You may use AI to generate graphics:
+
+[Creative Tools to Generate AI Art](https://aiartists.org/ai-generated-art-tools)
+
+[Magenta.js](https://magenta.tensorflow.org/get-started/#magenta-js)
+
+[Web Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html)
+
+[Magenta Tool](https://style-transfer.glitch.me/)
+
+[Sketch-RNN-JS: A Generative Model for Vector Drawings](https://github.com/magenta/magenta-demos/blob/master/sketch-rnn-js/README.md)
+
+[Auto Draw: An AI Experiment](https://www.autodraw.com/)
 
 
 
