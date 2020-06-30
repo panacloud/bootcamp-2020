@@ -233,7 +233,9 @@ You will use React, React Material UI, Chart.js, and React Suspense to build thi
 Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD Actions and hosted on Surge.
 
 ## Class 10
-Videos Not Available Yet! Adil Altaf will build the COVID-19 Tracker App
+Adil Altaf builds the COVID-19 Tracker App
+[Class 10 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223727984452482/)
+[Class 10 English YouTube Video](https://www.youtube.com/watch?v=_JcQ5ISu2PQ&lc)
 
 ## Class 11 React Router v6
 
