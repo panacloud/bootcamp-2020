@@ -38,7 +38,7 @@ These topics have been released for everyone in Urdu:
 
 [Learn JavaScript by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
 
-Note: Material in English is already available extensively on the web.
+Note: Material in English is already available [extensively on the web](https://css-tricks.com/where-do-you-learn-html-css-in-2020/).
 
 
 ## Class 1:
