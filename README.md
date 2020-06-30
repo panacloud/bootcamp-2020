@@ -468,7 +468,7 @@ You may use AI to generate graphics:
 
 [How to end Microservice pain and embrace the Monorepo](https://www.fourtheorem.com/blog/monorepo)
 
-4. [Learn Multicloud Serverless Application Development](https://github.com/panacloud/learn-multicloud-serverless-development)
+4. [Learn Multicloud Serverless Application Development](https://github.com/Panacloud-Multicloud/learn-multicloud-serverless-development)
 
 [Multicloud Serverless App Development Overview in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10223676898495365/)
 
