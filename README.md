@@ -512,6 +512,10 @@ The software industry has completely shifted toward multi-cloud usage in project
 
 [Google Cloud Free Offer](https://cloud.google.com/free)
 
+You will get temporary free Access to Google Cloud while doing these [Hello Cloud Run tutorial](https://www.qwiklabs.com/focuses/5162?parent=catalog) and [Build a Resilient, Asynchronous System with Cloud Run and Pub/Sub tutorial](https://www.qwiklabs.com/focuses/8389?parent=catalog). 
+
+You will get temporary free Access to AWS while doing these [Introduction to AWS Lambda tutorial](https://www.qwiklabs.com/focuses/10541?parent=catalog) and [Building Serverless Applications with an Event-Driven Architecture](https://www.qwiklabs.com/focuses/10959?parent=catalog)
+
 Note 1: It is very easy the difficult part is getting your account verified by using credit cards or bank accounts. 
 
 Note 2: The cloud accounts are not required immediately. We will need them in about a months time.
