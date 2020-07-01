@@ -255,6 +255,8 @@ Videos Not Available Yet!
 
 [Web Animations API Now Supported in All Evergreen Browsers](https://www.infoq.com/news/2020/06/web-animations-evergreen-browser/?fbclid=IwAR1GBet8ybffQ5Tlcfterc_sq8EledzsTHvWm-eLlSwvrFmwf63ggvM4Z_o)
 
+[Check Browser Support](https://codepen.io/danwilson/pen/xGBKVq)
+
 [Web Animations API Concepts](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Web_Animations_API_Concepts)
 
 [We will use this Shim](https://github.com/web-animations/web-animations-js)
@@ -270,6 +272,12 @@ Videos Not Available Yet!
 [Live Demos](https://web-animations.github.io/web-animations-demos/)
 
 [More Web Animations Resources](http://danielcwilson.com/tags/web-animations-api/)
+
+Using Web Animation API with React
+
+We will be using the following React hooks useEffect, useLayoutEffect and [useRef](http://wellpaidgeek.com/2020/02/11/reacts-useref-hook-explained/).
+
+[Everything You Need to Know About FLIP Animations in React](https://css-tricks.com/everything-you-need-to-know-about-flip-animations-in-react/)
 
 
 ### Bootcamp 2020 Project 4A: Red Queen's Race with Web Animation API
