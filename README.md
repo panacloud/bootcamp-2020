@@ -272,11 +272,25 @@ Videos Not Available Yet!
 [More Web Animations Resources](http://danielcwilson.com/tags/web-animations-api/)
 
 
-### Bootcamp 2020 Project 4: Develop Tiny Short Animation
+### Bootcamp 2020 Project 4A: Red Queen's Race with Web Animation API
+
+Review the [code and demo](https://codepen.io/rachelnabors/pen/PNGGaV) and improve and build your own Red Queens Race Animation.
+
+Note the following:
+
+1. When Alice drinks from the bottle, she grows smaller. 
+2. Because small children tire out easily, unlike automaton chess pieces, Alice is constantly slowing down.
+3. But urging them on by clicking or tapping causes them to speed up.
+4. The background elements also have playback rates that are impacted when you click or tap. 
+
+[Source Article](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
+
+
+### Bootcamp 2020 Project 4B: Develop Tiny Short Animation
 
 Read this article: [The Tiny Short Animation Trend in Web Design](https://speckyboy.com/short-animation-web-design/)
 
-Clone the front page animation of one of the companies mentioned in the article, using the latest animation API.
+Clone the front page animation of one of the companies mentioned in the article, using the latest web animation API.
 
 
 ### Bootcamp 2020 Project 5: Build a Animated React Website which follows the Latest Trends like Animated Illustrations
