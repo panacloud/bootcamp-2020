@@ -236,6 +236,8 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 Adil Altaf builds the COVID-19 Tracker App
 [Class 10 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223727984452482/)
 [Class 10 English YouTube Video](https://www.youtube.com/watch?v=_JcQ5ISu2PQ&lc)
+[Class 10 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223743572722179/)
+[Class 10 Urdu YouTube Video](https://www.youtube.com/watch?v=hbVAt-44G9Y)
 
 ## Class 11 React Router v6
 
