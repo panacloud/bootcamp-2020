@@ -273,7 +273,7 @@ Videos Not Available Yet!
 
 [More Web Animations Resources](http://danielcwilson.com/tags/web-animations-api/)
 
-Using Web Animation API with React
+### Using Web Animation API with React
 
 We will be using the following React hooks useEffect, useLayoutEffect and [useRef](http://wellpaidgeek.com/2020/02/11/reacts-useref-hook-explained/).
 
