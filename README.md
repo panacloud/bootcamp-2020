@@ -532,7 +532,9 @@ You are requred to develop your own version of Expense Tracker DApp
 
 ### Bootcamp 2020 Final Project 13: Participate in Building a Open Source Ecommerce Framework using TypeScript, Gatsby.js, Node.js/Express, Atlas MongoDB, Google Cloud Run, and Terraform 
 
+First Season consisting of 12 Episodes of Tech Talk in Urdu with Zia Khan and Adil Altaf are now available. In these episodes we discuss latest state of the art technologies like AI, Cloud Native, Serverless, Blockchain, JAMstack, and Multicloud.
 
+[Enjoy Watching on YouTube](https://www.youtube.com/playlist?list=PL4lZMpZtayiETLN0rpE9JH155EEShtt3m)
 
 
 More Details will added as we go forward.
