@@ -263,8 +263,6 @@ Videos Not Available Yet!
 
 [We will use this Shim](https://github.com/web-animations/web-animations-js)
 
-[Creating Highly-Performant Animations using Web Animations API and React hooks](https://hackernoon.com/creating-highly-performant-animations-using-web-animations-api-and-react-hooks-k92d3utf?source=rss)
-
 [We will learn from this Tutorial in depth](https://github.com/web-animations/web-animations-codelabs)
 
 [Using the Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
@@ -282,6 +280,8 @@ Videos Not Available Yet!
 We will be using the following React hooks useEffect, useLayoutEffect and [useRef](http://wellpaidgeek.com/2020/02/11/reacts-useref-hook-explained/).
 
 [Everything You Need to Know About FLIP Animations in React](https://css-tricks.com/everything-you-need-to-know-about-flip-animations-in-react/)
+
+[Creating Highly-Performant Animations using Web Animations API and React hooks](https://hackernoon.com/creating-highly-performant-animations-using-web-animations-api-and-react-hooks-k92d3utf?source=rss)
 
 
 ### Bootcamp 2020 Project 4A: Red Queen's Race with Web Animation API and React Hooks
