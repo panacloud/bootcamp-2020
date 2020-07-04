@@ -263,7 +263,9 @@ Videos Not Available Yet!
 
 [We will use this Shim](https://github.com/web-animations/web-animations-js)
 
-[We will learn from this Tutorial](https://github.com/web-animations/web-animations-codelabs)
+[Creating Highly-Performant Animations using Web Animations API and React hooks](https://hackernoon.com/creating-highly-performant-animations-using-web-animations-api-and-react-hooks-k92d3utf?source=rss)
+
+[We will learn from this Tutorial in depth](https://github.com/web-animations/web-animations-codelabs)
 
 [Using the Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
 
@@ -282,9 +284,9 @@ We will be using the following React hooks useEffect, useLayoutEffect and [useRe
 [Everything You Need to Know About FLIP Animations in React](https://css-tricks.com/everything-you-need-to-know-about-flip-animations-in-react/)
 
 
-### Bootcamp 2020 Project 4A: Red Queen's Race with Web Animation API
+### Bootcamp 2020 Project 4A: Red Queen's Race with Web Animation API and React Hooks
 
-Review the [code and demo](https://codepen.io/rachelnabors/pen/PNGGaV) and improve and build your own Red Queens Race Animation.
+Review the [code and demo](https://codepen.io/rachelnabors/pen/PNGGaV) and improve and build your own Red Queens Race Animation with React Hooks.
 
 Note the following:
 
@@ -296,7 +298,7 @@ Note the following:
 [Source Article](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
 
 
-### Bootcamp 2020 Project 4B: Develop Tiny Short Animation
+### Bootcamp 2020 Project 4B: Develop Tiny Short Animation with React Hooks
 
 Read this article: [The Tiny Short Animation Trend in Web Design](https://speckyboy.com/short-animation-web-design/)
 
