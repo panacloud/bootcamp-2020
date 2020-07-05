@@ -247,10 +247,16 @@ Adil Altaf builds the COVID-19 Tracker App
 
 Note: [Use the latest Beta Release of V6](https://github.com/ReactTraining/react-router/releases)
 
+[Class 11 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223782839183816/)
+[Class 11 English YouTube Video](https://www.youtube.com/watch?v=Bj3u0Jm-Mtg)
+
+
 
 ### Bootcamp 2020 Project 3: Shoe Store 
 
 Now build a Shoe Store after watching this [video](https://www.youtube.com/watch?v=4NpGzBEySvI)
+
+Last date to [submit Project 3](https://docs.google.com/forms/d/e/1FAIpQLSd1q0mVoS3Ue-qmWlV97cPuMSCzebdPcyMl2MQg1VHNj42plw/viewform) is Wednesday, July 15 midnight
 
 ## Class 11 and 12 Web Animations API
 Videos Not Available Yet!
