@@ -206,8 +206,11 @@ Learn Chart.js
 [Getting Started](https://www.chartjs.org/docs/latest/getting-started/)
 
 [Class 9 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223687587242577/)
+
 [Class 9 English YouTube Video](https://www.youtube.com/watch?v=UVd9YQJ8Ge4)
+
 [Class 9 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223699956751807/)
+
 [Class 9 Urdu YouTube Video](https://www.youtube.com/watch?v=GqRXcnxEZt0)
 
 
@@ -235,8 +238,11 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 ## Class 10
 Adil Altaf builds the COVID-19 Tracker App
 [Class 10 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223727984452482/)
+
 [Class 10 English YouTube Video](https://www.youtube.com/watch?v=_JcQ5ISu2PQ&lc)
+
 [Class 10 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223743572722179/)
+
 [Class 10 Urdu YouTube Video](https://www.youtube.com/watch?v=hbVAt-44G9Y)
 
 ## Class 11 React Router v6
@@ -248,6 +254,7 @@ Adil Altaf builds the COVID-19 Tracker App
 Note: [Use the latest Beta Release of V6](https://github.com/ReactTraining/react-router/releases)
 
 [Class 11 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223782839183816/)
+
 [Class 11 English YouTube Video](https://www.youtube.com/watch?v=Bj3u0Jm-Mtg)
 
 
