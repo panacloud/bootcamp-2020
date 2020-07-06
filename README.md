@@ -257,7 +257,9 @@ Note: [Use the latest Beta Release of V6](https://github.com/ReactTraining/react
 
 [Class 11 English YouTube Video](https://www.youtube.com/watch?v=Bj3u0Jm-Mtg)
 
+[Class 11 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223796154156682/)
 
+[Class 11 Urdu YouTueb Video](https://www.youtube.com/watch?v=IcbIvXY7JCw)
 
 ### Bootcamp 2020 Project 3: Shoe Store 
 
