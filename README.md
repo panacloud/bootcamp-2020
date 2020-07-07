@@ -267,8 +267,7 @@ Now build a Shoe Store after watching this [video](https://www.youtube.com/watch
 
 Last date to [submit Project 3](https://docs.google.com/forms/d/e/1FAIpQLSd1q0mVoS3Ue-qmWlV97cPuMSCzebdPcyMl2MQg1VHNj42plw/viewform) is Wednesday, July 15 midnight
 
-## Class 11 and 12 Web Animations API
-Videos Not Available Yet!
+## Class 12 Web Animations API
 
 [Web Animations API Now Supported in All Evergreen Browsers](https://www.infoq.com/news/2020/06/web-animations-evergreen-browser/?fbclid=IwAR1GBet8ybffQ5Tlcfterc_sq8EledzsTHvWm-eLlSwvrFmwf63ggvM4Z_o)
 
@@ -290,7 +289,12 @@ Videos Not Available Yet!
 
 [More Web Animations Resources](http://danielcwilson.com/tags/web-animations-api/)
 
-### Using Web Animation API with React
+[Class 12 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223819571102091/)
+
+[Class 12 English YouTube Video](https://www.youtube.com/watch?v=DhUveECtjG4)
+
+
+## Class 13 Web Animations API with React
 
 We will be using the following React hooks useEffect, useLayoutEffect and [useRef](http://wellpaidgeek.com/2020/02/11/reacts-useref-hook-explained/).
 
