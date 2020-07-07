@@ -435,6 +435,9 @@ You may use AI to generate graphics:
 
 
 ### Bootcamp 2020 Project 8: Product Catalog and Shopping Cart with Context API, React Hooks, Animations API, Router and Serveless REST API
+
+Admin app and customer app are both required. 
+
 1. [Building a CRUD App with React Hooks & the Context API](https://www.digitalocean.com/community/tutorials/react-crud-context-hooks)
 
 2. Review Shopping Cart Demo
@@ -448,7 +451,10 @@ You may use AI to generate graphics:
 3. Now build your own Professional Shopping Cart with Context API, Hooks, Animation API and Router
 
 
-### Bootcamp 2020 Project 9: Shopping Cart with Redux Toolkit, Animations API, Router and Serveless GraphQL API
+### Bootcamp 2020 Project 9: Product Catalog and Shopping Cart with Redux Toolkit, Animations API, Router and Serveless GraphQL API
+
+Admin app and customer app are both required. 
+
 1. Learn Redux Toolkit
 [Basic Tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
 
