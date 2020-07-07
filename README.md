@@ -429,7 +429,7 @@ You may use AI to generate graphics:
 
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
-### Bootcamp 2020 Project 9: Building Serverless REST and QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
+### Bootcamp 2020 Project 9A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
 
 [A Comparison of Serverless Function (FaaS) Providers](https://fauna.com/blog/comparison-faas-providers)
 
@@ -443,7 +443,13 @@ You may use AI to generate graphics:
 
 [Build a Expense Tracker Backend using Node.js & Express API](https://www.youtube.com/watch?v=KyWaXA_NvT0)
 
+### Bootcamp 2020 Project 9B: Building Serverless QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
+
 [Building Serverless GraphQL API in Node with Express and Netlify](https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify/)
+
+### Bootcamp 2020 Project 9c: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
+
+[Serverless Database CRUD Example With FaunaDB and Netlify Functions](https://nordschool.com/build-a-serverless-database-using-faunadb-and-netlify-functions/)
 
 
 ### Bootcamp 2020 Project 10: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
