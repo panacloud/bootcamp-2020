@@ -406,7 +406,9 @@ You may use AI to generate graphics:
 
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
-### Bootcamp 2020 Project 7A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
+### Bootcamp 2020 Full Stack Project 7A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
+
+[How to Become a Full Stack Web Developer in 2020](https://www.freecodecamp.org/news/how-to-become-a-full-stack-web-developer-in-2020/)
 
 [A Comparison of Serverless Function (FaaS) Providers](https://fauna.com/blog/comparison-faas-providers)
 
@@ -420,21 +422,27 @@ You may use AI to generate graphics:
 
 [Build a Expense Tracker Backend using Node.js & Express API](https://www.youtube.com/watch?v=KyWaXA_NvT0)
 
-### Bootcamp 2020 Project 7B: Building Serverless QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
+Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
+
+### Bootcamp 2020 Full Stack Project 7B: Building Serverless QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
 
 [Building Serverless GraphQL API in Node with Express and Netlify](https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify/)
 
-### Bootcamp 2020 Project 7C: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
+[Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
+
+### Bootcamp 2020 Full Stack Project 7C: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
 
 [Serverless Database CRUD Example With FaunaDB and Netlify Functions](https://nordschool.com/build-a-serverless-database-using-faunadb-and-netlify-functions/)
 
-### Bootcamp 2020 Project 7D: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
+Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
+
+### Bootcamp 2020 Full Stack Project 7D: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
 
 [Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB](https://owlypixel.com/build-serverless-writing-pad/)
 
+Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
-
-### Bootcamp 2020 Project 8: Product Catalog and Shopping Cart with Context API, React Hooks, Animations API, Router and Serveless REST API
+### Bootcamp 2020 Full Stack Project 8: Product Catalog and Shopping Cart with Context API, React Hooks, Animations API, Router and Serveless REST API
 
 Admin app and customer app are both required. 
 
@@ -451,7 +459,7 @@ Admin app and customer app are both required.
 3. Now build your own Professional Shopping Cart with Context API, Hooks, Animation API and Router
 
 
-### Bootcamp 2020 Project 9: Product Catalog and Shopping Cart with Redux Toolkit, Animations API, Router and Serveless GraphQL API
+### Bootcamp 2020 Full Stack Project 9: Product Catalog and Shopping Cart with Redux Toolkit, Animations API, Router and Serveless GraphQL API
 
 Admin app and customer app are both required. 
 
