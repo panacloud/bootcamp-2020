@@ -447,9 +447,13 @@ You may use AI to generate graphics:
 
 [Building Serverless GraphQL API in Node with Express and Netlify](https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify/)
 
-### Bootcamp 2020 Project 9c: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
+### Bootcamp 2020 Project 9C: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
 
 [Serverless Database CRUD Example With FaunaDB and Netlify Functions](https://nordschool.com/build-a-serverless-database-using-faunadb-and-netlify-functions/)
+
+### Bootcamp 2020 Project 9D: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
+
+[Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB](https://owlypixel.com/build-serverless-writing-pad/)
 
 
 ### Bootcamp 2020 Project 10: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
