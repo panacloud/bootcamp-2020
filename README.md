@@ -378,30 +378,7 @@ You may use AI to generate graphics:
 
 [Auto Draw: An AI Experiment](https://www.autodraw.com/)
 
-
-
-### Bootcamp 2020 Project 6: Shopping Cart with Context API, React Hooks, Animations API, and Router
-1. [Building a CRUD App with React Hooks & the Context API](https://www.digitalocean.com/community/tutorials/react-crud-context-hooks)
-
-2. Review Shopping Cart Demo
-[Demo](https://contextcart.netlify.app/)
-[Explanation](https://www.hoseinh.com/react-context-vs-redux-hooks/)
-[Video](https://www.reddit.com/r/learnjavascript/comments/cegnjx/reactjs_context_api_tutorial_shopping_cart_hooks/)
-[Code](https://github.com/hoseinhamzei/Shopping-Cart-with-react-context-api)
-[Another Example](https://dev.to/pixelagil/simple-react-shooping-cart-53ic)
-[Yet Another Example](https://www.hoseinh.com/react-context-vs-redux-hooks/)
-
-3. Now build your own Professional Shopping Cart with Context API, Hooks, Animation API and Router
-
-
-### Bootcamp 2020 Project 7: Shopping Cart with Redux Toolkit, Animations API, and Router
-1. Learn Redux Toolkit
-[Basic Tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
-
-2. Build you Shopping Cart with Redux Toolkit
-[Create a shopping basket using React and Redux Toolkit](https://developerhandbook.com/stripe/create-shopping-basket-using-redux-toolkit/)
-
-### Bootcamp 2020 Project 8: Make your Expense Tracker App and COVID-19 Tracker App into a Progressive Web App (PWA) that uses TypeScript
+### Bootcamp 2020 Project 6: Make your Expense Tracker App and COVID-19 Tracker App into a Progressive Web App (PWA) that uses TypeScript
 
 [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
@@ -429,7 +406,7 @@ You may use AI to generate graphics:
 
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
-### Bootcamp 2020 Project 9A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
+### Bootcamp 2020 Project 7A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
 
 [A Comparison of Serverless Function (FaaS) Providers](https://fauna.com/blog/comparison-faas-providers)
 
@@ -443,17 +420,43 @@ You may use AI to generate graphics:
 
 [Build a Expense Tracker Backend using Node.js & Express API](https://www.youtube.com/watch?v=KyWaXA_NvT0)
 
-### Bootcamp 2020 Project 9B: Building Serverless QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
+### Bootcamp 2020 Project 7B: Building Serverless QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
 
 [Building Serverless GraphQL API in Node with Express and Netlify](https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify/)
 
-### Bootcamp 2020 Project 9C: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
+### Bootcamp 2020 Project 7C: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
 
 [Serverless Database CRUD Example With FaunaDB and Netlify Functions](https://nordschool.com/build-a-serverless-database-using-faunadb-and-netlify-functions/)
 
-### Bootcamp 2020 Project 9D: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
+### Bootcamp 2020 Project 7D: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
 
 [Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB](https://owlypixel.com/build-serverless-writing-pad/)
+
+
+
+### Bootcamp 2020 Project 8: Product Catalog and Shopping Cart with Context API, React Hooks, Animations API, Router and Serveless REST API
+1. [Building a CRUD App with React Hooks & the Context API](https://www.digitalocean.com/community/tutorials/react-crud-context-hooks)
+
+2. Review Shopping Cart Demo
+[Demo](https://contextcart.netlify.app/)
+[Explanation](https://www.hoseinh.com/react-context-vs-redux-hooks/)
+[Video](https://www.reddit.com/r/learnjavascript/comments/cegnjx/reactjs_context_api_tutorial_shopping_cart_hooks/)
+[Code](https://github.com/hoseinhamzei/Shopping-Cart-with-react-context-api)
+[Another Example](https://dev.to/pixelagil/simple-react-shooping-cart-53ic)
+[Yet Another Example](https://www.hoseinh.com/react-context-vs-redux-hooks/)
+
+3. Now build your own Professional Shopping Cart with Context API, Hooks, Animation API and Router
+
+
+### Bootcamp 2020 Project 9: Shopping Cart with Redux Toolkit, Animations API, Router and Serveless GraphQL API
+1. Learn Redux Toolkit
+[Basic Tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
+
+2. Build you Shopping Cart with Redux Toolkit
+[Create a shopping basket using React and Redux Toolkit](https://developerhandbook.com/stripe/create-shopping-basket-using-redux-toolkit/)
+
+
+
 
 
 ### Bootcamp 2020 Project 10: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
