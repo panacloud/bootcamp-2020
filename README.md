@@ -431,6 +431,10 @@ You may use AI to generate graphics:
 
 ### Bootcamp 2020 Project 9: Building Serverless REST and QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
 
+[A Comparison of Serverless Function (FaaS) Providers](https://fauna.com/blog/comparison-faas-providers)
+
+[Netlify Functions Overview](https://docs.netlify.com/functions/overview/#manage-your-serverless-functions)
+
 [Node js and Express Tutorial for Beginners](https://codeforgeek.com/express-nodejs-tutorial/)
 
 [Node.js/Express Tutorial](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm)
@@ -439,7 +443,7 @@ You may use AI to generate graphics:
 
 [Build a Expense Tracker Backend using Node.js & Express API](https://www.youtube.com/watch?v=KyWaXA_NvT0)
 
-[https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify/](https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify/)
+[Building Serverless GraphQL API in Node with Express and Netlify](https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify/)
 
 
 ### Bootcamp 2020 Project 10: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
