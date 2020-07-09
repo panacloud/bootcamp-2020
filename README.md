@@ -293,6 +293,10 @@ Last date to [submit Project 3](https://docs.google.com/forms/d/e/1FAIpQLSd1q0mV
 
 [Class 12 English YouTube Video](https://www.youtube.com/watch?v=DhUveECtjG4)
 
+[Class 12 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223831524160910/)
+
+[Class 12 Urdu YouTube Video](https://www.youtube.com/watch?v=PbXYsgtJAMc)
+
 
 ## Class 13 Web Animations API with React
 
