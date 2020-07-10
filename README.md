@@ -440,6 +440,8 @@ Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketpla
 
 ### Bootcamp 2020 Full Stack Project 7C: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
 
+[Fauna Named to Database Trends and Applications 2019 DBTA 100](https://www.businesswire.com/news/home/20190612005222/en/Fauna-Named-Database-Trends-Applications-2019-DBTA/)
+
 [Serverless Database CRUD Example With FaunaDB and Netlify Functions](https://nordschool.com/build-a-serverless-database-using-faunadb-and-netlify-functions/)
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
