@@ -414,6 +414,7 @@ You may use AI to generate graphics:
 
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
+
 ### Bootcamp 2020 Full Stack Project 7A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
 
 [How to Become a Full Stack Web Developer in 2020](https://www.freecodecamp.org/news/how-to-become-a-full-stack-web-developer-in-2020/)
@@ -432,25 +433,33 @@ You may use AI to generate graphics:
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
+
 ### Bootcamp 2020 Full Stack Project 7B: Building Serverless QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
 
 [Building Serverless GraphQL API in Node with Express and Netlify](https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify/)
 
 [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
+
 ### Bootcamp 2020 Full Stack Project 7C: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
+
+Fauna Overview:
+
+[Fauna Raises $27 Million to Continue Providing Cutting Edge Solutions for Developers](https://www.dbta.com/Editorial/News-Flashes/Fauna-Raises-27-Million-to-Continue-Providing-Cutting-Edge-Solutions-for-Developers-141679.aspx)
 
 [Fauna Named to Database Trends and Applications 2019 DBTA 100](https://www.businesswire.com/news/home/20190612005222/en/Fauna-Named-Database-Trends-Applications-2019-DBTA/)
 
 [Consistency without Clocks: The FaunaDB Distributed Transaction Protocol](https://fauna.com/blog/consistency-without-clocks-faunadb-transaction-protocol)
 
+
 [Serverless Database CRUD Example With FaunaDB and Netlify Functions](https://nordschool.com/build-a-serverless-database-using-faunadb-and-netlify-functions/)
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
+
 ### Bootcamp 2020 Full Stack Project 7D: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
 
-[Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB](https://owlypixel.com/build-serverless-writing-pad/)
+[Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB](https://owlypixelhttps://www.dbta.com/Editorial/News-Flashes/Fauna-Raises-27-Million-to-Continue-Providing-Cutting-Edge-Solutions-for-Developers-141679.aspx.com/build-serverless-writing-pad/)
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
