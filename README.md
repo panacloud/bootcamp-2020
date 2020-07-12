@@ -419,6 +419,8 @@ You may use AI to generate graphics:
 
 [How to Become a Full Stack Web Developer in 2020](https://www.freecodecamp.org/news/how-to-become-a-full-stack-web-developer-in-2020/)
 
+[Future of Serverless Architecture](https://www.infoq.com/news/2020/07/future-serverless-architecture/)
+
 [A Comparison of Serverless Function (FaaS) Providers](https://fauna.com/blog/comparison-faas-providers)
 
 [Netlify Functions Overview](https://docs.netlify.com/functions/overview/#manage-your-serverless-functions)
