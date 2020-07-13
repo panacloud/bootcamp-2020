@@ -306,6 +306,15 @@ We will be using the following React hooks useEffect, useLayoutEffect and [useRe
 
 [Creating Highly-Performant Animations using Web Animations API and React hooks](https://hackernoon.com/creating-highly-performant-animations-using-web-animations-api-and-react-hooks-k92d3utf?source=rss)
 
+[Class 13 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223864192297593/)
+
+[Class 13 English YouTube Video](https://www.youtube.com/watch?v=Vi7yRwlE4bg)
+
+[Class 13 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223876685849924/)
+
+[Class 13 Urdu YouTube Video](https://www.youtube.com/watch?v=BQRBFoYhWgE)
+
+
 
 ### Bootcamp 2020 Project 4A: Red Queen's Race with Web Animation API and React Hooks
 
