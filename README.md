@@ -395,17 +395,23 @@ You may use AI to generate graphics:
 
 [Auto Draw: An AI Experiment](https://www.autodraw.com/)
 
-### Bootcamp 2020 Project 6: Make your Expense Tracker App and COVID-19 Tracker App into a Progressive Web App (PWA) that uses TypeScript
 
-[TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+## Class 13 TypeScript 4.0
 
-[TypeScript Tutorial: A step-by-step guide to learn TypeScript](https://www.educative.io/blog/typescript-tutorial)
+Begin by installing [TypeScript 4.0 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-0-beta/):
 
-[React TypeScript: Basics and Best Practices](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
+npm install -g typescript@beta
 
-[TypeScript tutorial in Visual Studio Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial)
+We will use this book to learn TypeScript:
 
-[Getting started with React and TypeScript](https://www.educative.io/blog/react-and-typescript)
+[Programming TypeScript: Making Your JavaScript Applications Scale by Boris Cherny](https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications/dp/1492037656/ref=sr_1_1)
+
+Chapters 1, 2, 3, 4, and 9
+
+Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https://github.com/panacloud/learn-typescript)
+
+
+## Class 14 Progressive Web App (PWA)
 
 [What’s a PWA, and How Do I Build One?](https://medium.com/better-programming/what-is-a-pwa-and-how-do-i-build-it-e843c247efb5)
 
@@ -422,6 +428,10 @@ You may use AI to generate graphics:
 [Latest News](https://www.neowin.net/news/google-chrome-will-soon-allow-users-to-run-pwas-at-startup/)
 
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+
+
+### Bootcamp 2020 Project 6: Make your Expense Tracker App and COVID-19 Tracker App into a Progressive Web App (PWA) that uses TypeScript
+
 
 
 ### Bootcamp 2020 Full Stack Project 7A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
@@ -536,6 +546,7 @@ Admin app and customer app are both required.
 [Options to build a ecommerce site](https://www.gatsbyjs.org/docs/building-an-e-commerce-site/)
 
 7. Pakistani Payment Services
+[Which payment gateways work in Pakistan](https://www.quora.com/Which-payment-gateways-work-in-Pakistan-as-an-alternative-to-PayPal-and-Stripe)
 [Ecommerce in Pakistan](https://www.dawn.com/news/1549691)
 [Alipay in Pakistan](https://www.brandsynario.com/alipay-in-pakistan-e-commerce-giant-plans-to-boost-the-economy/)
 [JazzCash](https://sandbox.jazzcash.com.pk/sandbox)
