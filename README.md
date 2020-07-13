@@ -410,6 +410,10 @@ Chapters 1, 2, 3, 4, and 9
 
 Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https://github.com/panacloud/learn-typescript)
 
+### Bootcamp 2020 Project 6: Quiz App with React and TypeScript
+
+[Quiz app using React and TypeScript](https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react-and-typescript/)
+
 
 ## Class 14 Progressive Web App (PWA)
 
@@ -430,11 +434,11 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
 
-### Bootcamp 2020 Project 6: Make your Expense Tracker App and COVID-19 Tracker App into a Progressive Web App (PWA) that uses TypeScript
+### Bootcamp 2020 Project 7: Make your Expense Tracker App and COVID-19 Tracker App into a Progressive Web App (PWA) that uses TypeScript
 
 
 
-### Bootcamp 2020 Full Stack Project 7A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
+### Bootcamp 2020 Full Stack Project 8A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
 
 [How to Become a Full Stack Web Developer in 2020](https://www.freecodecamp.org/news/how-to-become-a-full-stack-web-developer-in-2020/)
 
@@ -455,14 +459,14 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
-### Bootcamp 2020 Full Stack Project 7B: Building Serverless QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
+### Bootcamp 2020 Full Stack Project 8B: Building Serverless QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
 
 [Building Serverless GraphQL API in Node with Express and Netlify](https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify/)
 
 [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
-### Bootcamp 2020 Full Stack Project 7C: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
+### Bootcamp 2020 Full Stack Project 8C: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
 
 Fauna Overview:
 
@@ -480,13 +484,13 @@ Fauna Overview:
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
-### Bootcamp 2020 Full Stack Project 7D: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
+### Bootcamp 2020 Full Stack Project 8D: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
 
 [Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB](https://owlypixelhttps://www.dbta.com/Editorial/News-Flashes/Fauna-Raises-27-Million-to-Continue-Providing-Cutting-Edge-Solutions-for-Developers-141679.aspx.com/build-serverless-writing-pad/)
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
-### Bootcamp 2020 Full Stack Project 8: Product Catalog and Shopping Cart with Context API, React Hooks, Animations API, Router and Serveless REST API
+### Bootcamp 2020 Full Stack Project 9 Product Catalog and Shopping Cart with Context API, React Hooks, Animations API, Router and Serveless REST API
 
 Admin app and customer app are both required. 
 
@@ -503,7 +507,7 @@ Admin app and customer app are both required.
 3. Now build your own Professional Shopping Cart with Context API, Hooks, Animation API and Router
 
 
-### Bootcamp 2020 Full Stack Project 9: Product Catalog and Shopping Cart with Redux Toolkit, Animations API, Router and Serveless GraphQL API
+### Bootcamp 2020 Full Stack Project 10: Product Catalog and Shopping Cart with Redux Toolkit, Animations API, Router and Serveless GraphQL API
 
 Admin app and customer app are both required. 
 
@@ -517,7 +521,7 @@ Admin app and customer app are both required.
 
 
 
-### Bootcamp 2020 Project 10: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
+### Bootcamp 2020 Project 11: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
 1. Learn Gatsby.js
 [Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
 
@@ -557,7 +561,7 @@ Admin app and customer app are both required.
 [Telenor Opens API](https://www.centerforfinancialinclusion.org/telenor-opens-mobile-money-apis-for-third-party-developers)
 [Integration Guide](http://happening.pk/gsmahackathon/apidocument3.pdf)
 
-### Bootcamp 2020 Project 11 Build a Facebook Shop
+### Bootcamp 2020 Project 12 Build a Facebook Shop
 
 [The end of eCommerce as we know it](https://marketing-interactive.com/opinion-the-end-of-ecommerce-as-we-know-it]
 
@@ -581,7 +585,7 @@ Admin app and customer app are both required.
 
 
 
-### Bootcamp 2020 Project 12: Learn Multicloud Serverless Application Development
+### Bootcamp 2020 Project 13: Learn Multicloud Serverless Application Development
 
 [Servlesss and Cloud Native Computing Overview in Urdu on YouTube](https://www.youtube.com/watch?v=4UEVD97kjKo&t=1204s)
 
@@ -602,15 +606,15 @@ Admin app and customer app are both required.
 
 [Multicloud Serverless App Development Overview in Urdu on YouTube](https://www.youtube.com/watch?v=BYOsS1clC48/)
 
-### Bootcamp 2020 Project 13A: Implement Expense Tracker Android and iOS Apps using React Native with Backend in Express and MongoDB
+### Bootcamp 2020 Project 14A: Implement Expense Tracker Android and iOS Apps using React Native with Backend in Express and MongoDB
 
 [React Native Basics](https://reactnative.dev/docs/tutorial)
 
-### Bootcamp 2020 Project 13B: Implement Expense Tracker Android and iOS Apps using React Native with Local Storage in Realm
+### Bootcamp 2020 Project 14B: Implement Expense Tracker Android and iOS Apps using React Native with Local Storage in Realm
 
 [Realm Docs](https://realm.io/docs/javascript/latest/)
 
-### Bootcamp 2020 Project 14: Implement Expense Tracker DApp with Ethereum Blockchain
+### Bootcamp 2020 Project 15: Implement Expense Tracker DApp with Ethereum Blockchain
 [What are Decentralized Applications – dApps?](http://blockchainhub.net/decentralized-applications-dapps/)
 
 Zeeshan Hanif has implemented Expense Tracker as a DApp:
@@ -632,7 +636,7 @@ Smart Contract is written in [Solidity](https://www.dappuniversity.com/articles/
 You are requred to develop your own version of Expense Tracker DApp
 
 
-### Bootcamp 2020 Final Project 15: Participate in Building a Open Source Ecommerce Framework using TypeScript, Gatsby.js, Node.js/Express, Atlas MongoDB, Google Cloud Run, and Terraform 
+### Bootcamp 2020 Final Project 16: Participate in Building a Open Source Ecommerce Framework using TypeScript, Gatsby.js, Node.js/Express, Atlas MongoDB, Google Cloud Run, and Terraform 
 
 First Season consisting of 12 Episodes of Tech Talk in Urdu with Zia Khan and Adil Altaf are now available. In these episodes we discuss latest state of the art technologies like AI, Cloud Native, Serverless, Blockchain, JAMstack, and Multicloud.
 
