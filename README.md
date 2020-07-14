@@ -418,6 +418,9 @@ Chapters 1, 2, 3, 4, and 9
 
 Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https://github.com/panacloud/learn-typescript)
 
+[Class 14 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223895728525979/)
+[Class 14 English YouTube Video](https://www.youtube.com/watch?v=dVKnwn44U7w)
+
 ### Bootcamp 2020 Project 6: Quiz App with React and TypeScript
 
 [Quiz app using React and TypeScript](https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react-and-typescript/)
