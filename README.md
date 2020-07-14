@@ -425,6 +425,8 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 
 [How to publish PWA app on Google Play Store – Step by step guide](https://www.vtnetzwelt.com/mobile/publishing-pwa-app-on-google-play-store/)
 
+[Microsoft's PWABuilder makes submitting web apps to the Play Store easier than ever](https://www.androidpolice.com/2020/07/13/microsofts-pwabuilder-makes-submitting-web-apps-to-the-play-store-easier-than-ever/)
+
 [How Progressive Web Apps Will Change Mobile Commerce In 2020](https://customerthink.com/how-progressive-web-apps-will-change-mobile-commerce-in-2020/)
 
 [Make your PWA feel more like an app](https://web.dev/app-like-pwas/)
