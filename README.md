@@ -396,7 +396,7 @@ You may use AI to generate graphics:
 [Auto Draw: An AI Experiment](https://www.autodraw.com/)
 
 
-## Class 13 and 14 TypeScript 4.0
+## Class 14 and 15 TypeScript 4.0
 
 Begin by installing [TypeScript 4.0 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-0-beta/):
 
@@ -415,7 +415,7 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 [Quiz app using React and TypeScript](https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react-and-typescript/)
 
 
-## Class 15 Progressive Web App (PWA)
+## Class 16 Progressive Web App (PWA)
 
 [What’s a PWA, and How Do I Build One?](https://medium.com/better-programming/what-is-a-pwa-and-how-do-i-build-it-e843c247efb5)
 
