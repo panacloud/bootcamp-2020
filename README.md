@@ -463,7 +463,7 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 
 ### [Review React Examples for future Projects](https://reactjsexample.com/)
 
-### Bootcamp 2020 Project 7B: Build a Blog site in Gatsby.js/Contentful with TypeScript and Deploy on Netlify 
+### Bootcamp 2020 Project 7B: Build a Blog site in Gatsby.js/Contentful with TypeScript and Deploy on Netlify as a PWA
 1. Learn Gatsby.js
 [Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
 
@@ -476,9 +476,13 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 
 5. [You may used this starter](https://www.gatsbyjs.org/starters/wataruoguchi/gatsby-starter-typescript-contentful/)
 
-6. [Demo of Blog site](https://gatsby-contentful-blogsite.netlify.app/blog/)
+6. [Demo of Blog site we want to build](https://gatsby-contentful-blogsite.netlify.app/blog/)
 
-7. We want GitHub Actions workflow that builds a static blog site and deploys on Netlify. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
+7. [Turn Your Gatsby Site into a Progressive Web App](https://www.gatsbyjs.org/blog/100days/pwa/) 
+
+8. [Making Gatsby a PWA: Service Worker and Web App Manifest](https://www.digitalocean.com/community/tutorials/gatsbyjs-gatsby-pwa)
+
+9. We want GitHub Actions workflow that builds a static blog site and deploys on Netlify. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
 
 
 
