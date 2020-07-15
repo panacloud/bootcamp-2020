@@ -333,7 +333,7 @@ Note the following:
 [Source Article](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
 
 
-### Bootcamp 2020 Project 4B: Develop Tiny Short Animation with React Hooks[Project Submit Form]
+### Bootcamp 2020 Project 4B: Develop Tiny Short Animation with React Hooks
 
 [Project Submit Form](https://docs.google.com/forms/d/e/1FAIpQLSex4JsbAK60hhrZkHZs_8HWj54KF2idxZxEaQorNqqhUOxjWQ/viewform)
 
