@@ -448,8 +448,7 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
-
-### Bootcamp 2020 Project 7A: Build a Netflex Clone with React and TypeScript it should be a Progressive Web App (PWA) and write 30+ Automated Tests
+## Class 17 How to Test React Components in TypeScript
 
 [How to Test React Components in TypeScript](https://www.pluralsight.com/guides/how-to-test-react-components-in-typescript)
 
@@ -461,11 +460,13 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 
 [How To Test Your React Apps With The React Testing Library](https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
 
-[How to Build a NETFLIX Clone with REACT JS for Beginners (in 3 Hours!)](https://www.youtube.com/watch?v=XtMThy8QKqU)
 
-### [Review React Examples for future Projects](https://reactjsexample.com/)
+### Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App with React and TypeScript it should be a Progressive Web App (PWA) and write 10+ Automated Tests and deploy it on [Netlify](https://www.netlify.com/)
 
-### Bootcamp 2020 Project 7B: Build a Blog site in Gatsby.js/Contentful with TypeScript and Deploy on Netlify as a PWA
+Note: Build CI/CD pipeline with GitHub Actions
+
+## Class 18 and 19 Learn Gatsby.js and Headless CMS
+
 1. Learn Gatsby.js
 [Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
 
@@ -474,17 +475,22 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 
 3. [Getting started with Typescript on Gatsby](https://medium.com/maxime-heckel/getting-started-with-typescript-on-gatsby-8544b47c1d27)
 
-4. [How to setup Gatsby with Contentful CMS and Deploy on Netlify](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
+4. [You may used this starter](https://www.gatsbyjs.org/starters/wataruoguchi/gatsby-starter-typescript-contentful/)
 
-5. [You may used this starter](https://www.gatsbyjs.org/starters/wataruoguchi/gatsby-starter-typescript-contentful/)
+5. [Turn Your Gatsby Site into a Progressive Web App](https://www.gatsbyjs.org/blog/100days/pwa/) 
 
-6. [Demo of Blog site we want to build](https://gatsby-contentful-blogsite.netlify.app/blog/)
+6. [Making Gatsby a PWA: Service Worker and Web App Manifest](https://www.digitalocean.com/community/tutorials/gatsbyjs-gatsby-pwa)
 
-7. [Turn Your Gatsby Site into a Progressive Web App](https://www.gatsbyjs.org/blog/100days/pwa/) 
+### [Review React Examples for future Projects](https://reactjsexample.com/)
 
-8. [Making Gatsby a PWA: Service Worker and Web App Manifest](https://www.digitalocean.com/community/tutorials/gatsbyjs-gatsby-pwa)
 
-9. We want GitHub Actions workflow that builds a static blog site and deploys on Netlify. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
+### Bootcamp 2020 Project 7B: Build a Blog site in Gatsby.js/Contentful with TypeScript and Deploy on Netlify as a PWA
+
+[This Tutorial will help you in building the Blog site](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
+
+[Demo of Blog site we want to build](https://gatsby-contentful-blogsite.netlify.app/blog/)
+
+We want GitHub Actions workflow that builds a static blog site and deploys on Netlify. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
 
 
 
