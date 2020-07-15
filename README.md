@@ -420,6 +420,8 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 
 [Class 14 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223895728525979/)
 [Class 14 English YouTube Video](https://www.youtube.com/watch?v=dVKnwn44U7w)
+[Class 14 Urdu YouTube Video](https://www.youtube.com/watch?v=xMRyGAqnPEU)
+[Class 14 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223906321590799)
 
 ### Bootcamp 2020 Project 6: Quiz App with React and TypeScript
 
