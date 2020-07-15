@@ -447,7 +447,7 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
 
-### Bootcamp 2020 Project 7: Build a Netflex Clone with React and TypeScript it should be a Progressive Web App (PWA) and write 30+ Automated Tests
+### Bootcamp 2020 Project 7A: Build a Netflex Clone with React and TypeScript it should be a Progressive Web App (PWA) and write 30+ Automated Tests
 
 [How to Test React Components in TypeScript](https://www.pluralsight.com/guides/how-to-test-react-components-in-typescript)
 
@@ -462,6 +462,24 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 [How to Build a NETFLIX Clone with REACT JS for Beginners (in 3 Hours!)](https://www.youtube.com/watch?v=XtMThy8QKqU)
 
 ### [Review React Examples for future Projects](https://reactjsexample.com/)
+
+### Bootcamp 2020 Project 7B: Build a Blog site in Gatsby.js/Contentful with TypeScript and Deploy on Netlify 
+1. Learn Gatsby.js
+[Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
+
+2. Learn Contentful
+[Getting Started](https://www.contentful.com/get-started/)
+
+3. [Getting started with Typescript on Gatsby](https://medium.com/maxime-heckel/getting-started-with-typescript-on-gatsby-8544b47c1d27)
+
+4. [How to setup Gatsby with Contentful CMS and Deploy on Netlify](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
+
+5. [You may used this starter](https://www.gatsbyjs.org/starters/wataruoguchi/gatsby-starter-typescript-contentful/)
+
+6. [Demo of Blog site](https://gatsby-contentful-blogsite.netlify.app/blog/)
+
+7. We want GitHub Actions workflow that builds a static blog site and deploys on Netlify. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
+
 
 
 
@@ -549,19 +567,14 @@ Admin app and customer app are both required.
 
 
 ### Bootcamp 2020 Project 11: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
-1. Learn Gatsby.js
-[Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
 
-2. Learn Contentful
-[Getting Started](https://www.contentful.com/get-started/)
-
-3. Gatsby Ecommerce 
+1. Gatsby Ecommerce 
 [Gatsby Ecommerce Tutorial](https://www.gatsbyjs.org/tutorial/ecommerce-tutorial/)
 
-4. Learn to build ecommerce website
+2. Learn to build ecommerce website
 [Building an ecommerce site with Gatsby, Contentful and Snipcart](https://aquasar.io/articles/building-an-ecommerce-site-with-gatsby-contentful-and-snipcart?fbclid=IwAR0dZe4XoaTd5SLTgErPVC9VrzPA-68UXyTwLYhk5UoD6OOyM27CeYP9Drk)
 
-5. Build your own Ecommerce Website using Shopify and Gatsby
+3. Build your own Ecommerce Website using Shopify and Gatsby
 
 [Shopify vs Amazon](https://www.websitebuilderexpert.com/ecommerce-website-builders/comparisons/shopify-vs-amazon/)
 
@@ -573,10 +586,10 @@ Admin app and customer app are both required.
 
 [Building an E-commerce site with Shopify](https://www.gatsbyjs.org/docs/building-an-ecommerce-site-with-shopify/]
 
-6. International Ecommerce Services 
+4. International Ecommerce Services 
 [Options to build a ecommerce site](https://www.gatsbyjs.org/docs/building-an-e-commerce-site/)
 
-7. Pakistani Payment Services
+5. Pakistani Payment Services
 [Which payment gateways work in Pakistan](https://www.quora.com/Which-payment-gateways-work-in-Pakistan-as-an-alternative-to-PayPal-and-Stripe)
 [Ecommerce in Pakistan](https://www.dawn.com/news/1549691)
 [Alipay in Pakistan](https://www.brandsynario.com/alipay-in-pakistan-e-commerce-giant-plans-to-boost-the-economy/)
