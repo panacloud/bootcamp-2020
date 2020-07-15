@@ -453,6 +453,8 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 
 [Writing unit tests with React, Typescript, and react-testing-library](https://dev.to/wojciechmatuszewski/writing-unit-tests-with-react-typescript-and-react-testing-library-1nmg)
 
+[The Practical Guide to Start React Testing Library with TypeScript](https://medium.com/javascript-in-plain-english/the-practical-guide-to-start-react-testing-library-with-typescript-d386804a018)
+
 [How To Test Your React Apps With The React Testing Library](https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
 
 [How to Build a NETFLIX Clone with REACT JS for Beginners (in 3 Hours!)](https://www.youtube.com/watch?v=XtMThy8QKqU)
