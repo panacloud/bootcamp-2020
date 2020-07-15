@@ -447,7 +447,15 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
 
-### Bootcamp 2020 Project 7: Make your Expense Tracker App and COVID-19 Tracker App into a Progressive Web App (PWA) that uses TypeScript
+### Bootcamp 2020 Project 7: Build a Netflex Clone with React and TypeScript it should be a Progressive Web App (PWA) must have at least 30 Automated Tests
+
+[Review React Examples](https://reactjsexample.com/)
+
+[How To Test Your React Apps With The React Testing Library](https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
+
+[How to Build a NETFLIX Clone with REACT JS for Beginners (in 3 Hours!)](https://www.youtube.com/watch?v=XtMThy8QKqU)
+
+
 
 
 
