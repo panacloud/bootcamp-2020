@@ -447,15 +447,17 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
 
-### Bootcamp 2020 Project 7: Build a Netflex Clone with React and TypeScript it should be a Progressive Web App (PWA) must have at least 30 Automated Tests
+### Bootcamp 2020 Project 7: Build a Netflex Clone with React and TypeScript it should be a Progressive Web App (PWA) and write 30+ Automated Tests
 
-[Review React Examples](https://reactjsexample.com/)
+[How to Test React Components in TypeScript](https://www.pluralsight.com/guides/how-to-test-react-components-in-typescript)
+
+[Writing unit tests with React, Typescript, and react-testing-library](https://dev.to/wojciechmatuszewski/writing-unit-tests-with-react-typescript-and-react-testing-library-1nmg)
 
 [How To Test Your React Apps With The React Testing Library](https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
 
 [How to Build a NETFLIX Clone with REACT JS for Beginners (in 3 Hours!)](https://www.youtube.com/watch?v=XtMThy8QKqU)
 
-
+### [Review React Examples for future Projects](https://reactjsexample.com/)
 
 
 
