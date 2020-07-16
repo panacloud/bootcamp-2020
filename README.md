@@ -494,7 +494,21 @@ Note: Build CI/CD pipeline with GitHub Actions
 
 We want GitHub Actions workflow that builds a static blog site and deploys on Netlify. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
 
+## The Fourth Generation Application Model: Client Serverless and JAMstack Applications
 
+Our Client Serverless Model and Technologies = GitHub Repos + GitHub Actions + Gatsby Apps + Netlify Edge Deployment + Netlify Serverless Functions + FaunaDB
+
+[Client-serverless is the 4th generation application model](https://www.infoworld.com/article/3564264/client-serverless-is-the-4th-generation-application-model.html)
+
+[What is the JAMstack and how do I get started?](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/)
+
+[How to Become a Full Stack Web Developer in 2020](https://www.freecodecamp.org/news/how-to-become-a-full-stack-web-developer-in-2020/)
+
+[Jamstack: The static website revolution upending web development](https://www.infoworld.com/article/3563829/jamstack-the-static-website-revolution-upending-web-development.html)
+
+[Run sites globally, Changes deploy automatically](https://www.netlify.com/products/)
+
+[How to Build Authenticated Serverless JAMstack Apps with Gatsby and Netlify](https://www.freecodecamp.org/news/building-jamstack-apps/)
 
 
 ### Bootcamp 2020 Full Stack Project 8A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
