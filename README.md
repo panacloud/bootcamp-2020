@@ -530,6 +530,8 @@ FaunaDB Overview:
 
 [Code Repo](https://github.com/netlify/netlify-faunadb-example/)
 
+[Netlify Functions Use with TypeScript](https://github.com/netlify/netlify-lambda#use-with-typescript)
+
 [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
