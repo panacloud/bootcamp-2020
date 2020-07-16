@@ -496,7 +496,7 @@ We want GitHub Actions workflow that builds a static blog site and deploys on Ne
 
 ## Class 18: The Fourth Generation Application Model - Client Serverless and JAMstack Applications
 
-Our Client Serverless Model and Technologies = GitHub Repos + GitHub Actions + Gatsby Apps + Netlify Edge Deployment + Netlify Serverless Functions + FaunaDB
+Our JAMStack Client Serverless Model = GitHub Repos + GitHub Actions + Gatsby Apps + Netlify Edge Deployment + Netlify Serverless Functions + FaunaDB
 
 [Client-serverless is the 4th generation application model](https://www.infoworld.com/article/3564264/client-serverless-is-the-4th-generation-application-model.html)
 
@@ -524,33 +524,41 @@ FaunaDB Overview:
 
 [Consistency without Clocks: The FaunaDB Distributed Transaction Protocol](https://fauna.com/blog/consistency-without-clocks-faunadb-transaction-protocol)
 
+## Bootcamp 2020 JAMStack Client Serverless Model Project 8A
 
-## Bootcamp 2020 Full Stack Project 8A
+[Building Serverless CRUD apps with Netlify Functions & FaunaDB](https://www.netlify.com/blog/2018/07/09/building-serverless-crud-apps-with-netlify-functions-faunadb/)
+
+[Code Repo](https://github.com/netlify/netlify-faunadb-example/)
+
+[Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
+
+
+## Bootcamp 2020 JAMStack Client Serverless Model Project 8B
 
 [JAMstack Crash Course - Build a Full Stack Application](https://www.youtube.com/watch?v=73b1ZbmB96I)
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
-## Bootcamp 2020 Full Stack Project 8B
+## Bootcamp 2020 JAMStack Client Serverless Model Project 8C
 
 [How to Build Authenticated Serverless JAMstack Apps with Gatsby and Netlify](https://www.freecodecamp.org/news/building-jamstack-apps/)
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
-## Bootcamp 2020 Full Stack Project 8C:
+## Bootcamp 2020 JAMStack Client Serverless Model Project 8D:
 
 [Manage Subscriptions and Protect Content With Stripe](https://www.netlify.com/blog/2020/07/13/manage-subscriptions-and-protect-content-with-stripe/)
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
-### Bootcamp 2020 Full Stack Project 8D: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
+### Bootcamp 2020 JAMStack Client Serverless Model Project 8E: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
 
 [Serverless Database CRUD Example With FaunaDB and Netlify Functions](https://nordschool.com/build-a-serverless-database-using-faunadb-and-netlify-functions/)
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
-### Bootcamp 2020 Full Stack Project 8E: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
+### Bootcamp 2020 JAMStack Client Serverless Model Project 8F: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
 
 [Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB](https://owlypixelhttps://www.dbta.com/Editorial/News-Flashes/Fauna-Raises-27-Million-to-Continue-Providing-Cutting-Edge-Solutions-for-Developers-141679.aspx.com/build-serverless-writing-pad/)
 
