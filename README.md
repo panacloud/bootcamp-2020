@@ -494,7 +494,7 @@ Note: Build CI/CD pipeline with GitHub Actions
 
 We want GitHub Actions workflow that builds a static blog site and deploys on Netlify. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
 
-## The Fourth Generation Application Model: Client Serverless and JAMstack Applications
+## Class 18: The Fourth Generation Application Model - Client Serverless and JAMstack Applications
 
 Our Client Serverless Model and Technologies = GitHub Repos + GitHub Actions + Gatsby Apps + Netlify Edge Deployment + Netlify Serverless Functions + FaunaDB
 
@@ -506,20 +506,59 @@ Our Client Serverless Model and Technologies = GitHub Repos + GitHub Actions + G
 
 [Jamstack: The static website revolution upending web development](https://www.infoworld.com/article/3563829/jamstack-the-static-website-revolution-upending-web-development.html)
 
-[Run sites globally, Changes deploy automatically](https://www.netlify.com/products/)
-
-[How to Build Authenticated Serverless JAMstack Apps with Gatsby and Netlify](https://www.freecodecamp.org/news/building-jamstack-apps/)
-
-
-### Bootcamp 2020 Full Stack Project 8A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
-
-[How to Become a Full Stack Web Developer in 2020](https://www.freecodecamp.org/news/how-to-become-a-full-stack-web-developer-in-2020/)
-
 [Future of Serverless Architecture](https://www.infoq.com/news/2020/07/future-serverless-architecture/)
 
 [A Comparison of Serverless Function (FaaS) Providers](https://fauna.com/blog/comparison-faas-providers)
 
 [Netlify Functions Overview](https://docs.netlify.com/functions/overview/#manage-your-serverless-functions)
+
+[Run sites globally, Changes deploy automatically](https://www.netlify.com/products/)
+
+FaunaDB Overview:
+
+[Fauna Raises $27 Million to Continue Providing Cutting Edge Solutions for Developers](https://www.dbta.com/Editorial/News-Flashes/Fauna-Raises-27-Million-to-Continue-Providing-Cutting-Edge-Solutions-for-Developers-141679.aspx)
+
+[Madrona leads $27M round in Twitter vets’ Fauna database startup; Bob Muglia named chairman](https://www.geekwire.com/2020/madrona-leads-27m-round-twitter-vets-fauna-database-startup-bob-muglia-named-chairman/)
+
+[Fauna Named to Database Trends and Applications 2019 DBTA 100](https://www.businesswire.com/news/home/20190612005222/en/Fauna-Named-Database-Trends-Applications-2019-DBTA/)
+
+[Consistency without Clocks: The FaunaDB Distributed Transaction Protocol](https://fauna.com/blog/consistency-without-clocks-faunadb-transaction-protocol)
+
+
+## Bootcamp 2020 Full Stack Project 8A
+
+[JAMstack Crash Course - Build a Full Stack Application](https://www.youtube.com/watch?v=73b1ZbmB96I)
+
+Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
+
+## Bootcamp 2020 Full Stack Project 8B
+
+[How to Build Authenticated Serverless JAMstack Apps with Gatsby and Netlify](https://www.freecodecamp.org/news/building-jamstack-apps/)
+
+Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
+
+## Bootcamp 2020 Full Stack Project 8C:
+
+[Manage Subscriptions and Protect Content With Stripe](https://www.netlify.com/blog/2020/07/13/manage-subscriptions-and-protect-content-with-stripe/)
+
+Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
+
+### Bootcamp 2020 Full Stack Project 8D: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
+
+[Serverless Database CRUD Example With FaunaDB and Netlify Functions](https://nordschool.com/build-a-serverless-database-using-faunadb-and-netlify-functions/)
+
+Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
+
+
+### Bootcamp 2020 Full Stack Project 8E: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
+
+[Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB](https://owlypixelhttps://www.dbta.com/Editorial/News-Flashes/Fauna-Raises-27-Million-to-Continue-Providing-Cutting-Edge-Solutions-for-Developers-141679.aspx.com/build-serverless-writing-pad/)
+
+Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
+
+
+
+### Bootcamp 2020 Full Stack Project 9A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
 
 [Node js and Express Tutorial for Beginners](https://codeforgeek.com/express-nodejs-tutorial/)
 
@@ -532,38 +571,14 @@ Our Client Serverless Model and Technologies = GitHub Repos + GitHub Actions + G
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
-### Bootcamp 2020 Full Stack Project 8B: Building Serverless QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
+### Bootcamp 2020 Full Stack Project 9B: Building Serverless QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
 
 [Building Serverless GraphQL API in Node with Express and Netlify](https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify/)
 
 [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
-### Bootcamp 2020 Full Stack Project 8C: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
-
-Fauna Overview:
-
-[Fauna Raises $27 Million to Continue Providing Cutting Edge Solutions for Developers](https://www.dbta.com/Editorial/News-Flashes/Fauna-Raises-27-Million-to-Continue-Providing-Cutting-Edge-Solutions-for-Developers-141679.aspx)
-
-[Madrona leads $27M round in Twitter vets’ Fauna database startup; Bob Muglia named chairman](https://www.geekwire.com/2020/madrona-leads-27m-round-twitter-vets-fauna-database-startup-bob-muglia-named-chairman/)
-
-[Fauna Named to Database Trends and Applications 2019 DBTA 100](https://www.businesswire.com/news/home/20190612005222/en/Fauna-Named-Database-Trends-Applications-2019-DBTA/)
-
-[Consistency without Clocks: The FaunaDB Distributed Transaction Protocol](https://fauna.com/blog/consistency-without-clocks-faunadb-transaction-protocol)
-
-
-[Serverless Database CRUD Example With FaunaDB and Netlify Functions](https://nordschool.com/build-a-serverless-database-using-faunadb-and-netlify-functions/)
-
-Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
-
-
-### Bootcamp 2020 Full Stack Project 8D: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
-
-[Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB](https://owlypixelhttps://www.dbta.com/Editorial/News-Flashes/Fauna-Raises-27-Million-to-Continue-Providing-Cutting-Edge-Solutions-for-Developers-141679.aspx.com/build-serverless-writing-pad/)
-
-Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
-
-### Bootcamp 2020 Full Stack Project 9 Product Catalog and Shopping Cart with Context API, React Hooks, Animations API, Router and Serveless REST API
+### Bootcamp 2020 Full Stack Project 10 Product Catalog and Shopping Cart with Context API, React Hooks, Animations API, Router and Serveless REST API
 
 Admin app and customer app are both required. 
 
@@ -580,7 +595,7 @@ Admin app and customer app are both required.
 3. Now build your own Professional Shopping Cart with Context API, Hooks, Animation API and Router
 
 
-### Bootcamp 2020 Full Stack Project 10: Product Catalog and Shopping Cart with Redux Toolkit, Animations API, Router and Serveless GraphQL API
+### Bootcamp 2020 Full Stack Project 11: Product Catalog and Shopping Cart with Redux Toolkit, Animations API, Router and Serveless GraphQL API
 
 Admin app and customer app are both required. 
 
@@ -594,7 +609,7 @@ Admin app and customer app are both required.
 
 
 
-### Bootcamp 2020 Project 11: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
+### Bootcamp 2020 Project 12: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
 
 1. Gatsby Ecommerce 
 [Gatsby Ecommerce Tutorial](https://www.gatsbyjs.org/tutorial/ecommerce-tutorial/)
@@ -629,7 +644,7 @@ Admin app and customer app are both required.
 [Telenor Opens API](https://www.centerforfinancialinclusion.org/telenor-opens-mobile-money-apis-for-third-party-developers)
 [Integration Guide](http://happening.pk/gsmahackathon/apidocument3.pdf)
 
-### Bootcamp 2020 Project 12 Build a Facebook Shop
+### Bootcamp 2020 Project 13 Build a Facebook Shop
 
 [The end of eCommerce as we know it](https://marketing-interactive.com/opinion-the-end-of-ecommerce-as-we-know-it]
 
@@ -653,7 +668,7 @@ Admin app and customer app are both required.
 
 
 
-### Bootcamp 2020 Project 13: Learn Multicloud Serverless Application Development
+### Bootcamp 2020 Project 14: Learn Multicloud Serverless Application Development
 
 [Servlesss and Cloud Native Computing Overview in Urdu on YouTube](https://www.youtube.com/watch?v=4UEVD97kjKo&t=1204s)
 
@@ -674,15 +689,15 @@ Admin app and customer app are both required.
 
 [Multicloud Serverless App Development Overview in Urdu on YouTube](https://www.youtube.com/watch?v=BYOsS1clC48/)
 
-### Bootcamp 2020 Project 14A: Implement Expense Tracker Android and iOS Apps using React Native with Backend in Express and MongoDB
+### Bootcamp 2020 Project 15A: Implement Expense Tracker Android and iOS Apps using React Native with Backend in Express and MongoDB
 
 [React Native Basics](https://reactnative.dev/docs/tutorial)
 
-### Bootcamp 2020 Project 14B: Implement Expense Tracker Android and iOS Apps using React Native with Local Storage in Realm
+### Bootcamp 2020 Project 15B: Implement Expense Tracker Android and iOS Apps using React Native with Local Storage in Realm
 
 [Realm Docs](https://realm.io/docs/javascript/latest/)
 
-### Bootcamp 2020 Project 15: Implement Expense Tracker DApp with Ethereum Blockchain
+### Bootcamp 2020 Project 16: Implement Expense Tracker DApp with Ethereum Blockchain
 [What are Decentralized Applications – dApps?](http://blockchainhub.net/decentralized-applications-dapps/)
 
 Zeeshan Hanif has implemented Expense Tracker as a DApp:
