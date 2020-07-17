@@ -516,6 +516,8 @@ Our JAMStack Client Serverless Model = GitHub Repos + GitHub Actions + Gatsby Ap
 
 FaunaDB Overview:
 
+[FaunaDB review: Fast NoSQL database for global scale](https://www.infoworld.com/article/3489459/faunadb-review-fast-nosql-database-for-global-scale.html)
+
 [Fauna Raises $27 Million to Continue Providing Cutting Edge Solutions for Developers](https://www.dbta.com/Editorial/News-Flashes/Fauna-Raises-27-Million-to-Continue-Providing-Cutting-Edge-Solutions-for-Developers-141679.aspx)
 
 [Madrona leads $27M round in Twitter vets’ Fauna database startup; Bob Muglia named chairman](https://www.geekwire.com/2020/madrona-leads-27m-round-twitter-vets-fauna-database-startup-bob-muglia-named-chairman/)
