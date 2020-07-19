@@ -404,7 +404,7 @@ You may use AI to generate graphics:
 [Auto Draw: An AI Experiment](https://www.autodraw.com/)
 
 
-## Class 14 and 15 TypeScript 4.0
+## Class 14, 15 and 16 TypeScript 4.0
 
 Begin by installing [TypeScript 4.0 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-0-beta/):
 
@@ -419,8 +419,11 @@ Chapters 1, 2, 3, 4, and 9
 Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https://github.com/panacloud/learn-typescript)
 
 [Class 14 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223895728525979/)
+
 [Class 14 English YouTube Video](https://www.youtube.com/watch?v=dVKnwn44U7w)
+
 [Class 14 Urdu YouTube Video](https://www.youtube.com/watch?v=xMRyGAqnPEU)
+
 [Class 14 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223906321590799)
 
 ### Bootcamp 2020 Project 6: Quiz App with React and TypeScript
@@ -430,7 +433,7 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 [You can take help from here also: Your First React Typescript Project: a Todo List App](https://typeofnan.dev/your-first-react-typescript-project-todo-app/)
 
 
-## Class 16 Progressive Web App (PWA)
+## Class 17 Progressive Web App (PWA)
 
 [What’s a PWA, and How Do I Build One?](https://medium.com/better-programming/what-is-a-pwa-and-how-do-i-build-it-e843c247efb5)
 
@@ -450,7 +453,7 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
-## Class 17 How to Test React Components in TypeScript
+## Class 18 How to Test React Components in TypeScript
 
 [How to Test React Components in TypeScript](https://www.pluralsight.com/guides/how-to-test-react-components-in-typescript)
 
@@ -467,7 +470,7 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 
 Note: Build CI/CD pipeline with GitHub Actions
 
-## Class 18 and 19 Learn Gatsby.js and Headless CMS
+## Class 19 and 20 Learn Gatsby.js and Headless CMS
 
 1. Learn Gatsby.js
 [Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
@@ -494,11 +497,15 @@ Note: Build CI/CD pipeline with GitHub Actions
 
 We want GitHub Actions workflow that builds a static blog site and deploys on Netlify. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
 
-## Class 20:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
+## Class 21:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
 
 Our JAMStack Client Serverless Model = GitHub Repos + GitHub Actions + Gatsby Apps + Netlify Edge Deployment + Netlify Serverless Functions + FaunaDB
 
 [Client-serverless is the 4th generation application model](https://www.infoworld.com/article/3564264/client-serverless-is-the-4th-generation-application-model.html)
+
+[The state of the Jamstack in 2020](https://sdtimes.com/webdev/the-state-of-the-jamstack-in-2020/)
+
+[Jamstack brings front-end development back into focus](https://sdtimes.com/webdev/jamstack-brings-front-end-development-back-into-focus/)
 
 [What is the JAMstack and how do I get started?](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/)
 
