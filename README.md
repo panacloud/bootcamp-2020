@@ -434,7 +434,13 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 
 [Class 15 Urdu YouTube Video](https://www.youtube.com/watch?v=H3tQTv2EPcM)
 
+[Class 16 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223966186247378/)
+
+[Class 16 English YouTube Video[(https://www.youtube.com/watch?v=2gYKVaeApzU)
+
 ### Bootcamp 2020 Project 6: Quiz App with React and TypeScript
+
+[You can submit your project here](https://docs.google.com/forms/d/e/1FAIpQLSepN9QvMMoutFd9FbrK9xg0elIHRmjDDfMriRVQe2bDeHMCUw/viewform)
 
 [Quiz app using React and TypeScript](https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react-and-typescript/)
 
