@@ -494,6 +494,8 @@ Note: Build CI/CD pipeline with GitHub Actions
 
 6. [Making Gatsby a PWA: Service Worker and Web App Manifest](https://www.digitalocean.com/community/tutorials/gatsbyjs-gatsby-pwa)
 
+7. [Deploy on Netlify: Steps 00, 01, and 02](https://github.com/Panacloud-Multicloud/internet-scale-global-apps)
+
 ### [Review React Examples for future Projects](https://reactjsexample.com/)
 
 
@@ -508,6 +510,8 @@ We want GitHub Actions workflow that builds a static blog site and deploys on Ne
 ## Class 21:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
 
 Our JAMStack Client Serverless Model = GitHub Repos + GitHub Actions + Gatsby Apps + Netlify Edge Deployment + Netlify Serverless Functions + FaunaDB
+
+[We will Learn mainly from this Repo](https://github.com/Panacloud-Multicloud/internet-scale-global-apps)
 
 [Client-serverless is the 4th generation application model](https://www.infoworld.com/article/3564264/client-serverless-is-the-4th-generation-application-model.html)
 
