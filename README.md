@@ -457,6 +457,10 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 
 [How to Make your React App a Progressive Web App (PWA)](https://felixgerschau.com/how-to-make-your-react-app-a-progressive-web-app-pwa/)
 
+[Building a Progressive Web Application with Create React App](https://hub.packtpub.com/building-a-progressive-web-application-with-create-react-app-2-tutorial/)
+
+Deploy PWA on Google Play Store
+
 [Google Play Store now open for Progressive Web Apps](https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc)
 
 [How to publish PWA app on Google Play Store – Step by step guide](https://www.vtnetzwelt.com/mobile/publishing-pwa-app-on-google-play-store/)
@@ -471,6 +475,11 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
+### Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA)
+
+Note: Build CI/CD pipeline with GitHub Actions
+
+
 ## Class 18 How to Test React Components in TypeScript
 
 [How to Test React Components in TypeScript](https://www.pluralsight.com/guides/how-to-test-react-components-in-typescript)
@@ -484,9 +493,9 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 [How To Test Your React Apps With The React Testing Library](https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
 
 
-### Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App with React and TypeScript it should be a Progressive Web App (PWA) and write 10+ Automated Tests and deploy it on [Netlify](https://www.netlify.com/)
+### Bootcamp 2020 Project 7B: Write 10+ Automated Tests for the Expense Tracker App and Quiz App built in Project 7A
 
-Note: Build CI/CD pipeline with GitHub Actions
+Note: While Building the CI/CD pipeline make sure the app passes all the automated tests before deployment 
 
 ## Class 19 and 20 Learn Gatsby.js and Headless CMS
 
@@ -504,18 +513,17 @@ Note: Build CI/CD pipeline with GitHub Actions
 
 6. [Making Gatsby a PWA: Service Worker and Web App Manifest](https://www.digitalocean.com/community/tutorials/gatsbyjs-gatsby-pwa)
 
-7. [Deploy on Netlify: Steps 00, 01, and 02](https://github.com/Panacloud-Multicloud/internet-scale-global-apps)
 
 ### [Review React Examples for future Projects](https://reactjsexample.com/)
 
 
-### Bootcamp 2020 Project 7B: Build a Blog site in Gatsby.js/Contentful with TypeScript and Deploy on Netlify as a PWA
+### Bootcamp 2020 Project 7C: Build a Blog site in Gatsby.js/Contentful with TypeScript and Deploy as a PWA
 
 [This Tutorial will help you in building the Blog site](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
 
 [Demo of Blog site we want to build](https://gatsby-contentful-blogsite.netlify.app/blog/)
 
-We want GitHub Actions workflow that builds a static blog site and deploys on Netlify. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
+We want GitHub Actions workflow that builds a static blog site and deploys on Surge. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
 
 ## Class 21:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
 
