@@ -623,6 +623,7 @@ Note: User Gatsby.js instead of Gridsome
 [Demo](https://apicart-fauna-gridsome-example.netlify.app/)
 [Alternatives](https://alternativeto.net/software/apicart/)
 [Best eCommerce Services in 2020](https://dev.to/integridsolutions/best-ecommerce-services-to-use-in-2020-5efh)
+[9 Best eCommerce Solutions for Jamstack Websites](https://bejamas.io/blog/jamstack-ecommerce/)
 
 
 ### Bootcamp 2020 Full Stack Project 10A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
