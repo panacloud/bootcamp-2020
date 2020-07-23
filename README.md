@@ -489,6 +489,10 @@ Reference:
 
 ## Class 18 How to Test React Components in TypeScript
 
+[You Can't Do CI/CD Without Automated Testing](https://dzone.com/articles/you-cant-do-cicd-without-automated-testing)
+
+[Introduction to Test Driven Development (TDD)](http://agiledata.org/essays/tdd.html)
+
 [How to Test React Components in TypeScript](https://www.pluralsight.com/guides/how-to-test-react-components-in-typescript)
 
 [Writing unit tests with React, Typescript, and react-testing-library](https://dev.to/wojciechmatuszewski/writing-unit-tests-with-react-typescript-and-react-testing-library-1nmg)
