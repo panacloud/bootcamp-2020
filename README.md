@@ -453,6 +453,8 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 
 ## Class 17 Progressive Web App (PWA)
 
+[THE CURRENT STATE OF PROGRESSIVE WEB APPS](https://www2.stardust-testing.com/en/the-current-state-of-progressive-web-apps)
+
 [What’s a PWA, and How Do I Build One?](https://medium.com/better-programming/what-is-a-pwa-and-how-do-i-build-it-e843c247efb5)
 
 [How to Make your React App a Progressive Web App](https://felixgerschau.com/how-to-make-your-react-app-a-progressive-web-app-pwa/)
