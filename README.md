@@ -455,7 +455,7 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 
 [What’s a PWA, and How Do I Build One?](https://medium.com/better-programming/what-is-a-pwa-and-how-do-i-build-it-e843c247efb5)
 
-[How to Make your React App a Progressive Web App (PWA)](https://felixgerschau.com/how-to-make-your-react-app-a-progressive-web-app-pwa/)
+[How to Make your React App a Progressive Web App](https://felixgerschau.com/how-to-make-your-react-app-a-progressive-web-app-pwa/)
 
 [Building a Progressive Web Application with Create React App](https://hub.packtpub.com/building-a-progressive-web-application-with-create-react-app-2-tutorial/)
 
@@ -467,6 +467,8 @@ Deploy PWA on Google Play Store
 
 [Microsoft's PWABuilder makes submitting web apps to the Play Store easier than ever](https://www.androidpolice.com/2020/07/13/microsofts-pwabuilder-makes-submitting-web-apps-to-the-play-store-easier-than-ever/)
 
+[Publishing PWAs to Major App Stores: The Whys and Hows](https://www.simicart.com/blog/pwa-app-stores/)
+
 [How Progressive Web Apps Will Change Mobile Commerce In 2020](https://customerthink.com/how-progressive-web-apps-will-change-mobile-commerce-in-2020/)
 
 [Make your PWA feel more like an app](https://web.dev/app-like-pwas/)
@@ -476,8 +478,11 @@ Deploy PWA on Google Play Store
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
 ### Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA)
+You should deploy them on Surge as well make it an Android App, Apple App and Windows App (If you have a Store account's you may deploy on it).
 
-Note: Build CI/CD pipeline with GitHub Actions
+Reference:
+[Publishing PWAs to Major App Stores: The Whys and Hows](https://www.simicart.com/blog/pwa-app-stores/)
+
 
 
 ## Class 18 How to Test React Components in TypeScript
