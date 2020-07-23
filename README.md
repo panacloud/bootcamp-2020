@@ -617,6 +617,11 @@ Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketpla
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
+### Bootcamp 2020 JAMStack Ecommerce Project 9G:
+[JAMstack e-commerce using Apicart, FaunaDB, Gridsome and Netlify](https://dev.to/machy8/jamstack-e-commerce-using-apicart-faunadb-gridsome-and-netlify-39jm)
+Note: User Gatsby.js instead of Gridsome
+[Demo](https://apicart-fauna-gridsome-example.netlify.app/)
+
 
 ### Bootcamp 2020 Full Stack Project 10A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
 
