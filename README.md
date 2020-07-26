@@ -483,6 +483,10 @@ Deploy PWA on All App Stores
 
 [Class 17 English YouTube Video](https://www.youtube.com/watch?v=S9Jkb61_gac)
 
+[Class 17 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224016274939564/)
+
+[Class 17 Urdu Facebook Video](https://www.youtube.com/watch?v=N5JHz6TvGnM)
+
 ### Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA)
 You should deploy them on Surge as well make it an Android App, Apple App and Windows App (If you have a Store account's you may deploy on the stores as well).
 
