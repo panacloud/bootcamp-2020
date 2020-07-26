@@ -479,6 +479,10 @@ Deploy PWA on All App Stores
 
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
+[Class 17 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224004740651214/)
+
+[Class 17 English YouTube Video](https://www.youtube.com/watch?v=S9Jkb61_gac)
+
 ### Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA)
 You should deploy them on Surge as well make it an Android App, Apple App and Windows App (If you have a Store account's you may deploy on the stores as well).
 
@@ -540,7 +544,17 @@ We want GitHub Actions workflow that builds a static blog site and deploys on Su
 
 This project will help you in marketing yourself.
 
-[Example Portfolio Site](https://www.ejazahmed.com)
+[Creating a Portfolio Website: tips on how to do it right](https://undsgn.com/creating-a-portfolio-website-tips-on-how-to-do-it-right/)
+
+[HOW TO BUILD AN IMPRESSIVE PORTFOLIO SITE](https://skillcrush.com/blog/impressive-tech-portfolio/)
+
+[10 tips for building a killer portfolio website](https://www.creativebloq.com/portfolios/tips-portfolio-website-4137460)
+
+[Watch Video](https://www.youtube.com/watch?v=r_hYR53r61M)
+
+[Building a personal site with Gatsby.js, Contentful and Netlify](Building a personal site with Gatsby.js, Contentful and Netlify)
+
+[Ejaz Ahmed Portfolio Site](https://www.ejazahmed.com)
 
 ## Class 21:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
 
