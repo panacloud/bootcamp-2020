@@ -451,7 +451,7 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 [You can take help from here also: Your First React Typescript Project: a Todo List App](https://typeofnan.dev/your-first-react-typescript-project-todo-app/)
 
 
-## Class 17 Progressive Web App (PWA)
+## Class 17 Progressive Web App (PWA) and Service Worker
 
 [THE CURRENT STATE OF PROGRESSIVE WEB APPS](https://www2.stardust-testing.com/en/the-current-state-of-progressive-web-apps)
 
@@ -487,15 +487,25 @@ Deploy PWA on All App Stores
 
 [Class 17 Urdu Facebook Video](https://www.youtube.com/watch?v=N5JHz6TvGnM)
 
+## Class 18 Progressive Web App (PWA) and Service Push Notification
+
+[Firebase Push Notifications in React](https://www.smashingmagazine.com/2020/06/firebase-push-notifications-react/)
+
+[Class 18 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224036506845349/)
+
+[Class 18 English YouTube Video](https://www.youtube.com/watch?v=4MwPXLcMRns)
+
 ### Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA)
+
 You should deploy them on Surge as well make it an Android App, Apple App and Windows App (If you have a Store account's you may deploy on the stores as well).
 
 Reference:
+
 [Publishing PWAs to Major App Stores: The Whys and Hows](https://www.simicart.com/blog/pwa-app-stores/)
 
 
 
-## Class 18 How to Test React Components in TypeScript
+## Class 19 How to Test React Components in TypeScript
 
 [You Can't Do CI/CD Without Automated Testing](https://dzone.com/articles/you-cant-do-cicd-without-automated-testing)
 
@@ -516,7 +526,7 @@ Reference:
 
 Note: While Building the CI/CD pipeline make sure the app passes all the automated tests before deployment 
 
-## Class 19 and 20 Learn Gatsby.js and Headless CMS
+## Class 20 and 21 Learn Gatsby.js and Headless CMS
 
 1. Learn Gatsby.js
 [Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
@@ -560,7 +570,7 @@ This project will help you in marketing yourself.
 
 [Ejaz Ahmed Portfolio Site](https://www.ejazahmed.com)
 
-## Class 21:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
+## Class 22:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
 
 Our JAMStack Client Serverless Model = GitHub Repos + GitHub Actions + Gatsby Apps + Netlify Edge Deployment + Netlify Serverless Functions + FaunaDB
 
