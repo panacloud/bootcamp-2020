@@ -451,7 +451,7 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 [You can take help from here also: Your First React Typescript Project: a Todo List App](https://typeofnan.dev/your-first-react-typescript-project-todo-app/)
 
 
-## Class 17 Progressive Web App (PWA) and Service Worker
+## Class 17 Progressive Web Apps (PWA) and Offline-availability
 
 [THE CURRENT STATE OF PROGRESSIVE WEB APPS](https://www2.stardust-testing.com/en/the-current-state-of-progressive-web-apps)
 
@@ -478,6 +478,10 @@ Deploy PWA on All App Stores
 [Latest News](https://www.neowin.net/news/google-chrome-will-soon-allow-users-to-run-pwas-at-startup/)
 
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+
+[Progressive Web Apps and Offline-availability](https://www.simicart.com/blog/pwa-offline/)
+
+[How to Build Modern, Offline Apps With Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Offline_Service_workers)
 
 [Class 17 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224004740651214/)
 
