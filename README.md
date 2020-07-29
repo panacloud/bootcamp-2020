@@ -558,9 +558,7 @@ Note: While Building the CI/CD pipeline make sure the app passes all the automat
 
 We want GitHub Actions workflow that builds a static blog site and deploys on Surge. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
 
-## Bootcamp 2020 Important Project: Build a Developer Profile/Portfolio site in Gatsby.js/Contentful with TypeScript and Deploy as a PWA
-
-This project will help you in marketing yourself.
+### Bootcamp 2020 Important Self Project I: Build a Developer Profile/Portfolio site in Gatsby.js/Contentful with TypeScript and Deploy as a PWA
 
 [Creating a Portfolio Website: tips on how to do it right](https://undsgn.com/creating-a-portfolio-website-tips-on-how-to-do-it-right/)
 
@@ -573,6 +571,26 @@ This project will help you in marketing yourself.
 [Building a personal site with Gatsby.js, Contentful and Netlify](Building a personal site with Gatsby.js, Contentful and Netlify)
 
 [Ejaz Ahmed Portfolio Site](https://www.ejazahmed.com)
+
+
+### Bootcamp 2020 Important Self Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin
+
+[Connect to Zia Khan](https://www.linkedin.com/in/ziaukhan/)
+
+[10 Ways You Didn’t Know LinkedIn Could Find You a Job](https://www.aarp.org/work/job-hunting/info-2017/10-ways-to-use-linkedin-job-search.html)
+
+These two self projects will help you a lot in marketing yourself.
+
+### Bootcamp 2020 Important Self Project III: Create React and Gatsby Gigs on Fivver
+
+[4 Things to Do Before Creating Your Gig](https://sellers.fiverr.com/en/article/4-things-to-do-before-creating-your-gig)
+
+[Creating a Gig](https://sellers.fiverr.com/en/article/creating-a-gig)
+
+### Bootcamp 2020 Important Self Project IV: Start working on a Panacloud (Pvt.) Ltd. Project
+
+Getting your first work is difficult, therefore we suggest that you start working on a professional Pancloud project to gain experience.
+
 
 ## Class 22:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
 
