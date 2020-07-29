@@ -594,43 +594,13 @@ These two self projects will help you a lot in marketing yourself.
 Getting your first work is difficult, therefore we suggest that you start working on a professional Pancloud project and become part of the team to gain experience and references.
 
 
-## Class 22:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
+## Class 22-30:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
 
 Our JAMStack Client Serverless Model = GitHub Repos + GitHub Actions + Gatsby Apps + Netlify Edge Deployment + Netlify Serverless Functions + FaunaDB
 
-[We will Learn mainly from this Repo](https://github.com/Panacloud-Multicloud/internet-scale-global-apps)
+[Building Internet-Scale Global Apps Repo](https://github.com/Panacloud-Multicloud/internet-scale-global-apps)
 
-[Client-serverless is the 4th generation application model](https://www.infoworld.com/article/3564264/client-serverless-is-the-4th-generation-application-model.html)
 
-[The state of the Jamstack in 2020](https://sdtimes.com/webdev/the-state-of-the-jamstack-in-2020/)
-
-[Jamstack brings front-end development back into focus](https://sdtimes.com/webdev/jamstack-brings-front-end-development-back-into-focus/)
-
-[What is the JAMstack and how do I get started?](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/)
-
-[How to Become a Full Stack Web Developer in 2020](https://www.freecodecamp.org/news/how-to-become-a-full-stack-web-developer-in-2020/)
-
-[Jamstack: The static website revolution upending web development](https://www.infoworld.com/article/3563829/jamstack-the-static-website-revolution-upending-web-development.html)
-
-[Future of Serverless Architecture](https://www.infoq.com/news/2020/07/future-serverless-architecture/)
-
-[A Comparison of Serverless Function (FaaS) Providers](https://fauna.com/blog/comparison-faas-providers)
-
-[Netlify Functions Overview](https://docs.netlify.com/functions/overview/#manage-your-serverless-functions)
-
-[Run sites globally, Changes deploy automatically](https://www.netlify.com/products/)
-
-FaunaDB Overview:
-
-[FaunaDB review: Fast NoSQL database for global scale](https://www.infoworld.com/article/3489459/faunadb-review-fast-nosql-database-for-global-scale.html)
-
-[Fauna Raises $27 Million to Continue Providing Cutting Edge Solutions for Developers](https://www.dbta.com/Editorial/News-Flashes/Fauna-Raises-27-Million-to-Continue-Providing-Cutting-Edge-Solutions-for-Developers-141679.aspx)
-
-[Madrona leads $27M round in Twitter vets’ Fauna database startup; Bob Muglia named chairman](https://www.geekwire.com/2020/madrona-leads-27m-round-twitter-vets-fauna-database-startup-bob-muglia-named-chairman/)
-
-[Fauna Named to Database Trends and Applications 2019 DBTA 100](https://www.businesswire.com/news/home/20190612005222/en/Fauna-Named-Database-Trends-Applications-2019-DBTA/)
-
-[Consistency without Clocks: The FaunaDB Distributed Transaction Protocol](https://fauna.com/blog/consistency-without-clocks-faunadb-transaction-protocol)
 
 ## Bootcamp 2020 JAMStack Client Serverless Model Project 9A
 
