@@ -731,6 +731,7 @@ Admin app and customer app are both required.
 5. Pakistani Payment Services
 [Which payment gateways work in Pakistan](https://www.quora.com/Which-payment-gateways-work-in-Pakistan-as-an-alternative-to-PayPal-and-Stripe)
 [Ecommerce in Pakistan](https://www.dawn.com/news/1549691)
+[NayaPay and Visa partner to fast-track digital payments in Pakistan](https://www.dawn.com/news/1571618/nayapay-and-visa-partner-to-fast-track-digital-payments-in-pakistan)
 [Alipay in Pakistan](https://www.brandsynario.com/alipay-in-pakistan-e-commerce-giant-plans-to-boost-the-economy/)
 [JazzCash](https://sandbox.jazzcash.com.pk/sandbox)
 [JazzCash Documentation](https://payments.jazzcash.com.pk/SandboxDocumentation/)
@@ -838,51 +839,5 @@ You will get temporary free Access to AWS while doing these [Introduction to AWS
 Note 1: It is very easy the difficult part is getting your account verified by using credit cards or bank accounts. 
 
 Note 2: The cloud accounts are not required immediately. We will need them in about a months time.
-
-### Bootcamp 2020 Ninja Team Selection
-I will be selecting the best of the best developers from the bootcampers to work closely me and our team. First they will help the students and later they will be doing freelancing with our team. The criteria for selection will be the submitted projects, professionalism and project ownership. Even once selected you can be removed from the team because you did not follow instructions, or your performance is not up to mark. Only one warning will be given before removal. 
-
-Right now I have selected only nine developer:
-
-1. Jazzel Mehmood, Karachi
-2. Farhan Farooq, Karachi
-3. Abdul Raffay Rizwan, Karachi
-4. Nadir Ali, Karachi
-5. Maleeha Khalid, Lahore
-6. Muhammad Usman Tariq, Karachi
-7. Muhammad Bilal, Rawalpindi
-8. Muhammad Usman, Wah Cantt 
-9. Saad Baig, Karachi
-
-Muhammad Naeem Akhtar from Turin, Italy and Nadir Ali from Karachi have jointly won Chief Ninja position in Bootcamp 2020
-I am extremely pleased to announce that Muhammad Naeem Akhtar ( https://www.facebook.com/profile.php?id=100014148211403 ) and Nadir Ali ( https://www.facebook.com/nadirali.abro.58/ ) have won the Chief Ninja position by submitting the following two React apps:
-
-Naeem Project 1: Expense Tracker
-http://expense-tracker-app-mna.surge.sh/
-
-Naeem Project 2: COVID-19 Tracker
-http://covid19-analytics-mna.surge.sh/
-
-Nadir Project 1: Expense Tracker
-http://bootcamp2020-expense-trackerapp.surge.sh/
-
-Nadir Project 2: COVID-19 Tracker
-http://bootcamp2020-covid19-trackerapp.surge.sh/
-
-Naeem will be the Chief Ninja for the English Section:
-https://www.facebook.com/groups/4IRUG/
-
-Nadir will be the Chief Ninja for the Urdu Section:
-https://www.facebook.com/groups/freelance.remote.work/
-
-Both will also be joining the live classes representing the students.
-
-Interesting info about Naeem:
-Right now he is living in Turin, Italy. He has done Bachelor in Electronic Engineering and Master in Mechatronic Engineering from Italy. Right now he is doing a full time job as Junior Java and IoT developer. 
-
-Note for everyone: All positions are temporary, as we move forward anyone can replace anyone, everything is purely merit based. 
-
-
-Please note if I am leading a team two things are not tolerated under any circumstances: telling an untruth and unprofessional behavior. I do not care if you are not super-intelligent but what we are looking for are people who take ownership and are highly ethical and professional. 
 
 
