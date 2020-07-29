@@ -589,7 +589,7 @@ These two self projects will help you a lot in marketing yourself.
 
 ### Bootcamp 2020 Important Self Project IV: Start working on a Panacloud (Pvt.) Ltd. Project
 
-Getting your first work is difficult, therefore we suggest that you start working on a professional Pancloud project to gain experience.
+Getting your first work is difficult, therefore we suggest that you start working on a professional Pancloud project and become part of the team to gain experience and references.
 
 
 ## Class 22:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
