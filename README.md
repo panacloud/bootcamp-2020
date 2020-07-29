@@ -4,6 +4,8 @@ We will teach you online to Build Full Stack Mobile Web Apps including e-commerc
 
 We have to understand humanity is facing a COVID-19 induced global economic recession and only the high-tech and software companies have grown and their stock prices and business have risen in this environment. We need to immediately get ready to face the upcoming economic crises boldly.
 
+[Bootcamp 2020 Group on LinkedIn](https://www.linkedin.com/groups/8964441/)
+
 ## English Section:
 
 Every Tuesday at 10:00 PM – 11:15 PM Pakistan Standard Time
