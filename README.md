@@ -536,7 +536,20 @@ Reference:
 
 Note: While Building the CI/CD pipeline make sure the app passes all the automated tests before deployment 
 
-## Class 20 and 21 Learn Gatsby.js and Headless CMS
+
+
+## Class 20 and 21 Client-Side GraphQL With Apollo-Client 3.0 In React Apps
+
+[Introduction to QraphQL](https://www.howtographql.com/basics/0-introduction/)
+
+[Introduction to Appllo Client 3 in React](https://www.apollographql.com/docs/react/)
+
+[The GraphQL Foundation is offering a new, free course – Exploring GraphQL: A Query Language for APIs – through edX which has thousands already sign up for](https://www.edx.org/course/exploring-graphql-a-query-language-for-apis)
+
+
+
+
+## Class 22 and 23 Learn Gatsby.js and Headless CMS
 
 1. Learn Gatsby.js
 [Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
@@ -598,7 +611,7 @@ These two self projects will help you a lot in marketing yourself.
 Getting your first work is difficult, therefore we suggest that you start working on a professional Pancloud project and become part of the team to gain experience and references.
 
 
-## Class 22-30:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
+## Class 24-30:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
 
 Our JAMStack Client Serverless Model = GitHub Repos + GitHub Actions + Gatsby Apps + Netlify Edge Deployment + Netlify Serverless Functions + FaunaDB
 
