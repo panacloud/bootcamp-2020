@@ -505,7 +505,7 @@ Deploy PWA on All App Stores
 
 [Class 18 Urdu YouTube Video](https://www.youtube.com/watch?v=oFxmMVi6U0U)
 
-### Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA)
+### Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA) with Offline Capability and Push Notifications
 
 You should deploy them on Surge as well make it an Android App, Apple App and Windows App (If you have a Store account's you may deploy on the stores as well).
 
@@ -532,9 +532,13 @@ Reference:
 [How To Test Your React Apps With The React Testing Library](https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
 
 
-### Bootcamp 2020 Project 7B: Write 10+ Automated Tests for the Expense Tracker App and Quiz App built in Project 7A
+### Bootcamp 2020 Project 7B: Build a React Timer App using TypeScript with Test-driven Development
 
-Note: While Building the CI/CD pipeline make sure the app passes all the automated tests before deployment 
+[React Test-driven Development: From User Stories to Production](https://www.toptal.com/react/tdd-react-user-stories-to-development)
+
+Note 1: While Building the CI/CD pipeline make sure the app passes all the automated tests before deployment 
+
+Note 2: In the Toptal article above they donot use TypeScipt, but you are required to do so.
 
 
 
