@@ -591,7 +591,7 @@ We want GitHub Actions workflow that builds a static blog site and deploys on Su
 
 [Watch Video](https://www.youtube.com/watch?v=r_hYR53r61M)
 
-[Building a personal site with Gatsby.js, Contentful and Netlify](Building a personal site with Gatsby.js, Contentful and Netlify)
+[Building a personal site with Gatsby.js, Contentful and Netlify](https://levelup.gitconnected.com/building-a-personal-site-with-gatsby-js-contentful-and-netlify-d9e614ed9a77)
 
 [Ejaz Ahmed Portfolio Site](https://www.ejazahmed.com)
 
