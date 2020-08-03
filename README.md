@@ -544,6 +544,8 @@ Note 2: In the Toptal article above they donot use TypeScipt, but you are requir
 
 ## Class 20 and 21 Client-Side GraphQL With Apollo-Client 3.0 In React Apps
 
+[What are Tag Functions?](https://codeburst.io/javascript-what-are-tag-functions-97682f29521b)
+
 [Introduction to QraphQL](https://www.howtographql.com/basics/0-introduction/)
 
 [Introduction to Appllo Client 3 in React](https://www.apollographql.com/docs/react/)
