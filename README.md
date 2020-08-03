@@ -546,6 +546,8 @@ Note 2: In the Toptal article above they donot use TypeScipt, but you are requir
 
 [What are Tag Functions?](https://codeburst.io/javascript-what-are-tag-functions-97682f29521b)
 
+[Read about Tagged templates from this page](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+
 [Introduction to QraphQL](https://www.howtographql.com/basics/0-introduction/)
 
 [Introduction to Appllo Client 3 in React](https://www.apollographql.com/docs/react/)
