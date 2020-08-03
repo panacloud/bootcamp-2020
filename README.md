@@ -558,6 +558,14 @@ GraphQL 3.0 Tutorial:
 
 [Introduction to Appllo Client 3 in React](https://www.apollographql.com/docs/react/)
 
+[Using Apollo with TypeScript](https://www.apollographql.com/docs/react/development-testing/static-typing/)
+
+TypeScript Code Generator:
+
+[TypeScript Code Generator](https://hasura.io/learn/graphql/typescript-react-apollo/codegen/)
+
+[Code Generator Page](https://graphql-code-generator.com/)
+
 
 ### Bootcamp 2020 Project 8: Build a Build an Space X Client Application with React, TypeScript, Appllo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as an PWA
 
@@ -567,7 +575,11 @@ GraphQL 3.0 Tutorial:
 
 [Example of a Demo App](https://github.com/imranhsayed/graphql-react-app/blob/master/GraphQl-SpaceX-Demo.gif)
 
+[Build a GraphQL + React app with TypeScript](https://blog.logrocket.com/build-a-graphql-react-app-with-typescript/)
+
 You are required to build your own App not just copy the Demo Apps.
+
+Note: You can generate the TypeScript code automatically by using the Code Generator.
 
 
 
