@@ -541,7 +541,7 @@ Reference:
 
 
 
-## Class 19 How to Test React Components in TypeScript
+## Class 19 and 20 How to Test React Components in TypeScript
 
 [You Can't Do CI/CD Without Automated Testing](https://dzone.com/articles/you-cant-do-cicd-without-automated-testing)
 
@@ -557,6 +557,10 @@ Reference:
 
 [How To Test Your React Apps With The React Testing Library](https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
 
+[Class 19 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224107545941282/)
+
+[Class 19 English YouTube Video](https://www.youtube.com/watch?v=gYYcGCpPA7g)
+
 
 ### Bootcamp 2020 Project 7B: Build a React Timer App using TypeScript with Test-driven Development
 
@@ -568,7 +572,7 @@ Note 2: In the Toptal article above they donot use TypeScipt, but you are requir
 
 
 
-## Class 20 and 21 Client-Side GraphQL in React Apps
+## Class 21 and 22 Client-Side GraphQL in React Apps
 
 Introduction to GraphQL:
 
@@ -645,7 +649,7 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 ### [Review React Examples for future Projects](https://reactjsexample.com/)
 
 
-## Class 22 and 23 Learn Gatsby.js and Headless CMS
+## Class 23 and 24 Learn Gatsby.js and Headless CMS
 
 1. Learn Gatsby.js
 [Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
@@ -720,7 +724,7 @@ These two self projects will help you a lot in marketing yourself.
 Getting your first work is difficult, therefore we suggest that you start working on a professional Pancloud project and become part of the team to gain experience and references.
 
 
-## Class 24-30:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
+## Class 25-30:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
 
 Our JAMStack Client Serverless Model = GitHub Repos + GitHub Actions + Gatsby Apps + Netlify Edge Deployment + Netlify Serverless Functions + FaunaDB
 
