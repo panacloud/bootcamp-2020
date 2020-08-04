@@ -570,12 +570,6 @@ Note 2: In the Toptal article above they donot use TypeScipt, but you are requir
 
 ## Class 20 and 21 Client-Side GraphQL in React Apps
 
-JavaScript Prerequisites: 
-
-[What are Tag Functions?](https://codeburst.io/javascript-what-are-tag-functions-97682f29521b)
-
-[Read about Tagged templates from this page](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
-
 Introduction to GraphQL:
 
 [Introduction to QraphQL](https://www.howtographql.com/basics/0-introduction/)
@@ -590,7 +584,13 @@ What’s your query? Learn GraphQL with React and Contentful
 
 [What’s your query? Learn GraphQL with React and Contentful](https://www.contentful.com/blog/2020/08/03/whats-your-query-learn-graphql-with-react-and-contentful/)
 
-[Watch Videos](https://www.contentful.com/developers/videos/learn-graphql/)
+[Watch Video Tutorials](https://www.contentful.com/developers/videos/learn-graphql/)
+
+JavaScript Prerequisites: 
+
+[What are Tag Functions?](https://codeburst.io/javascript-what-are-tag-functions-97682f29521b)
+
+[Read about Tagged templates from this page](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
 Apollo-Client 3.0 Tutorial:
 
