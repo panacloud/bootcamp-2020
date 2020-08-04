@@ -177,34 +177,53 @@ Learn JavaScript Fetch
 [Fetch API data using useEffect React hook](https://medium.com/thecodefountain/fetch-api-data-using-useeffect-react-hook-465809ca12c6)
 
 Different Options to get data in React
+
 [Different ways to fetch data in React](https://dmitripavlutin.com/react-fetch-lifecycle-methods-hooks-suspense/)
 
 [Class 8 Code](https://github.com/zeeshanhanif/demo-react-useeffect)
+
 [Class 8 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223639700845447/)
+
 [Class 8 English YouTube Video](https://www.youtube.com/watch?v=MoTfMsuexhk)
+
 [Class 8 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223652738571382/)
+
 [Class 8 Urdu YouTube Video](https://www.youtube.com/watch?v=i7iuPKa2A-E)
 
 Data fetching with React Suspense
+
 [React Suspense 1](https://rahmanfadhil.com/fetch-data-with-react-suspense/)
+
 [React Suspense 2](https://blog.logrocket.com/react-suspense-for-data-fetching/)
+
 [React Suspense 3](https://dev.to/andreiduca/practical-implementation-of-data-fetching-with-react-suspense-that-you-can-use-today-273m)
+
 [React Suspense 4](https://medium.com/better-programming/diving-into-react-suspense-render-as-you-fetch-for-rest-apis-bf2d20ea7c59)
+
 References:
+
 [React Suspense Reference 1](https://reactjs.org/docs/concurrent-mode-suspense.html)
+
 [React Suspense Reference 2](https://www.manning.com/books/react-hooks-in-action)
 
 ## Class 9
 
 Learn Material UI
+
 [Main Website](https://material-ui.com/)
+
 [Installation](https://material-ui.com/getting-started/installation/)
+
 [Getting Started](https://material-ui.com/getting-started/usage/)
+
 [Details](https://react.school/material-ui)
+
 [Templates](https://material-ui.com/getting-started/templates/)
 
 Learn Chart.js
+
 [Mian Docs](https://www.chartjs.org/docs/latest/)
+
 [Getting Started](https://www.chartjs.org/docs/latest/getting-started/)
 
 [Class 9 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223687587242577/)
@@ -225,12 +244,17 @@ Last date for Submitting Project 2: COVID-19 Tracker App is Friday, July 10 midn
 You will use React, React Material UI, Chart.js, and React Suspense to build this COVID-19 Tracker React App
 
 1. Watch this video as a example for the app but build your own app don't just copy it:
+
 [Example COVID-19 Tracker App Demo](https://www.youtube.com/watch?v=khJlrj3Y6Ls)
 
 2. Choose one or more COVID-19 API's that you are going to use:
+
 [COVID-19 API Listing 1](https://rapidapi.com/collection/coronavirus-covid-19)
+
 [COVID-19 API Listing 2](https://covid-19-apis.postman.com/)
+
 [COVID-19 API Listing 3](https://dataconomy.com/2020/04/apis-to-track-coronavirus-covid-19/)
+
 [COVID-19 Google Map API](https://developers.google.com/maps/covid19)
 
 3. Start building your COVID-19 Tracker App
@@ -238,7 +262,9 @@ You will use React, React Material UI, Chart.js, and React Suspense to build thi
 Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD Actions and hosted on Surge.
 
 ## Class 10
+
 Adil Altaf builds the COVID-19 Tracker App
+
 [Class 10 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223727984452482/)
 
 [Class 10 English YouTube Video](https://www.youtube.com/watch?v=_JcQ5ISu2PQ&lc)
@@ -542,7 +568,7 @@ Note 2: In the Toptal article above they donot use TypeScipt, but you are requir
 
 
 
-## Class 20 and 21 Client-Side GraphQL With Apollo-Client 3.0+ In React Apps
+## Class 20 and 21 Client-Side GraphQL in React Apps
 
 JavaScript Prerequisites: 
 
@@ -559,6 +585,12 @@ Introduction to GraphQL:
 [Big Picture (Architecture)](https://www.howtographql.com/basics/3-big-picture/)
 
 [Queries and Mutations](https://graphql.org/learn/queries/)
+
+What’s your query? Learn GraphQL with React and Contentful
+
+[What’s your query? Learn GraphQL with React and Contentful](https://www.contentful.com/blog/2020/08/03/whats-your-query-learn-graphql-with-react-and-contentful/)
+
+[Watch Videos](https://www.contentful.com/developers/videos/learn-graphql/)
 
 Apollo-Client 3.0 Tutorial:
 
@@ -591,11 +623,14 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 
 
+### [Review React Examples for future Projects](https://reactjsexample.com/)
 
 ## Class 22 and 23 Learn Gatsby.js and Headless CMS
 
 1. Learn Gatsby.js
 [Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
+
+[Gatsby Tutorial From Scratch: The Definitive Guide (2020)](https://ibaslogic.com/gatsby-tutorial-from-scratch-for-beginners/)
 
 2. Learn Contentful
 [Getting Started](https://www.contentful.com/get-started/)
@@ -608,8 +643,6 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 6. [Making Gatsby a PWA: Service Worker and Web App Manifest](https://www.digitalocean.com/community/tutorials/gatsbyjs-gatsby-pwa)
 
-
-### [Review React Examples for future Projects](https://reactjsexample.com/)
 
 
 ### Bootcamp 2020 Project 9: Build a Blog site in Gatsby.js/Contentful with TypeScript and Deploy as a PWA
