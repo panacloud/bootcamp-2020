@@ -554,6 +554,10 @@ Introduction to GraphQL:
 
 [Introduction to QraphQL](https://www.howtographql.com/basics/0-introduction/)
 
+[Core Concepts](https://www.howtographql.com/basics/2-core-concepts/)
+
+[Big Picture (Architecture)](https://www.howtographql.com/basics/3-big-picture/)
+
 [Queries and Mutations](https://graphql.org/learn/queries/)
 
 Apollo-Client 3.0 Tutorial:
