@@ -554,7 +554,9 @@ Introduction to GraphQL:
 
 [Introduction to QraphQL](https://www.howtographql.com/basics/0-introduction/)
 
-GraphQL 3.0 Tutorial:
+[Queries and Mutations](https://graphql.org/learn/queries/)
+
+Apollo-Client 3.0 Tutorial:
 
 [Introduction to Appllo Client 3 in React](https://www.apollographql.com/docs/react/)
 
