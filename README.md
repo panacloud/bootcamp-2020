@@ -592,6 +592,18 @@ JavaScript Prerequisites:
 
 [Read about Tagged templates from this page](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
+
+Learn high level GraphQL Server Concepts, not in detail now (This will help you to understand client development better):
+
+[How to build full-stack apps with Apollo](https://www.apollographql.com/docs/tutorial/introduction/)
+
+[Build a Schema](https://www.apollographql.com/docs/tutorial/schema/)
+
+[Connect to data sources](https://www.apollographql.com/docs/tutorial/data-source/)
+
+[Write query resolvers](https://www.apollographql.com/docs/tutorial/resolvers/)
+
+
 Apollo-Client 3.0 Tutorial:
 
 [Introduction to Appllo Client 3 in React](https://www.apollographql.com/docs/react/)
@@ -604,9 +616,6 @@ Apollo-Client 3.0 Tutorial:
 
 [Using Apollo with TypeScript](https://www.apollographql.com/docs/react/development-testing/static-typing/)
 
-Reference:
-
-[How to build full-stack apps with Apollo](https://www.apollographql.com/docs/tutorial/introduction/)
 
 TypeScript Code Generator:
 
