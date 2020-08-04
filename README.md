@@ -625,6 +625,7 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 ### [Review React Examples for future Projects](https://reactjsexample.com/)
 
+
 ## Class 22 and 23 Learn Gatsby.js and Headless CMS
 
 1. Learn Gatsby.js
@@ -651,9 +652,23 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 [Demo of Blog site we want to build](https://gatsby-contentful-blogsite.netlify.app/blog/)
 
+[Tutorial](https://www.youtube.com/watch?v=fY3mBJSDA44)
+
+[Watch Video: Episode 1](https://www.youtube.com/watch?v=r_hYR53r61M)
+
+[Watch Video: Episode 2](https://www.youtube.com/watch?v=IaNU4R3ck_k)
+
+[Watch Video: Episode 3](https://www.youtube.com/watch?v=L9Uv_bLSaP4)
+
+[Watch Video: Episode 4](https://www.youtube.com/watch?v=NkFz2psDupw)
+
+[Watch Video: Episode 5](https://www.youtube.com/watch?v=A8Y1-GRmxFw)
+
+[Watch Video: Episode 6](https://www.youtube.com/watch?v=ONg1gpx0zlA)
+
 We want GitHub Actions workflow that builds a static blog site and deploys on Surge. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
 
-### Bootcamp 2020 Important Self Project I: Build a Developer Profile/Portfolio site in Gatsby.js/Contentful with TypeScript and Deploy as a PWA
+### Bootcamp 2020 Important Personal Project I: Build a Developer Profile/Portfolio site in Gatsby.js/Contentful with TypeScript and Deploy as a PWA
 
 [Creating a Portfolio Website: tips on how to do it right](https://undsgn.com/creating-a-portfolio-website-tips-on-how-to-do-it-right/)
 
@@ -661,14 +676,13 @@ We want GitHub Actions workflow that builds a static blog site and deploys on Su
 
 [10 tips for building a killer portfolio website](https://www.creativebloq.com/portfolios/tips-portfolio-website-4137460)
 
-[Watch Video](https://www.youtube.com/watch?v=r_hYR53r61M)
 
 [Building a personal site with Gatsby.js, Contentful and Netlify](Building a personal site with Gatsby.js, Contentful and Netlify)
 
 [Ejaz Ahmed Portfolio Site](https://www.ejazahmed.com)
 
 
-### Bootcamp 2020 Important Self Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin
+### Bootcamp 2020 Important Personal Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin
 
 [Connect to Zia Khan](https://www.linkedin.com/in/ziaukhan/)
 
@@ -676,13 +690,13 @@ We want GitHub Actions workflow that builds a static blog site and deploys on Su
 
 These two self projects will help you a lot in marketing yourself.
 
-### Bootcamp 2020 Important Self Project III: Create React and Gatsby Gigs on Fivver
+### Bootcamp 2020 Important Personal Project III: Create React and Gatsby Gigs on Fivver
 
 [4 Things to Do Before Creating Your Gig](https://sellers.fiverr.com/en/article/4-things-to-do-before-creating-your-gig)
 
 [Creating a Gig](https://sellers.fiverr.com/en/article/creating-a-gig)
 
-### Bootcamp 2020 Important Self Project IV: Start working on a Panacloud (Pvt.) Ltd. Project
+### Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud (Pvt.) Ltd. Project
 
 Getting your first work is difficult, therefore we suggest that you start working on a professional Pancloud project and become part of the team to gain experience and references.
 
