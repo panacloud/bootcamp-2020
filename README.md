@@ -511,6 +511,8 @@ Reference:
 
 [How To Test Your React Apps With The React Testing Library](https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
 
+[URDU VIDEO YOUTUBE](https://www.youtube.com/watch?v=R6S5Vo9aizg)
+
 
 ### Bootcamp 2020 Project 7B: Write 10+ Automated Tests for the Expense Tracker App and Quiz App built in Project 7A
 
