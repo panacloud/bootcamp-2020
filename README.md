@@ -4,6 +4,8 @@ We will teach you online to Build Full Stack Mobile Web Apps including e-commerc
 
 We have to understand humanity is facing a COVID-19 induced global economic recession and only the high-tech and software companies have grown and their stock prices and business have risen in this environment. We need to immediately get ready to face the upcoming economic crises boldly.
 
+[Bootcamp 2020 Group on LinkedIn](https://www.linkedin.com/groups/8964441/)
+
 ## English Section:
 
 Every Tuesday at 10:00 PM – 11:15 PM Pakistan Standard Time
@@ -175,34 +177,53 @@ Learn JavaScript Fetch
 [Fetch API data using useEffect React hook](https://medium.com/thecodefountain/fetch-api-data-using-useeffect-react-hook-465809ca12c6)
 
 Different Options to get data in React
+
 [Different ways to fetch data in React](https://dmitripavlutin.com/react-fetch-lifecycle-methods-hooks-suspense/)
 
 [Class 8 Code](https://github.com/zeeshanhanif/demo-react-useeffect)
+
 [Class 8 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223639700845447/)
+
 [Class 8 English YouTube Video](https://www.youtube.com/watch?v=MoTfMsuexhk)
+
 [Class 8 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223652738571382/)
+
 [Class 8 Urdu YouTube Video](https://www.youtube.com/watch?v=i7iuPKa2A-E)
 
 Data fetching with React Suspense
+
 [React Suspense 1](https://rahmanfadhil.com/fetch-data-with-react-suspense/)
+
 [React Suspense 2](https://blog.logrocket.com/react-suspense-for-data-fetching/)
+
 [React Suspense 3](https://dev.to/andreiduca/practical-implementation-of-data-fetching-with-react-suspense-that-you-can-use-today-273m)
+
 [React Suspense 4](https://medium.com/better-programming/diving-into-react-suspense-render-as-you-fetch-for-rest-apis-bf2d20ea7c59)
+
 References:
+
 [React Suspense Reference 1](https://reactjs.org/docs/concurrent-mode-suspense.html)
+
 [React Suspense Reference 2](https://www.manning.com/books/react-hooks-in-action)
 
 ## Class 9
 
 Learn Material UI
+
 [Main Website](https://material-ui.com/)
+
 [Installation](https://material-ui.com/getting-started/installation/)
+
 [Getting Started](https://material-ui.com/getting-started/usage/)
+
 [Details](https://react.school/material-ui)
+
 [Templates](https://material-ui.com/getting-started/templates/)
 
 Learn Chart.js
+
 [Mian Docs](https://www.chartjs.org/docs/latest/)
+
 [Getting Started](https://www.chartjs.org/docs/latest/getting-started/)
 
 [Class 9 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223687587242577/)
@@ -223,12 +244,17 @@ Last date for Submitting Project 2: COVID-19 Tracker App is Friday, July 10 midn
 You will use React, React Material UI, Chart.js, and React Suspense to build this COVID-19 Tracker React App
 
 1. Watch this video as a example for the app but build your own app don't just copy it:
+
 [Example COVID-19 Tracker App Demo](https://www.youtube.com/watch?v=khJlrj3Y6Ls)
 
 2. Choose one or more COVID-19 API's that you are going to use:
+
 [COVID-19 API Listing 1](https://rapidapi.com/collection/coronavirus-covid-19)
+
 [COVID-19 API Listing 2](https://covid-19-apis.postman.com/)
+
 [COVID-19 API Listing 3](https://dataconomy.com/2020/04/apis-to-track-coronavirus-covid-19/)
+
 [COVID-19 Google Map API](https://developers.google.com/maps/covid19)
 
 3. Start building your COVID-19 Tracker App
@@ -236,7 +262,9 @@ You will use React, React Material UI, Chart.js, and React Suspense to build thi
 Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD Actions and hosted on Surge.
 
 ## Class 10
+
 Adil Altaf builds the COVID-19 Tracker App
+
 [Class 10 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223727984452482/)
 
 [Class 10 English YouTube Video](https://www.youtube.com/watch?v=_JcQ5ISu2PQ&lc)
@@ -451,7 +479,7 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 [You can take help from here also: Your First React Typescript Project: a Todo List App](https://typeofnan.dev/your-first-react-typescript-project-todo-app/)
 
 
-## Class 17 Progressive Web App (PWA)
+## Class 17 Progressive Web Apps (PWA) and Offline-availability
 
 [THE CURRENT STATE OF PROGRESSIVE WEB APPS](https://www2.stardust-testing.com/en/the-current-state-of-progressive-web-apps)
 
@@ -479,6 +507,10 @@ Deploy PWA on All App Stores
 
 [PWA Reference](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
+[Progressive Web Apps and Offline-availability](https://www.simicart.com/blog/pwa-offline/)
+
+[How to Build Modern, Offline Apps With Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Offline_Service_workers)
+
 [Class 17 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224004740651214/)
 
 [Class 17 English YouTube Video](https://www.youtube.com/watch?v=S9Jkb61_gac)
@@ -487,15 +519,29 @@ Deploy PWA on All App Stores
 
 [Class 17 Urdu Facebook Video](https://www.youtube.com/watch?v=N5JHz6TvGnM)
 
-### Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA)
+## Class 18 Progressive Web App (PWA) and Service Push Notification
+
+[Firebase Push Notifications in React](https://www.smashingmagazine.com/2020/06/firebase-push-notifications-react/)
+
+[Class 18 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224036506845349/)
+
+[Class 18 English YouTube Video](https://www.youtube.com/watch?v=4MwPXLcMRns)
+
+[Class 18 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224047034148525/)
+
+[Class 18 Urdu YouTube Video](https://www.youtube.com/watch?v=oFxmMVi6U0U)
+
+### Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA) with Offline Capability and Push Notifications
+
 You should deploy them on Surge as well make it an Android App, Apple App and Windows App (If you have a Store account's you may deploy on the stores as well).
 
 Reference:
+
 [Publishing PWAs to Major App Stores: The Whys and Hows](https://www.simicart.com/blog/pwa-app-stores/)
 
 
 
-## Class 18 How to Test React Components in TypeScript
+## Class 19 and 20 How to Test React Components in TypeScript
 
 [You Can't Do CI/CD Without Automated Testing](https://dzone.com/articles/you-cant-do-cicd-without-automated-testing)
 
@@ -511,6 +557,7 @@ Reference:
 
 [How To Test Your React Apps With The React Testing Library](https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
 
+
 [CLASS 18 URDU VIDEO YOUTUBE](https://www.youtube.com/watch?v=R6S5Vo9aizg)
 
 [CLASS 18 ENGLISH VIDEO YOUTUBE](https://www.youtube.com/watch?v=gYYcGCpPA7g)
@@ -520,14 +567,105 @@ Reference:
 [CLASS 18 URDU FACEBOOK](https://www.facebook.com/zeeshanhanif/videos/10224118327250808/)
 
 
-### Bootcamp 2020 Project 7B: Write 10+ Automated Tests for the Expense Tracker App and Quiz App built in Project 7A
+[Class 19 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224107545941282/)
 
-Note: While Building the CI/CD pipeline make sure the app passes all the automated tests before deployment 
+[Class 19 English YouTube Video](https://www.youtube.com/watch?v=gYYcGCpPA7g)
 
-## Class 19 and 20 Learn Gatsby.js and Headless CMS
+
+### Bootcamp 2020 Project 7B: Build a React Timer App using TypeScript with Test-driven Development
+
+[React Test-driven Development: From User Stories to Production](https://www.toptal.com/react/tdd-react-user-stories-to-development)
+
+Note 1: While Building the CI/CD pipeline make sure the app passes all the automated tests before deployment 
+
+Note 2: In the Toptal article above they donot use TypeScipt, but you are required to do so.
+
+
+
+## Class 21 and 22 Client-Side GraphQL in React Apps
+
+Introduction to GraphQL:
+
+[Introduction to QraphQL](https://www.howtographql.com/basics/0-introduction/)
+
+[Core Concepts](https://www.howtographql.com/basics/2-core-concepts/)
+
+[Big Picture (Architecture)](https://www.howtographql.com/basics/3-big-picture/)
+
+[Queries and Mutations](https://graphql.org/learn/queries/)
+
+What’s your query? Learn GraphQL with React and Contentful
+
+[What’s your query? Learn GraphQL with React and Contentful](https://www.contentful.com/blog/2020/08/03/whats-your-query-learn-graphql-with-react-and-contentful/)
+
+[Watch Video Tutorials](https://www.contentful.com/developers/videos/learn-graphql/)
+
+JavaScript Prerequisites: 
+
+[What are Tag Functions?](https://codeburst.io/javascript-what-are-tag-functions-97682f29521b)
+
+[Read about Tagged templates from this page](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+
+
+Learn high level GraphQL Server Concepts, not in detail now (This will help you to understand client development better):
+
+
+[How to build full-stack apps with Apollo](https://www.apollographql.com/docs/tutorial/introduction/)
+
+[Build a Schema](https://www.apollographql.com/docs/tutorial/schema/)
+
+[Connect to data sources](https://www.apollographql.com/docs/tutorial/data-source/)
+
+[Write query resolvers](https://www.apollographql.com/docs/tutorial/resolvers/)
+
+
+Apollo-Client 3.0 Tutorial:
+
+[Introduction to Appllo Client 3 in React](https://www.apollographql.com/docs/react/)
+
+[Get started](https://www.apollographql.com/docs/react/get-started/)
+
+[Fetch data with the useQuery hook](https://www.apollographql.com/docs/react/data/queries/)
+
+[Update data with the useMutation hook](https://www.apollographql.com/docs/react/data/mutations/)
+
+[Using Apollo with TypeScript](https://www.apollographql.com/docs/react/development-testing/static-typing/)
+
+
+TypeScript Code Generator:
+
+[TypeScript Code Generator](https://hasura.io/learn/graphql/typescript-react-apollo/codegen/)
+
+[Code Generator Page](https://graphql-code-generator.com/)
+
+[How to configure GraphQL-Codegen and React Apollo Client to do work for you](https://medium.com/swlh/how-to-configure-react-apollo-client-and-graphql-codegen-to-do-work-for-you-ecb305d983aa)
+
+
+### Bootcamp 2020 Project 8: Build a Build an Space X Client Application with React, TypeScript, Appllo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as an PWA
+
+[Watch first 7 mins of video](https://www.youtube.com/watch?v=7wzR4Ig5pTI)
+
+[Space X API](http://api.spacex.land/graphql/)
+
+[Example of a Demo App](https://github.com/imranhsayed/graphql-react-app/blob/master/GraphQl-SpaceX-Demo.gif)
+
+[Build a GraphQL + React app with TypeScript](https://blog.logrocket.com/build-a-graphql-react-app-with-typescript/)
+
+You are required to build your own App not just copy the Demo Apps.
+
+Note: You can generate the TypeScript code automatically by using the Code Generator.
+
+
+
+### [Review React Examples for future Projects](https://reactjsexample.com/)
+
+
+## Class 23 and 24 Learn Gatsby.js and Headless CMS
 
 1. Learn Gatsby.js
 [Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
+
+[Gatsby Tutorial From Scratch: The Definitive Guide (2020)](https://ibaslogic.com/gatsby-tutorial-from-scratch-for-beginners/)
 
 2. Learn Contentful
 [Getting Started](https://www.contentful.com/get-started/)
@@ -541,20 +679,30 @@ Note: While Building the CI/CD pipeline make sure the app passes all the automat
 6. [Making Gatsby a PWA: Service Worker and Web App Manifest](https://www.digitalocean.com/community/tutorials/gatsbyjs-gatsby-pwa)
 
 
-### [Review React Examples for future Projects](https://reactjsexample.com/)
 
-
-### Bootcamp 2020 Project 8: Build a Blog site in Gatsby.js/Contentful with TypeScript and Deploy as a PWA
+### Bootcamp 2020 Project 9: Build a Blog site in Gatsby.js/Contentful with TypeScript and Deploy as a PWA
 
 [This Tutorial will help you in building the Blog site](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
 
 [Demo of Blog site we want to build](https://gatsby-contentful-blogsite.netlify.app/blog/)
 
+[Tutorial](https://www.youtube.com/watch?v=fY3mBJSDA44)
+
+[Watch Video: Episode 1](https://www.youtube.com/watch?v=r_hYR53r61M)
+
+[Watch Video: Episode 2](https://www.youtube.com/watch?v=IaNU4R3ck_k)
+
+[Watch Video: Episode 3](https://www.youtube.com/watch?v=L9Uv_bLSaP4)
+
+[Watch Video: Episode 4](https://www.youtube.com/watch?v=NkFz2psDupw)
+
+[Watch Video: Episode 5](https://www.youtube.com/watch?v=A8Y1-GRmxFw)
+
+[Watch Video: Episode 6](https://www.youtube.com/watch?v=ONg1gpx0zlA)
+
 We want GitHub Actions workflow that builds a static blog site and deploys on Surge. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
 
-## Bootcamp 2020 Important Project: Build a Developer Profile/Portfolio site in Gatsby.js/Contentful with TypeScript and Deploy as a PWA
-
-This project will help you in marketing yourself.
+### Bootcamp 2020 Important Personal Project I: Build a Developer Profile/Portfolio site in Gatsby.js/Contentful with TypeScript and Deploy as a PWA
 
 [Creating a Portfolio Website: tips on how to do it right](https://undsgn.com/creating-a-portfolio-website-tips-on-how-to-do-it-right/)
 
@@ -562,51 +710,40 @@ This project will help you in marketing yourself.
 
 [10 tips for building a killer portfolio website](https://www.creativebloq.com/portfolios/tips-portfolio-website-4137460)
 
-[Watch Video](https://www.youtube.com/watch?v=r_hYR53r61M)
 
 [Building a personal site with Gatsby.js, Contentful and Netlify](Building a personal site with Gatsby.js, Contentful and Netlify)
 
 [Ejaz Ahmed Portfolio Site](https://www.ejazahmed.com)
 
-## Class 21:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
+
+### Bootcamp 2020 Important Personal Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin
+
+[Connect to Zia Khan](https://www.linkedin.com/in/ziaukhan/)
+
+[10 Ways You Didn’t Know LinkedIn Could Find You a Job](https://www.aarp.org/work/job-hunting/info-2017/10-ways-to-use-linkedin-job-search.html)
+
+These two self projects will help you a lot in marketing yourself.
+
+### Bootcamp 2020 Important Personal Project III: Create React and Gatsby Gigs on Fivver
+
+[4 Things to Do Before Creating Your Gig](https://sellers.fiverr.com/en/article/4-things-to-do-before-creating-your-gig)
+
+[Creating a Gig](https://sellers.fiverr.com/en/article/creating-a-gig)
+
+### Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud (Pvt.) Ltd. Project
+
+Getting your first work is difficult, therefore we suggest that you start working on a professional Pancloud project and become part of the team to gain experience and references.
+
+
+## Class 25-30:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
 
 Our JAMStack Client Serverless Model = GitHub Repos + GitHub Actions + Gatsby Apps + Netlify Edge Deployment + Netlify Serverless Functions + FaunaDB
 
-[We will Learn mainly from this Repo](https://github.com/Panacloud-Multicloud/internet-scale-global-apps)
+[Building Internet-Scale Global Apps Repo](https://github.com/Panacloud-Multicloud/internet-scale-global-apps)
 
-[Client-serverless is the 4th generation application model](https://www.infoworld.com/article/3564264/client-serverless-is-the-4th-generation-application-model.html)
 
-[The state of the Jamstack in 2020](https://sdtimes.com/webdev/the-state-of-the-jamstack-in-2020/)
 
-[Jamstack brings front-end development back into focus](https://sdtimes.com/webdev/jamstack-brings-front-end-development-back-into-focus/)
-
-[What is the JAMstack and how do I get started?](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/)
-
-[How to Become a Full Stack Web Developer in 2020](https://www.freecodecamp.org/news/how-to-become-a-full-stack-web-developer-in-2020/)
-
-[Jamstack: The static website revolution upending web development](https://www.infoworld.com/article/3563829/jamstack-the-static-website-revolution-upending-web-development.html)
-
-[Future of Serverless Architecture](https://www.infoq.com/news/2020/07/future-serverless-architecture/)
-
-[A Comparison of Serverless Function (FaaS) Providers](https://fauna.com/blog/comparison-faas-providers)
-
-[Netlify Functions Overview](https://docs.netlify.com/functions/overview/#manage-your-serverless-functions)
-
-[Run sites globally, Changes deploy automatically](https://www.netlify.com/products/)
-
-FaunaDB Overview:
-
-[FaunaDB review: Fast NoSQL database for global scale](https://www.infoworld.com/article/3489459/faunadb-review-fast-nosql-database-for-global-scale.html)
-
-[Fauna Raises $27 Million to Continue Providing Cutting Edge Solutions for Developers](https://www.dbta.com/Editorial/News-Flashes/Fauna-Raises-27-Million-to-Continue-Providing-Cutting-Edge-Solutions-for-Developers-141679.aspx)
-
-[Madrona leads $27M round in Twitter vets’ Fauna database startup; Bob Muglia named chairman](https://www.geekwire.com/2020/madrona-leads-27m-round-twitter-vets-fauna-database-startup-bob-muglia-named-chairman/)
-
-[Fauna Named to Database Trends and Applications 2019 DBTA 100](https://www.businesswire.com/news/home/20190612005222/en/Fauna-Named-Database-Trends-Applications-2019-DBTA/)
-
-[Consistency without Clocks: The FaunaDB Distributed Transaction Protocol](https://fauna.com/blog/consistency-without-clocks-faunadb-transaction-protocol)
-
-## Bootcamp 2020 JAMStack Client Serverless Model Project 9A
+## Bootcamp 2020 JAMStack Client Serverless Model Project 10A
 
 [Building Serverless CRUD apps with Netlify Functions & FaunaDB](https://www.netlify.com/blog/2018/07/09/building-serverless-crud-apps-with-netlify-functions-faunadb/)
 
@@ -617,39 +754,39 @@ FaunaDB Overview:
 [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
-## Bootcamp 2020 JAMStack Client Serverless Model Project 9B
+## Bootcamp 2020 JAMStack Client Serverless Model Project 10B
 
 [JAMstack Crash Course - Build a Full Stack Application](https://www.youtube.com/watch?v=73b1ZbmB96I)
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
-## Bootcamp 2020 JAMStack Client Serverless Model Project 9C
+## Bootcamp 2020 JAMStack Client Serverless Model Project 10C
 
 [How to Build Authenticated Serverless JAMstack Apps with Gatsby and Netlify](https://www.freecodecamp.org/news/building-jamstack-apps/)
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
-## Bootcamp 2020 JAMStack Client Serverless Model Project 9D:
+## Bootcamp 2020 JAMStack Client Serverless Model Project 10D:
 
 [Manage Subscriptions and Protect Content With Stripe](https://www.netlify.com/blog/2020/07/13/manage-subscriptions-and-protect-content-with-stripe/)
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
-### Bootcamp 2020 JAMStack Client Serverless Model Project 9E: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
+### Bootcamp 2020 JAMStack Client Serverless Model Project 10E: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
 
 [Serverless Database CRUD Example With FaunaDB and Netlify Functions](https://nordschool.com/build-a-serverless-database-using-faunadb-and-netlify-functions/)
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
-### Bootcamp 2020 JAMStack Client Serverless Model Project 9F: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
+### Bootcamp 2020 JAMStack Client Serverless Model Project 10F: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
 
 [Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB](https://owlypixelhttps://www.dbta.com/Editorial/News-Flashes/Fauna-Raises-27-Million-to-Continue-Providing-Cutting-Edge-Solutions-for-Developers-141679.aspx.com/build-serverless-writing-pad/)
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
-### Bootcamp 2020 JAMStack Ecommerce Project 9G:
+### Bootcamp 2020 JAMStack Ecommerce Project 10G:
 [JAMstack e-commerce using Apicart, FaunaDB, Gridsome and Netlify](https://dev.to/machy8/jamstack-e-commerce-using-apicart-faunadb-gridsome-and-netlify-39jm)
 Note: User Gatsby.js instead of Gridsome
 [Demo](https://apicart-fauna-gridsome-example.netlify.app/)
@@ -658,7 +795,7 @@ Note: User Gatsby.js instead of Gridsome
 [9 Best eCommerce Solutions for Jamstack Websites](https://bejamas.io/blog/jamstack-ecommerce/)
 
 
-### Bootcamp 2020 Full Stack Project 10A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
+### Bootcamp 2020 Full Stack Project 11A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
 
 [Node js and Express Tutorial for Beginners](https://codeforgeek.com/express-nodejs-tutorial/)
 
@@ -671,14 +808,14 @@ Note: User Gatsby.js instead of Gridsome
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
-### Bootcamp 2020 Full Stack Project 10B: Building Serverless QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
+### Bootcamp 2020 Full Stack Project 11B: Building Serverless QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
 
 [Building Serverless GraphQL API in Node with Express and Netlify](https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify/)
 
 [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
-### Bootcamp 2020 Full Stack Project 11 Product Catalog and Shopping Cart with Context API, React Hooks, Animations API, Router and Serveless REST API
+### Bootcamp 2020 Full Stack Project 12 Product Catalog and Shopping Cart with Context API, React Hooks, Animations API, Router and Serveless REST API
 
 Admin app and customer app are both required. 
 
@@ -695,7 +832,7 @@ Admin app and customer app are both required.
 3. Now build your own Professional Shopping Cart with Context API, Hooks, Animation API and Router
 
 
-### Bootcamp 2020 Full Stack Project 12: Product Catalog and Shopping Cart with Redux Toolkit, Animations API, Router and Serveless GraphQL API
+### Bootcamp 2020 Full Stack Project 13: Product Catalog and Shopping Cart with Redux Toolkit, Animations API, Router and Serveless GraphQL API
 
 Admin app and customer app are both required. 
 
@@ -709,7 +846,7 @@ Admin app and customer app are both required.
 
 
 
-### Bootcamp 2020 Project 13: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
+### Bootcamp 2020 Project 14: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
 
 1. Gatsby Ecommerce 
 [Gatsby Ecommerce Tutorial](https://www.gatsbyjs.org/tutorial/ecommerce-tutorial/)
@@ -735,6 +872,7 @@ Admin app and customer app are both required.
 5. Pakistani Payment Services
 [Which payment gateways work in Pakistan](https://www.quora.com/Which-payment-gateways-work-in-Pakistan-as-an-alternative-to-PayPal-and-Stripe)
 [Ecommerce in Pakistan](https://www.dawn.com/news/1549691)
+[NayaPay and Visa partner to fast-track digital payments in Pakistan](https://www.dawn.com/news/1571618/nayapay-and-visa-partner-to-fast-track-digital-payments-in-pakistan)
 [Alipay in Pakistan](https://www.brandsynario.com/alipay-in-pakistan-e-commerce-giant-plans-to-boost-the-economy/)
 [JazzCash](https://sandbox.jazzcash.com.pk/sandbox)
 [JazzCash Documentation](https://payments.jazzcash.com.pk/SandboxDocumentation/)
@@ -744,7 +882,7 @@ Admin app and customer app are both required.
 [Telenor Opens API](https://www.centerforfinancialinclusion.org/telenor-opens-mobile-money-apis-for-third-party-developers)
 [Integration Guide](http://happening.pk/gsmahackathon/apidocument3.pdf)
 
-### Bootcamp 2020 Project 14 Build a Facebook Shop
+### Bootcamp 2020 Project 15 Build a Facebook Shop
 
 [The end of eCommerce as we know it](https://marketing-interactive.com/opinion-the-end-of-ecommerce-as-we-know-it]
 
@@ -768,7 +906,7 @@ Admin app and customer app are both required.
 
 
 
-### Bootcamp 2020 Project 15: Learn Multicloud Serverless Application Development
+### Bootcamp 2020 Project 16: Learn Multicloud Serverless Application Development
 
 [Servlesss and Cloud Native Computing Overview in Urdu on YouTube](https://www.youtube.com/watch?v=4UEVD97kjKo&t=1204s)
 
@@ -789,15 +927,15 @@ Admin app and customer app are both required.
 
 [Multicloud Serverless App Development Overview in Urdu on YouTube](https://www.youtube.com/watch?v=BYOsS1clC48/)
 
-### Bootcamp 2020 Project 16A: Implement Expense Tracker Android and iOS Apps using React Native with Backend in Express and MongoDB
+### Bootcamp 2020 Project 17A: Implement Expense Tracker Android and iOS Apps using React Native with Backend in Express and MongoDB
 
 [React Native Basics](https://reactnative.dev/docs/tutorial)
 
-### Bootcamp 2020 Project 16B: Implement Expense Tracker Android and iOS Apps using React Native with Local Storage in Realm
+### Bootcamp 2020 Project 17B: Implement Expense Tracker Android and iOS Apps using React Native with Local Storage in Realm
 
 [Realm Docs](https://realm.io/docs/javascript/latest/)
 
-### Bootcamp 2020 Project 17: Implement Expense Tracker DApp with Ethereum Blockchain
+### Bootcamp 2020 Project 18: Implement Expense Tracker DApp with Ethereum Blockchain
 [What are Decentralized Applications – dApps?](http://blockchainhub.net/decentralized-applications-dapps/)
 
 Zeeshan Hanif has implemented Expense Tracker as a DApp:
@@ -819,7 +957,7 @@ Smart Contract is written in [Solidity](https://www.dappuniversity.com/articles/
 You are requred to develop your own version of Expense Tracker DApp
 
 
-### Bootcamp 2020 Final Project 18: Participate in Building a Open Source Ecommerce Framework using TypeScript, Gatsby.js, Node.js/Express, Atlas MongoDB, Google Cloud Run, and Terraform 
+### Bootcamp 2020 Final Project 19: Participate in Building a Open Source Ecommerce Framework using TypeScript, Gatsby.js, Node.js/Express, Atlas MongoDB, Google Cloud Run, and Terraform 
 
 First Season consisting of 12 Episodes of Tech Talk in Urdu with Zia Khan and Adil Altaf are now available. In these episodes we discuss latest state of the art technologies like AI, Cloud Native, Serverless, Blockchain, JAMstack, and Multicloud.
 
@@ -842,51 +980,5 @@ You will get temporary free Access to AWS while doing these [Introduction to AWS
 Note 1: It is very easy the difficult part is getting your account verified by using credit cards or bank accounts. 
 
 Note 2: The cloud accounts are not required immediately. We will need them in about a months time.
-
-### Bootcamp 2020 Ninja Team Selection
-I will be selecting the best of the best developers from the bootcampers to work closely me and our team. First they will help the students and later they will be doing freelancing with our team. The criteria for selection will be the submitted projects, professionalism and project ownership. Even once selected you can be removed from the team because you did not follow instructions, or your performance is not up to mark. Only one warning will be given before removal. 
-
-Right now I have selected only nine developer:
-
-1. Jazzel Mehmood, Karachi
-2. Farhan Farooq, Karachi
-3. Abdul Raffay Rizwan, Karachi
-4. Nadir Ali, Karachi
-5. Maleeha Khalid, Lahore
-6. Muhammad Usman Tariq, Karachi
-7. Muhammad Bilal, Rawalpindi
-8. Muhammad Usman, Wah Cantt 
-9. Saad Baig, Karachi
-
-Muhammad Naeem Akhtar from Turin, Italy and Nadir Ali from Karachi have jointly won Chief Ninja position in Bootcamp 2020
-I am extremely pleased to announce that Muhammad Naeem Akhtar ( https://www.facebook.com/profile.php?id=100014148211403 ) and Nadir Ali ( https://www.facebook.com/nadirali.abro.58/ ) have won the Chief Ninja position by submitting the following two React apps:
-
-Naeem Project 1: Expense Tracker
-http://expense-tracker-app-mna.surge.sh/
-
-Naeem Project 2: COVID-19 Tracker
-http://covid19-analytics-mna.surge.sh/
-
-Nadir Project 1: Expense Tracker
-http://bootcamp2020-expense-trackerapp.surge.sh/
-
-Nadir Project 2: COVID-19 Tracker
-http://bootcamp2020-covid19-trackerapp.surge.sh/
-
-Naeem will be the Chief Ninja for the English Section:
-https://www.facebook.com/groups/4IRUG/
-
-Nadir will be the Chief Ninja for the Urdu Section:
-https://www.facebook.com/groups/freelance.remote.work/
-
-Both will also be joining the live classes representing the students.
-
-Interesting info about Naeem:
-Right now he is living in Turin, Italy. He has done Bachelor in Electronic Engineering and Master in Mechatronic Engineering from Italy. Right now he is doing a full time job as Junior Java and IoT developer. 
-
-Note for everyone: All positions are temporary, as we move forward anyone can replace anyone, everything is purely merit based. 
-
-
-Please note if I am leading a team two things are not tolerated under any circumstances: telling an untruth and unprofessional behavior. I do not care if you are not super-intelligent but what we are looking for are people who take ownership and are highly ethical and professional. 
 
 
