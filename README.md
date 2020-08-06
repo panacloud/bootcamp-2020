@@ -648,7 +648,13 @@ You are required to build your own App not just copy the Demo Apps.
 
 Note: You can generate the TypeScript code automatically by using the Code Generator.
 
-## Class 23 and 24 Develop React Components with Storybook
+## Class 23 and 24 Develop React Components with Storybook 6
+
+[Storybook 6 Migration Guide](https://medium.com/storybookjs/storybook-6-migration-guide-200346241bb5)
+
+[Storybook 6 Release](https://github.com/storybookjs/storybook/issues/9311)
+
+[React Storybook Tutorial Video](https://www.youtube.com/watch?v=BySFuXgG-ow)
 
 [Introduction](https://storybook.js.org/docs/basics/introduction/)
 
@@ -678,7 +684,7 @@ Storybook with TypeScript, Material UI and GraphQL (Apollo)
 
 
 
-### Bootcamp Project 9: Build a Taskbox React Component in TypeScript using Storybook (Tests are also Required)
+### Bootcamp Project 9: Build a Taskbox React Component in TypeScript using Storybook 6 (Tests are also Required)
 Build a Taskbox, a task management UI (similar to Asana), complete with multiple item types and states. We'll go from building simple UI components to assembling screens. Each chapter the the tutorial illustrates a different aspect of developing UIs with Storybook.
 
 [Tackbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
