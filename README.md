@@ -654,6 +654,8 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 [Storybook 6 Release](https://github.com/storybookjs/storybook/issues/9311)
 
+[Builtin TypeScript for Storybook 6](https://medium.com/storybookjs/zero-config-storybook-66e7c4798e5d)
+
 [React Storybook Tutorial Video](https://www.youtube.com/watch?v=BySFuXgG-ow)
 
 [Introduction](https://storybook.js.org/docs/basics/introduction/)
