@@ -662,15 +662,29 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 [How To Build a UI Component with React and Storybook](https://www.digitalocean.com/community/tutorials/how-to-build-a-ui-component-with-react-and-storybook)
 
+Storybook with TypeScript, Material UI and GraphQL (Apollo)
+
+[TypeScript Config](https://storybook.js.org/docs/configurations/typescript-config/)
+
+[How to setup Storybook in React Typescript project](https://medium.com/@pongsatt/how-to-setup-storybook-in-react-typescript-project-ad2516515919)
+
+[Set up Storybook using Typescript, Material UI and Styled Components](https://dev.to/amalv/set-up-storybook-using-typescript-material-ui-and-styled-components-fem)
+
+[Configure React Storybook for use with Typescript](https://egghead.io/lessons/react-configure-react-storybook-for-use-with-typescript)
+
+[Storybook Addon Material-UI](https://github.com/react-theming/storybook-addon-material-ui)
+
+[Apollo Storybook Decorator](https://github.com/abhiaiyer91/apollo-storybook-decorator)
 
 
-### Bootcamp Project 9: Build a Taskbox React Component using Storybook
+
+### Bootcamp Project 9: Build a Taskbox React Component in TypeScript using Storybook (Tests are also Required)
 Build a Taskbox, a task management UI (similar to Asana), complete with multiple item types and states. We'll go from building simple UI components to assembling screens. Each chapter the the tutorial illustrates a different aspect of developing UIs with Storybook.
 
 [Tackbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
 
 
-[Now you are ready to do these kinds of jobs](https://stackoverflow.com/jobs/277612/senior-react-typescript-and-graphql-developer-x-team)
+### [Now you are ready to do these kinds of jobs](https://stackoverflow.com/jobs/277612/senior-react-typescript-and-graphql-developer-x-team)
 
 
 ### [Review React Examples for future Projects](https://reactjsexample.com/)
