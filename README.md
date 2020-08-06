@@ -648,12 +648,35 @@ You are required to build your own App not just copy the Demo Apps.
 
 Note: You can generate the TypeScript code automatically by using the Code Generator.
 
+## Class 23 and 24 Develop React Components with Storybook
+
+[Introduction](https://storybook.js.org/docs/basics/introduction/)
+
+[Storybook for React](https://storybook.js.org/docs/guides/guide-react/)
+
+[Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook)
+
+[Introduction to design systems](https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/)
+
+[Visual Testing Handbook](https://www.learnstorybook.com/visual-testing-handbook/)
+
+[How To Build a UI Component with React and Storybook](https://www.digitalocean.com/community/tutorials/how-to-build-a-ui-component-with-react-and-storybook)
+
+
+
+### Bootcamp Project 9: Build a Taskbox React Component using Storybook
+Build a Taskbox, a task management UI (similar to Asana), complete with multiple item types and states. We'll go from building simple UI components to assembling screens. Each chapter the the tutorial illustrates a different aspect of developing UIs with Storybook.
+
+[Tackbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
+
+
+[Now you are ready to do these kinds of jobs](https://stackoverflow.com/jobs/277612/senior-react-typescript-and-graphql-developer-x-team)
 
 
 ### [Review React Examples for future Projects](https://reactjsexample.com/)
 
 
-## Class 23 and 24 Learn Gatsby.js and Headless CMS
+## Class 25 and 26 Learn Gatsby.js and Headless CMS
 
 1. Learn Gatsby.js
 [Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
@@ -673,7 +696,7 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 
 
-### Bootcamp 2020 Project 9: Build a Blog site in Gatsby.js/Contentful with TypeScript and Deploy as a PWA
+### Bootcamp 2020 Project 10: Build a Blog site in Gatsby.js/Contentful with TypeScript and Deploy as a PWA
 
 [This Tutorial will help you in building the Blog site](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
 
@@ -734,7 +757,7 @@ These two self projects will help you a lot in marketing yourself.
 Getting your first work is difficult, therefore we suggest that you start working on a professional Pancloud project and become part of the team to gain experience and references.
 
 
-## Class 25-30:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
+## Class 27-35:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
 
 Our JAMStack Client Serverless Model = GitHub Repos + GitHub Actions + Gatsby Apps + Netlify Edge Deployment + Netlify Serverless Functions + FaunaDB
 
@@ -742,7 +765,7 @@ Our JAMStack Client Serverless Model = GitHub Repos + GitHub Actions + Gatsby Ap
 
 
 
-## Bootcamp 2020 JAMStack Client Serverless Model Project 10A
+## Bootcamp 2020 JAMStack Client Serverless Model Project 11A
 
 [Building Serverless CRUD apps with Netlify Functions & FaunaDB](https://www.netlify.com/blog/2018/07/09/building-serverless-crud-apps-with-netlify-functions-faunadb/)
 
@@ -753,19 +776,19 @@ Our JAMStack Client Serverless Model = GitHub Repos + GitHub Actions + Gatsby Ap
 [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
-## Bootcamp 2020 JAMStack Client Serverless Model Project 10B
+## Bootcamp 2020 JAMStack Client Serverless Model Project 11B
 
 [JAMstack Crash Course - Build a Full Stack Application](https://www.youtube.com/watch?v=73b1ZbmB96I)
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
-## Bootcamp 2020 JAMStack Client Serverless Model Project 10C
+## Bootcamp 2020 JAMStack Client Serverless Model Project 11C
 
 [How to Build Authenticated Serverless JAMstack Apps with Gatsby and Netlify](https://www.freecodecamp.org/news/building-jamstack-apps/)
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
-## Bootcamp 2020 JAMStack Client Serverless Model Project 10D:
+## Bootcamp 2020 JAMStack Client Serverless Model Project 11D:
 
 [Manage Subscriptions and Protect Content With Stripe](https://www.netlify.com/blog/2020/07/13/manage-subscriptions-and-protect-content-with-stripe/)
 
@@ -778,14 +801,14 @@ Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketpla
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
-### Bootcamp 2020 JAMStack Client Serverless Model Project 10F: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
+### Bootcamp 2020 JAMStack Client Serverless Model Project 11F: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
 
 [Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB](https://owlypixelhttps://www.dbta.com/Editorial/News-Flashes/Fauna-Raises-27-Million-to-Continue-Providing-Cutting-Edge-Solutions-for-Developers-141679.aspx.com/build-serverless-writing-pad/)
 
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
-### Bootcamp 2020 JAMStack Ecommerce Project 10G:
+### Bootcamp 2020 JAMStack Ecommerce Project 11G:
 [JAMstack e-commerce using Apicart, FaunaDB, Gridsome and Netlify](https://dev.to/machy8/jamstack-e-commerce-using-apicart-faunadb-gridsome-and-netlify-39jm)
 Note: User Gatsby.js instead of Gridsome
 [Demo](https://apicart-fauna-gridsome-example.netlify.app/)
@@ -794,7 +817,7 @@ Note: User Gatsby.js instead of Gridsome
 [9 Best eCommerce Solutions for Jamstack Websites](https://bejamas.io/blog/jamstack-ecommerce/)
 
 
-### Bootcamp 2020 Full Stack Project 11A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
+### Bootcamp 2020 Full Stack Project 12A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
 
 [Node js and Express Tutorial for Beginners](https://codeforgeek.com/express-nodejs-tutorial/)
 
@@ -807,14 +830,14 @@ Note: User Gatsby.js instead of Gridsome
 Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
-### Bootcamp 2020 Full Stack Project 11B: Building Serverless QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
+### Bootcamp 2020 Full Stack Project 12B: Building Serverless QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
 
 [Building Serverless GraphQL API in Node with Express and Netlify](https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify/)
 
 [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
 
 
-### Bootcamp 2020 Full Stack Project 12 Product Catalog and Shopping Cart with Context API, React Hooks, Animations API, Router and Serveless REST API
+### Bootcamp 2020 Full Stack Project 13 Product Catalog and Shopping Cart with Context API, React Hooks, Animations API, Router and Serveless REST API
 
 Admin app and customer app are both required. 
 
@@ -831,7 +854,7 @@ Admin app and customer app are both required.
 3. Now build your own Professional Shopping Cart with Context API, Hooks, Animation API and Router
 
 
-### Bootcamp 2020 Full Stack Project 13: Product Catalog and Shopping Cart with Redux Toolkit, Animations API, Router and Serveless GraphQL API
+### Bootcamp 2020 Full Stack Project 14: Product Catalog and Shopping Cart with Redux Toolkit, Animations API, Router and Serveless GraphQL API
 
 Admin app and customer app are both required. 
 
@@ -845,7 +868,7 @@ Admin app and customer app are both required.
 
 
 
-### Bootcamp 2020 Project 14: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
+### Bootcamp 2020 Project 15: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
 
 1. Gatsby Ecommerce 
 [Gatsby Ecommerce Tutorial](https://www.gatsbyjs.org/tutorial/ecommerce-tutorial/)
@@ -881,7 +904,7 @@ Admin app and customer app are both required.
 [Telenor Opens API](https://www.centerforfinancialinclusion.org/telenor-opens-mobile-money-apis-for-third-party-developers)
 [Integration Guide](http://happening.pk/gsmahackathon/apidocument3.pdf)
 
-### Bootcamp 2020 Project 15 Build a Facebook Shop
+### Bootcamp 2020 Project 16 Build a Facebook Shop
 
 [The end of eCommerce as we know it](https://marketing-interactive.com/opinion-the-end-of-ecommerce-as-we-know-it]
 
@@ -905,7 +928,7 @@ Admin app and customer app are both required.
 
 
 
-### Bootcamp 2020 Project 16: Learn Multicloud Serverless Application Development
+### Bootcamp 2020 Project 17: Learn Multicloud Serverless Application Development
 
 [Servlesss and Cloud Native Computing Overview in Urdu on YouTube](https://www.youtube.com/watch?v=4UEVD97kjKo&t=1204s)
 
@@ -926,15 +949,15 @@ Admin app and customer app are both required.
 
 [Multicloud Serverless App Development Overview in Urdu on YouTube](https://www.youtube.com/watch?v=BYOsS1clC48/)
 
-### Bootcamp 2020 Project 17A: Implement Expense Tracker Android and iOS Apps using React Native with Backend in Express and MongoDB
+### Bootcamp 2020 Project 18A: Implement Expense Tracker Android and iOS Apps using React Native with Backend in Express and MongoDB
 
 [React Native Basics](https://reactnative.dev/docs/tutorial)
 
-### Bootcamp 2020 Project 17B: Implement Expense Tracker Android and iOS Apps using React Native with Local Storage in Realm
+### Bootcamp 2020 Project 18B: Implement Expense Tracker Android and iOS Apps using React Native with Local Storage in Realm
 
 [Realm Docs](https://realm.io/docs/javascript/latest/)
 
-### Bootcamp 2020 Project 18: Implement Expense Tracker DApp with Ethereum Blockchain
+### Bootcamp 2020 Project 19: Implement Expense Tracker DApp with Ethereum Blockchain
 [What are Decentralized Applications – dApps?](http://blockchainhub.net/decentralized-applications-dapps/)
 
 Zeeshan Hanif has implemented Expense Tracker as a DApp:
@@ -956,7 +979,7 @@ Smart Contract is written in [Solidity](https://www.dappuniversity.com/articles/
 You are requred to develop your own version of Expense Tracker DApp
 
 
-### Bootcamp 2020 Final Project 19: Participate in Building a Open Source Ecommerce Framework using TypeScript, Gatsby.js, Node.js/Express, Atlas MongoDB, Google Cloud Run, and Terraform 
+### Bootcamp 2020 Final Project 20: Participate in Building a Open Source Ecommerce Framework using TypeScript, Gatsby.js, Node.js/Express, Atlas MongoDB, Google Cloud Run, and Terraform 
 
 First Season consisting of 12 Episodes of Tech Talk in Urdu with Zia Khan and Adil Altaf are now available. In these episodes we discuss latest state of the art technologies like AI, Cloud Native, Serverless, Blockchain, JAMstack, and Multicloud.
 
