@@ -561,6 +561,10 @@ Reference:
 
 [Class 19 English YouTube Video](https://www.youtube.com/watch?v=gYYcGCpPA7g)
 
+[Class 19 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224118327250808/)
+
+[Class 19 Urdu YouTube Video](https://www.youtube.com/watch?v=R6S5Vo9aizg)
+
 
 ### Bootcamp 2020 Project 7B: Build a React Timer App using TypeScript with Test-driven Development
 
@@ -698,6 +702,12 @@ We want GitHub Actions workflow that builds a static blog site and deploys on Su
 [HOW TO BUILD AN IMPRESSIVE PORTFOLIO SITE](https://skillcrush.com/blog/impressive-tech-portfolio/)
 
 [10 tips for building a killer portfolio website](https://www.creativebloq.com/portfolios/tips-portfolio-website-4137460)
+
+[Awwward-winning portfolio websites](https://www.awwwards.com/websites/portfolio/)
+
+[15 Web Developer Portfolios to Inspire You](https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/)
+
+[My (Simple) Workflow To Design And Develop A Portfolio Website](https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/)
 
 
 [Building a personal site with Gatsby.js, Contentful and Netlify](Building a personal site with Gatsby.js, Contentful and Netlify)
