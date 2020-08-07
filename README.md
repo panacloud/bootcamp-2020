@@ -766,7 +766,7 @@ We want GitHub Actions workflow that builds a static blog site and deploys on Su
 
 [10 Ways You Didn’t Know LinkedIn Could Find You a Job](https://www.aarp.org/work/job-hunting/info-2017/10-ways-to-use-linkedin-job-search.html)
 
-These two self projects will help you a lot in marketing yourself.
+[Improve Your Résumé by Turning Bullet Points into Stories](https://hbr.org/2016/05/improve-your-resume-by-turning-bullet-points-into-stories)
 
 ### Bootcamp 2020 Important Personal Project III: Create React and Gatsby Gigs on Fivver
 
