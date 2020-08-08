@@ -578,6 +578,9 @@ Note 1: While Building the CI/CD pipeline make sure the app passes all the autom
 
 Note 2: In the Toptal article above they donot use TypeScipt, but you are required to do so.
 
+[Class 20 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224150277569546/)
+[Class 20 English YouTube Video](https://www.youtube.com/watch?v=xsf_NhEkQII)
+
 
 
 ## Class 21 and 22 Client-Side GraphQL in React Apps
