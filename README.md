@@ -673,6 +673,14 @@ In this project we will be learning to use Redux by building an app that lets us
 
 [Mirage Tutorial](https://miragejs.com/tutorial/intro/)
 
+Mirage Notes:
+
+1. Mirage runs in the browser, so there's no new terminal processes to manage
+2. Returning data from Mirage is as fast and easy as writing frontend code
+3. You never alter your application code to consume data from Mirage – your app thinks it's talking to a real network
+
+
+
 
 ## Class 27 and 28 Develop React Components with Storybook 6
 
