@@ -666,7 +666,13 @@ Learn Redux Toolkit
 
 [Intermediate Tutorial: Redux Toolkit in Action](https://redux-toolkit.js.org/tutorials/intermediate-tutorial)
 
-### Bootcamp 2020 Project 9: Building Diaries App
+### Bootcamp 2020 Project 9A: Create a shopping basket using React and Redux Toolkit with TypeScript
+
+[Create a shopping basket using React and Redux Toolkit](https://developerhandbook.com/stripe/create-shopping-basket-using-redux-toolkit/)
+
+[Project Repo](https://github.com/jpreecedev/shopping-basket-tutorial)
+
+### Bootcamp 2020 Project 9B: Building Diaries App using React and Redux Toolkit with TypeScript
 In this project we will be learning to use Redux by building an app that lets users create and manage diaries. We will be building our application using React, and we’ll set up Mirage as our API mocking server since we have not yet learned to build API's.
 
 [We will follow this Tutorial: Setting Up Redux For Use In A Real-World Application](https://www.smashingmagazine.com/2020/08/redux-real-world-application/)
