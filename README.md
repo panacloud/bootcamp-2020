@@ -580,6 +580,8 @@ Note 2: In the Toptal article above they donot use TypeScipt, but you are requir
 
 [Class 20 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224150277569546/)
 [Class 20 English YouTube Video](https://www.youtube.com/watch?v=xsf_NhEkQII)
+[Class 20 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224162457554038/)
+[Class 20 Urdu YouTube Video](https://www.youtube.com/watch?v=VxDXySbiqhY)
 
 
 
@@ -696,7 +698,7 @@ Storybook with TypeScript, Material UI and GraphQL (Apollo)
 ### Bootcamp Project 9: Build a Taskbox React Component in TypeScript using Storybook 6 (Tests are also Required)
 Build a Taskbox, a task management UI (similar to Asana), complete with multiple item types and states. We'll go from building simple UI components to assembling screens. Each chapter the the tutorial illustrates a different aspect of developing UIs with Storybook.
 
-[Tackbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
+[Taskbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
 
 
 ### [Now you are ready to do these kinds of jobs](https://stackoverflow.com/jobs/277612/senior-react-typescript-and-graphql-developer-x-team)
