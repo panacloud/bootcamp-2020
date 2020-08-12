@@ -642,6 +642,9 @@ TypeScript Code Generator:
 
 [How to configure GraphQL-Codegen and React Apollo Client to do work for you](https://medium.com/swlh/how-to-configure-react-apollo-client-and-graphql-codegen-to-do-work-for-you-ecb305d983aa)
 
+[Class 21 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224181188222293/)
+[Class 21 English YouTube Video](https://www.youtube.com/watch?v=T_kLAkmxUi4)
+
 
 ### Bootcamp 2020 Project 8: Build a Build an Space X Client Application with React, TypeScript, Appllo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as an PWA
 
