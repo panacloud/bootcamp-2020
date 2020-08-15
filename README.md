@@ -579,8 +579,11 @@ Note 1: While Building the CI/CD pipeline make sure the app passes all the autom
 Note 2: In the Toptal article above they donot use TypeScipt, but you are required to do so.
 
 [Class 20 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224150277569546/)
+
 [Class 20 English YouTube Video](https://www.youtube.com/watch?v=xsf_NhEkQII)
+
 [Class 20 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224162457554038/)
+
 [Class 20 Urdu YouTube Video](https://www.youtube.com/watch?v=VxDXySbiqhY)
 
 
@@ -643,8 +646,11 @@ TypeScript Code Generator:
 [How to configure GraphQL-Codegen and React Apollo Client to do work for you](https://medium.com/swlh/how-to-configure-react-apollo-client-and-graphql-codegen-to-do-work-for-you-ecb305d983aa)
 
 [Class 21 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224181188222293/)
+
 [Class 21 English YouTube Video](https://www.youtube.com/watch?v=T_kLAkmxUi4)
+
 [Class 21 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224191488999806/)
+
 [Class 21 Urdu YouTube Video](https://www.youtube.com/watch?v=DETgbc4P2AM)
 
 
