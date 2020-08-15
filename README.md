@@ -745,21 +745,13 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 ## Class 27 and 28 Learn Gatsby.js and Headless CMS
 
-1. Learn Gatsby.js
-[Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
+[Learn JAMstack in Baby Steps](https://github.com/panacloud-global-apps/jamstack)
 
-[Gatsby Tutorial From Scratch: The Definitive Guide (2020)](https://ibaslogic.com/gatsby-tutorial-from-scratch-for-beginners/)
+[Turn Your Gatsby Site into a Progressive Web App](https://www.gatsbyjs.org/blog/100days/pwa/) 
 
-2. Learn Contentful
-[Getting Started](https://www.contentful.com/get-started/)
+[Making Gatsby a PWA: Service Worker and Web App Manifest](https://www.digitalocean.com/community/tutorials/gatsbyjs-gatsby-pwa)
 
-3. [Getting started with Typescript on Gatsby](https://medium.com/maxime-heckel/getting-started-with-typescript-on-gatsby-8544b47c1d27)
-
-4. [You may used this starter](https://www.gatsbyjs.org/starters/wataruoguchi/gatsby-starter-typescript-contentful/)
-
-5. [Turn Your Gatsby Site into a Progressive Web App](https://www.gatsbyjs.org/blog/100days/pwa/) 
-
-6. [Making Gatsby a PWA: Service Worker and Web App Manifest](https://www.digitalocean.com/community/tutorials/gatsbyjs-gatsby-pwa)
+[You may used this starter in your apps](https://www.gatsbyjs.org/starters/wataruoguchi/gatsby-starter-typescript-contentful/)
 
 
 
