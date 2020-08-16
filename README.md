@@ -653,6 +653,14 @@ TypeScript Code Generator:
 
 [Class 21 Urdu YouTube Video](https://www.youtube.com/watch?v=DETgbc4P2AM)
 
+[Class 22 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224218669319297/)
+
+[Class 22 English YouTube Video](https://www.youtube.com/watch?v=81d1-zldsoQ)
+
+[Class 22 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224230984267163/)
+
+[Class 22 Urdu YouTube Video](https://www.youtube.com/watch?v=JdOj2yMdEkU)
+
 
 ### Bootcamp 2020 Project 8: Build a Build an Space X Client Application with React, TypeScript, Appllo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as an PWA
 
