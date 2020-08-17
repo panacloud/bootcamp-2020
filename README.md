@@ -709,11 +709,9 @@ Mirage Notes:
 
 ## Class 27 and 28 Develop React Components with Storybook 6
 
-[Storybook 6 Migration Guide](https://medium.com/storybookjs/storybook-6-migration-guide-200346241bb5)
+[Storybook 6](https://medium.com/storybookjs/storybook-6-0-1e14a2071000)
 
-[Storybook 6 Release](https://github.com/storybookjs/storybook/issues/9311)
-
-[Builtin TypeScript for Storybook 6](https://medium.com/storybookjs/zero-config-storybook-66e7c4798e5d)
+[Storybook 6 Release](https://storybook.js.org/releases/6.0)
 
 [React Storybook Tutorial Video](https://www.youtube.com/watch?v=BySFuXgG-ow)
 
@@ -765,7 +763,7 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Making Gatsby a PWA: Service Worker and Web App Manifest](https://www.digitalocean.com/community/tutorials/gatsbyjs-gatsby-pwa)
 
-[You may used this starter in your apps](https://www.gatsbyjs.org/starters/wataruoguchi/gatsby-starter-typescript-contentful/)
+[You may use this starter in your apps](https://www.gatsbyjs.org/starters/wataruoguchi/gatsby-starter-typescript-contentful/)
 
 
 
