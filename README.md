@@ -755,7 +755,7 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 ### [Review React Examples for future Projects](https://reactjsexample.com/)
 
 
-## Class 27 and 28 Learn Gatsby.js and Headless CMS
+## Class 27 and 28 Learn JAMstack Serverless and Headless CMS
 
 [Learn JAMstack in Baby Steps](https://github.com/panacloud-global-apps/jamstack)
 
