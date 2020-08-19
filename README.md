@@ -763,7 +763,7 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 ## Class 28, 29, and 30 Learn JAMstack Serverless and Headless CMS
 
-[Learn JAMstack in Baby Steps](https://github.com/panacloud-global-apps/jamstack)
+[Learn JAMstack in Baby Steps](https://github.com/panacloud-global-apps/jamstack-serverless)
 
 [Turn Your Gatsby Site into a Progressive Web App](https://www.gatsbyjs.org/blog/100days/pwa/) 
 
