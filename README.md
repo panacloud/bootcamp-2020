@@ -718,7 +718,7 @@ Mirage Notes:
 
 ### Bootcamp Project 10: Build a Signup Form with Formix, Yup, and Material UI
 
-[https://webomnizz.com/working-with-react-formik-and-yup/](Working With React, Formik and Yup)
+[Working With React, Formik and Yup](https://webomnizz.com/working-with-react-formik-and-yup/)
 
 
 
