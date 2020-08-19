@@ -716,7 +716,9 @@ Mirage Notes:
 
 [Tutorial](https://formik.org/docs/tutorial)
 
-### Bootcamp Project 10: Build a Signup Form with Formix, Yup, and Material UI
+[With TypeScript](https://formik.org/docs/guides/typescript)
+
+### Bootcamp Project 10: Build a Signup Form with Formix, Yup, and Material UI using TypeScript
 
 [Working With React, Formik and Yup](https://webomnizz.com/working-with-react-formik-and-yup/)
 
