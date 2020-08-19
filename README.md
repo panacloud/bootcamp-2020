@@ -588,7 +588,7 @@ Note 2: In the Toptal article above they donot use TypeScipt, but you are requir
 
 
 
-## Class 21 and 22 Client-Side GraphQL in React Apps
+## Class 21, 22, and 23 Client-Side GraphQL in React Apps
 
 Introduction to GraphQL:
 
@@ -676,7 +676,13 @@ You are required to build your own App not just copy the Demo Apps.
 
 Note: You can generate the TypeScript code automatically by using the Code Generator.
 
-## Class 23 and 24 Managing State with Redux Toolkit
+[Class 23 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224252222558107/)
+
+[Class 23 English YouTube Video] (https://www.youtube.com/watch?v=gavh9cTxGWI)
+
+
+
+## Class 24 and 25 Managing State with Redux Toolkit
 Learn Redux Toolkit
 
 [Quick Start](https://redux-toolkit.js.org/introduction/quick-start)
@@ -707,7 +713,7 @@ Mirage Notes:
 
 
 
-## Class 27 and 28 Develop React Components with Storybook 6
+## Class 26 and 27 Develop React Components with Storybook 6
 
 [Storybook 6](https://medium.com/storybookjs/storybook-6-0-1e14a2071000)
 
@@ -755,7 +761,7 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 ### [Review React Examples for future Projects](https://reactjsexample.com/)
 
 
-## Class 27 and 28 Learn JAMstack Serverless and Headless CMS
+## Class 28, 29, and 30 Learn JAMstack Serverless and Headless CMS
 
 [Learn JAMstack in Baby Steps](https://github.com/panacloud-global-apps/jamstack)
 
@@ -832,7 +838,7 @@ We want you to build this blog site with gated content, available only for logge
 Getting your first work is difficult, therefore we suggest that you start working on a professional Pancloud project and become part of the team to gain experience and references.
 
 
-## Class 29-35:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
+## Class 30-35:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
 
 Our JAMStack Client Serverless Model = GitHub Repos + GitHub Actions + Gatsby Apps + Netlify Edge Deployment + Netlify Serverless Functions + FaunaDB
 
