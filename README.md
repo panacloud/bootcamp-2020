@@ -730,9 +730,11 @@ In this project we will be learning to use Redux by building an app that lets us
 
 
 
-## Class 28 and 29 React Component Driven Development with Storybook and Bit
+## Class 28 and 29 React Component Driven Development (CDD) with Storybook and Bit
 
 [A Guide to Component Driven Development (CDD)](https://itnext.io/a-guide-to-component-driven-development-cdd-1516f65d8b55)
+
+[Awesome component-driven development](https://github.com/component-driven/awesome-list)
 
 [Storybook 6](https://medium.com/storybookjs/storybook-6-0-1e14a2071000)
 
