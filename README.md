@@ -678,7 +678,7 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 [Class 23 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224252222558107/)
 
-[Class 23 English YouTube Video] (https://www.youtube.com/watch?v=gavh9cTxGWI)
+[Class 23 English YouTube Video](https://www.youtube.com/watch?v=gavh9cTxGWI)
 
 [Class 23 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224260317480475/)
 
@@ -738,6 +738,8 @@ In this project we will be learning to use Redux by building an app that lets us
 
 [Awesome component-driven development](https://github.com/component-driven/awesome-list)
 
+[How is bit.dev different from Storybook?](https://blog.bitsrc.io/how-is-bit-dev-different-from-storybook-892b373733bd)
+
 [Storybook 6](https://medium.com/storybookjs/storybook-6-0-1e14a2071000)
 
 [Storybook 6 Release](https://storybook.js.org/releases/6.0)
@@ -777,7 +779,7 @@ Storybook with TypeScript, Material UI and GraphQL (Apollo)
 
 
 
-### Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook 6 (Tests are also Required)
+### Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook 6 (Tests are also Required) and Publishing it on Bit
 Build a Taskbox, a task management UI (similar to Asana), complete with multiple item types and states. We'll go from building simple UI components to assembling screens. Each chapter the the tutorial illustrates a different aspect of developing UIs with Storybook.
 
 [Taskbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
