@@ -726,9 +726,11 @@ In this project we will be learning to use Redux by building an app that lets us
 
 [Formik with TypeScript](https://formik.org/docs/guides/typescript)
 
-### Bootcamp Project 10: Build a Signup Form with Formix, Yup, and Material UI using TypeScript
+### Bootcamp Project 10: Build a Signup Form and Multi-Step Form with Formix, Yup, and Material UI using TypeScript
 
 [Working With React, Formik and Yup](https://webomnizz.com/working-with-react-formik-and-yup/)
+
+[React Multi-Step Form Tutorial: Using Formik, Yup and material-ui](https://www.youtube.com/watch?v=l3NEC4McW3g)
 
 
 
@@ -781,7 +783,7 @@ Storybook with TypeScript, Material UI and GraphQL (Apollo)
 
 
 
-### Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook 6 (Tests are also Required) and Publishing it on Bit
+### Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook (Tests are also Required) and Publishing it on Bit
 Build a Taskbox, a task management UI (similar to Asana), complete with multiple item types and states. We'll go from building simple UI components to assembling screens. Each chapter the the tutorial illustrates a different aspect of developing UIs with Storybook.
 
 [Taskbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
