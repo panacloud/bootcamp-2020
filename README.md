@@ -680,9 +680,13 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 [Class 23 English YouTube Video] (https://www.youtube.com/watch?v=gavh9cTxGWI)
 
+[Class 23 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224260317480475/)
+
+[Class 23 English Facebook Video](https://www.youtube.com/watch?v=oVn0oXOdS58)
 
 
-## Class 24 and 25 Managing State with Redux Toolkit
+
+## Class 24 and 25 Managing State with Redux Toolkit and Building API Mocking Server with Mirage
 Learn Redux Toolkit
 
 [Quick Start](https://redux-toolkit.js.org/introduction/quick-start)
@@ -690,6 +694,14 @@ Learn Redux Toolkit
 [Basic Tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
 
 [Intermediate Tutorial: Redux Toolkit in Action](https://redux-toolkit.js.org/tutorials/intermediate-tutorial)
+
+[Mirage Tutorial](https://miragejs.com/tutorial/intro/)
+
+Mirage Notes:
+
+1. Mirage runs in the browser, so there's no new terminal processes to manage
+2. Returning data from Mirage is as fast and easy as writing frontend code
+3. You never alter your application code to consume data from Mirage – your app thinks it's talking to a real network
 
 ### Bootcamp 2020 Project 9A: Create a shopping basket using React and Redux Toolkit with TypeScript
 
@@ -702,13 +714,7 @@ In this project we will be learning to use Redux by building an app that lets us
 
 [We will follow this Tutorial: Setting Up Redux For Use In A Real-World Application](https://www.smashingmagazine.com/2020/08/redux-real-world-application/)
 
-[Mirage Tutorial](https://miragejs.com/tutorial/intro/)
 
-Mirage Notes:
-
-1. Mirage runs in the browser, so there's no new terminal processes to manage
-2. Returning data from Mirage is as fast and easy as writing frontend code
-3. You never alter your application code to consume data from Mirage – your app thinks it's talking to a real network
 
 ## Class 26 and 27 Forms with Formik and Yup
 
