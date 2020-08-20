@@ -730,7 +730,9 @@ In this project we will be learning to use Redux by building an app that lets us
 
 
 
-## Class 28 and 29 Develop React Components with Storybook 6
+## Class 28 and 29 React Component Driven Development with Storybook and Bit
+
+[A Guide to Component Driven Development (CDD)](https://itnext.io/a-guide-to-component-driven-development-cdd-1516f65d8b55)
 
 [Storybook 6](https://medium.com/storybookjs/storybook-6-0-1e14a2071000)
 
@@ -763,6 +765,11 @@ Storybook with TypeScript, Material UI and GraphQL (Apollo)
 [Storybook Addon Material-UI](https://github.com/react-theming/storybook-addon-material-ui)
 
 [Apollo Storybook Decorator](https://github.com/abhiaiyer91/apollo-storybook-decorator)
+
+
+[Bit for React](https://docs.bit.dev/docs/tutorials/bit-react-tutorial)
+
+[How to Use React and Typescript in Bit.dev](https://medium.com/@vagacoder/how-to-use-react-and-typescript-in-bit-dev-89a1260d2d9f)
 
 
 
