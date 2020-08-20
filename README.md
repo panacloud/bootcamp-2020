@@ -718,11 +718,13 @@ In this project we will be learning to use Redux by building an app that lets us
 
 ## Class 26 and 27 Forms with Formik and Yup
 
-[Installation](https://formik.org/docs/overview#installation)
+[Formik Installation](https://formik.org/docs/overview#installation)
 
-[Tutorial](https://formik.org/docs/tutorial)
+[Formik Tutorial](https://formik.org/docs/tutorial)
 
-[With TypeScript](https://formik.org/docs/guides/typescript)
+[Formik: React Forms Video Tutorial with Yup and Material](https://www.youtube.com/watch?v=kYyaJyTLjpk&t=40m26s)
+
+[Formik with TypeScript](https://formik.org/docs/guides/typescript)
 
 ### Bootcamp Project 10: Build a Signup Form with Formix, Yup, and Material UI using TypeScript
 
