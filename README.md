@@ -6,8 +6,8 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
 
 # Table of Contents
 1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
-2. [Prerequisites](#prerequisites--html--css--and-javascript)
-3. [Class 1: Development Setup](#class-1--development-setup)
+2. [Prerequisites](#prerequisites-html-css-and-javascript)
+3. [Class 1: Development Setup](#class-1-development-setup)
 
 
 
