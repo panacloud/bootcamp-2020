@@ -5,23 +5,18 @@ We will teach you online to Build Full Stack Mobile Web Apps including e-commerc
 We have to understand humanity is facing a COVID-19 induced global economic recession and only the high-tech and software companies have grown and their stock prices and business have risen in this environment. We need to immediately get ready to face the upcoming economic crises boldly.
 
 # Table of Contents
-1. [Introduction to English and Urdu Sections](#intro)
-2. [Prerequisites](#prerequisites)
-3. [Class 1: Development Setup](#class1)
+1. [Introduction to English and Urdu Sections]((#introduction-to-english-and-urdu-sections)
+2. [Prerequisites](#prerequisites--html--css--and-javascript)
+3. [Class 1: Development Setup](#class-1--development-setup)
 
-- [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
-- [English Section:](#english-section-)
-- [Urdu Section:](#urdu-section-)
-  * [Teaching Team:](#teaching-team-)
-  * [Prerequisites: HTML, CSS, and JavaScript](#prerequisites--html--css--and-javascript)
-- [Class 1: Development Setup](#class-1--development-setup)
+
 
 
 ## Introduction to English and Urdu Sections
 
 [Bootcamp 2022 Group on LinkedIn](https://www.linkedin.com/groups/8964441/)
 
-## English Section:
+### English Section:
 
 Every Tuesday at 10:00 PM – 11:15 PM Pakistan Standard Time
 
@@ -31,7 +26,7 @@ Every Saturday at 10:00 PM – 11:15 PM Pakistan Standard Time
 
 [YouTube English Channel](https://www.youtube.com/channel/UCZUgRzBPk8CoYeHhbPL8OWg)
 
-## Urdu Section:
+### Urdu Section:
 
 Every Wednesday 10:00 pm to 11:15 pm Pakistan Standard Time
 
@@ -45,7 +40,7 @@ Every Sunday 10:00 pm to 11:15 pm Pakistan Standard Time
 
 [Zeeshan Hanif](https://github.com/zeeshanhanif), Hira Khan, Bashir Aziz, Daniyal Nogori, [Moshin Khalid](https://github.com/MuhammadMohsin), Aamir Pinger, Adil Altaf, Ameen Alam and [Zia Khan](https://github.com/ziaukhan).
 
-### Prerequisites: HTML, CSS, and JavaScript
+## Prerequisites: HTML, CSS, and JavaScript
 
 These topics have been released for everyone in Urdu:
 
