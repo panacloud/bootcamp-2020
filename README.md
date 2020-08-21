@@ -27,6 +27,32 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
     * [Bootcamp 2020 Project 6: Quiz App with React and TypeScript](#bootcamp-2020-project-6--quiz-app-with-react-and-typescript)
 14. [Class 17 Progressive Web Apps (PWA) and Offline Availability](#class-17-progressive-web-apps-pwa-and-offline-availability)
 15. [Class 18 Progressive Web App (PWA) and Service Push Notification](#class-18-progressive-web-app-pwa-and-service-push-notification)
+    * [Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA) with Offline Capability and Push Notifications](#bootcamp-2020-project-7a--rebuild-the-expense-tracker-app-and-quiz-app-with-react-typescript-it-should-be-a-progressive-web-app--pwa--with-offline-capability-and-push-notifications)
+16. [Class 19 and 20 How to Test React Components in TypeScript](#class-19-and-20-how-to-test-react-components-in-typescript)
+    * [Bootcamp 2020 Project 7B: Build a React Timer App using TypeScript with Test Driven Development](#bootcamp-2020-project-7b--build-a-react-timer-app-using-typescript-with-test-driven-development)
+17. [Class 21, 22, and 23 Client Side GraphQL in React Apps](#class-21--22--and-23-client-side-graphql-in-react-apps)
+    * [Bootcamp 2020 Project 8: Build a Build a Space X Client Application with React, TypeScript, Appllo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as a PWA](#bootcamp-2020-project-8--build-a-build-a-space-x-client-application-with-react-typescript-appllo-client-3-and-spacex-api-using-test-driven-development-tdd-and-deployed-as-a-pwa)
+18. [Class 24 and 25 Managing State with Redux Toolkit and Building API Mocking Servers with Mirage](#class-24-and-25-managing-state-with-redux-toolkit-and-building-api-mocking-servers-with-mirage)
+    * [Bootcamp 2020 Project 9A: Create a Shopping Basket using React and Redux Toolkit with TypeScript](#bootcamp-2020-project-9a-create-a-shopping-basket-using-react-and-redux-toolkit-with-typescript)
+    * [Bootcamp 2020 Project 9B: Building Diaries App using React and Redux Toolkit with TypeScript](#bootcamp-2020-project-9b-building-diaries-app-using-react-and-redux-toolkit-with-typescript)
+19. [Class 26 and 27 Forms with Formik and Yup](#class-26-and-27-forms-with-formik-and-yup)
+    * [Bootcamp Project 10: Build a Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript](#bootcamp-project-10-build-a-signup-form-and-multi-step-form-with-formik-yup-and-material-ui-using-typescript)
+20. [Class 28 and 29 React Component Driven Development with Storybook and Bit](#class-28-and-29-react-component-driven-development-with-storybook-and-bit)
+    * [Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit](#bootcamp-project-11--build-a-taskbox-react-component-in-typescript-using-storybook-and-publishing-it-on-bit)
+21. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
+22. [Class 30, 31, and 32 Learn JAMstack Serverless and Headless CMS](#class-30-31-and-32-learn-jamstack-serverless-and-headless-cms)
+    * [Bootcamp 2020 Project 12: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy as a PWA](#bootcamp-2020-project-12-build-a-blog-site-in-gatsbyjs-and-contentful-with-typescript-and-deploy-as-a-pwa)
+23. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
+    * [Bootcamp 2020 Important Personal Project I: Build a Developer Profile Portfolio site in Gatsby.js Contentful with TypeScript and Deploy as a PWA](#bootcamp-2020-important-personal-project-i--build-a-developer-profile-portfolio-site-in-gatsbyjs-contentful-with-typescript-and-deploy-as-a-pwa)
+    * [Bootcamp 2020 Important Personal Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin](#bootcamp-2020-important-personal-project-ii--build-a-detailed-linkedin-developer-profile-and-become-active-on-linkedin)
+    * [Bootcamp 2020 Important Personal Project III: Create Full Stack, React, Gatsby and Serverless Gigs on Fivver](#bootcamp-2020-important-personal-project-iii--create-full-stack--react--gatsby-and-serverless-gigs-on-fivver)
+    * [Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud USA Project](#bootcamp-2020-important-personal-project-iv--start-working-on-a-panacloud-usa-project)
+23. [Class 34-38: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-34-38-jamstack-ecommerce-stripe-shopify-and-snipcart)
+24. [Class 39-42: MultiCloud Serverless: AWS, Google Cloud, and Azure](#class-39-42-multicloud-serverless-aws-google-cloud-and-azure)
+
+
+
+
 
 
 
@@ -592,7 +618,7 @@ Reference:
 [Class 19 Urdu YouTube Video](https://www.youtube.com/watch?v=R6S5Vo9aizg)
 
 
-### Bootcamp 2020 Project 7B: Build a React Timer App using TypeScript with Test-driven Development
+### Bootcamp 2020 Project 7B: Build a React Timer App using TypeScript with Test Driven Development
 
 [React Test-driven Development: From User Stories to Production](https://www.toptal.com/react/tdd-react-user-stories-to-development)
 
@@ -614,7 +640,7 @@ Note 2: In the Toptal article above they donot use TypeScipt, but you are requir
 
 
 
-## Class 21, 22, and 23 Client-Side GraphQL in React Apps
+## Class 21, 22, and 23 Client Side GraphQL in React Apps
 
 Introduction to GraphQL:
 
@@ -688,7 +714,7 @@ TypeScript Code Generator:
 [Class 22 Urdu YouTube Video](https://www.youtube.com/watch?v=JdOj2yMdEkU)
 
 
-### Bootcamp 2020 Project 8: Build a Build an Space X Client Application with React, TypeScript, Appllo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as an PWA
+### Bootcamp 2020 Project 8: Build a Build a Space X Client Application with React, TypeScript, Appllo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as a PWA
 
 [Watch first 7 mins of video](https://www.youtube.com/watch?v=7wzR4Ig5pTI)
 
@@ -712,7 +738,8 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 
 
-## Class 24 and 25 Managing State with Redux Toolkit and Building API Mocking Server with Mirage
+## Class 24 and 25 Managing State with Redux Toolkit and Building API Mocking Servers with Mirage
+
 Learn Redux Toolkit
 
 [Quick Start](https://redux-toolkit.js.org/introduction/quick-start)
@@ -729,7 +756,7 @@ Mirage Notes:
 2. Returning data from Mirage is as fast and easy as writing frontend code
 3. You never alter your application code to consume data from Mirage – your app thinks it's talking to a real network
 
-### Bootcamp 2020 Project 9A: Create a shopping basket using React and Redux Toolkit with TypeScript
+### Bootcamp 2020 Project 9A: Create a Shopping Basket using React and Redux Toolkit with TypeScript
 
 [Create a shopping basket using React and Redux Toolkit](https://developerhandbook.com/stripe/create-shopping-basket-using-redux-toolkit/)
 
@@ -752,7 +779,8 @@ In this project we will be learning to use Redux by building an app that lets us
 
 [Formik with TypeScript](https://formik.org/docs/guides/typescript)
 
-### Bootcamp Project 10: Build a Signup Form and Multi-Step Form with Formix, Yup, and Material UI using TypeScript
+
+### Bootcamp Project 10: Build a Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript
 
 [Working With React, Formik and Yup](https://webomnizz.com/working-with-react-formik-and-yup/)
 
@@ -760,7 +788,7 @@ In this project we will be learning to use Redux by building an app that lets us
 
 
 
-## Class 28 and 29 React Component Driven Development (CDD) with Storybook and Bit
+## Class 28 and 29 React Component Driven Development with Storybook and Bit
 
 [A Guide to Component Driven Development (CDD)](https://itnext.io/a-guide-to-component-driven-development-cdd-1516f65d8b55)
 
@@ -809,16 +837,18 @@ Storybook with TypeScript, Material UI and GraphQL (Apollo)
 
 
 
-### Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook (Tests are also Required) and Publishing it on Bit
+### Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit
 Build a Taskbox, a task management UI (similar to Asana), complete with multiple item types and states. We'll go from building simple UI components to assembling screens. Each chapter the the tutorial illustrates a different aspect of developing UIs with Storybook.
 
 [Taskbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
 
 
-### [Now you are ready to do these kinds of jobs](https://stackoverflow.com/jobs/277612/senior-react-typescript-and-graphql-developer-x-team)
+### Now you are ready to do these kinds of jobs
+
+[Remore Job Requirements](https://stackoverflow.com/jobs/277612/senior-react-typescript-and-graphql-developer-x-team)
 
 
-### [Review React Examples for future Projects](https://reactjsexample.com/)
+[Review React Examples for future Projects](https://reactjsexample.com/)
 
 
 ## Class 30, 31, and 32 Learn JAMstack Serverless and Headless CMS
@@ -833,7 +863,7 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 
 
-### Bootcamp 2020 Project 12: Build a Blog site in Gatsby.js/Contentful with TypeScript and Deploy as a PWA
+### Bootcamp 2020 Project 12: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy as a PWA
 
 [This Tutorial will help you in building the Blog site](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
 
@@ -858,8 +888,9 @@ We want GitHub Actions workflow that builds a static blog site and deploys on Su
 Important Challenge Requirement:
 We want you to build this blog site with gated content, available only for logged-in users. However we still want the blogs to be indexed for SEO reasons, and would like visitors (not logged in) have access to 3 free blogs (just like Medium), after that we want to user to get a "limited" access to each page (maybe 20 lines or so), just like news website sometimes do. The logged-in users will have unlimited access to all the blogs. We will use [Firebase authentication](https://firebase.google.com/docs/auth) for user logins. 
 
+## Class 33 Learn to Market Our Skills
 
-### Bootcamp 2020 Important Personal Project I: Build a Developer Profile/Portfolio site in Gatsby.js/Contentful with TypeScript and Deploy as a PWA
+### Bootcamp 2020 Important Personal Project I: Build a Developer Profile Portfolio site in Gatsby.js Contentful with TypeScript and Deploy as a PWA
 
 [Creating a Portfolio Website: tips on how to do it right](https://undsgn.com/creating-a-portfolio-website-tips-on-how-to-do-it-right/)
 
@@ -887,23 +918,23 @@ We want you to build this blog site with gated content, available only for logge
 
 [Improve Your Résumé by Turning Bullet Points into Stories](https://hbr.org/2016/05/improve-your-resume-by-turning-bullet-points-into-stories)
 
-### Bootcamp 2020 Important Personal Project III: Create React and Gatsby Gigs on Fivver
+### Bootcamp 2020 Important Personal Project III: Create Full Stack, React, Gatsby and Serverless Gigs on Fivver
 
 [4 Things to Do Before Creating Your Gig](https://sellers.fiverr.com/en/article/4-things-to-do-before-creating-your-gig)
 
 [Creating a Gig](https://sellers.fiverr.com/en/article/creating-a-gig)
 
-### Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud (Pvt.) Ltd. Project
+### Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud USA Project
 
 Getting your first work is difficult, therefore we suggest that you start working on a professional Pancloud project and become part of the team to gain experience and references.
 
 
-## Class 33-38:  Building Global, Internet-Scale Applications with the Fourth Generation Application Model
+## Class 34-38: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
 
-Our JAMStack Client Serverless Model = GitHub Repos + GitHub Actions + Gatsby Apps + Netlify Edge Deployment + Netlify Serverless Functions + FaunaDB
+[Gatsby E-commerce Tutorial](https://www.gatsbyjs.com/tutorial/ecommerce-tutorial/)
 
-[Building Internet-Scale Global Apps Repo](https://github.com/Panacloud-Multicloud/internet-scale-global-apps)
 
+## Class 39-42: MultiCloud Serverless: AWS, Google Cloud, and Azure
 
 
 ## Bootcamp 2020 JAMStack Client Serverless Model Project 13A
