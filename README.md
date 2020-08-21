@@ -5,7 +5,7 @@ We will teach you online to Build Full Stack Mobile Web Apps including e-commerc
 We have to understand humanity is facing a COVID-19 induced global economic recession and only the high-tech and software companies have grown and their stock prices and business have risen in this environment. We need to immediately get ready to face the upcoming economic crises boldly.
 
 # Table of Contents
-1. [Introduction to English and Urdu Sections]((#introduction-to-english-and-urdu-sections)
+1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
 2. [Prerequisites](#prerequisites--html--css--and-javascript)
 3. [Class 1: Development Setup](#class-1--development-setup)
 
