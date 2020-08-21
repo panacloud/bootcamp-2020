@@ -771,6 +771,8 @@ In this project we will be learning to use Redux by building an app that lets us
 
 ## Class 26 and 27 Forms with Formik and Yup
 
+[React Formik Playlist](https://www.youtube.com/playlist?list=PLT5Jhb7lgSBM4VCbfJAAch3G6XioJXuFX)
+
 [Formik Installation](https://formik.org/docs/overview#installation)
 
 [Formik Tutorial](https://formik.org/docs/tutorial)
