@@ -14,6 +14,22 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
    * [Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API](#bootcamp-2020-project-1-build-an-expense-tracker-app-using-react-hooks-and-context-api)
 7. [Class 7: Asynchronous JavaScript](#class-7-asynchronous-javascript)
 8. [Class 8: Fetch Data](#class-8-fetch-data)
+9. [Class 9 and 10: Material UI](#class-9-and-10--material-ui)
+   * [Bootcamp 2020 Project 2: COVID-19 Tracker App](#bootcamp-2020-project-2--covid-19-tracker-app)
+10. [Class 11 React Router v6](#class-11-react-router-v6)
+    * [Bootcamp 2020 Project 3: Shoe Store](#bootcamp-2020-project-3-shoe-store)
+11. [Class 12 Web Animations API](#class-12-web-animations-api)
+12. [Class 13 Web Animations API with React](#class-13-web-animations-api-with-react)
+    * [Bootcamp 2020 Project 4A: Red Queen's Race with Web Animation API and React Hooks](#bootcamp-2020-project-4a--red-queen-s-race-with-web-animation-api-and-react-hooks)
+    * [Bootcamp 2020 Project 4B: Develop Tiny Short Animation with React Hooks](#bootcamp-2020-project-4b-develop-tiny-short-animation-with-react-hooks)
+    * [Bootcamp 2020 Bonus/Extra Project 5: Build an Animated React Website which follows the Latest Trends like Animated Illustrations](#bootcamp-2020-bonus-extra-project-5-build-an-animated-react-website-which-follows-the-latest-trends-like-animated-illustrations)
+13. [Class 14, 15 and 16 TypeScript](#class-14-15-and-16-typescript)
+    * [Bootcamp 2020 Project 6: Quiz App with React and TypeScript](#bootcamp-2020-project-6--quiz-app-with-react-and-typescript)
+14. [Class 17 Progressive Web Apps (PWA) and Offline Availability](#class-17-progressive-web-apps-pwa-and-offline-availability)
+15. [Class 18 Progressive Web App (PWA) and Service Push Notification](#class-18-progressive-web-app-pwa-and-service-push-notification)
+
+
+
 
 
 
@@ -219,7 +235,7 @@ References:
 
 [React Suspense Reference 2](https://www.manning.com/books/react-hooks-in-action)
 
-## Class 9
+## Class 9 and 10: Material UI
 
 Learn Material UI
 
@@ -252,7 +268,6 @@ Learn Chart.js
 
 [Submit Project here](https://docs.google.com/forms/d/e/1FAIpQLSe73k_rbeFDLdZB_mynUVF8f8AZbcG5MkvCRG_omAZuiMPDGg/viewform)
 
-Last date for Submitting Project 2: COVID-19 Tracker App is Friday, July 10 midnight
 
 You will use React, React Material UI, Chart.js, and React Suspense to build this COVID-19 Tracker React App
 
@@ -273,8 +288,6 @@ You will use React, React Material UI, Chart.js, and React Suspense to build thi
 3. Start building your COVID-19 Tracker App
 
 Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD Actions and hosted on Surge.
-
-## Class 10
 
 Adil Altaf builds the COVID-19 Tracker App
 
@@ -306,7 +319,7 @@ Note: [Use the latest Beta Release of V6](https://github.com/ReactTraining/react
 
 Now build a Shoe Store after watching this [video](https://www.youtube.com/watch?v=4NpGzBEySvI)
 
-Last date to [submit Project 3](https://docs.google.com/forms/d/e/1FAIpQLSd1q0mVoS3Ue-qmWlV97cPuMSCzebdPcyMl2MQg1VHNj42plw/viewform) is Wednesday, July 15 midnight
+[Submit Project 3](https://docs.google.com/forms/d/e/1FAIpQLSd1q0mVoS3Ue-qmWlV97cPuMSCzebdPcyMl2MQg1VHNj42plw/viewform)
 
 ## Class 12 Web Animations API
 
@@ -384,7 +397,7 @@ Read this article: [The Tiny Short Animation Trend in Web Design](https://specky
 Clone the front page animation of one of the companies mentioned in the article, using the latest web animation API.
 
 
-### Bootcamp 2020 Bonus/Extra Project 5: Build a Animated React Website which follows the Latest Trends like Animated Illustrations
+### Bootcamp 2020 Bonus/Extra Project 5: Build an Animated React Website which follows the Latest Trends like Animated Illustrations
 
 [Project Submit Form](https://docs.google.com/forms/d/e/1FAIpQLSdhHS93c4GCfxTAJYkuIG8nSp9kRp1pYcLW9r-20TNO2P6wIA/viewform)
 
@@ -445,7 +458,7 @@ You may use AI to generate graphics:
 [Auto Draw: An AI Experiment](https://www.autodraw.com/)
 
 
-## Class 14, 15 and 16 TypeScript 4.0+
+## Class 14, 15 and 16 TypeScript
 
 Begin by installing [TypeScript 4.0+](https://www.typescriptlang.org/download):
 
@@ -492,7 +505,7 @@ Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https:
 [You can take help from here also: Your First React Typescript Project: a Todo List App](https://typeofnan.dev/your-first-react-typescript-project-todo-app/)
 
 
-## Class 17 Progressive Web Apps (PWA) and Offline-availability
+## Class 17 Progressive Web Apps (PWA) and Offline Availability
 
 [THE CURRENT STATE OF PROGRESSIVE WEB APPS](https://www2.stardust-testing.com/en/the-current-state-of-progressive-web-apps)
 
