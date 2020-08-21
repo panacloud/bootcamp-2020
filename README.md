@@ -8,6 +8,10 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
 1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
 2. [Prerequisites](#prerequisites-html-css-and-javascript)
 3. [Class 1: Development Setup](#class-1-development-setup)
+4. [Class 2: Starting React](#class-2-starting-react)
+5. [Class 3 and 4: Learn React](#class-3-and-4--learn-react)
+6. [Class 5 and 6: Hooks](#class-5-and-6--hooks)
+   1. [Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API](#bootcamp-2020-project-1--build-an-expense-tracker-app-using-react-hooks-and-context-api)
 
 
 
@@ -73,7 +77,7 @@ Learning Material for Class 1:
 
 
 
-## Class 2:
+## Class 2: Starting React
 
 Learning material
 
@@ -92,9 +96,8 @@ English Videos:
 [Class 2 in Urdu on YouTube](https://www.youtube.com/watch?v=mEFq3YGiauM)
 
 
-## Class 3 and 4
+## Class 3 and 4: Learn React
 
-Learn React
 [Learn React Tutorial](https://daveceddia.com/react-tutorial/)
 Cover the Tutorial Before Fetching Data
 
@@ -115,9 +118,7 @@ Cover the Tutorial Before Fetching Data
 [Class 4 YouTube Urdu Video](https://www.youtube.com/watch?v=i-DhkVmlgcI)
 
 
-### Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API
-
-## Class 5 and 6
+## Class 5 and 6: Hooks
 After we have learned the useState Hook in class 4 using the [Learn React Tutorial](https://daveceddia.com/react-tutorial/) we will skip the fetch data (we will cover it latter) part of the tutorial and learn useContext and useReducer hooks and build the Expense Tracker App.
 
 First we will learn the hooks:
@@ -139,11 +140,9 @@ First we will learn the hooks:
 [Class 5 Facebook Urdu Video](https://www.facebook.com/piaic.main/videos/176512327228720/)
 
 
-The we will build the Expense Tracker App:
+### Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API
 
 Follow this Video and build the App: [Expense Tracker](https://www.youtube.com/watch?v=XuFDcZABiDQ)
-
-Project Due Date: Monday, June 22, 2020 Midnight Pakistan Standard Time
 
 [Project Submit Form](https://docs.google.com/forms/d/e/1FAIpQLSfnJKOcI5t-IKt7ebmdRgr5llo4PIMXUVMKGAptMjaIeN0Gsg/viewform)
 
