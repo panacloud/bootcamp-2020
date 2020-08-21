@@ -4,7 +4,15 @@ We will teach you online to Build Full Stack Mobile Web Apps including e-commerc
 
 We have to understand humanity is facing a COVID-19 induced global economic recession and only the high-tech and software companies have grown and their stock prices and business have risen in this environment. We need to immediately get ready to face the upcoming economic crises boldly.
 
-[Bootcamp 2020 Group on LinkedIn](https://www.linkedin.com/groups/8964441/)
+# Table of Contents
+1. [Introduction to English and Urdu Sections](#intro)
+2. [Prerequisites](#prerequisites)
+3. [Class 1: Development Setup](#class1)
+
+
+## Introduction to English and Urdu Sections [](#){name=intro}
+
+[Bootcamp 2022 Group on LinkedIn](https://www.linkedin.com/groups/8964441/)
 
 ## English Section:
 
@@ -30,7 +38,7 @@ Every Sunday 10:00 pm to 11:15 pm Pakistan Standard Time
 
 [Zeeshan Hanif](https://github.com/zeeshanhanif), Hira Khan, Bashir Aziz, Daniyal Nogori, [Moshin Khalid](https://github.com/MuhammadMohsin), Aamir Pinger, Adil Altaf, Ameen Alam and [Zia Khan](https://github.com/ziaukhan).
 
-### Prerequisites: HTML, CSS, and JavaScript
+### Prerequisites: HTML, CSS, and JavaScript [](#){name=#prerequisites}
 
 These topics have been released for everyone in Urdu:
 
@@ -43,7 +51,7 @@ These topics have been released for everyone in Urdu:
 Note: Material in English is already available [extensively on the web](https://css-tricks.com/where-do-you-learn-html-css-in-2020/).
 
 
-## Class 1:
+## Class 1: Development Setup [](#){name=class1}
 
 Learning Material for Class 1:
 
