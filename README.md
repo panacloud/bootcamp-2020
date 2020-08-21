@@ -12,6 +12,8 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
 5. [Class 3 and 4: Learn React](#class-3-and-4--learn-react)
 6. [Class 5 and 6: Hooks](#class-5-and-6-hooks)
    * [Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API](#bootcamp-2020-project-1-build-an-expense-tracker-app-using-react-hooks-and-context-api)
+7. [Class 7: Asynchronous JavaScript](#class-7-asynchronous-javascript)
+8. [Class 8: Fetch Data](#class-8-fetch-data)
 
 
 
@@ -163,7 +165,7 @@ Expense Tracker App By Adil Altaf
 [Step by Step Guide](https://docs.google.com/document/d/1f6KBYJQAhwUzS0UtMzrshBWwOeYHH32kMAfuLIfuDgU/edit?usp=sharing)
 
 
-## Class 7 and 8
+## Class 7: Asynchronous JavaScript
 
 [JavaScript Promises, Callbacks, and Async/Await for Beginners](https://hackernoon.com/javascript-promises-callbacks-and-asyncawait-pu7432af)
 
@@ -179,8 +181,10 @@ Expense Tracker App By Adil Altaf
 
 [Class 7 Urdu Facebook Video](https://www.facebook.com/imran82ali/videos/286730542464355/)
 
+## Class 8: Fetch Data
 
 Learn JavaScript Fetch
+
 [How to fetch data in JavaScript](https://javascript.info/fetch)
 
 [Fetch API data using useEffect React hook](https://medium.com/thecodefountain/fetch-api-data-using-useeffect-react-hook-465809ca12c6)
