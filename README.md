@@ -10,8 +10,8 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
 3. [Class 1: Development Setup](#class-1-development-setup)
 4. [Class 2: Starting React](#class-2-starting-react)
 5. [Class 3 and 4: Learn React](#class-3-and-4--learn-react)
-6. [Class 5 and 6: Hooks](#class-5-and-6--hooks)
-   1. [Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API](#bootcamp-2020-project-1--build-an-expense-tracker-app-using-react-hooks-and-context-api)
+6. [Class 5 and 6: Hooks](#class-5-and-6-hooks)
+   * [Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API](#bootcamp-2020-project-1-build-an-expense-tracker-app-using-react-hooks-and-context-api)
 
 
 
