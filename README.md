@@ -9,8 +9,15 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
 2. [Prerequisites](#prerequisites)
 3. [Class 1: Development Setup](#class1)
 
+- [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
+- [English Section:](#english-section-)
+- [Urdu Section:](#urdu-section-)
+  * [Teaching Team:](#teaching-team-)
+  * [Prerequisites: HTML, CSS, and JavaScript](#prerequisites--html--css--and-javascript)
+- [Class 1: Development Setup](#class-1--development-setup)
 
-## Introduction to English and Urdu Sections [](#){name=intro}
+
+## Introduction to English and Urdu Sections
 
 [Bootcamp 2022 Group on LinkedIn](https://www.linkedin.com/groups/8964441/)
 
@@ -38,7 +45,7 @@ Every Sunday 10:00 pm to 11:15 pm Pakistan Standard Time
 
 [Zeeshan Hanif](https://github.com/zeeshanhanif), Hira Khan, Bashir Aziz, Daniyal Nogori, [Moshin Khalid](https://github.com/MuhammadMohsin), Aamir Pinger, Adil Altaf, Ameen Alam and [Zia Khan](https://github.com/ziaukhan).
 
-### Prerequisites: HTML, CSS, and JavaScript [](#){name=#prerequisites}
+### Prerequisites: HTML, CSS, and JavaScript
 
 These topics have been released for everyone in Urdu:
 
@@ -51,7 +58,7 @@ These topics have been released for everyone in Urdu:
 Note: Material in English is already available [extensively on the web](https://css-tricks.com/where-do-you-learn-html-css-in-2020/).
 
 
-## Class 1: Development Setup [](#){name=class1}
+## Class 1: Development Setup
 
 Learning Material for Class 1:
 
