@@ -756,6 +756,10 @@ Learn Redux Toolkit
 
 [Basic Tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
 
+[Class 24 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224286453093849/)
+
+[Class 24 in English on YouTube](https://www.youtube.com/watch?v=OO0lhveAZks)
+
 [Intermediate Tutorial: Redux Toolkit in Action](https://redux-toolkit.js.org/tutorials/intermediate-tutorial)
 
 [Mirage Tutorial](https://miragejs.com/tutorial/intro/)
