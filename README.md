@@ -748,6 +748,8 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 [Zeeshan Code for Redux with Hooks](https://github.com/zeeshanhanif/learn-redux-with-react-hooks)
 
+[Zeeshan Code for Redux with Redux Toolkit](https://github.com/zeeshanhanif/learn-redux-with-redux-toolkit.git)
+
 Learn Redux Toolkit
 
 [Quick Start](https://redux-toolkit.js.org/introduction/quick-start)
