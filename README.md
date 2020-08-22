@@ -742,6 +742,8 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 ## Class 24 and 25 Managing State with Redux Toolkit and Building API Mocking Servers with Mirage
 
+[Three dots ( … ) in JavaScript](https://dev.to/sagar/three-dots---in-javascript-26ci)
+
 Learn Redux Toolkit
 
 [Quick Start](https://redux-toolkit.js.org/introduction/quick-start)
