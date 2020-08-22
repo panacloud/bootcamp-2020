@@ -40,6 +40,7 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
 20. [Class 28 and 29 React Component Driven Development with Storybook and Bit](#class-28-and-29-react-component-driven-development-with-storybook-and-bit)
     * [Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit](#bootcamp-project-11--build-a-taskbox-react-component-in-typescript-using-storybook-and-publishing-it-on-bit)
 21. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
+    * [Homework Reading Material: Writing Custom Hooks](#homework-reading-material-writing-custom-hooks)
 22. [Class 30, 31, and 32 Learn JAMstack Serverless and Headless CMS](#class-30-31-and-32-learn-jamstack-serverless-and-headless-cms)
     * [Bootcamp 2020 Project 12: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy as a PWA](#bootcamp-2020-project-12-build-a-blog-site-in-gatsbyjs-and-contentful-with-typescript-and-deploy-as-a-pwa)
 23. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
@@ -849,7 +850,14 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 ### Now you are ready to do these kinds of jobs
 
-[Remore Job Requirements](https://stackoverflow.com/jobs/277612/senior-react-typescript-and-graphql-developer-x-team)
+[Remote Job Requirements](https://stackoverflow.com/jobs/277612/senior-react-typescript-and-graphql-developer-x-team)
+
+
+## Homework Reading Material: Writing Custom Hooks
+
+[Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
+
+[Building your own Hooks](https://reactjs.org/docs/hooks-custom.html)
 
 
 [Review React Examples for future Projects](https://reactjsexample.com/)
