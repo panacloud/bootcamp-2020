@@ -744,6 +744,8 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 [Three dots ( … ) in JavaScript](https://dev.to/sagar/three-dots---in-javascript-26ci)
 
+[Using Redux with React Hooks](https://thoughtbot.com/blog/using-redux-with-react-hooks)
+
 Learn Redux Toolkit
 
 [Quick Start](https://redux-toolkit.js.org/introduction/quick-start)
