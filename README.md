@@ -863,7 +863,13 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 ## Homework Reading Material: Higher-Order Components In React
 
+[React Higher Order Components For The Newbie](https://programmingwithmosh.com/react/react-higher-order-components-for-the-newbie/)
+
 [Higher-Order Components In React](https://www.smashingmagazine.com/2020/06/higher-order-components-react/)
+
+[Master Higher-Order Components in React Today](https://janhesters.com/master-higher-order-components/)
+
+[HOC - Functional Component](https://stackoverflow.com/questions/57852370/hoc-functional-component)
 
 
 [Review React Examples for future Projects](https://reactjsexample.com/)
