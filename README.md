@@ -52,8 +52,15 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
     * [Bootcamp 2020 Important Personal Project III: Create Full Stack, React, Gatsby and Serverless Gigs on Fivver](#bootcamp-2020-important-personal-project-iii-create-full-stack-react-gatsby-and-serverless-gigs-on-fivver)
     * [Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud USA Project](#bootcamp-2020-important-personal-project-iv-start-working-on-a-panacloud-usa-project)
 23. [Class 34-38: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-34-38-jamstack-ecommerce-stripe-shopify-and-snipcart)
-24. [Class 39-42: MultiCloud Serverless: AWS, Google Cloud, and Azure](#class-39-42-multicloud-serverless-aws-google-cloud-and-azure)
-25. [Class 43-48 Build Android, iOS, and Web apps with React Native and Expo](#class-43-48-build-android-ios-and-web-apps-with-react-native-and-expo)
+24. [Bootcamp 2020 Important Personal Project V: Build Upwork Profile](#bootcamp-2020-important-personal-project-v-build-upwork-profile)
+25. [Class 39-43 Build Android, iOS, and Web apps with React Native and Expo](#class-39-43-build-android-ios-and-web-apps-with-react-native-and-expo)
+26. [Class 44-50: MultiCloud Serverless: AWS, Google Cloud, and Azure](#class-44-50-multicloud-serverless-aws-google-cloud-and-azure)
+27. [Class 51-55: Integration with AI and DeFi Services](class-51-55-integration-with-ai-and-defi-services)
+28. [Start working for Panacloud Silicon Valley Clients](start-working-for-panacloud-silicon-valley-clients)
+
+ 
+
+
 
 
 
@@ -894,8 +901,8 @@ Read the following material to prepare for React interviews:
 
 [How To Use Styled-Components In React](https://www.smashingmagazine.com/2020/07/styled-components-react/)
 
-## 
 
+## Project Ideas for Your Portfolio
 
 [8 React.js Project Ideas to Help You Start Learning by Doing](https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/)
 
@@ -985,11 +992,11 @@ Getting your first work is difficult, therefore we suggest that you start workin
 
 [Gatsby E-commerce Tutorial](https://www.gatsbyjs.com/tutorial/ecommerce-tutorial/)
 
+## Bootcamp 2020 Important Personal Project V: Build Upwork Profile
 
-## Class 39-42: MultiCloud Serverless: AWS, Google Cloud, and Azure
+[Upwork](https://www.upwork.com/)
 
-
-## Class 43-48 Build Android, iOS, and Web apps with React Native and Expo
+## Class 39-43 Build Android, iOS, and Web apps with React Native and Expo
 
 [Expo vs React-Native-CLI](https://medium.com/@dinukapiyadigama/expo-vs-react-native-cli-7a3019b2760d)
 
@@ -998,6 +1005,12 @@ Getting your first work is difficult, therefore we suggest that you start workin
 [Expo](https://expo.io/)
 
 [React Native](https://reactnative.dev/)
+
+## Class 44-50: MultiCloud Serverless: AWS, Google Cloud, and Azure
+
+## Class 51-55: Integration with AI and DeFi Services
+
+## Start working for Panacloud Silicon Valley Clients
 
 
 ## Bootcamp 2020 JAMStack Client Serverless Model Project 13A
@@ -1168,6 +1181,8 @@ Admin app and customer app are both required.
 [Servlesss and Cloud Native Computing Overview in Urdu on YouTube](https://www.youtube.com/watch?v=4UEVD97kjKo&t=1204s)
 
 [Servlesss and Cloud Native Computing Overview in Urdu on Facebook](https://web.facebook.com/piaic.main/videos/178573860355900/)
+
+
 
 
 1. What are Microservices?
