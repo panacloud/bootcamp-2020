@@ -53,6 +53,7 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
     * [Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud USA Project](#bootcamp-2020-important-personal-project-iv-start-working-on-a-panacloud-usa-project)
 23. [Class 34-38: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-34-38-jamstack-ecommerce-stripe-shopify-and-snipcart)
 24. [Class 39-42: MultiCloud Serverless: AWS, Google Cloud, and Azure](#class-39-42-multicloud-serverless-aws-google-cloud-and-azure)
+25. [Class 43-48 Build Android, iOS, and Web apps with React Native and Expo](#class-43-48-build-android-ios-and-web-apps-with-react-native-and-expo)
 
 
 
@@ -986,6 +987,17 @@ Getting your first work is difficult, therefore we suggest that you start workin
 
 
 ## Class 39-42: MultiCloud Serverless: AWS, Google Cloud, and Azure
+
+
+## Class 43-48 Build Android, iOS, and Web apps with React Native and Expo
+
+[Expo vs React-Native-CLI](https://medium.com/@dinukapiyadigama/expo-vs-react-native-cli-7a3019b2760d)
+
+[Common Dilemma of using expo vs Vanilla React Native being solved](https://medium.com/@harisbaig100/common-dilemma-of-using-expo-vs-vanilla-react-native-being-solved-6d6d649d7ad1)
+
+[Expo](https://expo.io/)
+
+[React Native](https://reactnative.dev/)
 
 
 ## Bootcamp 2020 JAMStack Client Serverless Model Project 13A
