@@ -873,6 +873,8 @@ Read the following material to prepare for React interviews:
 
 [Building your own Hooks](https://reactjs.org/docs/hooks-custom.html)
 
+[Building your own React Hooks](https://dev.to/nikhilkumaran/building-your-own-react-hooks-2pnj)
+
 
 ## Homework Reading Material: Higher-Order Components In React
 
