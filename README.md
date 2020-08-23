@@ -42,6 +42,8 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
 21. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
     * [Homework Reading Material: Writing Custom Hooks](#homework-reading-material-writing-custom-hooks)
     * [Homework Reading Material: Higher-Order Components In React](#homework-reading-material-higher-order-components-in-react)
+    * [Homework Reading Material: Styled-Components In React](#homework-reading-material-styled-components-in-react)
+    * [Project Ideas for Your Portfolio](#project-ideas-for-your-portfolio)
 22. [Class 30, 31, and 32 Learn JAMstack Serverless and Headless CMS](#class-30-31-and-32-learn-jamstack-serverless-and-headless-cms)
     * [Bootcamp 2020 Project 12: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy as a PWA](#bootcamp-2020-project-12-build-a-blog-site-in-gatsbyjs-and-contentful-with-typescript-and-deploy-as-a-pwa)
 23. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
@@ -886,6 +888,15 @@ Read the following material to prepare for React interviews:
 
 [HOC - Functional Component](https://stackoverflow.com/questions/57852370/hoc-functional-component)
 
+
+## Homework Reading Material: Styled-Components In React
+
+[How To Use Styled-Components In React](https://www.smashingmagazine.com/2020/07/styled-components-react/)
+
+## 
+
+
+[8 React.js Project Ideas to Help You Start Learning by Doing](https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/)
 
 [Review React Examples for future Projects](https://reactjsexample.com/)
 
