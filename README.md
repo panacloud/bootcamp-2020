@@ -57,10 +57,9 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
 26. [Class 44-50: MultiCloud Serverless: AWS, Google Cloud, and Azure](#class-44-50-multicloud-serverless-aws-google-cloud-and-azure)
 27. [Class 51-55: Integration with AI and DeFi Services](class-51-55-integration-with-ai-and-defi-services)
 28. [Start working for Panacloud Silicon Valley Clients](start-working-for-panacloud-silicon-valley-clients)
-
- 
-
-
+29. Learn Design Thinking, Learn Startup, and Agile
+30. Develop MVP of AI and DeFi powered Serverless Ecommerce Products and Services
+31. Receive Funding from Silicon Valley VC's for our Startups
 
 
 
