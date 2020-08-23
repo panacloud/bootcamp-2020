@@ -865,6 +865,7 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Remote Job Requirements](https://stackoverflow.com/jobs/277612/senior-react-typescript-and-graphql-developer-x-team)
 
+Read the following material to prepare for React interviews:
 
 ## Homework Reading Material: Writing Custom Hooks
 
