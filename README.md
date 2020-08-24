@@ -769,6 +769,8 @@ Learn Redux Toolkit
 
 [Class 24 in English on YouTube](https://www.youtube.com/watch?v=OO0lhveAZks)
 
+[Redux Presentation by Aamir](https://docs.google.com/presentation/d/1AYPOmQ-5PgoCnasjZ3qMo_LCHp2jo0kxFlLHnP2dkaA/)
+
 [Class 24 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224301420908035/)
 
 [Class 24 in Urdu on Facebook](https://www.youtube.com/watch?v=K7J_Ju1r2fM)
