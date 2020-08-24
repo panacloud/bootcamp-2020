@@ -769,6 +769,10 @@ Learn Redux Toolkit
 
 [Class 24 in English on YouTube](https://www.youtube.com/watch?v=OO0lhveAZks)
 
+[Class 24 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224301420908035/)
+
+[Class 24 in Urdu on Facebook](https://www.youtube.com/watch?v=K7J_Ju1r2fM)
+
 [Intermediate Tutorial: Redux Toolkit in Action](https://redux-toolkit.js.org/tutorials/intermediate-tutorial)
 
 [Mirage Tutorial](https://miragejs.com/tutorial/intro/)
