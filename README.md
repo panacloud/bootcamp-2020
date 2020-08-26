@@ -779,6 +779,10 @@ Learn Redux Toolkit
 
 [Mirage Tutorial](https://miragejs.com/tutorial/intro/)
 
+[Class 25 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224313589932253/)
+
+[Class 25 in English on YouTube](https://www.youtube.com/watch?v=cZ5_x0BcJdQ)
+
 Mirage Notes:
 
 1. Mirage runs in the browser, so there's no new terminal processes to manage
