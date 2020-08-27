@@ -783,6 +783,10 @@ Learn Redux Toolkit
 
 [Class 25 in English on YouTube](https://www.youtube.com/watch?v=cZ5_x0BcJdQ)
 
+[Class 25 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224323086249655/)
+
+[Class 25 in Urdu on YouTube](https://www.youtube.com/watch?v=ShKroZxL89k)
+
 Mirage Notes:
 
 1. Mirage runs in the browser, so there's no new terminal processes to manage
