@@ -45,7 +45,8 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
     * [Homework Reading Material: Styled-Components In React](#homework-reading-material-styled-components-in-react)
     * [Project Ideas for Your Portfolio](#project-ideas-for-your-portfolio)
 22. [Class 30, 31, and 32 Learn JAMstack Serverless and Headless CMS](#class-30-31-and-32-learn-jamstack-serverless-and-headless-cms)
-    * [Bootcamp 2020 Project 12: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy as a PWA](#bootcamp-2020-project-12-build-a-blog-site-in-gatsbyjs-and-contentful-with-typescript-and-deploy-as-a-pwa)
+    * [Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify](#bootcamp-2020-project-12a-build-a-blog-site-in-gatsbyjs-and-contentful-with-typescript-and-deploy-on-netlify)
+    * [Bootcamp 2020 Extra Project 12B: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel](#bootcamp-2020-extra-project-12B-build-a-macro-compliance-tracker-in-next-and-mongodb-atlas-with-typeScript-and-deploy-on-vercel)
 23. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
     * [Bootcamp 2020 Important Personal Project I: Build a Developer Profile Portfolio site in Gatsby.js Contentful with TypeScript and Deploy as a PWA](#bootcamp-2020-important-personal-project-i-build-a-developer-profile-portfolio-site-in-gatsbyjs-contentful-with-typescript-and-deploy-as-a-pwa)
     * [Bootcamp 2020 Important Personal Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin](#bootcamp-2020-important-personal-project-ii-build-a-detailed-linkedin-developer-profile-and-become-active-on-linkedin)
@@ -935,7 +936,7 @@ Read the following material to prepare for React interviews:
 
 
 
-### Bootcamp 2020 Project 12: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy as a PWA
+### Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
 
 [This Tutorial will help you in building the Blog site](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
 
@@ -959,6 +960,12 @@ We want GitHub Actions workflow that builds a static blog site and deploys on Su
 
 Important Challenge Requirement:
 We want you to build this blog site with gated content, available only for logged-in users. However we still want the blogs to be indexed for SEO reasons, and would like visitors (not logged in) have access to 3 free blogs (just like Medium), after that we want to user to get a "limited" access to each page (maybe 20 lines or so), just like news website sometimes do. The logged-in users will have unlimited access to all the blogs. We will use [Firebase authentication](https://firebase.google.com/docs/auth) for user logins. 
+
+### Bootcamp 2020 Extra Project 12B: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel
+
+[Building Modern Applications with Next.js and MongoDB](https://developer.mongodb.com/how-to/nextjs-building-modern-applications)
+
+
 
 ## Class 33 Learn to Market Our Skills
 
