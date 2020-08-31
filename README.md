@@ -942,6 +942,8 @@ SSG vs SSR vs CSR
 
 [Latest Next.js has SSG](https://nextjs.org/blog/next-9-5)
 
+[Gatsby won against Next.js in this head-to-head](https://dev.to/notsidney/gatsby-won-against-next-js-in-this-head-to-head-37ka)
+
 JAMstack
 
 [Learn JAMstack in Baby Steps](https://github.com/panacloud-global-apps/jamstack-serverless)
