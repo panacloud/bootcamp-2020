@@ -934,6 +934,10 @@ Read the following material to prepare for React interviews:
 
 [You may use this starter in your apps](https://www.gatsbyjs.org/starters/wataruoguchi/gatsby-starter-typescript-contentful/)
 
+[How Next.js can help improve SEO](https://blog.logrocket.com/how-next-js-can-help-improve-seo/)
+
+[Learn Next.js](https://nextjs.org/learn/basics/create-nextjs-app)
+
 
 
 ### Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
