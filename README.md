@@ -926,11 +926,23 @@ Read the following material to prepare for React interviews:
 
 ## Class 30, 31, and 32 Learn JAMstack Serverless and Headless CMS
 
+SSG vs SSR vs CSR
+
 [Server Side Rendering vs Static Site Generation](https://dev.to/matfrana/server-side-rendering-vs-static-site-generation-17nf)
 
 [Next.js vs. GatsbyJS: A developer’s perspective](https://blog.logrocket.com/next-js-vs-gatsbyjs-a-developers-perspective/)
 
 [Which To Choose in 2020: NextJS or Gatsby?](https://medium.com/frontend-digest/which-to-choose-in-2020-nextjs-vs-gatsby-1aa7ca279d8a)
+
+[What is the point of SSR these days?](https://github.com/vercel/next.js/discussions/10437)
+
+[Hey Next.js, Is Server Side Rendering Dead?](https://arunoda.me/blog/hey-nextjs-is-server-side-rendering-dead)
+
+[Static is the new Dynamic](https://rauchg.com/2020/2019-in-review#static-is-the-new-dynamic)
+
+[Latest Next.js has SSG](https://nextjs.org/blog/next-9-5)
+
+JAMstack
 
 [Learn JAMstack in Baby Steps](https://github.com/panacloud-global-apps/jamstack-serverless)
 
