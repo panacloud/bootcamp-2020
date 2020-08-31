@@ -926,6 +926,12 @@ Read the following material to prepare for React interviews:
 
 ## Class 30, 31, and 32 Learn JAMstack Serverless and Headless CMS
 
+[Server Side Rendering vs Static Site Generation](https://dev.to/matfrana/server-side-rendering-vs-static-site-generation-17nf)
+
+[Next.js vs. GatsbyJS: A developer’s perspective](https://blog.logrocket.com/next-js-vs-gatsbyjs-a-developers-perspective/)
+
+[Which To Choose in 2020: NextJS or Gatsby?](https://medium.com/frontend-digest/which-to-choose-in-2020-nextjs-vs-gatsby-1aa7ca279d8a)
+
 [Learn JAMstack in Baby Steps](https://github.com/panacloud-global-apps/jamstack-serverless)
 
 [Turn Your Gatsby Site into a Progressive Web App](https://www.gatsbyjs.org/blog/100days/pwa/) 
