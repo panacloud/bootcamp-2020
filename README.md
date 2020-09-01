@@ -816,6 +816,8 @@ In this project we will be learning to use Redux by building an app that lets us
 
 [Partial implementation, of only login and signup with react, redux and mirage by Zeeshan](https://github.com/zeeshanhanif/diaries-app-partial)
 
+Note: In the project React Router v5 is being used we recommend that you use v6 in your project.
+
 
 
 ## Class 26 and 27 Forms with Formik and Yup
