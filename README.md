@@ -792,6 +792,10 @@ Learn Redux Toolkit
 
 [Zeeshan's Code for Thunk](https://github.com/zeeshanhanif/redux-toolkit-async)
 
+[Class 26 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224378742081016/)
+
+[Class 26 in English on YouTube](https://www.youtube.com/watch?v=NxnELWEdh1s)
+
 Mirage Notes:
 
 1. Mirage runs in the browser, so there's no new terminal processes to manage
