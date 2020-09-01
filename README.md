@@ -790,6 +790,8 @@ Learn Redux Toolkit
 
 [Thunk API for Async](https://redux-toolkit.js.org/api/createAsyncThunk)
 
+[Zeeshan's Code for Thunk](https://github.com/zeeshanhanif/redux-toolkit-async)
+
 Mirage Notes:
 
 1. Mirage runs in the browser, so there's no new terminal processes to manage
@@ -802,13 +804,13 @@ Mirage Notes:
 
 [Project Repo](https://github.com/jpreecedev/shopping-basket-tutorial)
 
-[Partial implementation, of only login and signup with react, redux and mirage by Zeeshan](https://github.com/zeeshanhanif/diaries-app-partial)
-
 
 ### Bootcamp 2020 Project 9B: Building Diaries App using React and Redux Toolkit with TypeScript
 In this project we will be learning to use Redux by building an app that lets users create and manage diaries. We will be building our application using React, and we’ll set up Mirage as our API mocking server since we have not yet learned to build API's.
 
 [We will follow this Tutorial: Setting Up Redux For Use In A Real-World Application](https://www.smashingmagazine.com/2020/08/redux-real-world-application/)
+
+[Partial implementation, of only login and signup with react, redux and mirage by Zeeshan](https://github.com/zeeshanhanif/diaries-app-partial)
 
 
 
