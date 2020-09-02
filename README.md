@@ -847,6 +847,8 @@ This Project is very important because up to now we have been doing small projec
 
 ## Class 29 and 30 React Component Driven Development with Storybook and Bit
 
+[Building React Apps With Storybook](https://www.smashingmagazine.com/2020/09/building-react-apps-storybook/)
+
 [A Guide to Component Driven Development (CDD)](https://itnext.io/a-guide-to-component-driven-development-cdd-1516f65d8b55)
 
 [Component Driven Development (CDD) In React](https://whatjackhasmade.co.uk/component-driven-development)
