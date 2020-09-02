@@ -818,6 +818,8 @@ In this project we will be learning to use Redux by building an app that lets us
 
 Note: In the project React Router v5 is being used we recommend that you use v6 in your project.
 
+This Project is very important because up to now we have been doing small projects which focused on only focused limited functionality. Project 9B is the first real-world professional project. In the real-world, we will be doing these kinds of projects. Therefore, give special attention to it.
+
 
 
 ## Class 27 and 28 Forms with Formik and Yup
