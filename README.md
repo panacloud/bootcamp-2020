@@ -824,6 +824,8 @@ This Project is very important because up to now we have been doing small projec
 
 ## Class 27 and 28 Forms with Formik and Yup
 
+[Easy forms with Formik - part I](https://softchris.github.io/books/react/formik-partI/)
+
 [HTML Forms](https://www.w3schools.com/html/html_forms.asp)
 
 [React Formik Playlist](https://www.youtube.com/playlist?list=PLT5Jhb7lgSBM4VCbfJAAch3G6XioJXuFX)
