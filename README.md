@@ -32,19 +32,19 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
     * [Bootcamp 2020 Project 7B: Build a React Timer App using TypeScript with Test Driven Development](#bootcamp-2020-project-7b--build-a-react-timer-app-using-typescript-with-test-driven-development)
 17. [Class 21, 22, and 23 Client Side GraphQL in React Apps](#class-21--22--and-23-client-side-graphql-in-react-apps)
     * [Bootcamp 2020 Project 8: Build a Build a Space X Client Application with React, TypeScript, Appllo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as a PWA](#bootcamp-2020-project-8--build-a-build-a-space-x-client-application-with-react-typescript-appllo-client-3-and-spacex-api-using-test-driven-development-tdd-and-deployed-as-a-pwa)
-18. [Class 24 and 25 Managing State with Redux Toolkit and Building API Mocking Servers with Mirage](#class-24-and-25-managing-state-with-redux-toolkit-and-building-api-mocking-servers-with-mirage)
+18. [Class 24, 25, and 26 Managing State with Redux Toolkit and Building API Mocking Servers with Mirage](#class-24-25-and-26-managing-state-with-redux-toolkit-and-building-api-mocking-servers-with-mirage)
     * [Bootcamp 2020 Project 9A: Create a Shopping Basket using React and Redux Toolkit with TypeScript](#bootcamp-2020-project-9a-create-a-shopping-basket-using-react-and-redux-toolkit-with-typescript)
     * [Bootcamp 2020 Project 9B: Building Diaries App using React and Redux Toolkit with TypeScript](#bootcamp-2020-project-9b-building-diaries-app-using-react-and-redux-toolkit-with-typescript)
-19. [Class 26 and 27 Forms with Formik and Yup](#class-26-and-27-forms-with-formik-and-yup)
+19. [Class 27 and 28 Forms with Formik and Yup](#class-27-and-28-forms-with-formik-and-yup)
     * [Bootcamp Project 10: Build a Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript](#bootcamp-project-10-build-a-signup-form-and-multi-step-form-with-formik-yup-and-material-ui-using-typescript)
-20. [Class 28 and 29 React Component Driven Development with Storybook and Bit](#class-28-and-29-react-component-driven-development-with-storybook-and-bit)
+20. [Class 29 and 30 React Component Driven Development with Storybook and Bit](#class-29-and-30-react-component-driven-development-with-storybook-and-bit)
     * [Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit](#bootcamp-project-11--build-a-taskbox-react-component-in-typescript-using-storybook-and-publishing-it-on-bit)
 21. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
     * [Homework Reading Material: Writing Custom Hooks](#homework-reading-material-writing-custom-hooks)
     * [Homework Reading Material: Higher-Order Components In React](#homework-reading-material-higher-order-components-in-react)
     * [Homework Reading Material: Styled-Components In React](#homework-reading-material-styled-components-in-react)
     * [Project Ideas for Your Portfolio](#project-ideas-for-your-portfolio)
-22. [Class 30, 31, and 32 Learn JAMstack Serverless and Headless CMS](#class-30-31-and-32-learn-jamstack-serverless-and-headless-cms)
+22. [Class 31, 32, and 33 Learn JAMstack Serverless and Headless CMS](#class-31-32-and-32-learn-jamstack-serverless-and-headless-cms)
     * [Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify](#bootcamp-2020-project-12a-build-a-blog-site-in-gatsbyjs-and-contentful-with-typescript-and-deploy-on-netlify)
     * [Bootcamp 2020 Extra Project 12B: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel](#bootcamp-2020-extra-project-12B-build-a-macro-compliance-tracker-in-next-and-mongodb-atlas-with-typeScript-and-deploy-on-vercel)
 23. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
@@ -750,7 +750,7 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 
 
-## Class 24 and 25 Managing State with Redux Toolkit and Building API Mocking Servers with Mirage
+## Class 24, 25, and 26 Managing State with Redux Toolkit and Building API Mocking Servers with Mirage
 
 [Three dots ( … ) in JavaScript](https://dev.to/sagar/three-dots---in-javascript-26ci)
 
@@ -820,7 +820,7 @@ Note: In the project React Router v5 is being used we recommend that you use v6 
 
 
 
-## Class 26 and 27 Forms with Formik and Yup
+## Class 27 and 28 Forms with Formik and Yup
 
 [HTML Forms](https://www.w3schools.com/html/html_forms.asp)
 
@@ -843,7 +843,7 @@ Note: In the project React Router v5 is being used we recommend that you use v6 
 
 
 
-## Class 28 and 29 React Component Driven Development with Storybook and Bit
+## Class 29 and 30 React Component Driven Development with Storybook and Bit
 
 [A Guide to Component Driven Development (CDD)](https://itnext.io/a-guide-to-component-driven-development-cdd-1516f65d8b55)
 
@@ -937,7 +937,7 @@ Read the following material to prepare for React interviews:
 
 
 
-## Class 30, 31, and 32 Learn JAMstack Serverless and Headless CMS
+## Class 31, 32, and 33 Learn JAMstack Serverless and Headless CMS
 
 SSG vs SSR vs CSR
 
