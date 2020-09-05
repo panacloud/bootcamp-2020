@@ -956,7 +956,7 @@ Read the following material to prepare for React interviews:
 
 ## Class 31, 32, and 33 Learn JAMstack Serverless and Headless CMS
 
-[Learn JAMstack in Baby Steps](https://github.com/panacloud-global-apps/jamstack-serverless)
+[Learn JAMstack Serverless in Baby Steps](https://github.com/panacloud-modern-global-apps/jamstack-serverless)
 
 
 
