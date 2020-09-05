@@ -912,6 +912,13 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Remote Job Requirements](https://stackoverflow.com/jobs/277612/senior-react-typescript-and-graphql-developer-x-team)
 
+HOW MUCH DOES IT COST TO BUILD A GATSBY WEBSITE?
+
+It depends on the complexity of implementation. If it’s just a development of a simple static web page, then you may pay around 4k - 8k for it.
+If you would like to also plan a UX, UI, and Design it, be ready to spend around 6k - 30k - depending on how big the project will be.
+If it’s a big and much more complex page, the cost can be around 20k-80k
+[Source](https://pagepro.co/gatsby-development.html)
+
 Read the following material to prepare for React interviews:
 
 ## Homework Reading Material: Writing Custom Hooks
