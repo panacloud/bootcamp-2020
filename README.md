@@ -842,6 +842,16 @@ This Project is very important because up to now we have been doing small projec
 
 [Formik with TypeScript](https://formik.org/docs/guides/typescript)
 
+[Zeeshan's Formik Repo](https://github.com/zeeshanhanif/react-formik)
+
+[Class 27 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224414911585231/)
+
+[Class 27 in English on YouTube](https://www.youtube.com/watch?v=v09HCJpOspE)
+
+[Class 27 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224423714485298/)
+
+[Class 27 in Urdu on YouTube](https://www.youtube.com/watch?v=rwEUvkA9a7g)
+
 
 ### Bootcamp Project 10: Build a Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript
 
