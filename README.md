@@ -871,52 +871,46 @@ This Project is very important because up to now we have been doing small projec
 
 ## Class 29 and 30 React Component Driven Development with Storybook and Bit
 
-[Building React Apps With Storybook](https://www.smashingmagazine.com/2020/09/building-react-apps-storybook/)
+Component Driven Development (CDD)
 
 [A Guide to Component Driven Development (CDD)](https://itnext.io/a-guide-to-component-driven-development-cdd-1516f65d8b55)
 
 [Component Driven Development (CDD) In React](https://whatjackhasmade.co.uk/component-driven-development)
 
-[Awesome component-driven development](https://github.com/component-driven/awesome-list)
 
-[How is bit.dev different from Storybook?](https://blog.bitsrc.io/how-is-bit-dev-different-from-storybook-892b373733bd)
+Storybook 6
 
-[Storybook 6](https://medium.com/storybookjs/storybook-6-0-1e14a2071000)
+[Building React Apps With Storybook 6](https://www.smashingmagazine.com/2020/09/building-react-apps-storybook/)
 
-[Storybook 6 Release](https://storybook.js.org/releases/6.0)
+[Introduction to Storybook for React](https://storybook.js.org/docs/react/get-started/introduction)
 
-[React Storybook Tutorial Video](https://www.youtube.com/watch?v=BySFuXgG-ow)
+[Supercharge Storybook 6](https://storybook.js.org/addons)
 
-[Introduction](https://storybook.js.org/docs/basics/introduction/)
+[Decorators](https://storybook.js.org/docs/react/writing-stories/decorators)
 
-[Storybook for React](https://storybook.js.org/docs/guides/guide-react/)
-
-[Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook)
-
-[Introduction to design systems](https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/)
-
-[Visual Testing Handbook](https://www.learnstorybook.com/visual-testing-handbook/)
-
-[How To Build a UI Component with React and Storybook](https://www.digitalocean.com/community/tutorials/how-to-build-a-ui-component-with-react-and-storybook)
-
-Storybook with TypeScript, Material UI and GraphQL (Apollo)
+[Storybook 6 Announcement](https://medium.com/storybookjs/storybook-6-0-1e14a2071000)
 
 [TypeScript Config](https://storybook.js.org/docs/configurations/typescript-config/)
 
-[How to setup Storybook in React Typescript project](https://medium.com/@pongsatt/how-to-setup-storybook-in-react-typescript-project-ad2516515919)
+[Reference Learning Material](https://www.learnstorybook.com/intro-to-storybook/)
 
-[Set up Storybook using Typescript, Material UI and Styled Components](https://dev.to/amalv/set-up-storybook-using-typescript-material-ui-and-styled-components-fem)
 
-[Configure React Storybook for use with Typescript](https://egghead.io/lessons/react-configure-react-storybook-for-use-with-typescript)
-
-[Storybook Addon Material-UI](https://github.com/react-theming/storybook-addon-material-ui)
-
-[Apollo Storybook Decorator](https://github.com/abhiaiyer91/apollo-storybook-decorator)
-
+Bit.dev
 
 [Bit for React](https://docs.bit.dev/docs/tutorials/bit-react-tutorial)
 
 [How to Use React and Typescript in Bit.dev](https://medium.com/@vagacoder/how-to-use-react-and-typescript-in-bit-dev-89a1260d2d9f)
+
+
+Design Systems for Developers
+
+[Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/
+
+
+Using Storybook and Bit.dev Together
+
+[How is bit.dev different from Storybook?](https://blog.bitsrc.io/how-is-bit-dev-different-from-storybook-892b373733bd)
+
 
 
 
