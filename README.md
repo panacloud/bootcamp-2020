@@ -904,7 +904,7 @@ Bit.dev
 
 Design Systems for Developers
 
-[Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/
+[Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/)
 
 
 Using Storybook and Bit.dev Together
