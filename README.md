@@ -56,11 +56,12 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
 24. [Bootcamp 2020 Important Personal Project V: Build Upwork Profile](#bootcamp-2020-important-personal-project-v-build-upwork-profile)
 25. [Class 39-43 Build Android, iOS, and Web apps with React Native and Expo](#class-39-43-build-android-ios-and-web-apps-with-react-native-and-expo)
 26. [Class 44-50: MultiCloud Serverless: AWS, Google Cloud, and Azure](#class-44-50-multicloud-serverless-aws-google-cloud-and-azure)
-27. [Class 51-55: Integration with AI and DeFi Services](class-51-55-integration-with-ai-and-defi-services)
-28. [Start working for Panacloud Silicon Valley Clients](start-working-for-panacloud-silicon-valley-clients)
-29. Learn Design Thinking, Learn Startup, and Agile
-30. Develop MVP of AI and DeFi powered Serverless Ecommerce Products and Services
-31. Receive Funding from Silicon Valley VC's for our Startups
+27. [Class 51-55: Integration with AI and DeFi Services](#class-51-55-integration-with-ai-and-defi-services)
+28. [Class 56-58: Figma for Developers](#class-56-58-figma-for-developers)
+29. [Start working for Panacloud Silicon Valley Clients](start-working-for-panacloud-silicon-valley-clients)
+30. Learn Design Thinking, Learn Startup, and Agile
+31. Develop MVP of AI and DeFi powered Serverless Ecommerce Products and Services
+32. Receive Funding from Silicon Valley VC's for our Startups
 
 
 
@@ -1065,6 +1066,21 @@ Getting your first work is difficult, therefore we suggest that you start workin
 ## Class 44-50: MultiCloud Serverless: AWS, Google Cloud, and Azure
 
 ## Class 51-55: Integration with AI and DeFi Services
+
+## Class 56-58: Figma for Developers
+
+[FIGMA 101 – THE BEGINNER’S ULTIMATE GUIDE TO THE BASICS (PART 1)](https://www.popwebdesign.net/popart_blog/en/2020/08/figma-101-the-beginners-ultimate-guide-to-the-basics/)
+
+[FIGMA 101 – THE BEGINNER’S ULTIMATE GUIDE TO THE BASICS (PART 2)](https://www.popwebdesign.net/popart_blog/en/2020/08/figma-101-the-beginners-ultimate-guide-to-the-basics-part-2/)
+
+[FIGMA 101 – THE BEGINNER’S ULTIMATE GUIDE TO THE BASICS (PART 3)](https://www.popwebdesign.net/popart_blog/en/2020/08/figma-101-the-beginners-ultimate-guide-to-the-basics-part-3/)
+
+[Everything Developers Need To Know About Figma](https://www.smashingmagazine.com/2020/09/figma-developers-guide/)
+
+[Figma tips for developers](https://uxdesign.cc/figma-tips-for-developers-e2f7af9eaa62)
+
+[Designing in Figma Book](https://figmabook.com/)
+
 
 ## Start working for Panacloud Silicon Valley Clients
 
