@@ -895,6 +895,10 @@ Storybook 6
 
 [Reference Learning Material](https://www.learnstorybook.com/intro-to-storybook/)
 
+[Class 29 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224477793477239/)
+
+[Class 29 in English on YouTube](https://www.youtube.com/watch?v=ors4hsRJ8uM)
+
 
 Bit.dev
 
