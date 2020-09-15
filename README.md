@@ -899,6 +899,10 @@ Storybook 6
 
 [Class 29 in English on YouTube](https://www.youtube.com/watch?v=ors4hsRJ8uM)
 
+[Class 29 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224486726500559/)
+
+[Class 29 in Urdu on YouTube](https://www.youtube.com/watch?v=aha6zRfEJMs)
+
 
 Bit.dev
 
