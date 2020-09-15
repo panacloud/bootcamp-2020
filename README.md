@@ -39,29 +39,29 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
     * [Bootcamp Project 10: Build a Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript](#bootcamp-project-10-build-a-signup-form-and-multi-step-form-with-formik-yup-and-material-ui-using-typescript)
 20. [Class 29 and 30 React Component Driven Development with Storybook and Bit](#class-29-and-30-react-component-driven-development-with-storybook-and-bit)
     * [Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit](#bootcamp-project-11--build-a-taskbox-react-component-in-typescript-using-storybook-and-publishing-it-on-bit)
-21. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
+21. [Class 31, 32, and 33 Learn JAMstack Serverless and Headless CMS](#class-31-32-and-33-learn-jamstack-serverless-and-headless-cms)
+    * [Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify](#bootcamp-2020-project-12a-build-a-blog-site-in-gatsbyjs-and-contentful-with-typescript-and-deploy-on-netlify)
+    * [Bootcamp 2020 Extra Project 12B: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel](#bootcamp-2020-extra-project-12B-build-a-macro-compliance-tracker-in-next-and-mongodb-atlas-with-typeScript-and-deploy-on-vercel)
+22. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
     * [Homework Reading Material: Writing Custom Hooks](#homework-reading-material-writing-custom-hooks)
     * [Homework Reading Material: Higher-Order Components In React](#homework-reading-material-higher-order-components-in-react)
     * [Homework Reading Material: Styled-Components In React](#homework-reading-material-styled-components-in-react)
     * [Project Ideas for Your Portfolio](#project-ideas-for-your-portfolio)
-22. [Class 31, 32, and 33 Learn JAMstack Serverless and Headless CMS](#class-31-32-and-33-learn-jamstack-serverless-and-headless-cms)
-    * [Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify](#bootcamp-2020-project-12a-build-a-blog-site-in-gatsbyjs-and-contentful-with-typescript-and-deploy-on-netlify)
-    * [Bootcamp 2020 Extra Project 12B: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel](#bootcamp-2020-extra-project-12B-build-a-macro-compliance-tracker-in-next-and-mongodb-atlas-with-typeScript-and-deploy-on-vercel)
 23. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
     * [Bootcamp 2020 Important Personal Project I: Build a Developer Profile Portfolio site in Gatsby.js Contentful with TypeScript and Deploy as a PWA](#bootcamp-2020-important-personal-project-i-build-a-developer-profile-portfolio-site-in-gatsbyjs-contentful-with-typescript-and-deploy-as-a-pwa)
     * [Bootcamp 2020 Important Personal Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin](#bootcamp-2020-important-personal-project-ii-build-a-detailed-linkedin-developer-profile-and-become-active-on-linkedin)
     * [Bootcamp 2020 Important Personal Project III: Create Full Stack, React, Gatsby and Serverless Gigs on Fivver](#bootcamp-2020-important-personal-project-iii-create-full-stack-react-gatsby-and-serverless-gigs-on-fivver)
     * [Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud USA Project](#bootcamp-2020-important-personal-project-iv-start-working-on-a-panacloud-usa-project)
-23. [Class 34-38: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-34-38-jamstack-ecommerce-stripe-shopify-and-snipcart)
-24. [Bootcamp 2020 Important Personal Project V: Build Upwork Profile](#bootcamp-2020-important-personal-project-v-build-upwork-profile)
-25. [Class 39-43 Build Android, iOS, and Web apps with React Native and Expo](#class-39-43-build-android-ios-and-web-apps-with-react-native-and-expo)
-26. [Class 44-50: MultiCloud Serverless: AWS, Google Cloud, and Azure](#class-44-50-multicloud-serverless-aws-google-cloud-and-azure)
-27. [Class 51-55: Integration with AI and DeFi Services](#class-51-55-integration-with-ai-and-defi-services)
-28. [Class 56-58: Figma for Developers](#class-56-58-figma-for-developers)
-29. [Start working for Panacloud Silicon Valley Clients](start-working-for-panacloud-silicon-valley-clients)
-30. Learn Design Thinking, Learn Startup, and Agile
-31. Develop MVP of AI and DeFi powered Serverless Ecommerce Products and Services
-32. Receive Funding from Silicon Valley VC's for our Startups
+24. [Class 34-38: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-34-38-jamstack-ecommerce-stripe-shopify-and-snipcart)
+25. [Bootcamp 2020 Important Personal Project V: Build Upwork Profile](#bootcamp-2020-important-personal-project-v-build-upwork-profile)
+26. [Class 39-43 Build Android, iOS, and Web apps with React Native and Expo](#class-39-43-build-android-ios-and-web-apps-with-react-native-and-expo)
+27. [Class 44-50: MultiCloud Serverless: AWS, Google Cloud, and Azure](#class-44-50-multicloud-serverless-aws-google-cloud-and-azure)
+28. [Class 51-55: Integration with AI and DeFi Services](#class-51-55-integration-with-ai-and-defi-services)
+29. [Class 56-58: Figma for Developers](#class-56-58-figma-for-developers)
+30. [Start working for Panacloud Silicon Valley Clients](start-working-for-panacloud-silicon-valley-clients)
+31. Learn Design Thinking, Learn Startup, and Agile
+32. Develop MVP of AI and DeFi powered Serverless Ecommerce Products and Services
+33. Receive Funding from Silicon Valley VC's for our Startups
 
 
 
@@ -926,12 +926,43 @@ Design Systems for Developers
 
 
 
-
-
 ### Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit
 Build a Taskbox, a task management UI (similar to Asana), complete with multiple item types and states. We'll go from building simple UI components to assembling screens. Each chapter the the tutorial illustrates a different aspect of developing UIs with Storybook.
 
-[Taskbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
+[Taskbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)## Class 31, 32, and 33 Learn JAMstack Serverless and Headless CMS
+
+[Learn JAMstack Serverless in Baby Steps](https://github.com/panacloud-modern-global-apps/jamstack-serverless)
+
+
+
+### Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
+
+[This Tutorial will help you in building the Blog site](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
+
+[Demo of Blog site we want to build](https://gatsby-contentful-blogsite.netlify.app/blog/)
+
+[Tutorial](https://www.youtube.com/watch?v=fY3mBJSDA44)
+
+[Watch Video: Episode 1](https://www.youtube.com/watch?v=r_hYR53r61M)
+
+[Watch Video: Episode 2](https://www.youtube.com/watch?v=IaNU4R3ck_k)
+
+[Watch Video: Episode 3](https://www.youtube.com/watch?v=L9Uv_bLSaP4)
+
+[Watch Video: Episode 4](https://www.youtube.com/watch?v=NkFz2psDupw)
+
+[Watch Video: Episode 5](https://www.youtube.com/watch?v=A8Y1-GRmxFw)
+
+[Watch Video: Episode 6](https://www.youtube.com/watch?v=ONg1gpx0zlA)
+
+We want GitHub Actions workflow that builds a static blog site and deploys on Surge. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
+
+Important Challenge Requirement:
+We want you to build this blog site with gated content, available only for logged-in users. However we still want the blogs to be indexed for SEO reasons, and would like visitors (not logged in) have access to 3 free blogs (just like Medium), after that we want to user to get a "limited" access to each page (maybe 20 lines or so), just like news website sometimes do. The logged-in users will have unlimited access to all the blogs. We will use [Firebase authentication](https://firebase.google.com/docs/auth) for user logins. 
+
+### Bootcamp 2020 Extra Project 12B: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel
+
+[Building Modern Applications with Next.js and MongoDB](https://developer.mongodb.com/how-to/nextjs-building-modern-applications)
 
 
 ### Now you are ready to do these kinds of jobs
@@ -977,43 +1008,6 @@ Read the following material to prepare for React interviews:
 [8 React.js Project Ideas to Help You Start Learning by Doing](https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/)
 
 [Review React Examples for future Projects](https://reactjsexample.com/)
-
-
-
-## Class 31, 32, and 33 Learn JAMstack Serverless and Headless CMS
-
-[Learn JAMstack Serverless in Baby Steps](https://github.com/panacloud-modern-global-apps/jamstack-serverless)
-
-
-
-### Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
-
-[This Tutorial will help you in building the Blog site](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
-
-[Demo of Blog site we want to build](https://gatsby-contentful-blogsite.netlify.app/blog/)
-
-[Tutorial](https://www.youtube.com/watch?v=fY3mBJSDA44)
-
-[Watch Video: Episode 1](https://www.youtube.com/watch?v=r_hYR53r61M)
-
-[Watch Video: Episode 2](https://www.youtube.com/watch?v=IaNU4R3ck_k)
-
-[Watch Video: Episode 3](https://www.youtube.com/watch?v=L9Uv_bLSaP4)
-
-[Watch Video: Episode 4](https://www.youtube.com/watch?v=NkFz2psDupw)
-
-[Watch Video: Episode 5](https://www.youtube.com/watch?v=A8Y1-GRmxFw)
-
-[Watch Video: Episode 6](https://www.youtube.com/watch?v=ONg1gpx0zlA)
-
-We want GitHub Actions workflow that builds a static blog site and deploys on Surge. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
-
-Important Challenge Requirement:
-We want you to build this blog site with gated content, available only for logged-in users. However we still want the blogs to be indexed for SEO reasons, and would like visitors (not logged in) have access to 3 free blogs (just like Medium), after that we want to user to get a "limited" access to each page (maybe 20 lines or so), just like news website sometimes do. The logged-in users will have unlimited access to all the blogs. We will use [Firebase authentication](https://firebase.google.com/docs/auth) for user logins. 
-
-### Bootcamp 2020 Extra Project 12B: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel
-
-[Building Modern Applications with Next.js and MongoDB](https://developer.mongodb.com/how-to/nextjs-building-modern-applications)
 
 
 
