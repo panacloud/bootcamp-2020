@@ -929,7 +929,10 @@ Design Systems for Developers
 ### Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit
 Build a Taskbox, a task management UI (similar to Asana), complete with multiple item types and states. We'll go from building simple UI components to assembling screens. Each chapter the the tutorial illustrates a different aspect of developing UIs with Storybook.
 
-[Taskbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)## Class 31, 32, and 33 Learn JAMstack Serverless and Headless CMS
+[Taskbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
+
+
+## Class 31, 32, and 33 Learn JAMstack Serverless and Headless CMS
 
 [Learn JAMstack Serverless in Baby Steps](https://github.com/panacloud-modern-global-apps/jamstack-serverless)
 
