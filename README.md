@@ -1040,6 +1040,8 @@ Read the following material to prepare for React interviews:
 
 [Connect to Zia Khan](https://www.linkedin.com/in/ziaukhan/)
 
+[Here’s an example of the perfect LinkedIn profile summary, according to Harvard career experts](https://www.cnbc.com/2019/09/25/example-template-of-perfect-linkedin-profile-according-to-harvard-career-experts.html)
+
 [10 Ways You Didn’t Know LinkedIn Could Find You a Job](https://www.aarp.org/work/job-hunting/info-2017/10-ways-to-use-linkedin-job-search.html)
 
 [Improve Your Résumé by Turning Bullet Points into Stories](https://hbr.org/2016/05/improve-your-resume-by-turning-bullet-points-into-stories)
