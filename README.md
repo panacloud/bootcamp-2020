@@ -910,15 +910,20 @@ Bit.dev
 
 [How to Use React and Typescript in Bit.dev](https://medium.com/@vagacoder/how-to-use-react-and-typescript-in-bit-dev-89a1260d2d9f)
 
+Using Storybook and Bit.dev Together
+
+[How is bit.dev different from Storybook?](https://blog.bitsrc.io/how-is-bit-dev-different-from-storybook-892b373733bd)
+
 
 Design Systems for Developers
 
 [Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/)
 
 
-Using Storybook and Bit.dev Together
+[Class 30 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224504982876957/)
 
-[How is bit.dev different from Storybook?](https://blog.bitsrc.io/how-is-bit-dev-different-from-storybook-892b373733bd)
+[Class 30 in English on YouTube](https://www.youtube.com/watch?v=QcKLURv-npc)
+
 
 
 
