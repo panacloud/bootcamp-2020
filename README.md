@@ -972,6 +972,8 @@ We want you to build this blog site with gated content, available only for logge
 
 [Remote Job Requirements](https://stackoverflow.com/jobs/277612/senior-react-typescript-and-graphql-developer-x-team)
 
+[You can start your own company](https://www.facebook.com/eCommerceWala/videos/812017962942939/)
+
 HOW MUCH DOES IT COST TO BUILD A GATSBY WEBSITE?
 
 It depends on the complexity of implementation. If it’s just a development of a simple static web page, then you may pay around 4k - 8k for it.
