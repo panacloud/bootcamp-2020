@@ -924,6 +924,10 @@ Design Systems for Developers
 
 [Class 30 in English on YouTube](https://www.youtube.com/watch?v=QcKLURv-npc)
 
+[Class 30 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224514496194784/)
+
+[Class 30 in Urdu on YouTube](https://www.youtube.com/watch?v=f6XpLs9hnK0)
+
 
 
 ### Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit
