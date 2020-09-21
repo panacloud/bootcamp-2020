@@ -978,6 +978,12 @@ We want you to build this blog site with gated content, available only for logge
 
 [Building Modern Applications with Next.js and MongoDB](https://developer.mongodb.com/how-to/nextjs-building-modern-applications)
 
+## Class 34-38: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
+
+[Ecommerce Shop Landing Page Design](https://www.uplabs.com/posts/e-commerce-shop-landing-page)
+
+[Gatsby E-commerce Tutorial](https://www.gatsbyjs.com/tutorial/ecommerce-tutorial/)
+
 
 ### Now you are ready to do these kinds of jobs
 
@@ -1070,9 +1076,7 @@ Read the following material to prepare for React interviews:
 Getting your first work is difficult, therefore we suggest that you start working on a professional Pancloud project and become part of the team to gain experience and references.
 
 
-## Class 34-38: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
 
-[Gatsby E-commerce Tutorial](https://www.gatsbyjs.com/tutorial/ecommerce-tutorial/)
 
 ## Bootcamp 2020 Important Personal Project V: Build Upwork Profile
 
