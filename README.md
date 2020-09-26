@@ -940,6 +940,8 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Learn JAMstack Serverless in Baby Steps](https://github.com/panacloud-modern-global-apps/jamstack-serverless)
 
+[Our JAMstack Textbook for Bootcamp 2020](https://www.apress.com/gp/book/9781484261767)
+
 [Class 31 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224537825818010/)
 
 [Class 31 in English on YouTube](https://www.youtube.com/watch?v=deNpUAzAEH0)
