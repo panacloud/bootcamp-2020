@@ -1022,7 +1022,7 @@ Note: In the above article the project is done using 11ty however you are requir
 
 [Project Demo](https://vlolly.net/)
 
-[Visual Testing with Storybook in Gatsby](Visual Testing with Storybook)
+[Visual Testing with Storybook in Gatsby](https://www.gatsbyjs.com/docs/visual-testing-with-storybook/)
 
 [Forms with Formik — Gatsby — Netlify](https://medium.com/@thaotruong203/forms-with-formik-gatsby-netlify-11992b7ece99)
 
