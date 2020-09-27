@@ -958,6 +958,16 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Class 32 in Urdu on YouTube](https://www.youtube.com/watch?v=r-G-i5spHGg)
 
+[Class 33 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224601577451761/)
+
+[Class 33 in English on YouTube](https://www.youtube.com/watch?v=21dnsmxRRYM)
+
+"We are forced to intensify regulations and supervisions, starting in the capital Tehran," Rouhani said in televised remarks.
+
+He said government-run coronavirus task-force offices around the country would make recommendations on restrictions and whether to impose one-week lockdowns.
+
+Iran's death toll from Covid-19 has surpassed 25,000 and identified cases on Friday totalled 439,882, according to the health ministry.
+
 
 ### Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
 
