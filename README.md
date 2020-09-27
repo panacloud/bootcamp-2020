@@ -41,18 +41,22 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
     * [Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit](#bootcamp-project-11--build-a-taskbox-react-component-in-typescript-using-storybook-and-publishing-it-on-bit)
 21. [Class 31, 32, and 33 Learn JAMstack Serverless and Headless CMS](#class-31-32-and-33-learn-jamstack-serverless-and-headless-cms)
     * [Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify](#bootcamp-2020-project-12a-build-a-blog-site-in-gatsbyjs-and-contentful-with-typescript-and-deploy-on-netlify)
-    * [Bootcamp 2020 Extra Project 12B: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel](#bootcamp-2020-extra-project-12B-build-a-macro-compliance-tracker-in-next-and-mongodb-atlas-with-typeScript-and-deploy-on-vercel)
-22. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
+    * [Bootcamp 2020 Project 12B: Build a Building Serverless CRUD apps with Netlify Functions & FaunaDB](#bootcamp-2020-project-12b-serverless-crud-apps-with-netlify-functions- faunadb)
+    * [Bootcamp 2020 Project 12C: Building a Serverless JAMStack Todo app with Netlify, Gatsby, GraphQL, and FaunaDB](#bootcamp-2020-project-12c-building-a-serverless-jamstack-todo-app-with-netlify-gatsby-graphql-and-faunadb]
+    * [Bootcamp 2020 Project 12D: Create A Bookmarking Application With FaunaDB, Netlify And Gatsby](#bootcamp-2020-project-12d-create-a-bookmarking-application-with-faunadb-netlify-and-gatsby)
+    * [Bootcamp 2020 Project 12E: Virtual Lolly using Gatsby.js, Netlify, FaunaDB, Formik, and Storybook 6](#bootcamp-2020-project-12e-virtual-lolly-using-gatsby-netlify-faunadb-formik-and-storybook-6)
+    * [Bootcamp 2020 Extra Project 12F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel](#bootcamp-2020-extra-project-12f-build-a-macro-compliance-tracker-in-next-and-mongodb-atlas-with-typeScript-and-deploy-on-vercel)
+22. [Class 34-38: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-34-38-jamstack-ecommerce-stripe-shopify-and-snipcart)
+23. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
     * [Homework Reading Material: Writing Custom Hooks](#homework-reading-material-writing-custom-hooks)
     * [Homework Reading Material: Higher-Order Components In React](#homework-reading-material-higher-order-components-in-react)
     * [Homework Reading Material: Styled-Components In React](#homework-reading-material-styled-components-in-react)
     * [Project Ideas for Your Portfolio](#project-ideas-for-your-portfolio)
-23. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
+24. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
     * [Bootcamp 2020 Important Personal Project I: Build a Developer Profile Portfolio site in Gatsby.js Contentful with TypeScript and Deploy as a PWA](#bootcamp-2020-important-personal-project-i-build-a-developer-profile-portfolio-site-in-gatsbyjs-contentful-with-typescript-and-deploy-as-a-pwa)
     * [Bootcamp 2020 Important Personal Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin](#bootcamp-2020-important-personal-project-ii-build-a-detailed-linkedin-developer-profile-and-become-active-on-linkedin)
     * [Bootcamp 2020 Important Personal Project III: Create Full Stack, React, Gatsby and Serverless Gigs on Fivver](#bootcamp-2020-important-personal-project-iii-create-full-stack-react-gatsby-and-serverless-gigs-on-fivver)
     * [Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud USA Project](#bootcamp-2020-important-personal-project-iv-start-working-on-a-panacloud-usa-project)
-24. [Class 34-38: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-34-38-jamstack-ecommerce-stripe-shopify-and-snipcart)
 25. [Bootcamp 2020 Important Personal Project V: Build Upwork Profile](#bootcamp-2020-important-personal-project-v-build-upwork-profile)
 26. [Class 39-43 Build Android, iOS, and Web apps with React Native and Expo](#class-39-43-build-android-ios-and-web-apps-with-react-native-and-expo)
 27. [Class 44-50: MultiCloud Serverless: AWS, Google Cloud, and Azure](#class-44-50-multicloud-serverless-aws-google-cloud-and-azure)
@@ -940,7 +944,7 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Learn JAMstack Serverless in Baby Steps](https://github.com/panacloud-modern-global-apps/jamstack-serverless)
 
-[Our JAMstack Textbook for Bootcamp 2020](https://www.apress.com/gp/book/9781484261767)
+[Our JAMstack Textbook for Bootcamp 2020 Read Chapter 1](https://www.apress.com/gp/book/9781484261767)
 
 [Class 31 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224537825818010/)
 
@@ -994,7 +998,38 @@ We want GitHub Actions workflow that builds a static blog site and deploys on Su
 Important Challenge Requirement:
 We want you to build this blog site with gated content, available only for logged-in users. However we still want the blogs to be indexed for SEO reasons, and would like visitors (not logged in) have access to 3 free blogs (just like Medium), after that we want to user to get a "limited" access to each page (maybe 20 lines or so), just like news website sometimes do. The logged-in users will have unlimited access to all the blogs. We will use [Firebase authentication](https://firebase.google.com/docs/auth) for user logins. 
 
-### Bootcamp 2020 Extra Project 12B: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel
+### Bootcamp 2020 Project 12B: Build a Building Serverless CRUD apps with Netlify Functions & FaunaDB
+
+[Project Article](https://www.netlify.com/blog/2018/07/09/building-serverless-crud-apps-with-netlify-functions-faunadb/)
+
+[Updated Code Repo](https://github.com/netlify/netlify-faunadb-example)
+
+### Bootcamp 2020 Project 12C: Building a Serverless JAMStack Todo app with Netlify, Gatsby, GraphQL, and FaunaDB
+
+[Project Videos](https://egghead.io/playlists/building-a-serverless-jamstack-todo-app-with-netlify-gatsby-graphql-and-faunadb-53bb)
+
+### Bootcamp 2020 Project 12D: Create A Bookmarking Application With FaunaDB, Netlify And Gatsby
+
+[Project Article](https://www.smashingmagazine.com/2019/10/bookmarking-application-faunadb-netlify-11ty/)
+
+Note: In the above article the project is done using 11ty however you are required to do it in Gatsby.js with TypeScript
+
+### Bootcamp 2020 Project 12E: Virtual Lolly using Gatsby, Netlify, FaunaDB, Formik, and Storybook 6
+
+[Project Article](https://css-tricks.com/static-first-pre-generated-jamstack-sites-with-serverless-rendering-as-a-fallback/)
+
+[Project Repo](https://github.com/philhawksworth/virtual-lolly)
+
+[Project Demo](https://vlolly.net/)
+
+[Visual Testing with Storybook in Gatsby](Visual Testing with Storybook)
+
+[Forms with Formik — Gatsby — Netlify](https://medium.com/@thaotruong203/forms-with-formik-gatsby-netlify-11992b7ece99)
+
+Note: In the above article the project is done using 11ty however you are required to do it in Gatsby.js with TypeScript. For developing the form you are required to use Formik. For developing the React Components you will use Storybook 6.
+
+
+### Bootcamp 2020 Extra Project 12F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel
 
 [Building Modern Applications with Next.js and MongoDB](https://developer.mongodb.com/how-to/nextjs-building-modern-applications)
 
