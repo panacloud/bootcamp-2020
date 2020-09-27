@@ -41,7 +41,7 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
     * [Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit](#bootcamp-project-11--build-a-taskbox-react-component-in-typescript-using-storybook-and-publishing-it-on-bit)
 21. [Class 31, 32, and 33 Learn JAMstack Serverless and Headless CMS](#class-31-32-and-33-learn-jamstack-serverless-and-headless-cms)
     * [Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify](#bootcamp-2020-project-12a-build-a-blog-site-in-gatsbyjs-and-contentful-with-typescript-and-deploy-on-netlify)
-    * [Bootcamp 2020 Project 12B: Build a Building Serverless CRUD apps with Netlify Functions & FaunaDB](#bootcamp-2020-project-12b-serverless-crud-apps-with-netlify-functions- faunadb)
+    * [Bootcamp 2020 Project 12B: Build a Building Serverless CRUD apps with Netlify Functions & FaunaDB](#bootcamp-2020-project-12b-serverless-crud-apps-with-netlify-functions-faunadb)
     * [Bootcamp 2020 Project 12C: Building a Serverless JAMStack Todo app with Netlify, Gatsby, GraphQL, and FaunaDB](#bootcamp-2020-project-12c-building-a-serverless-jamstack-todo-app-with-netlify-gatsby-graphql-and-faunadb)
     * [Bootcamp 2020 Project 12D: Create A Bookmarking Application With FaunaDB, Netlify And Gatsby](#bootcamp-2020-project-12d-create-a-bookmarking-application-with-faunadb-netlify-and-gatsby)
     * [Bootcamp 2020 Project 12E: Virtual Lolly using Gatsby.js, Netlify, FaunaDB, Formik, and Storybook 6](#bootcamp-2020-project-12e-virtual-lolly-using-gatsby-netlify-faunadb-formik-and-storybook-6)
