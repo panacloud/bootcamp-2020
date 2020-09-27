@@ -979,7 +979,7 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Tutorial](https://www.youtube.com/watch?v=fY3mBJSDA44)
 
-[Watch Video: Episode 1](https://www.youtube.com/watch?v=r_hYR53r61M)
+[Watch Video: Episode 1](https://www.youtube.com/watch?v=fY3mBJSDA44)
 
 [Watch Video: Episode 2](https://www.youtube.com/watch?v=IaNU4R3ck_k)
 
