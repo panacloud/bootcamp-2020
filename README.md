@@ -4,6 +4,8 @@ We will teach you online to Build Modern Full Stack Mobile Web Apps and Websites
 
 We have to understand humanity is facing a COVID-19 induced global economic recession and only the high-tech and software companies have grown and their stock prices and business have risen in this environment. We need to immediately get ready to face the upcoming economic crises boldly.
 
+[Pakistan Digital Gig Economy Surged 69% Amid COVID19 Pandemic](http://www.pakalumni.com/m/blogpost?id=1119293%3ABlogPost%3A312758)
+
 # Table of Contents
 1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
 2. [Prerequisites](#prerequisites-html-css-and-javascript)
@@ -969,6 +971,10 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 [Class 33 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224605671834118)
 
 [Class 33 in Urdu on YouTube](https://www.youtube.com/watch?v=rdcqnWJK2Mk)
+
+[Class 34 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224621671314095/)
+
+[Class 34 in English on YouTube](https://www.youtube.com/watch?v=5bjdsQ95Z44)
 
 
 ### Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
