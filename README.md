@@ -980,6 +980,10 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Class 34 in Urdu on YouTube](https://www.youtube.com/watch?v=Q-QiqHBKQjQ)
 
+[Class 35 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224657363006365/)
+
+[Class 35 in English on YouTube](https://www.youtube.com/watch?v=8PxEZjYUKpc)
+
 
 ### Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
 
@@ -1043,10 +1047,25 @@ Note: In the above article the project is done using 11ty however you are requir
 
 ## Class 34-38: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
 
+[JAMstack Ecommerce](https://github.com/panacloud-modern-global-apps/jamstack-ecommerce)
+
 [Ecommerce Shop Landing Page Design](https://www.uplabs.com/posts/e-commerce-shop-landing-page)
 
-[Gatsby E-commerce Tutorial](https://www.gatsbyjs.com/tutorial/ecommerce-tutorial/)
+## Multicloud Serverless
 
+[Multicloud Serverless](https://github.com/panacloud-modern-global-apps/multicloud-serverless)
+
+## Building Multi-Tenant Serverless SaaS API's
+
+[Multi-Tenant Serverless SaaS API's](https://github.com/panacloud-modern-global-apps/serverless-saas-api)
+
+## AI as a Service
+
+[Serverless machine learning with AWS](https://www.manning.com/books/ai-as-a-service)
+
+## Blockchain as a Service
+
+[A BEGINNER’S GUIDE TO BLOCKCHAIN AS A SERVICE](https://www.leewayhertz.com/guide-to-blockchain-as-a-service/)
 
 ### Now you are ready to do these kinds of jobs
 
