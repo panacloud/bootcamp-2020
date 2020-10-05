@@ -984,6 +984,9 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Class 35 in English on YouTube](https://www.youtube.com/watch?v=8PxEZjYUKpc)
 
+[Class 35 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224666332310592/)
+
+[Class 35 in Urdu on YouTube](https://www.youtube.com/watch?v=uMDyvor_k9k)
 
 ### Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
 
