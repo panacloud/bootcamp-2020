@@ -119,6 +119,8 @@ These topics have been released for everyone in Urdu:
 
 Note: Material in English is already available [extensively on the web](https://css-tricks.com/where-do-you-learn-html-css-in-2020/).
 
+[Microsoft's Beginner's Series to: JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
+
 
 ## Class 1: Development Setup
 
