@@ -1022,6 +1022,8 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Class 39 in Urdu on YouTube - Project 12C Todo App](https://www.youtube.com/watch?v=PUYydBwrgC0)
 
+[Project 12C Todo App by Adil](https://github.com/adil-innovation-lab/JAMstackTodo)
+
 ### Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
 
 [This Tutorial will help you in building the Blog site](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
@@ -1056,6 +1058,8 @@ We want you to build this blog site with gated content, available only for logge
 ### Bootcamp 2020 Project 12C: Building a Serverless JAMStack Todo app with Netlify, Gatsby, GraphQL, and FaunaDB
 
 [Project Videos](https://egghead.io/playlists/building-a-serverless-jamstack-todo-app-with-netlify-gatsby-graphql-and-faunadb-53bb)
+
+[Project 12C Todo App by Adil](https://github.com/adil-innovation-lab/JAMstackTodo)
 
 ### Bootcamp 2020 Project 12D: Create A Bookmarking Application With FaunaDB, Netlify And Gatsby
 
