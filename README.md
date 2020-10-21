@@ -1024,6 +1024,14 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Project 12C Todo App by Adil](https://github.com/adil-innovation-lab/JAMstackTodo)
 
+[Class 40 in English on Facebook - Project 12D Bookmark App](https://www.facebook.com/zeeshanhanif/videos/10224799074469063/)
+
+[Class 40 in English on YouTube - Project 12D Bookmark App](https://www.youtube.com/watch?v=FPH7NYrdBgY)
+
+[Project 12D Bookmark App by Daniyal](https://github.com/daniyalnagori/bookmarking-app)
+
+
+
 ### Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
 
 [This Tutorial will help you in building the Blog site](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
