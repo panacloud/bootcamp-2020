@@ -41,14 +41,14 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
     * [Bootcamp Project 10: Build a Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript](#bootcamp-project-10-build-a-signup-form-and-multi-step-form-with-formik-yup-and-material-ui-using-typescript)
 20. [Class 29 and 30 React Component Driven Development with Storybook and Bit](#class-29-and-30-react-component-driven-development-with-storybook-and-bit)
     * [Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit](#bootcamp-project-11--build-a-taskbox-react-component-in-typescript-using-storybook-and-publishing-it-on-bit)
-21. [Class 31, 32, and 33 Learn JAMstack Serverless and Headless CMS](#class-31-32-and-33-learn-jamstack-serverless-and-headless-cms)
+21. [Class 31 to 41 Learn JAMstack Serverless and Headless CMS](#class-31-to-41-learn-jamstack-serverless-and-headless-cms)
     * [Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify](#bootcamp-2020-project-12a-build-a-blog-site-in-gatsbyjs-and-contentful-with-typescript-and-deploy-on-netlify)
     * [Bootcamp 2020 Project 12B: Building Serverless CRUD apps with Netlify Functions and FaunaDB](#bootcamp-2020-project-12b-building-serverless-crud-apps-with-netlify-functions-and-faunadb)
     * [Bootcamp 2020 Project 12C: Building a Serverless JAMStack Todo app with Netlify, Gatsby, GraphQL, and FaunaDB](#bootcamp-2020-project-12c-building-a-serverless-jamstack-todo-app-with-netlify-gatsby-graphql-and-faunadb)
     * [Bootcamp 2020 Project 12D: Create A Bookmarking Application With FaunaDB, Netlify And Gatsby](#bootcamp-2020-project-12d-create-a-bookmarking-application-with-faunadb-netlify-and-gatsby)
     * [Bootcamp 2020 Project 12E: Virtual Lolly using Gatsby.js, Netlify, FaunaDB, Formik, and Storybook 6](#bootcamp-2020-project-12e-virtual-lolly-using-gatsby-netlify-faunadb-formik-and-storybook-6)
     * [Bootcamp 2020 Extra Project 12F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel](#bootcamp-2020-extra-project-12f-build-a-macro-compliance-tracker-in-next-and-mongodb-atlas-with-typeScript-and-deploy-on-vercel)
-22. [Class 34-38: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-34-38-jamstack-ecommerce-stripe-shopify-and-snipcart)
+22. [Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-42-50-jamstack-ecommerce-stripe-shopify-and-snipcart)
 23. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
     * [Homework Reading Material: Writing Custom Hooks](#homework-reading-material-writing-custom-hooks)
     * [Homework Reading Material: Higher-Order Components In React](#homework-reading-material-higher-order-components-in-react)
@@ -944,7 +944,7 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 [Taskbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
 
 
-## Class 31, 32, and 33 Learn JAMstack Serverless and Headless CMS
+## Class 31 to 41 Learn JAMstack Serverless and Headless CMS
 
 [Learn JAMstack Serverless in Baby Steps](https://github.com/panacloud-modern-global-apps/jamstack-serverless)
 
@@ -1044,10 +1044,6 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Class 41 in Urdu on YouTube - Project 12E Virtual Lolly App](https://www.youtube.com/watch?v=CJ42Nw5Vksk)
 
-
-
-
-
 ### Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
 
 [This Tutorial will help you in building the Blog site](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
@@ -1110,7 +1106,8 @@ Note: In the above article the project is done using 11ty however you are requir
 
 [Building Modern Applications with Next.js and MongoDB](https://developer.mongodb.com/how-to/nextjs-building-modern-applications)
 
-## Class 34-38: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
+
+## Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
 
 [JAMstack Ecommerce](https://github.com/panacloud-modern-global-apps/jamstack-ecommerce)
 
