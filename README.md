@@ -1034,6 +1034,18 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Class 40 in Urdu on YouTube - Project 12D Bookmark App](https://www.youtube.com/watch?v=fAQG0bN5h6s)
 
+[Class 41 in English on Facebook - Project 12E Virtual Lolly App](https://www.facebook.com/zeeshanhanif/videos/10224830783101759/)
+
+[Class 41 in English on YouTube - Project 12E Virtual Lolly App](https://www.youtube.com/watch?v=zlhY7bRYR1A)
+
+[Zeeshan's Virtual Lolly App Code Repo](https://github.com/zeeshanhanif/gatsby-virtual-lolly)
+
+[Class 41 in Urdu on Facebook - Project 12E Virtual Lolly App](https://www.facebook.com/zeeshanhanif/videos/10224839747005851/)
+
+[Class 41 in Urdu on YouTube - Project 12E Virtual Lolly App](https://www.youtube.com/watch?v=CJ42Nw5Vksk)
+
+
+
 
 
 ### Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
