@@ -1111,6 +1111,10 @@ Note: In the above article the project is done using 11ty however you are requir
 
 [JAMstack Ecommerce](https://github.com/panacloud-modern-global-apps/jamstack-ecommerce)
 
+[Class 42 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224856174736534/)
+
+[Class 42 in English on YouTube](https://www.youtube.com/watch?v=u3KOcuxvb5w)
+
 [Ecommerce Shop Landing Page Design](https://www.uplabs.com/posts/e-commerce-shop-landing-page)
 
 ## Multicloud Serverless
