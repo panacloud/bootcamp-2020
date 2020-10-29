@@ -1115,7 +1115,24 @@ Note: In the above article the project is done using 11ty however you are requir
 
 [Class 42 in English on YouTube](https://www.youtube.com/watch?v=u3KOcuxvb5w)
 
+[Class 42 in Urdu on facebook](https://www.facebook.com/zeeshanhanif/videos/10224865871098937/)
+
+[Class 42 in Urdu on YouTube](https://www.youtube.com/watch?v=c11-JmxKJfc) 
+
 [Ecommerce Shop Landing Page Design](https://www.uplabs.com/posts/e-commerce-shop-landing-page)
+
+### Material we will cover going forward
+
+[Full Stack Serverless: Modern Application Development with React, AWS, and GraphQL by Nader Dabit](https://www.amazon.com/Full-Stack-Serverless-Application-Development/dp/1492059897/ref=sr_1_1)
+
+[Learning Serverless: Design, Develop, and Deploy with Confidence by Jason Katzer](https://www.amazon.com/Learning-Serverless-Design-Develop-Confidence/dp/1492057010/ref=sr_1_1)
+
+[AWS Serverless in Depth](https://aws.amazon.com/serverless/)
+
+[AI as a Service: Serverless machine learning with AWS by Peter Elger, Eoin Shanaghy](https://www.amazon.com/AI-as-Service-Peter-Elger/dp/1617296155/ref=sr_1_1)
+
+[Building a serverless blockchain application with Amazon Managed Blockchain](https://aws.amazon.com/blogs/database/building-a-serverless-blockchain-application-with-amazon-managed-blockchain/)
+
 
 ## Multicloud Serverless
 
