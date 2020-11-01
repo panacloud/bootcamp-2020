@@ -1109,7 +1109,7 @@ Note: In the above article the project is done using 11ty however you are requir
 
 ## Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
 
-[JAMstack Ecommerce](https://github.com/panacloud-modern-global-apps/jamstack-ecommerce)
+[JAMstack Ecommerce Learning Repo](https://github.com/panacloud-modern-global-apps/jamstack-ecommerce)
 
 [Class 42 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224856174736534/)
 
@@ -1118,6 +1118,10 @@ Note: In the above article the project is done using 11ty however you are requir
 [Class 42 in Urdu on facebook](https://www.facebook.com/zeeshanhanif/videos/10224865871098937/)
 
 [Class 42 in Urdu on YouTube](https://www.youtube.com/watch?v=c11-JmxKJfc) 
+
+[Class 43 Building Project 00 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224888744070747/)
+
+[Class 43 Building Project 00 Video in English on YouTube](https://www.youtube.com/watch?v=cextuS_GgVI)
 
 [Ecommerce Shop Landing Page Design](https://www.uplabs.com/posts/e-commerce-shop-landing-page)
 
