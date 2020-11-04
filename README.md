@@ -1124,8 +1124,12 @@ Note: In the above article the project is done using 11ty however you are requir
 [Class 43 Building Project 00 Video in English on YouTube](https://www.youtube.com/watch?v=cextuS_GgVI)
 
 [Class 43 Building Project 00 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224899533580478/)
-
+https://www.youtube.com/watch?v=tamOJxju7fg
 [Class 43 Building Project 00 Video in Urdu on YouTube](https://www.youtube.com/watch?v=Jhg8URgZH-s)
+
+[Class 44 Building Project 01 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224918482854198/)
+
+[Class 44 Building Project 01 Video in English on YouTube](https://www.youtube.com/watch?v=tamOJxju7fg)
 
 [Ecommerce Shop Landing Page Design](https://www.uplabs.com/posts/e-commerce-shop-landing-page)
 
