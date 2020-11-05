@@ -1232,7 +1232,7 @@ Read the following material to prepare for React interviews:
 [My (Simple) Workflow To Design And Develop A Portfolio Website](https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/)
 
 
-[Building a personal site with Gatsby.js, Contentful and Netlify](Building a personal site with Gatsby.js, Contentful and Netlify)
+[Building a personal site with Gatsby.js, Contentful and Netlify](https://levelup.gitconnected.com/building-a-personal-site-with-gatsby-js-contentful-and-netlify-d9e614ed9a77)
 
 [Ejaz Ahmed Portfolio Site](https://www.ejazahmed.com)
 
