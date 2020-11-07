@@ -234,6 +234,10 @@ Expense Tracker App By Adil Altaf
 
 [Asynchronous JavaScript: How Callbacks, Promises, and Async-Await Work](https://www.youtube.com/watch?v=XuFDcZABiDQ)
 
+For in-depth information about Asynchronous Javascript, watch the following playlist by [The Net Ninja](https://www.youtube.com/c/TheNetNinja). The total duration of the playlist is `01:26:21`
+
+[Asynchronous JavaScript (2020 version)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu)
+
 [Code for Class 7 English](https://github.com/zeeshanhanif/demo-async-programming)
 
 [Class 7 English Facebook Video](https://web.facebook.com/imran82ali/videos/286047259199350/)
