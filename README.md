@@ -1139,6 +1139,10 @@ Note: In the above article the project is done using 11ty however you are requir
 
 [Class 45 Buidling Project 02 Video in English on YouTube](https://www.youtube.com/watch?v=0APfFRm2hK8)
 
+[Class 45 Building Project 02 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224961217042526/)
+
+[Class 45 Building Project 02 Video in Urdu on YouTube](https://www.youtube.com/watch?v=vzeLykEV87w&t=6s)
+
 
 [Ecommerce Shop Landing Page Design](https://www.uplabs.com/posts/e-commerce-shop-landing-page)
 
