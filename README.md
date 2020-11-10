@@ -1148,6 +1148,8 @@ Note: In the above article the project is done using 11ty however you are requir
 
 [Class 46 Building Project 03 Video in English on YouTube](https://www.youtube.com/watch?v=tYGlZI4OPIs)
 
+[Best Practices For E-Commerce UI Design](https://www.smashingmagazine.com/2020/11/best-practices-ecommerce-ui-design/)
+
 [Ecommerce Shop Landing Page Design](https://www.uplabs.com/posts/e-commerce-shop-landing-page)
 
 ## Full Stack Serverless with Cloud Development Kit
