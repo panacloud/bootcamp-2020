@@ -49,6 +49,7 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
     * [Bootcamp 2020 Project 12E: Virtual Lolly using Gatsby.js, Netlify, FaunaDB, Formik, and Storybook 6](#bootcamp-2020-project-12e-virtual-lolly-using-gatsby-netlify-faunadb-formik-and-storybook-6)
     * [Bootcamp 2020 Extra Project 12F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel](#bootcamp-2020-extra-project-12f-build-a-macro-compliance-tracker-in-next-and-mongodb-atlas-with-typeScript-and-deploy-on-vercel)
 22. [Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-42-50-jamstack-ecommerce-stripe-shopify-and-snipcart)
+23. [Full Stack Serverless with Cloud Development Kit](#full-stack-serverless-with-cloud-development-kit)
 23. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
     * [Homework Reading Material: Writing Custom Hooks](#homework-reading-material-writing-custom-hooks)
     * [Homework Reading Material: Higher-Order Components In React](#homework-reading-material-higher-order-components-in-react)
@@ -1143,12 +1144,25 @@ Note: In the above article the project is done using 11ty however you are requir
 
 [Class 45 Building Project 02 Video in Urdu on YouTube](https://www.youtube.com/watch?v=vzeLykEV87w&t=6s)
 
-
 [Ecommerce Shop Landing Page Design](https://www.uplabs.com/posts/e-commerce-shop-landing-page)
 
-### Material we will cover going forward
+## Full Stack Serverless with Cloud Development Kit
 
-[Full Stack Serverless: Modern Application Development with React, AWS, and GraphQL by Nader Dabit](https://www.amazon.com/Full-Stack-Serverless-Application-Development/dp/1492059897/ref=sr_1_1)
+[Full Stack Serverless with CDK Learning Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
+
+### Bootcamp 2020 Project 13A: Building a Serverless JAMStack Todo app with AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, and DynamoDB
+
+The functionality of project is exactly the same as in Project 12C except that complete deployment is done using AWS technologies using AWS CDK (Infrastructure as Code) 
+
+### Bootcamp 2020 Project 13B: Create A Bookmarking Application With AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, and DynamoDB
+
+The functionality of project is exactly the same as in Project 12D except that complete deployment is done using AWS technologies using AWS CDK (Infrastructure as Code)
+
+### Bootcamp 2020 Project 13C: Virtual Lolly using AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, DynamoDB, Formik, and Storybook 6
+
+The functionality of project is exactly the same as in Project 12E except that complete deployment is done using AWS technologies using AWS CDK (Infrastructure as Code)
+
+### Material we will cover going forward
 
 [Learning Serverless: Design, Develop, and Deploy with Confidence by Jason Katzer](https://www.amazon.com/Learning-Serverless-Design-Develop-Confidence/dp/1492057010/ref=sr_1_1)
 
@@ -1159,13 +1173,7 @@ Note: In the above article the project is done using 11ty however you are requir
 [Building a serverless blockchain application with Amazon Managed Blockchain](https://aws.amazon.com/blogs/database/building-a-serverless-blockchain-application-with-amazon-managed-blockchain/)
 
 
-## Multicloud Serverless
 
-[Multicloud Serverless](https://github.com/panacloud-modern-global-apps/multicloud-serverless)
-
-## Building Multi-Tenant Serverless SaaS API's
-
-[Multi-Tenant Serverless SaaS API's](https://github.com/panacloud-modern-global-apps/serverless-saas-api)
 
 ## AI as a Service
 
