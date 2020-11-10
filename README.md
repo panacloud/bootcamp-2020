@@ -1144,6 +1144,10 @@ Note: In the above article the project is done using 11ty however you are requir
 
 [Class 45 Building Project 02 Video in Urdu on YouTube](https://www.youtube.com/watch?v=vzeLykEV87w&t=6s)
 
+[Class 46 Buiding Project 03 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224984117135014/)
+
+[Class 46 Building Project 03 Video in English on YouTube](https://www.youtube.com/watch?v=tYGlZI4OPIs)
+
 [Ecommerce Shop Landing Page Design](https://www.uplabs.com/posts/e-commerce-shop-landing-page)
 
 ## Full Stack Serverless with Cloud Development Kit
