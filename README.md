@@ -1160,6 +1160,25 @@ Note: In the above article the project is done using 11ty however you are requir
 
 [Full Stack Serverless with CDK Learning Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
 
+Base Technology Stack:
+1.	Frontend: React with Typescipt and Storybook
+2.	Infrastructure As Code and Automation Tools: AWS CDK
+3.	Integration: AWS EventBridge and Google Eventarc
+4.	Computing: AWS Lambda
+5.	Programing Language: TypeScript
+6.	Orchestration: AWS Step Functions
+7.	CDN: Amazon CloudFront 
+8.	Static Content: Amazon S3
+9.	API Front End: GraphQL using AWS AppSync
+10.	Database: AWS DynamoDB and FaunaDB
+11.	Container Management: Google Cloud Run
+12.	Observability: AWS X-Ray and Thundra
+13.	IDE: VS Code
+14.	Ecommerce Stack: Shopify, Stripe, and 2Checkout
+15.	 CI/CD: CDK pipelines
+16.	Version Control: GitHub
+
+
 ### Bootcamp 2020 Project 13A: Building a Serverless JAMStack Todo app with AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, and DynamoDB
 
 The functionality of project is exactly the same as in Project 12C except that complete deployment is done using AWS technologies using AWS CDK (Infrastructure as Code) 
