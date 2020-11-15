@@ -1246,6 +1246,10 @@ Now we will learn how to develop multi-tenanted SaaS API's and applications.
 
 [AWS Serverless SaaS](https://aws.amazon.com/partners/saas-factory/serverless-saas/)
 
+[AWS SaaS Factory Program](https://aws.amazon.com/partners/saas-factory/)
+
+[AWS Partner Network (APN) Blog](https://aws.amazon.com/blogs/apn/tag/saas-factory/)
+
 
 [APIs are the next big SaaS wave](https://techcrunch.com/2019/09/06/apis-are-the-next-big-saas-wave/)
 
@@ -1296,6 +1300,8 @@ Now implement 14 A, B, C, and D as SaaS with Multi-Tenant and Event-Driven Servl
 Also implement a billing system where you can charge to the tenant on the basis of AWS cost plus markup basis.
 
 Note: You will have to track what each user of the tenant is consuming AWS resources 
+
+[Calculating Tenant Costs in SaaS Environments](https://aws.amazon.com/blogs/apn/calculating-tenant-costs-in-saas-environments/)
 
 
 
