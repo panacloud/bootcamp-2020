@@ -1195,6 +1195,44 @@ The functionality of project is exactly the same as in Project 12D except that c
 
 The functionality of project is exactly the same as in Project 12E except that complete deployment is done using AWS technologies using AWS CDK (Infrastructure as Code)
 
+
+### Bootcamp 2020 Project 14: Building Apps with Event-Driven Architecture using AWS Eventbridge
+
+[What is an Event-Driven Architecture?](https://aws.amazon.com/event-driven-architecture/)
+
+[EventBridge: The key component in Serverless Architectures](https://medium.com/serverless-transformation/eventbridge-the-key-component-in-serverless-architectures-e7d4e60fca2d)
+
+[How to Use Amazon EventBridge to Build Decoupled, Event-Driven Architectures](https://pages.awscloud.com/AWS-Learning-Path-How-to-Use-Amazon-EventBridge-to-Build-Decoupled-Event-Driven-Architectures_2020_LP_0001-SRV.html)
+
+[Rethinking Serverless Architectures With Eventbridge](https://blog.thundra.io/rethinking-serverless-architectures-with-eventbridge)
+
+[Architecting Serverless Solutions (Must Do this Course)](https://www.aws.training/Details/eLearning?id=42594)
+
+[Introduction to Messaging for Modern Cloud Architecture](https://aws.amazon.com/blogs/architecture/introduction-to-messaging-for-modern-cloud-architecture/)
+
+[Moving to event-driven architectures](https://www.youtube.com/watch?v=h46IquqjF3E}
+
+[Deep Dive on Amazon EventBridge - AWS Online Tech Talks](https://www.youtube.com/watch?v=28B4L1fnnGM}
+
+[Integrating Amazon EventBridge into your serverless applications](https://aws.amazon.com/blogs/compute/integrating-amazon-eventbridge-into-your-serverless-applications/)
+
+[Rethinking Serverless Architectures With Eventbridge](https://blog.thundra.io/rethinking-serverless-architectures-with-eventbridge)
+
+[Deep Dive on Amazon EventBridge](https://pages.awscloud.com/Deep-Dive-on-Amazon-EventBridge_2019_0919-SRV_OD.html)
+
+Project 14 A, B, and C
+Now implement 13 A, B, and C using Event-Driven Architecture with AWS Eventbridge and CDK
+
+Project 14 D: Build a Resilient, Asynchronous Pet Theory System 
+
+https://www.qwiklabs.com/focuses/8389?parent=catalog
+
+The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technologies like Lambda, EventBridge etc. 
+
+
+
+
+
 ### Material we will cover going forward
 
 [Learning Serverless: Design, Develop, and Deploy with Confidence by Jason Katzer](https://www.amazon.com/Learning-Serverless-Design-Develop-Confidence/dp/1492057010/ref=sr_1_1)
@@ -1345,144 +1383,15 @@ Getting your first work is difficult, therefore we suggest that you start workin
 ## Start working for Panacloud Silicon Valley Clients
 
 
-## Bootcamp 2020 JAMStack Client Serverless Model Project 13A
-
-[Building Serverless CRUD apps with Netlify Functions & FaunaDB](https://www.netlify.com/blog/2018/07/09/building-serverless-crud-apps-with-netlify-functions-faunadb/)
-
-[Code Repo](https://github.com/netlify/netlify-faunadb-example/)
-
-[Netlify Functions Use with TypeScript](https://github.com/netlify/netlify-lambda#use-with-typescript)
-
-[Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
-
-
-## Bootcamp 2020 JAMStack Client Serverless Model Project 13B
-
-[JAMstack Crash Course - Build a Full Stack Application](https://www.youtube.com/watch?v=73b1ZbmB96I)
-
-Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
-
-## Bootcamp 2020 JAMStack Client Serverless Model Project 13C
-
-[How to Build Authenticated Serverless JAMstack Apps with Gatsby and Netlify](https://www.freecodecamp.org/news/building-jamstack-apps/)
-
-Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
-
-## Bootcamp 2020 JAMStack Client Serverless Model Project 13D:
-
-[Manage Subscriptions and Protect Content With Stripe](https://www.netlify.com/blog/2020/07/13/manage-subscriptions-and-protect-content-with-stripe/)
-
-Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
-
-### Bootcamp 2020 JAMStack Client Serverless Model Project 13E: Building Serverless REST and QraphQL API using Netlify Functions and FaunaDB
-
-[Serverless Database CRUD Example With FaunaDB and Netlify Functions](https://nordschool.com/build-a-serverless-database-using-faunadb-and-netlify-functions/)
-
-Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
-
-
-### Bootcamp 2020 JAMStack Client Serverless Model Project 13F: Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB
-
-[Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB](https://owlypixelhttps://www.dbta.com/Editorial/News-Flashes/Fauna-Raises-27-Million-to-Continue-Providing-Cutting-Edge-Solutions-for-Developers-141679.aspx.com/build-serverless-writing-pad/)
-
-Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
-
-
-### Bootcamp 2020 JAMStack Ecommerce Project 13G:
-[JAMstack e-commerce using Apicart, FaunaDB, Gridsome and Netlify](https://dev.to/machy8/jamstack-e-commerce-using-apicart-faunadb-gridsome-and-netlify-39jm)
-Note: User Gatsby.js instead of Gridsome
-[Demo](https://apicart-fauna-gridsome-example.netlify.app/)
-[Alternatives](https://alternativeto.net/software/apicart/)
-[Best eCommerce Services in 2020](https://dev.to/integridsolutions/best-ecommerce-services-to-use-in-2020-5efh)
-[9 Best eCommerce Solutions for Jamstack Websites](https://bejamas.io/blog/jamstack-ecommerce/)
-
-
-### Bootcamp 2020 Full Stack Project 14A: Building Serverless REST API using Node.js, Express, MongoDB Atlas, and Netlify
-
-[Node js and Express Tutorial for Beginners](https://codeforgeek.com/express-nodejs-tutorial/)
-
-[Node.js/Express Tutorial](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm)
-
-[CRUD Operations with Mongoose and MongoDB Atlas](https://www.digitalocean.com/community/tutorials/nodejs-crud-operations-mongoose-mongodb-atlas)
-
-[Build a Expense Tracker Backend using Node.js & Express API](https://www.youtube.com/watch?v=KyWaXA_NvT0)
-
-Note: [Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
-
-
-### Bootcamp 2020 Full Stack Project 14B: Building Serverless QraphQL API using Node.js, Express, MongoDB Atlas, and Netlify
-
-[Building Serverless GraphQL API in Node with Express and Netlify](https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify/)
-
-[Build a CI/CD Pipeline using GitHub Actions](https://github.com/marketplace/actions/netlify-actions)
-
-
-### Bootcamp 2020 Full Stack Project 15 Product Catalog and Shopping Cart with Context API, React Hooks, Animations API, Router and Serveless REST API
-
-Admin app and customer app are both required. 
-
-1. [Building a CRUD App with React Hooks & the Context API](https://www.digitalocean.com/community/tutorials/react-crud-context-hooks)
-
-2. Review Shopping Cart Demo
-[Demo](https://contextcart.netlify.app/)
-[Explanation](https://www.hoseinh.com/react-context-vs-redux-hooks/)
-[Video](https://www.reddit.com/r/learnjavascript/comments/cegnjx/reactjs_context_api_tutorial_shopping_cart_hooks/)
-[Code](https://github.com/hoseinhamzei/Shopping-Cart-with-react-context-api)
-[Another Example](https://dev.to/pixelagil/simple-react-shooping-cart-53ic)
-[Yet Another Example](https://www.hoseinh.com/react-context-vs-redux-hooks/)
-
-3. Now build your own Professional Shopping Cart with Context API, Hooks, Animation API and Router
-
-
-### Bootcamp 2020 Full Stack Project 16: Product Catalog and Shopping Cart with Redux Toolkit, Animations API, Router and Serveless GraphQL API
-
-Admin app and customer app are both required. 
-
-1. Learn Redux Toolkit
-[Basic Tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
-
-2. Build you Shopping Cart with Redux Toolkit
-[Create a shopping basket using React and Redux Toolkit](https://developerhandbook.com/stripe/create-shopping-basket-using-redux-toolkit/)
 
 
 
 
 
-### Bootcamp 2020 Project 17: E-Commerce App using Gatsby.js, QraphQL, Contentful, Stripe and SnipCart
 
-1. Gatsby Ecommerce 
-[Gatsby Ecommerce Tutorial](https://www.gatsbyjs.org/tutorial/ecommerce-tutorial/)
 
-2. Learn to build ecommerce website
-[Building an ecommerce site with Gatsby, Contentful and Snipcart](https://aquasar.io/articles/building-an-ecommerce-site-with-gatsby-contentful-and-snipcart?fbclid=IwAR0dZe4XoaTd5SLTgErPVC9VrzPA-68UXyTwLYhk5UoD6OOyM27CeYP9Drk)
 
-3. Build your own Ecommerce Website using Shopify and Gatsby
 
-[Shopify vs Amazon](https://www.websitebuilderexpert.com/ecommerce-website-builders/comparisons/shopify-vs-amazon/)
-
-[Ecommerce is fragmenting. Shopify may be the glue that holds it together](https://www.protocol.com/shopify-plan-to-dominate-ecommerce)
-
-[Shopify Tutorial: A Detailed Step-by-Step Guide for Beginners](https://themeisle.com/blog/shopify-tutorial/)
-
-[How to Set up Your Own Online Shop with the Help of Shopify](https://websitesetup.org/build-online-store-shopify/)
-
-[Building an E-commerce site with Shopify](https://www.gatsbyjs.org/docs/building-an-ecommerce-site-with-shopify/]
-
-4. International Ecommerce Services 
-[Options to build a ecommerce site](https://www.gatsbyjs.org/docs/building-an-e-commerce-site/)
-
-5. Pakistani Payment Services
-[Which payment gateways work in Pakistan](https://www.quora.com/Which-payment-gateways-work-in-Pakistan-as-an-alternative-to-PayPal-and-Stripe)
-[Ecommerce in Pakistan](https://www.dawn.com/news/1549691)
-[NayaPay and Visa partner to fast-track digital payments in Pakistan](https://www.dawn.com/news/1571618/nayapay-and-visa-partner-to-fast-track-digital-payments-in-pakistan)
-[Alipay in Pakistan](https://www.brandsynario.com/alipay-in-pakistan-e-commerce-giant-plans-to-boost-the-economy/)
-[JazzCash](https://sandbox.jazzcash.com.pk/sandbox)
-[JazzCash Documentation](https://payments.jazzcash.com.pk/SandboxDocumentation/)
-[JazzCash Developer Certer](https://developer.jazzcash.com.pk/)
-[Payment Gateway](https://sandbox.jazzcash.com.pk/SandboxDocumentation/Content/documentation/Payment%20Gateway%20Integration%20Guide%20for%20Merchants-v4.2.pdf)
-[Online Payment Gateway](https://www.jazzcash.com.pk/jazzcash-for-business/online-payment-gateway/)
-[Telenor Opens API](https://www.centerforfinancialinclusion.org/telenor-opens-mobile-money-apis-for-third-party-developers)
-[Integration Guide](http://happening.pk/gsmahackathon/apidocument3.pdf)
 
 ### Bootcamp 2020 Project 18 Build a Facebook Shop
 
@@ -1507,12 +1416,6 @@ Admin app and customer app are both required.
 [Reference Reading](https://www.websitebuilderexpert.com/building-online-stores/how-to-set-up-a-facebook-store/)
 
 
-
-### Bootcamp 2020 Project 19: Learn Multicloud Serverless Application Development
-
-[Servlesss and Cloud Native Computing Overview in Urdu on YouTube](https://www.youtube.com/watch?v=4UEVD97kjKo&t=1204s)
-
-[Servlesss and Cloud Native Computing Overview in Urdu on Facebook](https://web.facebook.com/piaic.main/videos/178573860355900/)
 
 
 
@@ -1577,7 +1480,7 @@ The software industry has completely shifted toward multi-cloud usage in project
 
 [Google Cloud Free Offer](https://cloud.google.com/free)
 
-You will get temporary free Access to Google Cloud while doing these [Hello Cloud Run tutorial](https://www.qwiklabs.com/focuses/5162?parent=catalog) and [Build a Resilient, Asynchronous System with Cloud Run and Pub/Sub tutorial](https://www.qwiklabs.com/focuses/8389?parent=catalog). 
+You will get temporary free Access to Google Cloud while doing these [Hello Cloud Run tutorial](https://www.qwiklabs.com/focuses/5162?parent=catalog) and 
 
 You will get temporary free Access to AWS while doing these [Introduction to AWS Lambda tutorial](https://www.qwiklabs.com/focuses/10541?parent=catalog) and [Building Serverless Applications with an Event-Driven Architecture](https://www.qwiklabs.com/focuses/10959?parent=catalog)
 
