@@ -1210,9 +1210,9 @@ The functionality of project is exactly the same as in Project 12E except that c
 
 [Introduction to Messaging for Modern Cloud Architecture](https://aws.amazon.com/blogs/architecture/introduction-to-messaging-for-modern-cloud-architecture/)
 
-[Moving to event-driven architectures](https://www.youtube.com/watch?v=h46IquqjF3E}
+[Moving to event-driven architectures](https://www.youtube.com/watch?v=h46IquqjF3E)
 
-[Deep Dive on Amazon EventBridge - AWS Online Tech Talks](https://www.youtube.com/watch?v=28B4L1fnnGM}
+[Deep Dive on Amazon EventBridge - AWS Online Tech Talks](https://www.youtube.com/watch?v=28B4L1fnnGM)
 
 [Integrating Amazon EventBridge into your serverless applications](https://aws.amazon.com/blogs/compute/integrating-amazon-eventbridge-into-your-serverless-applications/)
 
