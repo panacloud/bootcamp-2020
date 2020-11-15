@@ -1,4 +1,4 @@
-# Bootcamp 2020: Learn to Build Modern Full Stack Serverless Applications in Baby Steps
+# Bootcamp 2020: Learn to Build Modern Full Stack Serverless Multi-Tenant SaaS Applications and APIs in Baby Steps
 
 We will teach you online to Build Modern Full Stack Serverless Mobile Web Apps and Websites including e-commerce apps using React, Gatsby.js, Redux, GraphQL, Serverless, MongoDB, FaunaDB, Git, GitHub, GitHub Actions, Netlify, Contentful, Stripe, SnipCart, Shopify, etc. and to sell your services on Upwork and Fiverr. 
 
@@ -1243,6 +1243,8 @@ Now we will learn how to develop multi-tenanted SaaS API's and applications.
 [Serverless SaaS: The next step in the evolution of SaaS](https://www.ctepl.com/resources/serverless-applications-the-next-step-in-the-evolution-of-saas/)
 
 [How can you architect Serverless SaaS Applications on AWS?](https://nordcloud.com/how-can-you-architect-serverless-saas-applications-on-aws/)
+
+[AWS Serverless SaaS](https://aws.amazon.com/partners/saas-factory/serverless-saas/)
 
 
 [APIs are the next big SaaS wave](https://techcrunch.com/2019/09/06/apis-are-the-next-big-saas-wave/)
