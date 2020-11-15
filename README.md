@@ -1240,6 +1240,8 @@ Now we will learn how to develop multi-tenanted SaaS API's and applications.
 
 [SaaS: Single Tenant vs Multi-Tenant - What's the Difference?](https://digitalguardian.com/blog/saas-single-tenant-vs-multi-tenant-whats-difference)
 
+[15 Common Software as a Service (SaaS) Examples to Inspire You](https://joshfechter.com/software-service-examples/)
+
 [Serverless SaaS: The next step in the evolution of SaaS](https://www.ctepl.com/resources/serverless-applications-the-next-step-in-the-evolution-of-saas/)
 
 [How can you architect Serverless SaaS Applications on AWS?](https://nordcloud.com/how-can-you-architect-serverless-saas-applications-on-aws/)
@@ -1293,13 +1295,11 @@ Code:
 
 [Building Serverless SaaS with Lambda layers](https://github.com/aws-samples/aws-serverless-saas-layers)
 
-Project 15 A, B, C, and D
-
-Now implement 14 A, B, C, and D as SaaS with Multi-Tenant and Event-Driven Servless Architecture 
+Build your own Servlerless Slack (slack.com) App and APIs using GraphQL Subscriptions and other AWS Serverless Technolgies
 
 Also implement a billing system where you can charge to the tenant on the basis of AWS cost plus markup basis.
 
-Note: You will have to track what each user of the tenant is consuming AWS resources 
+Note: You will have to track how much AWS resources each tenant is consuming, and build a seprate Admin App and API for this.
 
 [Calculating Tenant Costs in SaaS Environments](https://aws.amazon.com/blogs/apn/calculating-tenant-costs-in-saas-environments/)
 
