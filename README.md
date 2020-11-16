@@ -1230,7 +1230,7 @@ https://www.qwiklabs.com/focuses/8389?parent=catalog
 The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technologies like Lambda, EventBridge etc. 
 
 
-## Bootcamp 2020 Project 15: Building Multi-Tenant Serverless SaaS Apps and APIs
+## Bootcamp 2020 Project 15: Building Multi-Tenant Serverless SaaS Apps and APIs using Event-Driven Architecture 
 
 Now we will learn how to develop multi-tenanted SaaS API's and applications.
 
@@ -1302,6 +1302,12 @@ Also implement a billing system where you can charge to the tenant on the basis 
 Note: You will have to track how much AWS resources each tenant is consuming, and build a seprate Admin App and API for this.
 
 [Calculating Tenant Costs in SaaS Environments](https://aws.amazon.com/blogs/apn/calculating-tenant-costs-in-saas-environments/)
+
+[Serverless architectural patterns and best practices](https://www.youtube.com/watch?v=9IYpGTS7Jy0)
+
+Note: You may use Thundra or some other serverless monitoring service.
+
+
 
 
 
