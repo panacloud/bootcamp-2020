@@ -1,4 +1,4 @@
-# Bootcamp 2020: Learn to Build Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs in Baby Steps
+# Bootcamp 2020: Learn to Build Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs in Baby Steps and Build Your SaaS Startup
 
 We will teach you online to Build Modern Full Stack Serverless Mobile Web Apps and Websites including e-commerce apps using React, Gatsby.js, Redux, GraphQL, Serverless, MongoDB, FaunaDB, Git, GitHub, GitHub Actions, Netlify, Contentful, Stripe, SnipCart, Shopify, etc. and to sell your services on Upwork and Fiverr. 
 
@@ -49,33 +49,25 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
     * [Bootcamp 2020 Project 12E: Virtual Lolly using Gatsby.js, Netlify, FaunaDB, Formik, and Storybook 6](#bootcamp-2020-project-12e-virtual-lolly-using-gatsby-netlify-faunadb-formik-and-storybook-6)
     * [Bootcamp 2020 Extra Project 12F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel](#bootcamp-2020-extra-project-12f-build-a-macro-compliance-tracker-in-next-and-mongodb-atlas-with-typeScript-and-deploy-on-vercel)
 22. [Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-42-50-jamstack-ecommerce-stripe-shopify-and-snipcart)
-23. [Full Stack Serverless with Cloud Development Kit](#full-stack-serverless-with-cloud-development-kit)
-23. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
+23. [Class 51-60: Serverless SaaS Apps and APIs](#class-51-60-serverless-saas-apps-and-apis)
+24. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
     * [Homework Reading Material: Writing Custom Hooks](#homework-reading-material-writing-custom-hooks)
     * [Homework Reading Material: Higher-Order Components In React](#homework-reading-material-higher-order-components-in-react)
     * [Homework Reading Material: Styled-Components In React](#homework-reading-material-styled-components-in-react)
     * [Project Ideas for Your Portfolio](#project-ideas-for-your-portfolio)
-24. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
+25. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
     * [Bootcamp 2020 Important Personal Project I: Build a Developer Profile Portfolio site in Gatsby.js Contentful with TypeScript and Deploy as a PWA](#bootcamp-2020-important-personal-project-i-build-a-developer-profile-portfolio-site-in-gatsbyjs-contentful-with-typescript-and-deploy-as-a-pwa)
     * [Bootcamp 2020 Important Personal Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin](#bootcamp-2020-important-personal-project-ii-build-a-detailed-linkedin-developer-profile-and-become-active-on-linkedin)
     * [Bootcamp 2020 Important Personal Project III: Create Full Stack, React, Gatsby and Serverless Gigs on Fivver](#bootcamp-2020-important-personal-project-iii-create-full-stack-react-gatsby-and-serverless-gigs-on-fivver)
     * [Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud USA Project](#bootcamp-2020-important-personal-project-iv-start-working-on-a-panacloud-usa-project)
-25. [Bootcamp 2020 Important Personal Project V: Build Upwork Profile](#bootcamp-2020-important-personal-project-v-build-upwork-profile)
-26. [Class 39-43 Build Android, iOS, and Web apps with React Native and Expo](#class-39-43-build-android-ios-and-web-apps-with-react-native-and-expo)
-27. [Class 44-50: MultiCloud Serverless: AWS, Google Cloud, and Azure](#class-44-50-multicloud-serverless-aws-google-cloud-and-azure)
-28. [Class 51-55: Integration with AI and DeFi Services](#class-51-55-integration-with-ai-and-defi-services)
-29. [Class 56-58: Figma for Developers](#class-56-58-figma-for-developers)
-30. [Start working for Panacloud Silicon Valley Clients](start-working-for-panacloud-silicon-valley-clients)
-31. Learn Design Thinking, Learn Startup, and Agile
-32. Develop MVP of AI and DeFi powered Serverless Ecommerce Products and Services
-33. Receive Funding from Silicon Valley VC's for our Startups
-
-
-
-
-
-
-
+    * [Bootcamp 2020 Important Personal Project V: Build Upwork Profile](#bootcamp-2020-important-personal-project-v-build-upwork-profile)
+26. Build Android, iOS, and Web apps with React Native and Expo
+27. Integration with AI and DeFi Services
+28. Figma for Developers
+29. [Start working for Panacloud Silicon Valley Clients](start-working-for-panacloud-silicon-valley-clients)
+30. Learn Design Thinking, Learn Startup, and Agile
+31. Develop MVP of AI and DeFi powered Serverless Ecommerce Products and Services
+32. Receive Funding from Silicon Valley VC's for our SaaS Startups
 
 
 
@@ -1172,6 +1164,8 @@ Note: In the above article the project is done using 11ty however you are requir
 [Best Practices For E-Commerce UI Design](https://www.smashingmagazine.com/2020/11/best-practices-ecommerce-ui-design/)
 
 [Ecommerce Shop Landing Page Design](https://www.uplabs.com/posts/e-commerce-shop-landing-page)
+
+## Class 51-60: Serverless SaaS Apps and APIs
 
 ## Full Stack Serverless with Cloud Development Kit
 
