@@ -1322,6 +1322,8 @@ Note: You will have to track how much AWS resources each tenant is consuming, an
 
 [Serverless architectural patterns and best practices](https://www.youtube.com/watch?v=9IYpGTS7Jy0)
 
+[Micro-SaaS: The Definitive Guide for 2021](https://www.preetamnath.com/micro-saas)
+
 Note: You may use Thundra or some other serverless monitoring service.
 
 
