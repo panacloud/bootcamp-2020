@@ -1310,7 +1310,7 @@ Build your own Servlerless Slack (slack.com) App and APIs using GraphQL Subscrip
 
 Also implement a billing system where you can charge to the tenant on the basis of AWS cost plus markup basis. 
 
-It would be ideal if you can building an Serverless SaaS environment where the complexity of multi-tenancy is largely hidden away from developers using Lambda layers,
+It would be ideal if you can building an Serverless SaaS environment where the complexity of multi-tenancy is [largely hidden away from developers using Lambda layers](https://github.com/aws-samples/aws-serverless-saas-layers),
 
 Note: You will have to track how much AWS resources each tenant is consuming, and build a seprate Admin App and API for this.
 
