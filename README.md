@@ -6,6 +6,10 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
 
 [Pakistan Digital Gig Economy Surged 69% Amid COVID19 Pandemic](http://www.pakalumni.com/m/blogpost?id=1119293%3ABlogPost%3A312758)
 
+Overview of the concepts by the Students:
+
+[Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs Presentation by Hamza Farooq in Urdu](https://www.facebook.com/hamza.farooq.923519/videos/1048319272275012)
+
 # Table of Contents
 1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
 2. [Prerequisites](#prerequisites-html-css-and-javascript)
