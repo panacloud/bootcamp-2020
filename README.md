@@ -1183,6 +1183,12 @@ Note: In the above article the project is done using 11ty however you are requir
 
 ## Class 51-60: Serverless SaaS Apps and APIs
 
+Get AWS Account
+
+[GitHub Student Pack](https://education.github.com/pack)
+
+[AWS Free Tier](https://aws.amazon.com/free/)
+
 ## Full Stack Serverless with Cloud Development Kit
 
 [Full Stack Serverless with CDK Learning Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
