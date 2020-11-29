@@ -1106,7 +1106,7 @@ Note: In the above article the project is done using 11ty however you are requir
 
 ## Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
 
-[JAMstack Ecommerce Learning Project Repo](https://github.com/panacloud-modern-global-apps/jamstack-ecommerce)
+[JAMstack Ecommerce Learning Project Repo (Ecommerce Projects 00 - 06)](https://github.com/panacloud-modern-global-apps/jamstack-ecommerce)
 
 [Class 42 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224856174736534/)
 
@@ -1167,6 +1167,14 @@ Note: In the above article the project is done using 11ty however you are requir
 [Class 49 Building Project 04 Part 3 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225098638837985)
 
 [Class 49 Building Project 04 Part 3 Video in English on YouTube](https://www.youtube.com/watch?v=xeAw__ofxtc)
+
+[Class 49 Building Project 04 Part 3 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225107438537972)
+
+[Class 49 Building Project 04 Part 3 Video in Urdu on YouTube](https://www.youtube.com/watch?v=-grjtMNprWI)
+
+[Class 50 Building Project 05 and 06 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225129468128698)
+
+[Class 50 Building Project 05 and 06 Video in English on YouTube](https://www.youtube.com/watch?v=dKHANO9U6IU)
 
 
 [Best Practices For E-Commerce UI Design](https://www.smashingmagazine.com/2020/11/best-practices-ecommerce-ui-design/)
