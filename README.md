@@ -1176,6 +1176,10 @@ Note: In the above article the project is done using 11ty however you are requir
 
 [Class 50 Building Project 05 and 06 Video in English on YouTube](https://www.youtube.com/watch?v=dKHANO9U6IU)
 
+[Class 50 Building Project 05 and 06 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225139989951737)
+
+[Class 50 Building Project 05 and 06 Video in Urdu on YouTube](https://www.youtube.com/watch?v=5BK_R0MBL-c)
+
 
 [Best Practices For E-Commerce UI Design](https://www.smashingmagazine.com/2020/11/best-practices-ecommerce-ui-design/)
 
