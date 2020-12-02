@@ -1215,6 +1215,9 @@ Base Technology Stack:
 15.	 CI/CD: CDK pipelines
 16.	Version Control: GitHub
 
+[Class 51 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225155745305611)
+[Class 51 Video in English on YouTube](https://www.youtube.com/watch?v=bnTCwunqhMc)
+
 
 ### Bootcamp 2020 Project 13A: Building a Serverless JAMStack Todo app with AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, and DynamoDB
 
