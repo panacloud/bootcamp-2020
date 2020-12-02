@@ -1216,7 +1216,14 @@ Base Technology Stack:
 16.	Version Control: GitHub
 
 [Class 51 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225155745305611)
+
 [Class 51 Video in English on YouTube](https://www.youtube.com/watch?v=bnTCwunqhMc)
+
+[Class 51 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225164884934096)
+
+[Class 51 Video in Urdu on YouTube](https://www.youtube.com/watch?v=JhFiu-krGZI)
+
+
 
 
 ### Bootcamp 2020 Project 13A: Building a Serverless JAMStack Todo app with AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, and DynamoDB
