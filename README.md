@@ -54,20 +54,20 @@ Overview of the concepts by the Students:
     * [Bootcamp 2020 Extra Project 12F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel](#bootcamp-2020-extra-project-12f-build-a-macro-compliance-tracker-in-next-and-mongodb-atlas-with-typeScript-and-deploy-on-vercel)
 22. [Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-42-50-jamstack-ecommerce-stripe-shopify-and-snipcart)
 23. [Class 51-60: Serverless SaaS Apps and APIs](#class-51-60-serverless-saas-apps-and-apis)
-24. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
+24. [Class 61-65: Figma for Developers](#class-61-65-figma-for-developers)
+25. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
     * [Homework Reading Material: Writing Custom Hooks](#homework-reading-material-writing-custom-hooks)
     * [Homework Reading Material: Higher-Order Components In React](#homework-reading-material-higher-order-components-in-react)
     * [Homework Reading Material: Styled-Components In React](#homework-reading-material-styled-components-in-react)
     * [Project Ideas for Your Portfolio](#project-ideas-for-your-portfolio)
-25. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
+26. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
     * [Bootcamp 2020 Important Personal Project I: Build a Developer Profile Portfolio site in Gatsby.js Contentful with TypeScript and Deploy as a PWA](#bootcamp-2020-important-personal-project-i-build-a-developer-profile-portfolio-site-in-gatsbyjs-contentful-with-typescript-and-deploy-as-a-pwa)
     * [Bootcamp 2020 Important Personal Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin](#bootcamp-2020-important-personal-project-ii-build-a-detailed-linkedin-developer-profile-and-become-active-on-linkedin)
     * [Bootcamp 2020 Important Personal Project III: Create Full Stack, React, Gatsby and Serverless Gigs on Fivver](#bootcamp-2020-important-personal-project-iii-create-full-stack-react-gatsby-and-serverless-gigs-on-fivver)
     * [Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud USA Project](#bootcamp-2020-important-personal-project-iv-start-working-on-a-panacloud-usa-project)
     * [Bootcamp 2020 Important Personal Project V: Build Upwork Profile](#bootcamp-2020-important-personal-project-v-build-upwork-profile)
-26. Build Android, iOS, and Web apps with React Native and Expo
-27. Integration with AI and DeFi Services
-28. Figma for Developers
+27. Build Android, iOS, and Web apps with React Native and Expo
+28. Integration with AI and DeFi Services
 29. [Start working for Panacloud Silicon Valley Clients](start-working-for-panacloud-silicon-valley-clients)
 30. Learn Design Thinking, Learn Startup, and Agile
 31. Develop MVP of AI and DeFi powered Serverless Ecommerce Products and Services
@@ -1281,6 +1281,8 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 
 Now we will learn how to develop multi-tenanted SaaS API's and applications.
 
+Reading Material:
+
 [What is SaaS? Everything you need to know about Software as a Service](https://digitalguardian.com/blog/saas-single-tenant-vs-multi-tenant-whats-difference)
 
 [What is multi-tenancy?](https://whatis.techtarget.com/definition/multi-tenancy)
@@ -1342,6 +1344,8 @@ Code:
 
 [Building Serverless SaaS with Lambda layers](https://github.com/aws-samples/aws-serverless-saas-layers)
 
+Project 15: Build a SaaS App like Slack.com
+
 Build your own Servlerless Slack (slack.com) App and APIs using GraphQL Subscriptions and other AWS Serverless Technolgies
 
 Also implement a billing system where you can charge to the tenant on the basis of AWS cost plus markup basis. 
@@ -1359,7 +1363,7 @@ Note: You will have to track how much AWS resources each tenant is consuming, an
 Note: You may use Thundra or some other serverless monitoring service.
 
 
-## Bootcamp 2020 Project 16: Figma for Developers
+## Class 61-65: Figma for Developers
 
 Learning Material:
 
@@ -1383,7 +1387,9 @@ Learning Material:
 
 [Figma Resources](https://www.figmaresources.com/)
 
-### Project 16A: Building a Recipe App using Figma
+## Bootcamp 2020 Project 16: Figma for Developers
+
+## Project 16A: Building a Recipe App using Figma
 
 [Build a recipe app with Figma](https://blog.prototypr.io/build-a-recipe-app-with-figma-936ca41a962d)
 
