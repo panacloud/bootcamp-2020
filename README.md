@@ -1383,7 +1383,7 @@ Learning Material:
 
 [How to wireframe](https://www.figma.com/blog/how-to-wireframe/)
 
-[Prototyping 101: Wireframes in Figma](httpPrototyping 101: Wireframes in Figmas://sabina-niewiadomska.medium.com/prototyping101-wireframes-in-figma-54297215d693)
+[Prototyping 101: Wireframes in Figma](http://sabina-niewiadomska.medium.com/prototyping101-wireframes-in-figma-54297215d693)
 
 [Figma Resources](https://www.figmaresources.com/)
 
