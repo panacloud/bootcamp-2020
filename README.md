@@ -1409,13 +1409,11 @@ Project 16B-II: Build a Mockup for the Talky Chat & Video Messenger App creating
 
 ### Material we will cover going forward
 
-[Learning Serverless: Design, Develop, and Deploy with Confidence by Jason Katzer](https://www.amazon.com/Learning-Serverless-Design-Develop-Confidence/dp/1492057010/ref=sr_1_1)
-
-[AWS Serverless in Depth](https://aws.amazon.com/serverless/)
-
 [AI as a Service: Serverless machine learning with AWS by Peter Elger, Eoin Shanaghy](https://www.amazon.com/AI-as-Service-Peter-Elger/dp/1617296155/ref=sr_1_1)
 
 [Building a serverless blockchain application with Amazon Managed Blockchain](https://aws.amazon.com/blogs/database/building-a-serverless-blockchain-application-with-amazon-managed-blockchain/)
+
+Hybrid Mobile Apps using React Native
 
 
 
