@@ -1359,6 +1359,45 @@ Note: You will have to track how much AWS resources each tenant is consuming, an
 Note: You may use Thundra or some other serverless monitoring service.
 
 
+## Bootcamp 2020 Project 16: Figma for Developers
+
+Learning Material:
+
+[FIGMA 101 – THE BEGINNER’S ULTIMATE GUIDE TO THE BASICS (PART 1)](https://www.popwebdesign.net/popart_blog/en/2020/08/figma-101-the-beginners-ultimate-guide-to-the-basics/)
+
+[FIGMA 101 – THE BEGINNER’S ULTIMATE GUIDE TO THE BASICS (PART 2)](https://www.popwebdesign.net/popart_blog/en/2020/08/figma-101-the-beginners-ultimate-guide-to-the-basics-part-2/)
+
+[FIGMA 101 – THE BEGINNER’S ULTIMATE GUIDE TO THE BASICS (PART 3)](https://www.popwebdesign.net/popart_blog/en/2020/08/figma-101-the-beginners-ultimate-guide-to-the-basics-part-3/)
+
+[Everything Developers Need To Know About Figma](https://www.smashingmagazine.com/2020/09/figma-developers-guide/)
+
+[Figma tips for developers](https://uxdesign.cc/figma-tips-for-developers-e2f7af9eaa62)
+
+[Designing in Figma Book](https://figmabook.com/)
+
+[Leveraging Figma for Prototyping, Mockups and Wireframes](https://topflightapps.com/ideas/figma-for-prototyping/)
+
+[How to wireframe](https://www.figma.com/blog/how-to-wireframe/)
+
+[Prototyping 101: Wireframes in Figma](httpPrototyping 101: Wireframes in Figmas://sabina-niewiadomska.medium.com/prototyping101-wireframes-in-figma-54297215d693)
+
+[Figma Resources](https://www.figmaresources.com/)
+
+### Project 16A: Building a Recipe App using Figma
+
+[Build a recipe app with Figma](https://blog.prototypr.io/build-a-recipe-app-with-figma-936ca41a962d)
+
+Project 16A-I: Build a Wireframe for Recipe App using the above design
+
+Project 16A-II: Build a Mockup for the Recipe App using the above design
+
+### Project 16B: Builidng your own Design for a Talky Chat & Video Messenger App using Figma
+
+[Talky Chat & Video Messenger App](https://www.figmaresources.com/resources/chat-app)
+
+Project 16B-I: Build a Wireframe for Talky Chat & Video Messenger App creating your own design
+
+Project 16B-II: Build a Mockup for the Talky Chat & Video Messenger App creating your own design
 
 
 
@@ -1494,19 +1533,6 @@ Getting your first work is difficult, therefore we suggest that you start workin
 
 ## Class 51-55: Integration with AI and DeFi Services
 
-## Class 56-58: Figma for Developers
-
-[FIGMA 101 – THE BEGINNER’S ULTIMATE GUIDE TO THE BASICS (PART 1)](https://www.popwebdesign.net/popart_blog/en/2020/08/figma-101-the-beginners-ultimate-guide-to-the-basics/)
-
-[FIGMA 101 – THE BEGINNER’S ULTIMATE GUIDE TO THE BASICS (PART 2)](https://www.popwebdesign.net/popart_blog/en/2020/08/figma-101-the-beginners-ultimate-guide-to-the-basics-part-2/)
-
-[FIGMA 101 – THE BEGINNER’S ULTIMATE GUIDE TO THE BASICS (PART 3)](https://www.popwebdesign.net/popart_blog/en/2020/08/figma-101-the-beginners-ultimate-guide-to-the-basics-part-3/)
-
-[Everything Developers Need To Know About Figma](https://www.smashingmagazine.com/2020/09/figma-developers-guide/)
-
-[Figma tips for developers](https://uxdesign.cc/figma-tips-for-developers-e2f7af9eaa62)
-
-[Designing in Figma Book](https://figmabook.com/)
 
 
 ## Start working for Panacloud Silicon Valley Clients
