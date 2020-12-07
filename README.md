@@ -1227,6 +1227,10 @@ Base Technology Stack:
 
 [Class 52 Video in English on YouTube](https://www.youtube.com/watch?v=UpuVx8c0-lA)
 
+[Class 52 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225203759985948)
+
+[Class 52 Video in Urdu on YouTube](https://www.youtube.com/watch?v=xWF-LCTnSy4)
+
 
 
 
