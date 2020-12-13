@@ -1264,6 +1264,8 @@ The functionality of project is exactly the same as in Project 12E except that c
 
 ### Bootcamp 2020 Project 14: Building Serverless Apps with Event-Driven Architecture using AWS Eventbridge
 
+[Learning Event Driven Architecture Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk#event-driven-architecture)
+
 Project 14 A, B, and C
 Now implement 13 A, B, and C using Event-Driven Architecture with AWS Eventbridge and CDK
 
