@@ -1195,7 +1195,12 @@ Get AWS Account
 
 ## Full Stack Serverless with Cloud Development Kit
 
-[Full Stack Serverless with CDK Learning Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
+[Learning Full Stack Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
+
+[Learning Serverless Solution and Architecture Patterns with CDK Repo](https://github.com/panacloud-modern-global-apps/serverless-solutions-patterns-cdk)
+
+[Learning Serverless SaaS Repo](https://github.com/panacloud-modern-global-apps/serverless-saas)
+
 
 Base Technology Stack:
 1.	Frontend: React with Typescipt and Storybook
@@ -1259,32 +1264,6 @@ The functionality of project is exactly the same as in Project 12E except that c
 
 ### Bootcamp 2020 Project 14: Building Serverless Apps with Event-Driven Architecture using AWS Eventbridge
 
-[What is an Event-Driven Architecture?](https://aws.amazon.com/event-driven-architecture/)
-
-[EventBridge: The key component in Serverless Architectures](https://medium.com/serverless-transformation/eventbridge-the-key-component-in-serverless-architectures-e7d4e60fca2d)
-
-[10 Things Serverless Architects Should Know](https://aws.amazon.com/blogs/architecture/ten-things-serverless-architects-should-know/)
-
-[What a typical 100% Serverless Architecture looks like in AWS!](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb)
-
-[How to Use Amazon EventBridge to Build Decoupled, Event-Driven Architectures](https://pages.awscloud.com/AWS-Learning-Path-How-to-Use-Amazon-EventBridge-to-Build-Decoupled-Event-Driven-Architectures_2020_LP_0001-SRV.html)
-
-[Rethinking Serverless Architectures With Eventbridge](https://blog.thundra.io/rethinking-serverless-architectures-with-eventbridge)
-
-[Architecting Serverless Solutions (Must Do this Course)](https://www.aws.training/Details/eLearning?id=42594)
-
-[Introduction to Messaging for Modern Cloud Architecture](https://aws.amazon.com/blogs/architecture/introduction-to-messaging-for-modern-cloud-architecture/)
-
-[Moving to event-driven architectures](https://www.youtube.com/watch?v=h46IquqjF3E)
-
-[Deep Dive on Amazon EventBridge - AWS Online Tech Talks](https://www.youtube.com/watch?v=28B4L1fnnGM)
-
-[Integrating Amazon EventBridge into your serverless applications](https://aws.amazon.com/blogs/compute/integrating-amazon-eventbridge-into-your-serverless-applications/)
-
-[Rethinking Serverless Architectures With Eventbridge](https://blog.thundra.io/rethinking-serverless-architectures-with-eventbridge)
-
-[Deep Dive on Amazon EventBridge](https://pages.awscloud.com/Deep-Dive-on-Amazon-EventBridge_2019_0919-SRV_OD.html)
-
 Project 14 A, B, and C
 Now implement 13 A, B, and C using Event-Driven Architecture with AWS Eventbridge and CDK
 
@@ -1299,68 +1278,7 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 
 Now we will learn how to develop multi-tenanted SaaS API's and applications.
 
-Reading Material:
-
-[What is SaaS? Everything you need to know about Software as a Service](https://digitalguardian.com/blog/saas-single-tenant-vs-multi-tenant-whats-difference)
-
-[What is multi-tenancy?](https://whatis.techtarget.com/definition/multi-tenancy)
-
-[SaaS: Single Tenant vs Multi-Tenant - What's the Difference?](https://digitalguardian.com/blog/saas-single-tenant-vs-multi-tenant-whats-difference)
-
-[15 Common Software as a Service (SaaS) Examples to Inspire You](https://joshfechter.com/software-service-examples/)
-
-[Serverless SaaS: The next step in the evolution of SaaS](https://www.ctepl.com/resources/serverless-applications-the-next-step-in-the-evolution-of-saas/)
-
-[How can you architect Serverless SaaS Applications on AWS?](https://nordcloud.com/how-can-you-architect-serverless-saas-applications-on-aws/)
-
-[AWS Serverless SaaS](https://aws.amazon.com/partners/saas-factory/serverless-saas/)
-
-[AWS SaaS Factory Program](https://aws.amazon.com/partners/saas-factory/)
-
-[AWS Partner Network (APN) Blog](https://aws.amazon.com/blogs/apn/tag/saas-factory/)
-
-
-[APIs are the next big SaaS wave](https://techcrunch.com/2019/09/06/apis-are-the-next-big-saas-wave/)
-
-[API startups are so hot right now](https://techcrunch.com/2020/05/22/api-startups-are-so-hot-right-now/)
-
-[The Evolution of APIs: Past, Present and the Future](https://blog.api.rakuten.net/evolution-of-apis/)
-
-[Jeff Lawson on API startups, picking a market and getting dissed by VCs](https://techcrunch.com/2020/09/01/jeff-lawson-on-api-startups-picking-a-market-and-getting-dissed-by-vcs/)
-
-[Why Developers Are Fueling The Next $1 Trillion Software Wave](https://www.forbes.com/sites/glennsolomon/2020/06/23/why-developers-are-fueling-the-next-1-trillion-software-wave/#1bdf885a1a31)
-
-[Example API](https://techcrunch.com/2020/09/30/travelperk-launches-an-open-api-platform-to-extend-its-work-trip-saas/)
-
-[SaaS Interfaces & APIs](https://apprenda.com/library/software-on-demand/saas-interfaces-apis/)
-
-[3 sets of APIs your SaaS platform needs](https://www.infoworld.com/article/3014636/3-sets-of-api-your-saas-platform-needs.html)
-
-[AWS Serverless SaaS](https://aws.amazon.com/partners/saas-factory/serverless-saas/)
-
-[How can you architect Serverless SaaS Applications on AWS?](https://nordcloud.com/how-can-you-architect-serverless-saas-applications-on-aws/)
-
-[SaaS Solutions on AWS](https://d0.awsstatic.com/whitepapers/saas-solutions-on-aws-final.pdf)
-
-[How to build a SaaS application](https://medium.com/@IAMVISH/how-to-build-a-saas-application-series-1-5-post-1-overview-cf0b03d6b6ce)
-
-[Calculating Tenant Costs in SaaS Environments](https://aws.amazon.com/blogs/apn/calculating-tenant-costs-in-saas-environments/)
-
-[AWS re:Invent 2017: GPS: The Ultimate View of Tenant Consumption](https://www.youtube.com/watch?v=X2SgoAl1vK8)
-
-[AWS re:Invent 2018: Deconstructing SaaS: Building Multi-Tenant Solutions on AWS](https://www.youtube.com/watch?v=mwQ5lipGTBI)
-
-[AWS re:Invent 2019: Serverless SaaS deep dive: Building serverless SaaS on AWS](https://www.youtube.com/watch?v=egskuX3YYO4)
-
-[Calculating SaaS Cost Per Tenant: A PoC Implementation in an AWS Kubernetes Environment](https://aws.amazon.com/blogs/apn/calculating-saas-cost-per-tenant-a-poc-implementation-in-an-aws-kubernetes-environment/)
-
-[Multi tenant Architecture SaaS Application on AWS](https://www.clickittech.com/saas/multi-tenant-architecture/)
-
-[Databases that play nice with your serverless backend](https://medium.com/swlh/databases-that-play-nice-with-your-serverless-backend-13eb7dc1e1c)
-
-Code:
-
-[Building Serverless SaaS with Lambda layers](https://github.com/aws-samples/aws-serverless-saas-layers)
+[Learning Serverless SaaS Repo](https://github.com/panacloud-modern-global-apps/serverless-saas)
 
 Project 15: Build a SaaS App like Slack.com
 
