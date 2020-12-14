@@ -1248,6 +1248,10 @@ Base Technology Stack:
 
 [Class 54 Video in English on YouTube](https://www.youtube.com/watch?v=iJj32I9A_Nc)
 
+[Class 54 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225258717359848)
+
+[Class 54 Video in Urdu on YouTube](https://www.youtube.com/watch?v=mzl8tQzygOA)
+
 
 ### Bootcamp 2020 Project 13A: Building a Serverless JAMStack Todo app with AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, and DynamoDB
 
