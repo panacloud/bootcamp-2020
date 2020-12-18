@@ -129,7 +129,7 @@ Learning Material for Class 1:
 
 [Notes](https://docs.google.com/document/d/11D43REjdlsoZgchrhwf8UeuGdtXaFFMnHS9CAkVkXoY/edit)
 
-[Class 1 in English on Facebook](]https://www.facebook.com/piaic.main/videos/170335457846407/)
+[Class 1 in English on Facebook](https://www.facebook.com/piaic.main/videos/170335457846407/)
 
 [Class 1 in English on YouTube](https://www.youtube.com/watch?v=pjc441QKJFE)
 
@@ -1102,6 +1102,10 @@ Note: In the above article the project is done using 11ty however you are requir
 ### Bootcamp 2020 Extra Project 12F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel
 
 [Building Modern Applications with Next.js and MongoDB](https://developer.mongodb.com/how-to/nextjs-building-modern-applications)
+
+### IMPORTANT NOTE
+
+### All Bootcamp 2020 participants who have completed 12 projects and want to work with Panacloud, please send a Whatsapp message to Zia Khan at 92-300-826-3374 after completing 12 projects.
 
 
 ## Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
