@@ -1269,6 +1269,11 @@ Base Technology Stack:
 [Class 56 Video in English on YouTube](https://www.youtube.com/watch?v=6hBaplgwE8s)
 
 
+## Important Note:
+
+Project 13 onwards, create only private repos for your project code. We want all the developers to be able to gain confidence that they can develop code without looking at anyone elses code. 
+
+
 ### Bootcamp 2020 Project 13A: Building a Serverless JAMStack Todo app with AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, and DynamoDB
 
 The functionality of project is exactly the same as in Project 12C except that complete deployment is done using AWS technologies using AWS CDK (Infrastructure as Code) 
