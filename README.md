@@ -1291,6 +1291,10 @@ The functionality of project is exactly the same as in Project 12E except that c
 
 [Learning Event Driven Architecture Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk#event-driven-architecture)
 
+[Event Driven Restaurant Example App](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step34_event-driven-restaurant-app)
+
+
+
 Project 14 A, B, and C
 Now implement 13 A, B, and C using Event-Driven Architecture with AWS Eventbridge and CDK
 
