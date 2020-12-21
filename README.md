@@ -1268,6 +1268,10 @@ Base Technology Stack:
 
 [Class 56 Video in English on YouTube](https://www.youtube.com/watch?v=6hBaplgwE8s)
 
+[Class 56 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225319812407186)
+
+[Class 56 Video in Urdu on YouTube](https://www.youtube.com/watch?v=paHnI88zXSQ)
+
 
 ## Important Note:
 
