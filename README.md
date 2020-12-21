@@ -10,6 +10,8 @@ Overview of the concepts by the Students:
 
 [Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs Presentation by Hamza Farooq in Urdu](https://www.facebook.com/hamza.farooq.923519/videos/1048319272275012)
 
+# [Panacloud Discord Discussion Server Now](https://discord.gg/kARFecfpAp)
+
 # Table of Contents
 1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
 2. [Prerequisites](#prerequisites-html-css-and-javascript)
