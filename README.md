@@ -10,7 +10,7 @@ Overview of the concepts by the Students:
 
 [Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs Presentation by Hamza Farooq in Urdu](https://www.facebook.com/hamza.farooq.923519/videos/1048319272275012)
 
-# [Panacloud Discord Discussion Server Now](https://discord.gg/kARFecfpAp)
+## [Join Panacloud Discord Discussion Server Now](https://discord.gg/kARFecfpAp)
 
 # Table of Contents
 1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
@@ -31,7 +31,7 @@ Overview of the concepts by the Students:
     * [Bootcamp 2020 Project 4A: Red Queen's Race with Web Animation API and React Hooks](#bootcamp-2020-project-4a--red-queen-s-race-with-web-animation-api-and-react-hooks)
     * [Bootcamp 2020 Project 4B: Develop Tiny Short Animation with React Hooks](#bootcamp-2020-project-4b-develop-tiny-short-animation-with-react-hooks)
     * [Bootcamp 2020 Bonus/Extra Project 5: Build an Animated React Website which follows the Latest Trends like Animated Illustrations](#bootcamp-2020-bonus-extra-project-5-build-an-animated-react-website-which-follows-the-latest-trends-like-animated-illustrations)
-13. [Class 14, 15 and 16 TypeScript](#class-14-15-and-16-typescript)
+13. [Class 14, 15 and 16 F](#class-14-15-and-16-typescript)
     * [Bootcamp 2020 Project 6: Quiz App with React and TypeScript](#bootcamp-2020-project-6--quiz-app-with-react-and-typescript)
 14. [Class 17 Progressive Web Apps (PWA) and Offline Availability](#class-17-progressive-web-apps-pwa-and-offline-availability)
 15. [Class 18 Progressive Web App (PWA) and Service Push Notification](#class-18-progressive-web-app-pwa-and-service-push-notification)
@@ -516,7 +516,7 @@ We will use this book to learn TypeScript:
 
 Chapters 1, 2, 3, 4, and 9
 
-Note 1: You can learn TypeScript 4.0 in detail from this Panacloud [repo](https://github.com/panacloud/learn-typescript)
+Note 1: You can also learn TypeScript 4.0 in detail from this Panacloud [repo](https://github.com/panacloud-modern-global-apps/learn-typescript)
 
 [Class 14 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223895728525979/)
 
