@@ -57,23 +57,24 @@ Overview of the concepts by the Students:
 22. [Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-42-50-jamstack-ecommerce-stripe-shopify-and-snipcart)
 23. [Class 51-60: Serverless SaaS Apps and APIs](#class-51-60-serverless-saas-apps-and-apis)
 24. [Class 61-65: Figma for Developers](#class-61-65-figma-for-developers)
-25. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
+25. [Class 65-70: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups](#class-65-70-combining-design-thinking-lean-startup-and-agile-to-build-saa-startups)
+26. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
     * [Homework Reading Material: Writing Custom Hooks](#homework-reading-material-writing-custom-hooks)
     * [Homework Reading Material: Higher-Order Components In React](#homework-reading-material-higher-order-components-in-react)
     * [Homework Reading Material: Styled-Components In React](#homework-reading-material-styled-components-in-react)
     * [Project Ideas for Your Portfolio](#project-ideas-for-your-portfolio)
-26. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
+27. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
     * [Bootcamp 2020 Important Personal Project I: Build a Developer Profile Portfolio site in Gatsby.js Contentful with TypeScript and Deploy as a PWA](#bootcamp-2020-important-personal-project-i-build-a-developer-profile-portfolio-site-in-gatsbyjs-contentful-with-typescript-and-deploy-as-a-pwa)
     * [Bootcamp 2020 Important Personal Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin](#bootcamp-2020-important-personal-project-ii-build-a-detailed-linkedin-developer-profile-and-become-active-on-linkedin)
     * [Bootcamp 2020 Important Personal Project III: Create Full Stack, React, Gatsby and Serverless Gigs on Fivver](#bootcamp-2020-important-personal-project-iii-create-full-stack-react-gatsby-and-serverless-gigs-on-fivver)
     * [Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud USA Project](#bootcamp-2020-important-personal-project-iv-start-working-on-a-panacloud-usa-project)
     * [Bootcamp 2020 Important Personal Project V: Build Upwork Profile](#bootcamp-2020-important-personal-project-v-build-upwork-profile)
-27. Build Android, iOS, and Web apps with React Native and Expo
-28. Integration with AI and DeFi Services
-29. [Start working for Panacloud Silicon Valley Clients](start-working-for-panacloud-silicon-valley-clients)
-30. Learn Design Thinking, Learn Startup, and Agile
-31. Develop MVP of AI and DeFi powered Serverless Ecommerce Products and Services
-32. Receive Funding from Silicon Valley VC's for our SaaS Startups
+28. Build Android, iOS, and Web apps with React Native and Expo
+29. Integration with AI and DeFi Services
+30. [Start working for Panacloud Silicon Valley Clients](start-working-for-panacloud-silicon-valley-clients)
+31. Learn Design Thinking, Learn Startup, and Agile
+32. Develop MVP of AI and DeFi powered Serverless Ecommerce Products and Services
+33. Receive Funding from Silicon Valley VC's for our SaaS Startups
 
 
 
@@ -1377,6 +1378,30 @@ Project 16A-II: Build a Mockup for the Recipe App using the above design
 Project 16B-I: Build a Wireframe for Talky Chat & Video Messenger App creating your own design
 
 Project 16B-II: Build a Mockup for the Talky Chat & Video Messenger App creating your own design
+
+## Class 65-70: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups
+
+[Combining Agile, Lean Startup and Design thinking](https://uxdesign.cc/dls-bootstrapping-innovating-with-limited-resources-5163b7ab5be3)
+
+[Differences between Design Thinking, Lean Startup, Design Sprint, Agile, Scrum and Kanban](https://zegal.com/blog/post/agile-methodology-comparison/)
+
+[Combining Design Thinking, Lean Startup, and Agile Development – Everyone Misses the Point of Continuous Innovation](https://shiftup.work/combining-design-thinking-lean-startup-and-agile-development-everyone-misses-the-point-of-continuous-innovation/)
+
+[From Design Thinking to Agile Solutions in a Lean Startup](https://shiftup.work/combining-design-thinking-lean-startup-and-agile-development-everyone-misses-the-point-of-continuous-innovation/)
+
+[Design Thinking, Lean Startup, and Agile Scrum all in one: PACE](https://medium.com/@trakakonstantina/design-thinking-lean-startup-and-agile-scrum-all-in-one-pace-2e48dcbb859c)
+
+[Combine Design Thinking, Lean Startup, and Agile. Beware of Waterfall in Disguise](https://medium.com/swlh/combine-design-thinking-lean-startup-and-agile-beware-of-waterfall-in-disguise-9d0b1e86835d)
+
+[How IP-thinking keeps your SaaS Startup On Track](https://medium.com/cto-as-a-service/how-ip-thinking-keeps-your-saas-startup-on-track-4cf65f4f245f)
+
+[Lean UX At A SaaS Startup](https://alasco.tech/2020/06/25/lean-ux.html)
+
+[What Makes SaaS, Agile, and DevOps a Powerful Combination?](https://www.agileconnection.com/article/what-makes-saas-agile-and-devops-powerful-combination)
+
+[Talk digest : 6 winning Strategies for Agile SaaS Companies](https://blog.scaleway.com/6-winning-strategies-for-agile-saas-companies/)
+
+[The #1 software development tool used by agile teams: Jira](https://www.atlassian.com/software/jira)
 
 
 
