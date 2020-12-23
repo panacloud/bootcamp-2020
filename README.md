@@ -1279,6 +1279,10 @@ Base Technology Stack:
 
 [Class 57 Video in English on YouTube](https://www.youtube.com/watch?v=DkMpDT-gsMk)
 
+[Class 57 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225347091729152)
+
+[Class 57 Video in Urdu on YouTube](https://www.youtube.com/watch?v=lpKaoZ4yAiE)
+
 
 ## Important Note:
 
