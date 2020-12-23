@@ -57,7 +57,7 @@ Overview of the concepts by the Students:
 22. [Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-42-50-jamstack-ecommerce-stripe-shopify-and-snipcart)
 23. [Class 51-60: Serverless SaaS Apps and APIs](#class-51-60-serverless-saas-apps-and-apis)
 24. [Class 61-65: Figma for Developers](#class-61-65-figma-for-developers)
-25. [Class 65-70: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups](#class-65-70-combining-design-thinking-lean-startup-and-agile-to-build-saa-startups)
+25. [Class 65-70: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups](#class-65-70-combining-design-thinking-lean-startup-and-agile-to-build-saas-startups)
 26. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
     * [Homework Reading Material: Writing Custom Hooks](#homework-reading-material-writing-custom-hooks)
     * [Homework Reading Material: Higher-Order Components In React](#homework-reading-material-higher-order-components-in-react)
