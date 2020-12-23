@@ -1411,6 +1411,8 @@ Project 16B-II: Build a Mockup for the Talky Chat & Video Messenger App creating
 
 [Learn scrum with Jira Software](https://www.atlassian.com/agile/tutorials/how-to-do-scrum-with-jira-software)
 
+[Why Is Going Agile the Best Option for Software Product Development?](https://dzone.com/articles/why-going-agile-is-the-best-option-for-software-pr)
+
 
 
 ### Material we will cover going forward
