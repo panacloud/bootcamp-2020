@@ -1405,7 +1405,11 @@ Project 16B-II: Build a Mockup for the Talky Chat & Video Messenger App creating
 
 [Talk digest : 6 winning Strategies for Agile SaaS Companies](https://blog.scaleway.com/6-winning-strategies-for-agile-saas-companies/)
 
+[Scrum Tutorial](https://www.tutorialspoint.com/scrum/index.htm)
+
 [The #1 software development tool used by agile teams: Jira](https://www.atlassian.com/software/jira)
+
+[Learn scrum with Jira Software](https://www.atlassian.com/agile/tutorials/how-to-do-scrum-with-jira-software)
 
 
 
