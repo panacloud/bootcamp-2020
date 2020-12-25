@@ -1418,6 +1418,32 @@ Project 16B-II: Build a Mockup for the Talky Chat & Video Messenger App creating
 [Why Is Going Agile the Best Option for Software Product Development?](https://dzone.com/articles/why-going-agile-is-the-best-option-for-software-pr)
 
 
+## Bootcamp 2020 Project 17: Build a Multi-Tenant Serverless SaaS That Books Vacations
+
+Single Tenant Vacation Booking App Example:
+
+[Build An App That Books Vacations To The Moon with GraphQL, Lambda, DynamoDB](https://itnext.io/build-an-app-that-books-vacations-to-the-moon-with-graphql-lambda-dynamodb-serverless-framework-569b26b6e85)
+
+In this project, you will design and build a multi-tanent vacation booker SaaS, one of the tenants of this SaaS will be Booking Vacations to the Moon.
+
+Technologies Used: Figma for UI/UX Design, Jira for Project Management, Event Driven Architecture, Stripe for Payments, Gatsby.js, AWS Cloud Front, AWS App Sync, AWS Event Bridge, DynamoDB, FaunaDB, Cognito, etc.  
+
+Requirements:
+
+1. Use Figma to design a wireframe for the Multi-Tenant Serverless SaaS Booking App.
+2. Use Figma to design MOC for the Multi-Tenant Serverless SaaS Booking App.
+3. Use Jira and SCRUM to do project management for the SaaS. You will create product backlog, create sprints, assign tasks to yourself, etc.
+4. Use GitHub to maintain your code.
+5. Use AWS CDK for IaC.
+6. Design a Event Driven Serverless Architecture.
+7. Use Gatsby.js for frontend development and AWS Cloud Frount deployment.
+8. There will be two kinds of frontends: an GUI for users and an GUI for tenant admins.
+9. We will use Stripe for users making Payments for the Vacations.
+8. Tenant admins will also use Stripe to make payments for the SaaS.
+
+
+
+
 
 ### Material we will cover going forward
 
