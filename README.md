@@ -1438,8 +1438,9 @@ Requirements:
 6. Design a Event Driven Serverless Architecture.
 7. Use Gatsby.js for frontend development and AWS Cloud Frount deployment.
 8. There will be two kinds of frontends: an GUI for users and an GUI for tenant admins.
-9. We will use Stripe for users making Payments for the Vacations.
-8. Tenant admins will also use Stripe to make payments for the SaaS.
+9. Vacation bookers will use Stripe for making Payments for the Vacations. The payments will be transfered to the tenants after making a 10% cut as SaaS usage fee.
+10. Also Develop QraphQL APIs for Developers.
+11. A very good example for our SaaS is Shopify with provides GUI for Tenants, and also provide GraphQL API for developers who want to develop their own front ends.
 
 
 
