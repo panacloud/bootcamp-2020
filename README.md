@@ -1417,6 +1417,8 @@ Project 16B-II: Build a Mockup for the Talky Chat & Video Messenger App creating
 
 [Why Is Going Agile the Best Option for Software Product Development?](https://dzone.com/articles/why-going-agile-is-the-best-option-for-software-pr)
 
+[The Scrum Guide](https://www.scrumguides.org/index.html)
+
 
 ## Bootcamp 2020 Project 17: Build a Multi-Tenant Serverless SaaS That Books Vacations
 
