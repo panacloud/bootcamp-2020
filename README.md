@@ -1287,6 +1287,10 @@ Base Technology Stack:
 
 [Class 58 Video in English on YouTube](https://www.youtube.com/watch?v=vC33wJ6DfjQ)
 
+[Class 58 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225381665553476)
+
+[Class 58 Video in Urdu on YouTube](https://www.youtube.com/watch?v=BXIWIUkl2tM)
+
 
 ## Important Note:
 
