@@ -1409,6 +1409,10 @@ Project 16B-II: Build a Mockup for the Talky Chat & Video Messenger App creating
 
 ## Class 65-70: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups
 
+[Innovation Presentation Slides](https://docs.google.com/presentation/d/14pnzdfCSKYpqy4CuesBuNHa0-qRLbPmZqsj9brbGp14/edit?usp=sharing)
+
+[Agile Presentation Slides](https://docs.google.com/presentation/d/1YLla1fSgT7i613xI4SlI9w4xSaFCu2KYZMuWqQXKv9I/edit#slide=id.p)
+
 [Combining Agile, Lean Startup and Design thinking](https://uxdesign.cc/dls-bootstrapping-innovating-with-limited-resources-5163b7ab5be3)
 
 [Differences between Design Thinking, Lean Startup, Design Sprint, Agile, Scrum and Kanban](https://zegal.com/blog/post/agile-methodology-comparison/)
