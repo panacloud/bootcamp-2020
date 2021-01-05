@@ -1200,6 +1200,8 @@ Get AWS Account
 
 [AWS Free Tier](https://aws.amazon.com/free/)
 
+Note: For AWS Free Tier you will need a credit or debit card. The easiest way for Pakistani students is to open a bank account in Meezan Bank. Open a Meezan Aasan Account if you have no earning proof. Meezan Bank will charge Rs. 1100 for ATM Debit Card and there is a requirement of Rs. 100 minimum deposit. The card will be delivered in a few weeks. Our students have reported that this Debit card works with AWS.
+
 ## Full Stack Serverless with Cloud Development Kit
 
 [Learning Full Stack Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
