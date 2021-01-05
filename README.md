@@ -1313,6 +1313,10 @@ Base Technology Stack:
 
 [Class 60 Video in Urdu on YouTube](https://www.youtube.com/watch?v=AHam583oT7c)
 
+[Class 61 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225464556865707)
+
+[Class 61 Video in English on YouTube](https://www.youtube.com/watch?v=J7C5nHmUDD4)
+
 
 ## Important Note:
 
