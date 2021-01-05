@@ -1204,6 +1204,10 @@ Get AWS Account
 
 [Learning Full Stack Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
 
+Now we will read this latest Infrastructure as Code book will take you beyond the CDK commands to the design patterns behind good practices and the how-to’s of next-level cloud automation:
+
+[Infrastructure as Code Book, 2nd Edition by Kief Morris](https://us-east-1.linodeobjects.com/marketing-assets/Infrastructure_as_Code_2E-ER_Linode.pdf?fbclid=IwAR2gBUMGMgXBG-AQkfXaYgCLsXxcD8aD9D_R6IOpOgY1mJ2Xzt83WyNTQVo)
+
 [Learning Serverless Solution and Architecture Patterns with CDK Repo](https://github.com/panacloud-modern-global-apps/serverless-solutions-patterns-cdk)
 
 [Learning Serverless SaaS Repo](https://github.com/panacloud-modern-global-apps/serverless-saas)
@@ -1303,6 +1307,10 @@ Base Technology Stack:
 
 [Class 60 Video in English on YouTube](https://www.youtube.com/watch?v=geV-TV7kTgE)
 
+[Class 60 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225444019552287)
+
+[Class 60 Video in Urdu on YouTube](https://www.youtube.com/watch?v=AHam583oT7c)
+
 
 ## Important Note:
 
@@ -1345,6 +1353,7 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 Now we will learn how to develop multi-tenanted SaaS API's and applications.
 
 [Learning Serverless SaaS Repo](https://github.com/panacloud-modern-global-apps/serverless-saas)
+
 
 Project 15: Build a SaaS App like Slack.com
 
