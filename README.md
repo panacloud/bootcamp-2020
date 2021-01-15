@@ -1333,7 +1333,9 @@ Base Technology Stack:
 
 [Class 63 Video in English on YouTube](https://www.youtube.com/watch?v=jrUDwrgBCqg)
 
+[Class 63 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225564742050274)
 
+[Class 63 Video in Urdu on YouTube](https://www.youtube.com/watch?v=1y4REyORf1U)
 
 
 ## Important Note:
