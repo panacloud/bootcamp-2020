@@ -1349,6 +1349,10 @@ Base Technology Stack:
 
 [Class 65 Video in English on YouTube](https://www.youtube.com/watch?v=pHTtY_o-WO0)
 
+[Class 65 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225612202036744)
+
+[Class 65 Video in Urdu on YouTube]()
+
 
 ## Important Note:
 
