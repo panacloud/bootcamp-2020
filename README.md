@@ -1357,6 +1357,10 @@ Base Technology Stack:
 
 [Class 66 Video in English on YouTube](https://www.youtube.com/watch?v=C46KqvvImnA)
 
+[Class 66 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225650154145523)
+
+[Class 66 Video in Urdu on YouTube](https://www.youtube.com/watch?v=MHgNzf2OAPc)
+
 
 ## Important Note:
 
