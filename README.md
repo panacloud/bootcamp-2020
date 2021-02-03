@@ -1486,6 +1486,10 @@ Project 16B-I: Build a Wireframe for Talky Chat & Video Messenger App creating y
 
 Project 16B-II: Build a Mockup for the Talky Chat & Video Messenger App creating your own design
 
+##  Design Patterns in TypeScript
+
+[Design Patterns in TypeScript](https://blog.bitsrc.io/design-patterns-in-typescript-e9f84de40449)
+
 ## Class 65-70: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups
 
 [Innovation Presentation Slides](https://docs.google.com/presentation/d/14pnzdfCSKYpqy4CuesBuNHa0-qRLbPmZqsj9brbGp14/edit?usp=sharing)
