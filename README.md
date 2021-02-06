@@ -1382,6 +1382,13 @@ Base Technology Stack:
 [Class 69 Video in English on YouTube](https://www.youtube.com/watch?v=6kwKtE8d9dc)
 
 
+
+
+[Class 70 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225802789761318)
+
+[Class 70 Video in English on YouTube]()
+
+
 ## Important Note:
 
 Project 13 onwards, create only private repos for your project code. We want all the developers to be able to gain confidence that they can develop code without looking at anyone elses code. 
