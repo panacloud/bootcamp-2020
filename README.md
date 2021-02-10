@@ -1389,6 +1389,9 @@ Base Technology Stack:
 
 [Class 70 Video in English on YouTube](https://www.youtube.com/watch?v=kUdnlL5Krhk)
 
+[Class 70 Video in Urdu on YouTube](https://www.facebook.com/zeeshanhanif/videos/10225839661283083)
+
+[Class 70 Video in Urdu on YouTube](https://www.youtube.com/watch?v=i5QTUdZBNO0)
 
 [Class 71 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225831683963655)
 
