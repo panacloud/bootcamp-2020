@@ -1399,7 +1399,7 @@ Base Technology Stack:
 
 [Class 71 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225874842762598)
 
-[Class 71 Video in Urdu on YouTube]()
+[Class 71 Video in Urdu on YouTube](https://www.youtube.com/watch?v=fa6HHSD5Qfo)
 
 [Class 72 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225866783121112)
 
