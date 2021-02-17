@@ -1405,6 +1405,14 @@ Base Technology Stack:
 
 [Class 72 Video in English on YouTube](https://www.youtube.com/watch?v=onx7b32jRcM)
 
+[Class 72 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225904417381945)
+
+[Class 72 Video in Urdu on Facebook](https://www.youtube.com/watch?v=LfhS4kuJTaI)
+
+[Class 73 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225893868638233/)
+
+[Class 73 Video in English on YouTube](https://www.youtube.com/watch?v=MA3nAbT-5cQ)
+
 
 ## Important Note:
 
