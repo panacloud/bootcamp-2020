@@ -1154,7 +1154,7 @@ The following 63 developers have submitted the 12 projects so far. Good news is 
 
 21. [Usama Tahir](https://www.facebook.com/usamatahir0)
 
-22. [Muhammad Alay Raza](https://www.facebook.com/alay.raza.5/]
+22. [Muhammad Alay Raza](https://www.facebook.com/alay.raza.5/)
 
 23. [Muhammad Tayyab](https://web.facebook.com/profile.php?id=100031034920869)
 
@@ -1540,6 +1540,14 @@ Base Technology Stack:
 [Class 73 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225893868638233/)
 
 [Class 73 Video in English on YouTube](https://www.youtube.com/watch?v=MA3nAbT-5cQ)
+
+[Class 73 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225939772465800)
+
+[Class 73 Video in Urdu on YouTube](https://www.youtube.com/watch?v=W5GbzrWs6gw)
+
+[Class 74 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225932463123071)
+
+[Class 74 Video in English on YouTube](https://www.youtube.com/watch?v=LCY9ssPMWYY)
 
 
 ## Important Note:
