@@ -1110,6 +1110,193 @@ Note: In the above article the project is done using 11ty however you are requir
 
 ### All Bootcamp 2020 participants who have completed 12 projects and want to work with Panacloud, please send a Whatsapp message to Zia Khan at 92-300-826-3374 after completing 12 projects.
 
+The following 63 developers have submitted the 12 projects so far. Good news is that 3 of ours sisters have also qualified for the Ninja group. Completing 12 projects is only way to become member of Panacloud team and work with top developers. Currently, they are going through extensive training, you can also join the Ninja team by completing 12 projects:
+
+1. [Mateen Mustafa](https://www.facebook.com/mateen.blaster.5)
+
+2. [Waris Hasan](https://www.facebook.com/DR.Death420)
+
+3. [M. Jazzel Mehmood](https://www.facebook.com/jazzel.mehmood/)
+
+4. [Syed M. Bilal](https://www.facebook.com/syed.muhammed.bilal.01/)
+
+5. Hamzah Syed
+https://www.facebook.com/profile.php?id=100011483407599
+
+6. M. Hasham
+https://www.facebook.com/IamHashamVakani
+
+7. Farhan Farooq
+https://www.facebook.com/farhan.abbasi/
+
+8. Shayaan Ahmed Farooqi
+https://www.facebook.com/ERUDITEMONKY
+
+9. Abdul Rafay Ghani
+https://www.facebook.com/abdulrafay.ghani.9
+
+10. Tanzeel Tasleem
+https://www.facebook.com/tanzeel.tasleem.7
+
+11. Uzair Bangee
+https://www.facebook.com/uzair.bangee
+
+12.Mudassir Khan
+https://www.facebook.com/profile.php?id=100005873677424
+
+13. Muhammad Hasan
+https://www.facebook.com/hasan.sohail.58
+
+14. Irfan Ahmed
+https://www.facebook.com/irfanahmed01/
+
+15. Murtaza Hanzala
+https://www.facebook.com/murtaza.huzaifa.52
+
+16. Haris Aqeel
+https://www.facebook.com/haris.aqeel.50
+
+17. Usama Subhani
+https://www.facebook.com/usama.subhani.102
+
+18. Muhammad Jami
+https://www.facebook.com/profile.php?id=100008724766246
+
+19. Shamaz Saeed
+https://www.facebook.com/shamaz332
+
+20. Waqas Mahmood
+https://www.facebook.com/waqas.mahmood.505/
+
+21. Usama Tahir
+https://www.facebook.com/usamatahir0
+
+22. Muhammad Alay Raza
+https://www.facebook.com/alay.raza.5/
+
+23. Muhammad Tayyab
+https://web.facebook.com/profile.php?id=100031034920869
+
+24. Muhammad Tauqeer
+https://www.facebook.com/profile.php?id=100007376806817
+
+25. Huma Hanif
+https://www.facebook.com/huma.hanif.9469/
+
+26. Mohammad Hammad
+https://www.facebook.com/hungryhammad
+
+27. Mahmood Ahmed
+https://www.facebook.com/profile.php?id=100007120710392
+
+28. Dawood Sadiq
+https://www.facebook.com/daudsadiq.daud/
+
+29. Ahmed Khan
+https://www.facebook.com/ahmed.khan8845
+
+30. Ahsan Shah
+https://www.facebook.com/RealSAShah/
+
+31. Ahmed Usman
+https://www.facebook.com/ahmed.usman.948494
+
+32. Naila Roomi
+https://www.facebook.com/roomi.roomi.395891/
+
+33. Mohammad Aziz
+https://www.facebook.com/sam.luvv.7
+
+34. Muhammad Faizan
+https://web.facebook.com/faizansohail077/
+
+35. Hamza Ahmed Sheikh
+https://www.facebook.com/hamza.ahmed.330
+
+36. Muhammad Arsalan
+https://www.facebook.com/muhammadrsalan/
+
+37. Muhammad Maavia Asghar
+https://www.facebook.com/maaviaasghar/
+
+38. Arsal Abbasi
+https://www.facebook.com/profile.php?id=100053719729104
+
+39. Aman Mirza
+https://www.facebook.com/amanmirza99/
+
+40. Usman Naeem
+https://web.facebook.com/usmantanoli.naeem.1
+
+41. Muhammad Sami Tariq
+https://www.facebook.com/sami.tariq.754
+
+42. Muhammad Ali Sarwar
+https://www.facebook.com/alisarwarr
+
+43. Syed Aashir Majeed
+https://www.facebook.com/prince.aashir.395
+
+44. Hasan Sattar 
+https://www.facebook.com/hasan.sattar.777
+
+45. Syed Fawad Hashmi
+https://www.facebook.com/syedfawadhashmi32423
+
+46. Usama Abbasi
+https://www.facebook.com/usama.abbasi.714655
+
+47. Hamza Farooq
+https://web.facebook.com/hamza.farooq.923519/
+
+48. Saher Razzaq 
+https://www.facebook.com/profile.php?id=100009426214929
+
+49. Thanwar Das
+https://www.facebook.com/thanwar.das.161
+
+50. Hifz Ur Rehman Ali
+https://web.facebook.com/profile.php?id=100009456091163
+
+51. Muhammad Ahsan Riaz
+https://www.facebook.com/muhammadahsan.riaz.3/
+
+52. Mutahir Riaz 
+https://www.facebook.com/profile.php?id=100006011446364
+
+53. Sheharyar Anwar
+https://www.facebook.com/sheharyar.anwar
+
+54. Muhammad Shahzad Ali
+https://www.facebook.com/alim6077/
+
+55. Abdul Waqar
+https://www.facebook.com/abdulwaqar844/
+
+56. Muhammad Bilal Hadid
+https://www.facebook.com/bilal.hadid.96
+
+57. Rao Muhammad Akif Tufail
+https://www.facebook.com/raoakif
+
+58. Muhammad Subhan Akram
+https://www.facebook.com/subhan.akram.188
+
+59. Aqib Iqbal
+https://www.facebook.com/aqib.iqbal.1217
+
+60.Shariq Anwar
+https://www.facebook.com/shariq.anwar.391/
+
+61. Eraj Hanif
+https://www.facebook.com/erajhanif15
+
+62. Saad Shahid
+https://www.facebook.com/saadsmarty
+
+63. Ali Razzaq
+https://www.facebook.com/AliRa22aQ/
+
 
 ## Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
 
