@@ -1549,6 +1549,14 @@ Base Technology Stack:
 
 [Class 74 Video in English on YouTube](https://www.youtube.com/watch?v=LCY9ssPMWYY)
 
+[Class 74 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225965758835443)
+
+[Class 74 Video in Urdu on YouTube](https://www.youtube.com/watch?v=v9QkNInvTz0)
+
+[Class 75 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225959184311084)
+
+[Class 75 Video in English on YouTube](https://www.youtube.com/watch?v=9qvCPzMOOrk)
+
 
 ## Important Note:
 
