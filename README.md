@@ -6,6 +6,16 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
 
 [Pakistan Digital Gig Economy Surged 69% Amid COVID19 Pandemic](http://www.pakalumni.com/m/blogpost?id=1119293%3ABlogPost%3A312758)
 
+Difference Between Bootcamp 2020 and Bootcamp 2021
+
+The objective of Bootcamp 2020 is to train developers to develop cloud based SaaS Apps and general serverless APIs for these apps. It includes developing graphic user interfaces (GUIs) development using React, Gatsby, and React Native.
+https://panacloud.github.io/bootcamp-2020/
+
+The objective of Bootcamp 2021 to to train developers to develop cloud based AI and IoT powered serverless APIs. We will not cover graphic user interfaces (GUIs) in Bootcamp 2021 but only voice based conversational interfaces. A conversational interface (CUI) is a user interface for computers that emulates a conversation with a real human. The course of this bootcamp is designed in such a way that Bootcamp 2020 is not a prerequisite to Bootcamp 2021.
+https://panacloud.github.io/bootcamp-2021/
+
+The recording of Bootcamp 2021 will start after the recording of Bootcamp 2020 is complete. After the recording in Bootcamp 2020 is complete, it does not mean that the Bootcamp is closed. Admissions and project acceptance will remain open in both the Bootcamps at atleast till December 2023. We are also developing a platform for developers which will adopt both these bootcamps. Our upcoming Operation Unicorn Startups will also require participations in these bootcamps.
+
 Overview of the concepts by the Students:
 
 [Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs Presentation by Hamza Farooq in Urdu](https://www.facebook.com/hamza.farooq.923519/videos/1048319272275012)
