@@ -9,10 +9,12 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
 Difference Between Bootcamp 2020 and Bootcamp 2021
 
 The objective of Bootcamp 2020 is to train developers to develop cloud based SaaS Apps and general serverless APIs for these apps. It includes developing graphic user interfaces (GUIs) development using React, Gatsby, and React Native.
-https://panacloud.github.io/bootcamp-2020/
+
+[Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/)
 
 The objective of Bootcamp 2021 to to train developers to develop cloud based AI and IoT powered serverless APIs. We will not cover graphic user interfaces (GUIs) in Bootcamp 2021 but only voice based conversational interfaces. A conversational interface (CUI) is a user interface for computers that emulates a conversation with a real human. The course of this bootcamp is designed in such a way that Bootcamp 2020 is not a prerequisite to Bootcamp 2021.
-https://panacloud.github.io/bootcamp-2021/
+
+[Bootcamp 2021](https://panacloud.github.io/bootcamp-2021/)
 
 The recording of Bootcamp 2021 will start after the recording of Bootcamp 2020 is complete. After the recording in Bootcamp 2020 is complete, it does not mean that the Bootcamp is closed. Admissions and project acceptance will remain open in both the Bootcamps at atleast till December 2023. We are also developing a platform for developers which will adopt both these bootcamps. Our upcoming Operation Unicorn Startups will also require participations in these bootcamps.
 
@@ -1612,33 +1614,25 @@ https://www.qwiklabs.com/focuses/8389?parent=catalog
 The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technologies like Lambda, EventBridge etc. 
 
 
-## Bootcamp 2020 Project 15: Building Multi-Tenant Serverless SaaS Apps and APIs using Event-Driven Architecture 
+### Bootcamp 2020 Project 15: Build Serverless SaaS APIs for DiningByFriends Social Network Project
 
-Now we will learn how to develop multi-tenanted SaaS API's and applications.
+[Final Dinning by Friends API Project](DiningByFriends.pdf)
 
-[Learning Serverless SaaS Repo](https://github.com/panacloud-modern-global-apps/serverless-saas)
+## Class 80-90 Build Android, and iOS Mobile Full Stack Apps using React Native with Expo and Amplify
 
+[Expo vs React-Native-CLI](https://medium.com/@dinukapiyadigama/expo-vs-react-native-cli-7a3019b2760d)
 
-Project 15: Build a SaaS App like Slack.com
+[Common Dilemma of using expo vs Vanilla React Native being solved](https://medium.com/@harisbaig100/common-dilemma-of-using-expo-vs-vanilla-react-native-being-solved-6d6d649d7ad1)
 
-Build your own Servlerless Slack (slack.com) App and APIs using GraphQL Subscriptions and other AWS Serverless Technolgies
+[Learn React Native with Expo](https://docs.expo.io/)
 
-Also implement a billing system where you can charge to the tenant on the basis of AWS cost plus markup basis. 
+[Full Stack Mobile Apps with Amplify and Expo](https://docs.amplify.aws/start/q/integration/react-native)
 
-It would be ideal if you can building an Serverless SaaS environment where the complexity of multi-tenancy is [largely hidden away from developers using Lambda layers](https://github.com/aws-samples/aws-serverless-saas-layers),
+### Bootcamp 2020 Project 16: Build Serverless Slack App with Expo and AWS Amplify
 
-Note: You will have to track how much AWS resources each tenant is consuming, and build a seprate Admin App and API for this.
+[Follow the guide to create (offline) multi-tenant apps with Expo and AWS Amplify](https://medium.com/abn-amro-developer/a-guide-to-create-offline-multi-tenant-apps-with-expo-and-aws-amplify-c4b00d874650)
 
-[Calculating Tenant Costs in SaaS Environments](https://aws.amazon.com/blogs/apn/calculating-tenant-costs-in-saas-environments/)
-
-[Serverless architectural patterns and best practices](https://www.youtube.com/watch?v=9IYpGTS7Jy0)
-
-[Micro-SaaS: The Definitive Guide for 2021](https://www.preetamnath.com/micro-saas)
-
-Note: You may use Thundra or some other serverless monitoring service.
-
-
-## Class 61-65: Figma for Developers
+## Class 90-95: Figma for Developers
 
 Learning Material:
 
@@ -1662,9 +1656,9 @@ Learning Material:
 
 [Figma Resources](https://www.figmaresources.com/)
 
-## Bootcamp 2020 Project 16: Figma for Developers
+## Bootcamp 2020 Project 17: Figma for Developers
 
-## Project 16A: Building a Recipe App using Figma
+## Project 17A: Building a Recipe App using Figma
 
 [Build a recipe app with Figma](https://blog.prototypr.io/build-a-recipe-app-with-figma-936ca41a962d)
 
@@ -1672,19 +1666,19 @@ Project 16A-I: Build a Wireframe for Recipe App using the above design
 
 Project 16A-II: Build a Mockup for the Recipe App using the above design
 
-### Project 16B: Builidng your own Design for a Talky Chat & Video Messenger App using Figma
+### Project 17B: Builidng your own Design for a Talky Chat & Video Messenger App using Figma
 
 [Talky Chat & Video Messenger App](https://www.figmaresources.com/resources/chat-app)
 
-Project 16B-I: Build a Wireframe for Talky Chat & Video Messenger App creating your own design
+Project 17B-I: Build a Wireframe for Talky Chat & Video Messenger App creating your own design
 
-Project 16B-II: Build a Mockup for the Talky Chat & Video Messenger App creating your own design
+Project 17B-II: Build a Mockup for the Talky Chat & Video Messenger App creating your own design
 
 ##  Design Patterns in TypeScript
 
 [Design Patterns in TypeScript](https://blog.bitsrc.io/design-patterns-in-typescript-e9f84de40449)
 
-## Class 65-70: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups
+## Class 95-100: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups
 
 [Innovation Presentation Slides](https://docs.google.com/presentation/d/14pnzdfCSKYpqy4CuesBuNHa0-qRLbPmZqsj9brbGp14/edit?usp=sharing)
 
@@ -1721,272 +1715,28 @@ Project 16B-II: Build a Mockup for the Talky Chat & Video Messenger App creating
 [The Scrum Guide](https://www.scrumguides.org/index.html)
 
 
-## Bootcamp 2020 Project 17: Build a Multi-Tenant Serverless SaaS That Books Vacations
 
-Single Tenant Vacation Booking App Example:
 
-[Build An App That Books Vacations To The Moon with GraphQL, Lambda, DynamoDB](https://itnext.io/build-an-app-that-books-vacations-to-the-moon-with-graphql-lambda-dynamodb-serverless-framework-569b26b6e85)
 
-In this project, you will design and build a multi-tanent vacation booker SaaS, one of the tenants of this SaaS will be Booking Vacations to the Moon.
 
-Technologies Used: Figma for UI/UX Design, Jira for Project Management, Event Driven Architecture, Stripe for Payments, Gatsby.js, AWS Cloud Front, AWS App Sync, AWS Event Bridge, DynamoDB, FaunaDB, Cognito, etc.  
 
-Requirements:
 
-1. Use Figma to design a wireframe for the Multi-Tenant Serverless SaaS Booking App.
-2. Use Figma to design MOC for the Multi-Tenant Serverless SaaS Booking App.
-3. Use Jira and SCRUM to do project management for the SaaS. You will create product backlog, create sprints, assign tasks to yourself, etc.
-4. Use GitHub to maintain your code.
-5. Use AWS CDK for IaC.
-6. Design a Event Driven Serverless Architecture.
-7. Use Gatsby.js for frontend development and AWS Cloud Frount deployment.
-8. There will be two kinds of frontends: an GUI for users and an GUI for tenant admins.
-9. Vacation bookers will use Stripe for making Payments for the Vacations. The payments will be transfered to the tenants after making a 10% cut as SaaS usage fee.
-10. Also Develop QraphQL APIs for Developers.
-11. A very good example for our SaaS is Shopify with provides GUI for Tenants, and also provide GraphQL API for developers who want to develop their own front ends.
 
 
 
 
 
-### Material we will cover going forward
 
-[AI as a Service: Serverless machine learning with AWS by Peter Elger, Eoin Shanaghy](https://www.amazon.com/AI-as-Service-Peter-Elger/dp/1617296155/ref=sr_1_1)
 
-[Building a serverless blockchain application with Amazon Managed Blockchain](https://aws.amazon.com/blogs/database/building-a-serverless-blockchain-application-with-amazon-managed-blockchain/)
 
-Hybrid Mobile Apps using React Native
 
 
 
 
-## AI as a Service
 
-[Serverless machine learning with AWS](https://www.manning.com/books/ai-as-a-service)
 
-## Blockchain as a Service
 
-[A BEGINNER’S GUIDE TO BLOCKCHAIN AS A SERVICE](https://www.leewayhertz.com/guide-to-blockchain-as-a-service/)
 
-### Now you are ready to do these kinds of jobs
 
-[Remote Job Requirements](https://stackoverflow.com/jobs/277612/senior-react-typescript-and-graphql-developer-x-team)
-
-[You can start your own company](https://www.facebook.com/eCommerceWala/videos/812017962942939/)
-
-HOW MUCH DOES IT COST TO BUILD A GATSBY WEBSITE?
-
-It depends on the complexity of implementation. If it’s just a development of a simple static web page, then you may pay around 4k - 8k for it.
-If you would like to also plan a UX, UI, and Design it, be ready to spend around 6k - 30k - depending on how big the project will be.
-If it’s a big and much more complex page, the cost can be around 20k-80k
-[Source](https://pagepro.co/gatsby-development.html)
-
-Read the following material to prepare for React interviews:
-
-## Homework Reading Material: Writing Custom Hooks
-
-[Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
-
-[Building your own Hooks](https://reactjs.org/docs/hooks-custom.html)
-
-[Building your own React Hooks](https://dev.to/nikhilkumaran/building-your-own-react-hooks-2pnj)
-
-
-## Homework Reading Material: Higher-Order Components In React
-
-[React Higher Order Components For The Newbie](https://programmingwithmosh.com/react/react-higher-order-components-for-the-newbie/)
-
-[Higher-Order Components In React](https://www.smashingmagazine.com/2020/06/higher-order-components-react/)
-
-[Master Higher-Order Components in React Today](https://janhesters.com/master-higher-order-components/)
-
-[HOC - Functional Component](https://stackoverflow.com/questions/57852370/hoc-functional-component)
-
-
-## Homework Reading Material: Styled-Components In React
-
-[How To Use Styled-Components In React](https://www.smashingmagazine.com/2020/07/styled-components-react/)
-
-
-## Project Ideas for Your Portfolio
-
-[8 React.js Project Ideas to Help You Start Learning by Doing](https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/)
-
-[Review React Examples for future Projects](https://reactjsexample.com/)
-
-
-
-## Class 33 Learn to Market Our Skills
-
-### Bootcamp 2020 Important Personal Project I: Build a Developer Profile Portfolio site in Gatsby.js Contentful with TypeScript and Deploy as a PWA
-
-[Creating a Portfolio Website: tips on how to do it right](https://undsgn.com/creating-a-portfolio-website-tips-on-how-to-do-it-right/)
-
-[HOW TO BUILD AN IMPRESSIVE PORTFOLIO SITE](https://skillcrush.com/blog/impressive-tech-portfolio/)
-
-[10 tips for building a killer portfolio website](https://www.creativebloq.com/portfolios/tips-portfolio-website-4137460)
-
-[Awwward-winning portfolio websites](https://www.awwwards.com/websites/portfolio/)
-
-[15 Web Developer Portfolios to Inspire You](https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/)
-
-[My (Simple) Workflow To Design And Develop A Portfolio Website](https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/)
-
-
-[Building a personal site with Gatsby.js, Contentful and Netlify](Building a personal site with Gatsby.js, Contentful and Netlify)
-
-[Ejaz Ahmed Portfolio Site](https://www.ejazahmed.com)
-
-
-### Bootcamp 2020 Important Personal Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin
-
-[Connect to Zia Khan](https://www.linkedin.com/in/ziaukhan/)
-
-[Here’s an example of the perfect LinkedIn profile summary, according to Harvard career experts](https://www.cnbc.com/2019/09/25/example-template-of-perfect-linkedin-profile-according-to-harvard-career-experts.html)
-
-[10 Ways You Didn’t Know LinkedIn Could Find You a Job](https://www.aarp.org/work/job-hunting/info-2017/10-ways-to-use-linkedin-job-search.html)
-
-[Improve Your Résumé by Turning Bullet Points into Stories](https://hbr.org/2016/05/improve-your-resume-by-turning-bullet-points-into-stories)
-
-### Bootcamp 2020 Important Personal Project III: Create Full Stack, React, Gatsby and Serverless Gigs on Fivver
-
-[4 Things to Do Before Creating Your Gig](https://sellers.fiverr.com/en/article/4-things-to-do-before-creating-your-gig)
-
-[Creating a Gig](https://sellers.fiverr.com/en/article/creating-a-gig)
-
-### Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud USA Project
-
-Getting your first work is difficult, therefore we suggest that you start working on a professional Pancloud project and become part of the team to gain experience and references.
-
-
-
-
-## Bootcamp 2020 Important Personal Project V: Build Upwork Profile
-
-[Upwork](https://www.upwork.com/)
-
-## Class 39-43 Build Android, iOS, and Web apps with React Native and Expo
-
-[Expo vs React-Native-CLI](https://medium.com/@dinukapiyadigama/expo-vs-react-native-cli-7a3019b2760d)
-
-[Common Dilemma of using expo vs Vanilla React Native being solved](https://medium.com/@harisbaig100/common-dilemma-of-using-expo-vs-vanilla-react-native-being-solved-6d6d649d7ad1)
-
-[Expo](https://expo.io/)
-
-[React Native](https://reactnative.dev/)
-
-## Class 44-50: MultiCloud Serverless: AWS, Google Cloud, and Azure
-
-## Class 51-55: Integration with AI and DeFi Services
-
-
-
-## Start working for Panacloud Silicon Valley Clients
-
-
-
-
-
-
-
-
-
-
-
-
-### Bootcamp 2020 Project 18 Build a Facebook Shop
-
-[The end of eCommerce as we know it](https://marketing-interactive.com/opinion-the-end-of-ecommerce-as-we-know-it]
-
-[Facebook Shops: What Shops could spell for the future of social commerce](https://www.thedrum.com/opinion/2020/06/10/facebook-shops-what-shops-could-spell-the-future-social-commerce)
-
-[Introducing Facebook Shops, a new online shopping experience](https://www.facebook.com/business/news/announcing-facebook-shops)
-
-[Introducing Facebook Shops: Helping Small Businesses Sell Online](https://about.fb.com/news/2020/05/introducing-facebook-shops/)
-
-[Facebook Shop a No Brainer for Advertisers, Says 5-Star Analyst](https://finance.yahoo.com/news/facebook-shop-no-brainer-advertisers-190700846.html)
-
-[Complete Details about Facebook Shops](https://www.dailydot.com/debug/facebook-shops/)
-
-[About Facebook Shops](https://www.facebook.com/business/help/2343035149322466?id=1077620002609475)
-
-[Facebook Developer Platform](https://developers.facebook.com/docs/commerce-platform/)
-
-[Getting Started](https://developers.facebook.com/docs/commerce-platform/setup/getting-started/)
-
-[Reference Reading](https://www.websitebuilderexpert.com/building-online-stores/how-to-set-up-a-facebook-store/)
-
-
-
-
-
-
-1. What are Microservices?
-
-[Microservices 101](https://www.zdnet.com/article/microservices-101-a-guide-to-microservice-architecture/?fbclid=IwAR3z-BaumXGg3X9LlyHmP18mPkJ2tFU0t1tRuLXdBKDjVLhk7A6hEkbk7bw)
-
-2. How to make Repos for Microservices
-
-[How to end Microservice pain and embrace the Monorepo](https://www.fourtheorem.com/blog/monorepo)
-
-3. [Learn Multicloud Serverless Application Development](https://github.com/Panacloud-Multicloud/learn-multicloud-serverless-development)
-
-[Multicloud Serverless App Development Overview in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10223676898495365/)
-
-[Multicloud Serverless App Development Overview in Urdu on YouTube](https://www.youtube.com/watch?v=BYOsS1clC48/)
-
-### Bootcamp 2020 Project 20A: Implement Expense Tracker Android and iOS Apps using React Native with Backend in Express and MongoDB
-
-[React Native Basics](https://reactnative.dev/docs/tutorial)
-
-### Bootcamp 2020 Project 20B: Implement Expense Tracker Android and iOS Apps using React Native with Local Storage in Realm
-
-[Realm Docs](https://realm.io/docs/javascript/latest/)
-
-### Bootcamp 2020 Project 21: Implement Expense Tracker DApp with Ethereum Blockchain
-[What are Decentralized Applications – dApps?](http://blockchainhub.net/decentralized-applications-dapps/)
-
-Zeeshan Hanif has implemented Expense Tracker as a DApp:
-
-[Demo](http://expense-tracker-ethereum.surge.sh/)
-
-You need to have [MetaMask installed](https://metamask.io/download.html) to test the DApp
-
-Test it on ropsten network otherwise it will cost you real Ether
-
-[Reveiw Zeeshan Hanif's Code](https://github.com/zeeshanhanif/expense-tracker-ethereum)
-
-React is used to develop the Dapp, createContext and useReducer Hooks are used for state management
-
-Smart Contract is written in [Solidity](https://www.dappuniversity.com/articles/solidity-tutorial)
-
-[Web3.js](https://web3js.readthedocs.io/) is used to integrate with the Blockchain Node 
-
-You are requred to develop your own version of Expense Tracker DApp
-
-
-### Bootcamp 2020 Final Project 22: Participate in Building a Open Source Ecommerce Framework using TypeScript, Gatsby.js, Node.js/Express, Atlas MongoDB, Google Cloud Run, and Terraform 
-
-First Season consisting of 12 Episodes of Tech Talk in Urdu with Zia Khan and Adil Altaf are now available. In these episodes we discuss latest state of the art technologies like AI, Cloud Native, Serverless, Blockchain, JAMstack, and Multicloud.
-
-[Enjoy Watching on YouTube](https://www.youtube.com/playlist?list=PL4lZMpZtayiETLN0rpE9JH155EEShtt3m)
-
-
-More Details will added as we go forward.
-
-### Get AWS and Google Cloud Accounts for Bootcamp 2020
-The software industry has completely shifted toward multi-cloud usage in projects. In our bootcamp we will be using Amazon and Google clouds extensively. It is requested from all participants that they make arrangements to get the following free AWS and Google accounts within one month:
-
-[AWS Free Offer](https://aws.amazon.com/free/)
-
-[Google Cloud Free Offer](https://cloud.google.com/free)
-
-You will get temporary free Access to Google Cloud while doing these [Hello Cloud Run tutorial](https://www.qwiklabs.com/focuses/5162?parent=catalog) and 
-
-You will get temporary free Access to AWS while doing these [Introduction to AWS Lambda tutorial](https://www.qwiklabs.com/focuses/10541?parent=catalog) and [Building Serverless Applications with an Event-Driven Architecture](https://www.qwiklabs.com/focuses/10959?parent=catalog)
-
-Note 1: It is very easy the difficult part is getting your account verified by using credit cards or bank accounts. 
-
-Note 2: The cloud accounts are not required immediately. We will need them in about a months time.
 
 
