@@ -1624,6 +1624,8 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 
 [Why Brands are Choosing React Native for App Development in 2021](https://londondailypost.com/why-brands-are-choosing-react-native-for-app-development-in-2021/)
 
+[10 Famous Apps Built With React Native](https://brainhub.eu/library/react-native-apps/)
+
 [Expo vs React-Native-CLI](https://medium.com/@dinukapiyadigama/expo-vs-react-native-cli-7a3019b2760d)
 
 [Common Dilemma of using expo vs Vanilla React Native being solved](https://medium.com/@harisbaig100/common-dilemma-of-using-expo-vs-vanilla-react-native-being-solved-6d6d649d7ad1)
