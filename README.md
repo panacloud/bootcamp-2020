@@ -1623,9 +1623,15 @@ https://www.qwiklabs.com/focuses/8389?parent=catalog
 The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technologies like Lambda, EventBridge etc. 
 
 
-### Bootcamp 2020 Project 15: Build Serverless SaaS APIs for DiningByFriends Social Network Project
+### Bootcamp 2020 Project 15A: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Graph Database and GraphQL
 
-[Final Dinning by Friends API Project](DiningByFriends.pdf)
+[Dinning by Friends API Project using Neptune and AppSync](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step53_api_project_one)
+
+
+### Bootcamp 2020 Project 15B: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OperAPI
+
+[Dinning by Friends API Project using Aruora Serverless and API Gateway](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step54_api_project_two)
+
 
 ## Class 80-90 Build Android, and iOS Mobile Full Stack Apps using React Native with Expo and Amplify
 
