@@ -1628,7 +1628,7 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 [Dinning by Friends API Project using Neptune and AppSync](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step53_api_project_one)
 
 
-### Bootcamp 2020 Project 15B: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OperAPI
+### Bootcamp 2020 Project 15B: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OpenAPI
 
 [Dinning by Friends API Project using Aruora Serverless and API Gateway](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step54_api_project_two)
 
