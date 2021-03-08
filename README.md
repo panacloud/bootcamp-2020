@@ -1585,6 +1585,14 @@ Base Technology Stack:
 
 [Class 76 Video in Urdu on YouTube](https://www.youtube.com/watch?v=EcLqSHWo1Sw)
 
+[Class 77 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226050958845390)
+
+[Class 77 Video in English on YouTube](https://www.youtube.com/watch?v=wN9-XYyecPI)
+
+[Class 77 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226060184996038)
+
+[Class 77 Video in Urdu on YouTube](https://www.youtube.com/watch?v=JCu31cqUrPM)
+
 
 
 ## Important Note:
