@@ -1601,7 +1601,13 @@ Base Technology Stack:
 
 [Class 78 Video in Urdu on YouTube](https://www.youtube.com/watch?v=OgvmM1f-OjI)
 
+[Class 79 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226116722369437)
 
+[Class 79 Video in English on YouTube](https://www.youtube.com/watch?v=NC_az7syauM)
+
+[Class 79 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226125216901795)
+
+[Class 79 Video in Urdu on YouTube](https://www.youtube.com/watch?v=OGS5Qr9TmsM)
 
 ## Important Note:
 
