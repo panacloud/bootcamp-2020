@@ -1529,17 +1529,7 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 
 ## Appendix A: Figma for Developers
 
-Learning Material:
-
-[FIGMA 101 – THE BEGINNER’S ULTIMATE GUIDE TO THE BASICS (PART 1)](https://www.popwebdesign.net/popart_blog/en/2020/08/figma-101-the-beginners-ultimate-guide-to-the-basics/)
-
-[FIGMA 101 – THE BEGINNER’S ULTIMATE GUIDE TO THE BASICS (PART 2)](https://www.popwebdesign.net/popart_blog/en/2020/08/figma-101-the-beginners-ultimate-guide-to-the-basics-part-2/)
-
-[FIGMA 101 – THE BEGINNER’S ULTIMATE GUIDE TO THE BASICS (PART 3)](https://www.popwebdesign.net/popart_blog/en/2020/08/figma-101-the-beginners-ultimate-guide-to-the-basics-part-3/)
-
-[Everything Developers Need To Know About Figma](https://www.smashingmagazine.com/2020/09/figma-developers-guide/)
-
-[Figma tips for developers](https://uxdesign.cc/figma-tips-for-developers-e2f7af9eaa62)
+[Watching this Figma Crash Course to Begin Learning](https://www.youtube.com/watch?v=Gu1so3pz4bA)
 
 [Designing in Figma Book](https://figmabook.com/)
 
