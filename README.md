@@ -72,25 +72,29 @@ Overview of the concepts by the Students:
     * [Bootcamp 2020 Extra Project 12F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel](#bootcamp-2020-extra-project-12f-build-a-macro-compliance-tracker-in-next-and-mongodb-atlas-with-typeScript-and-deploy-on-vercel)
 22. [Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-42-50-jamstack-ecommerce-stripe-shopify-and-snipcart)
 23. [Class 51-60: Serverless SaaS Apps and APIs](#class-51-60-serverless-saas-apps-and-apis)
-24. [Class 61-65: Figma for Developers](#class-61-65-figma-for-developers)
-25. [Class 65-70: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups](#class-65-70-combining-design-thinking-lean-startup-and-agile-to-build-saas-startups)
-26. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
+
+
+
+
+25. [Class 61-65: Figma for Developers](#class-61-65-figma-for-developers)
+26. [Class 65-70: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups](#class-65-70-combining-design-thinking-lean-startup-and-agile-to-build-saas-startups)
+27. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
     * [Homework Reading Material: Writing Custom Hooks](#homework-reading-material-writing-custom-hooks)
     * [Homework Reading Material: Higher-Order Components In React](#homework-reading-material-higher-order-components-in-react)
     * [Homework Reading Material: Styled-Components In React](#homework-reading-material-styled-components-in-react)
     * [Project Ideas for Your Portfolio](#project-ideas-for-your-portfolio)
-27. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
+28. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
     * [Bootcamp 2020 Important Personal Project I: Build a Developer Profile Portfolio site in Gatsby.js Contentful with TypeScript and Deploy as a PWA](#bootcamp-2020-important-personal-project-i-build-a-developer-profile-portfolio-site-in-gatsbyjs-contentful-with-typescript-and-deploy-as-a-pwa)
     * [Bootcamp 2020 Important Personal Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin](#bootcamp-2020-important-personal-project-ii-build-a-detailed-linkedin-developer-profile-and-become-active-on-linkedin)
     * [Bootcamp 2020 Important Personal Project III: Create Full Stack, React, Gatsby and Serverless Gigs on Fivver](#bootcamp-2020-important-personal-project-iii-create-full-stack-react-gatsby-and-serverless-gigs-on-fivver)
     * [Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud USA Project](#bootcamp-2020-important-personal-project-iv-start-working-on-a-panacloud-usa-project)
     * [Bootcamp 2020 Important Personal Project V: Build Upwork Profile](#bootcamp-2020-important-personal-project-v-build-upwork-profile)
-28. Build Android, iOS, and Web apps with React Native and Expo
-29. Integration with AI and DeFi Services
-30. [Start working for Panacloud Silicon Valley Clients](start-working-for-panacloud-silicon-valley-clients)
-31. Learn Design Thinking, Learn Startup, and Agile
-32. Develop MVP of AI and DeFi powered Serverless Ecommerce Products and Services
-33. Receive Funding from Silicon Valley VC's for our SaaS Startups
+29. Build Android, iOS, and Web apps with React Native and Expo
+30. Integration with AI and DeFi Services
+31. [Start working for Panacloud Silicon Valley Clients](start-working-for-panacloud-silicon-valley-clients)
+32. Learn Design Thinking, Learn Startup, and Agile
+33. Develop MVP of AI and DeFi powered Serverless Ecommerce Products and Services
+34. Receive Funding from Silicon Valley VC's for our SaaS Startups
 
 
 
@@ -1126,134 +1130,6 @@ Note: In the above article the project is done using 11ty however you are requir
 
 ### All Bootcamp 2020 participants who have completed 12 projects and want to work with Panacloud, please send a Whatsapp message to Zia Khan at 92-300-826-3374 after completing 12 projects.
 
-The following 63 developers have submitted the 12 projects so far. Good news is that 3 of ours sisters have also qualified for the Ninja group. Completing 12 projects is only way to become member of Panacloud team and work with top developers. Currently, they are going through extensive training, you can also join the Ninja team by completing 12 projects:
-
-1. [Mateen Mustafa](https://www.facebook.com/mateen.blaster.5)
-
-2. [Waris Hasan](https://www.facebook.com/DR.Death420)
-
-3. [M. Jazzel Mehmood](https://www.facebook.com/jazzel.mehmood/)
-
-4. [Syed M. Bilal](https://www.facebook.com/syed.muhammed.bilal.01/)
-
-5. [Hamzah Syed](https://www.facebook.com/profile.php?id=100011483407599)
-
-6. [M. Hasham](https://www.facebook.com/IamHashamVakani)
-
-7. [Farhan Farooq](https://www.facebook.com/farhan.abbasi/)
-
-8. [Shayaan Ahmed Farooqi](https://www.facebook.com/ERUDITEMONKY)
-
-9. [Abdul Rafay Ghani](https://www.facebook.com/abdulrafay.ghani.9)
-
-10. [Tanzeel Tasleem](https://www.facebook.com/tanzeel.tasleem.7)
-
-11. [Uzair Bangee](https://www.facebook.com/uzair.bangee)
-
-12. [Mudassir Khan](https://www.facebook.com/profile.php?id=100005873677424)
-
-13. [Muhammad Hasan](https://www.facebook.com/hasan.sohail.58)
-
-14. [Irfan Ahmed](https://www.facebook.com/irfanahmed01/)
-
-15. [Murtaza Hanzala](https://www.facebook.com/murtaza.huzaifa.52)
-
-16. [Haris Aqeel](https://www.facebook.com/haris.aqeel.50)
-
-17. [Usama Subhani](https://www.facebook.com/usama.subhani.102)
-
-18. [Muhammad Jami](https://www.facebook.com/profile.php?id=100008724766246)
-
-19. [Shamaz Saeed](https://www.facebook.com/shamaz332)
-
-20. [Waqas Mahmood](https://www.facebook.com/waqas.mahmood.505/)
-
-21. [Usama Tahir](https://www.facebook.com/usamatahir0)
-
-22. [Muhammad Alay Raza](https://www.facebook.com/alay.raza.5/)
-
-23. [Muhammad Tayyab](https://web.facebook.com/profile.php?id=100031034920869)
-
-24. [Muhammad Tauqeer](https://www.facebook.com/profile.php?id=100007376806817)
-
-25. [Huma Hanif](https://www.facebook.com/huma.hanif.9469/)
-
-26. [Mohammad Hammad](https://www.facebook.com/hungryhammad)
-
-27. [Mahmood Ahmed](https://www.facebook.com/profile.php?id=100007120710392)
-
-28. [Dawood Sadiq](https://www.facebook.com/daudsadiq.daud/)
-
-29. [Ahmed Khan](https://www.facebook.com/ahmed.khan8845)
-
-30. [Ahsan Shah](https://www.facebook.com/RealSAShah/)
-
-31. [Ahmed Usman](https://www.facebook.com/ahmed.usman.948494)
-
-32. [Naila Roomi](https://www.facebook.com/roomi.roomi.395891/)
-
-33. [Mohammad Aziz](https://www.facebook.com/sam.luvv.7)
-
-34. [Muhammad Faizan](https://web.facebook.com/faizansohail077/)
-
-35. [Hamza Ahmed Sheikh](https://www.facebook.com/hamza.ahmed.330)
-
-36. [Muhammad Arsalan](https://www.facebook.com/muhammadrsalan/)
-
-37. [Muhammad Maavia Asghar](https://www.facebook.com/maaviaasghar/)
-
-38. [Arsal Abbasi](https://www.facebook.com/profile.php?id=100053719729104)
-
-39. [Aman Mirza](https://www.facebook.com/amanmirza99/)
-
-40. [Usman Naeem](https://web.facebook.com/usmantanoli.naeem.1)
-
-41. [Muhammad Sami Tariq](https://www.facebook.com/sami.tariq.754)
-
-42. [Muhammad Ali Sarwar](https://www.facebook.com/alisarwarr)
-
-43. [Syed Aashir Majeed](https://www.facebook.com/prince.aashir.395)
-
-44. [Hasan Sattar](https://www.facebook.com/hasan.sattar.777)
-
-45. [Syed Fawad Hashmi](https://www.facebook.com/syedfawadhashmi32423)
-
-46. [Usama Abbasi](https://www.facebook.com/usama.abbasi.714655)
-
-47. [Hamza Farooq](https://web.facebook.com/hamza.farooq.923519/)
-
-48. [Saher Razzaq](https://www.facebook.com/profile.php?id=100009426214929)
-
-49. [Thanwar Das](https://www.facebook.com/thanwar.das.161)
-
-50. [Hifz Ur Rehman Ali](https://web.facebook.com/profile.php?id=100009456091163)
-
-51. [Muhammad Ahsan Riaz](https://www.facebook.com/muhammadahsan.riaz.3/)
-
-52. [Mutahir Riaz](https://www.facebook.com/profile.php?id=100006011446364)
-
-53. [Sheharyar Anwar](https://www.facebook.com/sheharyar.anwar)
-
-54. [Muhammad Shahzad Ali](https://www.facebook.com/alim6077/)
-
-55. [Abdul Waqar](https://www.facebook.com/abdulwaqar844/)
-
-56. [Muhammad Bilal Hadid](https://www.facebook.com/bilal.hadid.96)
-
-57. [Rao Muhammad Akif Tufail](https://www.facebook.com/raoakif)
-
-58. [Muhammad Subhan Akram](https://www.facebook.com/subhan.akram.188)
-
-59. [Aqib Iqbal](https://www.facebook.com/aqib.iqbal.1217)
-
-60. [Shariq Anwar](https://www.facebook.com/shariq.anwar.391/)
-
-61. [Eraj Hanif](https://www.facebook.com/erajhanif15)
-
-62. [Saad Shahid](https://www.facebook.com/saadsmarty)
-
-63. [Ali Razzaq](https://www.facebook.com/AliRa22aQ/)
-
 
 ## Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
 
@@ -1336,46 +1212,32 @@ The following 63 developers have submitted the 12 projects so far. Good news is 
 
 [Ecommerce Shop Landing Page Design](https://www.uplabs.com/posts/e-commerce-shop-landing-page)
 
-## Class 51-60: Serverless SaaS Apps and APIs
+## Class 51-81: Full Stack Serverless with Cloud Development Kit - CDK
 
 Get AWS Account
-
-[GitHub Student Pack](https://education.github.com/pack)
 
 [AWS Free Tier](https://aws.amazon.com/free/)
 
 Note: For AWS Free Tier you will need a credit or debit card. The easiest way for Pakistani students is to open a bank account in Meezan Bank. Open a Meezan Aasan Account if you have no earning proof. Meezan Bank will charge Rs. 1100 for ATM Debit Card and there is a requirement of Rs. 100 minimum deposit. The card will be delivered in a few weeks. Our students have reported that this Debit card works with AWS.
 
-## Full Stack Serverless with Cloud Development Kit
-
-[Learning Full Stack Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
-
-Now we will read this latest Infrastructure as Code book will take you beyond the CDK commands to the design patterns behind good practices and the how-to’s of next-level cloud automation:
-
-[Infrastructure as Code Book, 2nd Edition by Kief Morris](https://us-east-1.linodeobjects.com/marketing-assets/Infrastructure_as_Code_2E-ER_Linode.pdf?fbclid=IwAR2gBUMGMgXBG-AQkfXaYgCLsXxcD8aD9D_R6IOpOgY1mJ2Xzt83WyNTQVo)
-
-[Learning Serverless Solution and Architecture Patterns with CDK Repo](https://github.com/panacloud-modern-global-apps/serverless-solutions-patterns-cdk)
-
-[Learning Serverless SaaS Repo](https://github.com/panacloud-modern-global-apps/serverless-saas)
-
-
 Base Technology Stack:
 1.	Frontend: React with Typescipt and Storybook
 2.	Infrastructure As Code and Automation Tools: AWS CDK
-3.	Integration: AWS EventBridge and Google Eventarc
+3.	Integration: AWS EventBridge
 4.	Computing: AWS Lambda
 5.	Programing Language: TypeScript
 6.	Orchestration: AWS Step Functions
 7.	CDN: Amazon CloudFront 
 8.	Static Content: Amazon S3
 9.	API Front End: GraphQL using AWS AppSync
-10.	Database: AWS DynamoDB and FaunaDB
-11.	Container Management: Google Cloud Run
-12.	Observability: AWS X-Ray and Thundra
+10.	Database: AWS DynamoDB, AWS Arora Serverless, and AWS Neptune
+11.	Container Management: Fargate
+12.	Observability: AWS X-Ray
 13.	IDE: VS Code
-14.	Ecommerce Stack: Shopify, Stripe, and 2Checkout
-15.	 CI/CD: CDK pipelines
-16.	Version Control: GitHub
+14.	CI/CD: Github Actions
+15.	Version Control: GitHub
+
+[Learning Full Stack Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
 
 [Class 51 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225155745305611)
 
@@ -1655,7 +1517,7 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 [Dinning by Friends API Project using Aruora Serverless and API Gateway](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step54_api_project_two)
 
 
-## Class 80-90 Build Android, and iOS Mobile Full Stack Apps using React Native with Expo and Amplify
+## Class 82-86 Build Android, and iOS Mobile Full Stack Apps using React Native with Expo and Amplify
 
 [7 Reasons React Native is Going to Be BIG in 2021](https://shift.infinite.red/7-reasons-react-native-is-going-to-be-big-in-2021-4b08c771788e)
 
@@ -1761,3 +1623,133 @@ Build a Mockup for the Talky Chat & Video Messenger App creating your own design
 [Why Is Going Agile the Best Option for Software Product Development?](https://dzone.com/articles/why-going-agile-is-the-best-option-for-software-pr)
 
 [The Scrum Guide](https://www.scrumguides.org/index.html)
+
+## Appendix D: List of Students who have completed the first 12 Projects and started to work todays becoming a Full Stack Serverless Cloud Developer
+
+The following 63 developers have submitted the 12 projects so far. Good news is that 3 of ours sisters have also qualified for the Ninja group. Completing 12 projects is only way to become member of Panacloud team and work with top developers. Currently, they are going through extensive training, you can also join the Ninja team by completing 12 projects:
+
+1. [Mateen Mustafa](https://www.facebook.com/mateen.blaster.5)
+
+2. [Waris Hasan](https://www.facebook.com/DR.Death420)
+
+3. [M. Jazzel Mehmood](https://www.facebook.com/jazzel.mehmood/)
+
+4. [Syed M. Bilal](https://www.facebook.com/syed.muhammed.bilal.01/)
+
+5. [Hamzah Syed](https://www.facebook.com/profile.php?id=100011483407599)
+
+6. [M. Hasham](https://www.facebook.com/IamHashamVakani)
+
+7. [Farhan Farooq](https://www.facebook.com/farhan.abbasi/)
+
+8. [Shayaan Ahmed Farooqi](https://www.facebook.com/ERUDITEMONKY)
+
+9. [Abdul Rafay Ghani](https://www.facebook.com/abdulrafay.ghani.9)
+
+10. [Tanzeel Tasleem](https://www.facebook.com/tanzeel.tasleem.7)
+
+11. [Uzair Bangee](https://www.facebook.com/uzair.bangee)
+
+12. [Mudassir Khan](https://www.facebook.com/profile.php?id=100005873677424)
+
+13. [Muhammad Hasan](https://www.facebook.com/hasan.sohail.58)
+
+14. [Irfan Ahmed](https://www.facebook.com/irfanahmed01/)
+
+15. [Murtaza Hanzala](https://www.facebook.com/murtaza.huzaifa.52)
+
+16. [Haris Aqeel](https://www.facebook.com/haris.aqeel.50)
+
+17. [Usama Subhani](https://www.facebook.com/usama.subhani.102)
+
+18. [Muhammad Jami](https://www.facebook.com/profile.php?id=100008724766246)
+
+19. [Shamaz Saeed](https://www.facebook.com/shamaz332)
+
+20. [Waqas Mahmood](https://www.facebook.com/waqas.mahmood.505/)
+
+21. [Usama Tahir](https://www.facebook.com/usamatahir0)
+
+22. [Muhammad Alay Raza](https://www.facebook.com/alay.raza.5/)
+
+23. [Muhammad Tayyab](https://web.facebook.com/profile.php?id=100031034920869)
+
+24. [Muhammad Tauqeer](https://www.facebook.com/profile.php?id=100007376806817)
+
+25. [Huma Hanif](https://www.facebook.com/huma.hanif.9469/)
+
+26. [Mohammad Hammad](https://www.facebook.com/hungryhammad)
+
+27. [Mahmood Ahmed](https://www.facebook.com/profile.php?id=100007120710392)
+
+28. [Dawood Sadiq](https://www.facebook.com/daudsadiq.daud/)
+
+29. [Ahmed Khan](https://www.facebook.com/ahmed.khan8845)
+
+30. [Ahsan Shah](https://www.facebook.com/RealSAShah/)
+
+31. [Ahmed Usman](https://www.facebook.com/ahmed.usman.948494)
+
+32. [Naila Roomi](https://www.facebook.com/roomi.roomi.395891/)
+
+33. [Mohammad Aziz](https://www.facebook.com/sam.luvv.7)
+
+34. [Muhammad Faizan](https://web.facebook.com/faizansohail077/)
+
+35. [Hamza Ahmed Sheikh](https://www.facebook.com/hamza.ahmed.330)
+
+36. [Muhammad Arsalan](https://www.facebook.com/muhammadrsalan/)
+
+37. [Muhammad Maavia Asghar](https://www.facebook.com/maaviaasghar/)
+
+38. [Arsal Abbasi](https://www.facebook.com/profile.php?id=100053719729104)
+
+39. [Aman Mirza](https://www.facebook.com/amanmirza99/)
+
+40. [Usman Naeem](https://web.facebook.com/usmantanoli.naeem.1)
+
+41. [Muhammad Sami Tariq](https://www.facebook.com/sami.tariq.754)
+
+42. [Muhammad Ali Sarwar](https://www.facebook.com/alisarwarr)
+
+43. [Syed Aashir Majeed](https://www.facebook.com/prince.aashir.395)
+
+44. [Hasan Sattar](https://www.facebook.com/hasan.sattar.777)
+
+45. [Syed Fawad Hashmi](https://www.facebook.com/syedfawadhashmi32423)
+
+46. [Usama Abbasi](https://www.facebook.com/usama.abbasi.714655)
+
+47. [Hamza Farooq](https://web.facebook.com/hamza.farooq.923519/)
+
+48. [Saher Razzaq](https://www.facebook.com/profile.php?id=100009426214929)
+
+49. [Thanwar Das](https://www.facebook.com/thanwar.das.161)
+
+50. [Hifz Ur Rehman Ali](https://web.facebook.com/profile.php?id=100009456091163)
+
+51. [Muhammad Ahsan Riaz](https://www.facebook.com/muhammadahsan.riaz.3/)
+
+52. [Mutahir Riaz](https://www.facebook.com/profile.php?id=100006011446364)
+
+53. [Sheharyar Anwar](https://www.facebook.com/sheharyar.anwar)
+
+54. [Muhammad Shahzad Ali](https://www.facebook.com/alim6077/)
+
+55. [Abdul Waqar](https://www.facebook.com/abdulwaqar844/)
+
+56. [Muhammad Bilal Hadid](https://www.facebook.com/bilal.hadid.96)
+
+57. [Rao Muhammad Akif Tufail](https://www.facebook.com/raoakif)
+
+58. [Muhammad Subhan Akram](https://www.facebook.com/subhan.akram.188)
+
+59. [Aqib Iqbal](https://www.facebook.com/aqib.iqbal.1217)
+
+60. [Shariq Anwar](https://www.facebook.com/shariq.anwar.391/)
+
+61. [Eraj Hanif](https://www.facebook.com/erajhanif15)
+
+62. [Saad Shahid](https://www.facebook.com/saadsmarty)
+
+63. [Ali Razzaq](https://www.facebook.com/AliRa22aQ/)
