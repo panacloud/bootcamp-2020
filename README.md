@@ -26,7 +26,6 @@ Overview of the concepts by the Students:
 
 [Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs Presentation by Hamza Farooq in Urdu](https://www.facebook.com/hamza.farooq.923519/videos/1048319272275012)
 
-## [Join Panacloud Discord Discussion Server Now](https://discord.gg/kARFecfpAp)
 
 # Table of Contents
 1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
@@ -71,30 +70,28 @@ Overview of the concepts by the Students:
     * [Bootcamp 2020 Project 12E: Virtual Lolly using Gatsby.js, Netlify, FaunaDB, Formik, and Storybook 6](#bootcamp-2020-project-12e-virtual-lolly-using-gatsby-netlify-faunadb-formik-and-storybook-6)
     * [Bootcamp 2020 Extra Project 12F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel](#bootcamp-2020-extra-project-12f-build-a-macro-compliance-tracker-in-next-and-mongodb-atlas-with-typeScript-and-deploy-on-vercel)
 22. [Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-42-50-jamstack-ecommerce-stripe-shopify-and-snipcart)
-23. [Class 51-60: Serverless SaaS Apps and APIs](#class-51-60-serverless-saas-apps-and-apis)
-
-
-
-
-25. [Class 61-65: Figma for Developers](#class-61-65-figma-for-developers)
-26. [Class 65-70: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups](#class-65-70-combining-design-thinking-lean-startup-and-agile-to-build-saas-startups)
-27. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
+24. [Class 51-81: Full Stack Serverless with Cloud Development Kit](#class051-81-full-stack-serverless-with-cloud-development-kit)
+25. [Class 82-86 Build Android, and iOS Mobile Full Stack Apps using React Native with Expo and Amplify](#class-82-86-build-android-and-ios-mobile-full-stack-apps-using-react-native-with-expo-and-amplify)
+26. [Appendices](#appendices)
+    * [Appendix A: Figma for Developers](#appendix-a-figma-for-developers)
+    * [Appendix B: Design Patterns in TypeScript](#appendix-b-design-patterns-in-typeScript)
+    * [Appendix C: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups](#appendix-c-combining-design-thinking-lean-startup-and-agile-to-build-saaS-startups)
+    * [Appendix D: List of Students who have completed the first 12 Projects and started to work todays becoming a Full Stack Serverless Cloud Developer](#appendix-D-list-of-students-who-have-completed-the-first-12-projects-and-started-to-work-towards-becoming-a-full-stack-serverless-cloud-developer)
+    
+29. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
     * [Homework Reading Material: Writing Custom Hooks](#homework-reading-material-writing-custom-hooks)
     * [Homework Reading Material: Higher-Order Components In React](#homework-reading-material-higher-order-components-in-react)
     * [Homework Reading Material: Styled-Components In React](#homework-reading-material-styled-components-in-react)
     * [Project Ideas for Your Portfolio](#project-ideas-for-your-portfolio)
-28. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
+30. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
     * [Bootcamp 2020 Important Personal Project I: Build a Developer Profile Portfolio site in Gatsby.js Contentful with TypeScript and Deploy as a PWA](#bootcamp-2020-important-personal-project-i-build-a-developer-profile-portfolio-site-in-gatsbyjs-contentful-with-typescript-and-deploy-as-a-pwa)
     * [Bootcamp 2020 Important Personal Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin](#bootcamp-2020-important-personal-project-ii-build-a-detailed-linkedin-developer-profile-and-become-active-on-linkedin)
     * [Bootcamp 2020 Important Personal Project III: Create Full Stack, React, Gatsby and Serverless Gigs on Fivver](#bootcamp-2020-important-personal-project-iii-create-full-stack-react-gatsby-and-serverless-gigs-on-fivver)
     * [Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud USA Project](#bootcamp-2020-important-personal-project-iv-start-working-on-a-panacloud-usa-project)
     * [Bootcamp 2020 Important Personal Project V: Build Upwork Profile](#bootcamp-2020-important-personal-project-v-build-upwork-profile)
-29. Build Android, iOS, and Web apps with React Native and Expo
-30. Integration with AI and DeFi Services
-31. [Start working for Panacloud Silicon Valley Clients](start-working-for-panacloud-silicon-valley-clients)
-32. Learn Design Thinking, Learn Startup, and Agile
-33. Develop MVP of AI and DeFi powered Serverless Ecommerce Products and Services
-34. Receive Funding from Silicon Valley VC's for our SaaS Startups
+
+
+
 
 
 
@@ -1624,7 +1621,7 @@ Build a Mockup for the Talky Chat & Video Messenger App creating your own design
 
 [The Scrum Guide](https://www.scrumguides.org/index.html)
 
-## Appendix D: List of Students who have completed the first 12 Projects and started to work todays becoming a Full Stack Serverless Cloud Developer
+## Appendix D: List of Students who have completed the first 12 Projects and started to work towards becoming a Full Stack Serverless Cloud Developer
 
 The following 63 developers have submitted the 12 projects so far. Good news is that 3 of ours sisters have also qualified for the Ninja group. Completing 12 projects is only way to become member of Panacloud team and work with top developers. Currently, they are going through extensive training, you can also join the Ninja team by completing 12 projects:
 
