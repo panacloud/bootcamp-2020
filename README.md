@@ -1738,3 +1738,16 @@ The following 63 developers have submitted the 12 projects so far. Good news is 
 62. [Saad Shahid](https://www.facebook.com/saadsmarty)
 
 63. [Ali Razzaq](https://www.facebook.com/AliRa22aQ/)
+
+64. [Naveeda Hanif](https://www.facebook.com/naveedaHaneef/)
+
+65. [Awais Ahmad](https://www.facebook.com/awais.ahmad1990)
+
+66. [Adeel Malik](https://www.facebook.com/adeel.malik.1217727)
+
+67. [Mukarram Ali](https://www.facebook.com/mickey.mouce.16)
+
+68. [Syed Haseeb Ahmed](https://www.facebook.com/profile.php?id=100011960075954)
+
+69. [Omar Shahid](https://www.facebook.com/omar.shahid.3572/)
+
