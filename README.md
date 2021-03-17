@@ -88,8 +88,6 @@ Overview of the concepts by the Students:
 
 ## Introduction to English and Urdu Sections
 
-[Bootcamp 2022 Group on LinkedIn](https://www.linkedin.com/groups/8964441/)
-
 ### English Section:
 
 Every Tuesday at 10:00 PM – 11:15 PM Pakistan Standard Time
@@ -112,7 +110,7 @@ Every Sunday 10:00 pm to 11:15 pm Pakistan Standard Time
 
 ### Teaching Team:
 
-[Zeeshan Hanif](https://github.com/zeeshanhanif), Hira Khan, Bashir Aziz, Daniyal Nogori, [Moshin Khalid](https://github.com/MuhammadMohsin), Aamir Pinger, Adil Altaf, Ameen Alam and [Zia Khan](https://github.com/ziaukhan).
+[Zeeshan Hanif](https://github.com/zeeshanhanif), Hira Khan, Bashir Aziz, Daniyal Nogori, [Moshin Khalid](https://github.com/MuhammadMohsin), Aamir Pinger, Adil Altaf, Ameen Alam, Waris, Huma, and [Zia Khan](https://github.com/ziaukhan).
 
 ## Prerequisites: HTML, CSS, and JavaScript
 
