@@ -84,23 +84,6 @@ Overview of the concepts by the Students:
     * [Appendix B: Design Patterns in TypeScript](#appendix-b-design-patterns-in-typeScript)
     * [Appendix C: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups](#appendix-c-combining-design-thinking-lean-startup-and-agile-to-build-saaS-startups)
     * [Appendix D: List of Students who have completed the first 12 Projects and started to work todays becoming a Full Stack Serverless Cloud Developer](#appendix-D-list-of-students-who-have-completed-the-first-12-projects-and-started-to-work-towards-becoming-a-full-stack-serverless-cloud-developer)
-    
-29. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
-    * [Homework Reading Material: Writing Custom Hooks](#homework-reading-material-writing-custom-hooks)
-    * [Homework Reading Material: Higher-Order Components In React](#homework-reading-material-higher-order-components-in-react)
-    * [Homework Reading Material: Styled-Components In React](#homework-reading-material-styled-components-in-react)
-    * [Project Ideas for Your Portfolio](#project-ideas-for-your-portfolio)
-30. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
-    * [Bootcamp 2020 Important Personal Project I: Build a Developer Profile Portfolio site in Gatsby.js Contentful with TypeScript and Deploy as a PWA](#bootcamp-2020-important-personal-project-i-build-a-developer-profile-portfolio-site-in-gatsbyjs-contentful-with-typescript-and-deploy-as-a-pwa)
-    * [Bootcamp 2020 Important Personal Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin](#bootcamp-2020-important-personal-project-ii-build-a-detailed-linkedin-developer-profile-and-become-active-on-linkedin)
-    * [Bootcamp 2020 Important Personal Project III: Create Full Stack, React, Gatsby and Serverless Gigs on Fivver](#bootcamp-2020-important-personal-project-iii-create-full-stack-react-gatsby-and-serverless-gigs-on-fivver)
-    * [Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud USA Project](#bootcamp-2020-important-personal-project-iv-start-working-on-a-panacloud-usa-project)
-    * [Bootcamp 2020 Important Personal Project V: Build Upwork Profile](#bootcamp-2020-important-personal-project-v-build-upwork-profile)
-
-
-
-
-
 
 
 ## Introduction to English and Urdu Sections
