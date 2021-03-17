@@ -1677,7 +1677,10 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 
 [Follow the guide to create (offline) multi-tenant apps with Expo and AWS Amplify](https://medium.com/abn-amro-developer/a-guide-to-create-offline-multi-tenant-apps-with-expo-and-aws-amplify-c4b00d874650)
 
-## Class 90-95: Figma for Developers
+
+## Appendices
+
+## Appendix A: Figma for Developers
 
 Learning Material:
 
@@ -1701,29 +1704,29 @@ Learning Material:
 
 [Figma Resources](https://www.figmaresources.com/)
 
-## Bootcamp 2020 Project 17: Figma for Developers
 
-## Project 17A: Building a Recipe App using Figma
+### Figma Project A: Building a Recipe App using Figma
 
 [Build a recipe app with Figma](https://blog.prototypr.io/build-a-recipe-app-with-figma-936ca41a962d)
 
-Project 16A-I: Build a Wireframe for Recipe App using the above design
+Build a Wireframe for Recipe App using the above design
 
-Project 16A-II: Build a Mockup for the Recipe App using the above design
+Build a Mockup for the Recipe App using the above design
 
-### Project 17B: Builidng your own Design for a Talky Chat & Video Messenger App using Figma
+### Figma Project B: Builidng your own Design for a Talky Chat & Video Messenger App using Figma
 
 [Talky Chat & Video Messenger App](https://www.figmaresources.com/resources/chat-app)
 
-Project 17B-I: Build a Wireframe for Talky Chat & Video Messenger App creating your own design
+Build a Wireframe for Talky Chat & Video Messenger App creating your own design
 
-Project 17B-II: Build a Mockup for the Talky Chat & Video Messenger App creating your own design
+Build a Mockup for the Talky Chat & Video Messenger App creating your own design
 
-##  Design Patterns in TypeScript
+##  Appendix B: Design Patterns in TypeScript
 
 [Design Patterns in TypeScript](https://blog.bitsrc.io/design-patterns-in-typescript-e9f84de40449)
 
-## Class 95-100: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups
+
+## Appendix C: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups
 
 [Innovation Presentation Slides](https://docs.google.com/presentation/d/14pnzdfCSKYpqy4CuesBuNHa0-qRLbPmZqsj9brbGp14/edit?usp=sharing)
 
@@ -1758,30 +1761,3 @@ Project 17B-II: Build a Mockup for the Talky Chat & Video Messenger App creating
 [Why Is Going Agile the Best Option for Software Product Development?](https://dzone.com/articles/why-going-agile-is-the-best-option-for-software-pr)
 
 [The Scrum Guide](https://www.scrumguides.org/index.html)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
