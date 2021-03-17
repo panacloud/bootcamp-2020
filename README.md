@@ -70,7 +70,7 @@ Overview of the concepts by the Students:
     * [Bootcamp 2020 Project 12E: Virtual Lolly using Gatsby.js, Netlify, FaunaDB, Formik, and Storybook 6](#bootcamp-2020-project-12e-virtual-lolly-using-gatsby-netlify-faunadb-formik-and-storybook-6)
     * [Bootcamp 2020 Extra Project 12F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel](#bootcamp-2020-extra-project-12f-build-a-macro-compliance-tracker-in-next-and-mongodb-atlas-with-typeScript-and-deploy-on-vercel)
 22. [Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-42-50-jamstack-ecommerce-stripe-shopify-and-snipcart)
-24. [Class 51-81: Full Stack Serverless with Cloud Development Kit](#class051-81-full-stack-serverless-with-cloud-development-kit)
+24. [Class 51-81: Full Stack Serverless with Cloud Development Kit - CDK](#class-51-81-full-stack-serverless-with-cloud-development-kit---cdk)
 25. [Class 82-86 Build Android, and iOS Mobile Full Stack Apps using React Native with Expo and Amplify](#class-82-86-build-android-and-ios-mobile-full-stack-apps-using-react-native-with-expo-and-amplify)
 26. [Appendices](#appendices)
     * [Appendix A: Figma for Developers](#appendix-a-figma-for-developers)
