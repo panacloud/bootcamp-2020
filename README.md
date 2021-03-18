@@ -1609,7 +1609,7 @@ Build a Mockup for the Talky Chat & Video Messenger App creating your own design
 
 ## Appendix D: List of Students who have completed the first 12 Projects and started to work towards becoming a Full Stack Serverless Cloud Developer
 
-The following 70 developers have submitted the 12 projects so far. Good news is that 3 female developers have also qualified for the Ninja group. Completing 12 projects is only way to become member of Panacloud team and work with and learn from top developers. Currently, they are going through extensive training, you can also join the Ninja team by completing 12 projects:
+The following 70 developers have submitted the 12 projects so far. Good news is that 4 female developers have also qualified for the Ninja group. Completing 12 projects is only way to become member of Panacloud team and work with and learn from top developers. Currently, they are going through extensive training, you can also join the Ninja team by completing 12 projects:
 
 1. [Mateen Mustafa](https://www.facebook.com/mateen.blaster.5)
 
