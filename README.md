@@ -1456,6 +1456,14 @@ Base Technology Stack:
 
 [Class 79 Video in Urdu on YouTube](https://www.youtube.com/watch?v=OGS5Qr9TmsM)
 
+[Class 80 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226147281253390)
+
+[Class 80 Video in English on YouTube](https://www.youtube.com/watch?v=-1Prdv-hhG4)
+
+[Class 80 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226153456967779)
+
+[Class 80 Video in Urdu on YouTube](https://www.youtube.com/watch?v=nySxSG9nqfU)
+
 ## Important Note:
 
 Project 13 onwards, create only private repos for your project code. We want all the developers to be able to gain confidence that they can develop code without looking at anyone elses code. 
