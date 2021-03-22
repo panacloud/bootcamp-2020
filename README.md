@@ -1468,7 +1468,9 @@ Base Technology Stack:
 
 [Class 81 Video in English on YouTube](https://www.youtube.com/watch?v=GzDkFWM7KAs)
 
+[Class 81 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226190729259563)
 
+[Class 81 Video in Urdu on YouTube](https://www.youtube.com/watch?v=rPx5SpBa0Ec)
 
 
 ## Important Note:
