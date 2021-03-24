@@ -1537,9 +1537,15 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 
 [Full Stack Mobile Apps with Amplify and Expo](https://docs.amplify.aws/start/q/integration/react-native)
 
+[Class 82 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226210301228850)
+
+[Class 82 Video in English on YouTube](https://www.youtube.com/watch?v=vjce0lyQxaI)
+
 ### Bootcamp 2020 Project 16: Build Serverless Slack App with Expo and AWS Amplify
 
 [Follow the guide to create (offline) multi-tenant apps with Expo and AWS Amplify](https://medium.com/abn-amro-developer/a-guide-to-create-offline-multi-tenant-apps-with-expo-and-aws-amplify-c4b00d874650)
+
+[Build a Realtime Chat App in React Native (tutorial for beginners)](https://www.youtube.com/watch?v=EvSUJ5lUcBw)
 
 
 ## Appendices
