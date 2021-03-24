@@ -83,7 +83,8 @@ Overview of the concepts by the Students:
     * [Appendix A: Figma for Developers](#appendix-a-figma-for-developers)
     * [Appendix B: Design Patterns in TypeScript](#appendix-b-design-patterns-in-typeScript)
     * [Appendix C: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups](#appendix-c-combining-design-thinking-lean-startup-and-agile-to-build-saaS-startups)
-    * [Appendix D: List of Students who have completed the first 12 Projects and started to work todays becoming a Full Stack Serverless Cloud Developer](#appendix-D-list-of-students-who-have-completed-the-first-12-projects-and-started-to-work-towards-becoming-a-full-stack-serverless-cloud-developer)
+    * [Appendix D: Cloud Security](#appendix-d-cloud-security)
+    * [Appendix E: List of Students who have completed the first 12 Projects and started to work todays becoming a Full Stack Serverless Cloud Developer](#appendix-e-list-of-students-who-have-completed-the-first-12-projects-and-started-to-work-towards-becoming-a-full-stack-serverless-cloud-developer)
 
 
 ## Introduction to English and Urdu Sections
@@ -1622,7 +1623,22 @@ Build a Mockup for the Talky Chat & Video Messenger App creating your own design
 
 [The Scrum Guide](https://www.scrumguides.org/index.html)
 
-## Appendix D: List of Students who have completed the first 12 Projects and started to work towards becoming a Full Stack Serverless Cloud Developer
+## Appendix D: Cloud Security
+
+Cloud Security is very important part of cloud computing.
+
+You should learn the foundations of networking by reading Part I of this book:
+
+[CCNA 200-301 Official Cert Guide, Volume 1](https://www.amazon.com/CCNA-200-301-Official-Cert-Guide/dp/0135792738/ref=sr_1_3)
+
+After that you should cover this book:
+
+[AWS Certified Security Study Guide: Specialty (SCS-C01) Exam](https://www.amazon.com/AWS-Certified-Security-Study-Guide/dp/1119658810/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+
+
+
+
+## Appendix E: List of Students who have completed the first 12 Projects and started to work towards becoming a Full Stack Serverless Cloud Developer
 
 The following 70 developers have submitted the 12 projects so far. Good news is that 4 female developers have also qualified for the Ninja group. Completing 12 projects is only way to become member of Panacloud team and work with and learn from top developers. Currently, they are going through extensive training, you can also join the Ninja team by completing 12 projects (the selection process will continue till December 2022):
 
