@@ -1546,6 +1546,12 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 
 [Class 82 Video in Urdu on YouTube](https://www.youtube.com/watch?v=DbUJV0k7kVM)
 
+[Class 83 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226244738609763)
+
+[Class 83 Video in English on YouTube](https://www.youtube.com/watch?v=JoRAYsEbi9I)
+
+[Class 83 Code on Github](https://github.com/zeeshanhanif/reactnative-todolist)
+
 ### Bootcamp 2020 Project 16: Build Serverless Slack App with Expo and AWS Amplify
 
 [Follow the guide to create (offline) multi-tenant apps with Expo and AWS Amplify](https://medium.com/abn-amro-developer/a-guide-to-create-offline-multi-tenant-apps-with-expo-and-aws-amplify-c4b00d874650)
