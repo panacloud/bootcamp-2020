@@ -1601,6 +1601,10 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 
 [Class 84 Video in English on YouTube](https://www.youtube.com/watch?v=TX-pHbwQ92A)
 
+[Class 84 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226279800766295)
+
+[Class 84 Video in Urdu on YouTube](https://www.youtube.com/watch?v=aZT-DLK_SEc)
+
 
 ### Bootcamp 2020 Project 16: Build Serverless Slack App with Expo and AWS Amplify
 
