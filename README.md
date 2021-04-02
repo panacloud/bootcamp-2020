@@ -1555,6 +1555,8 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 
 [Dinning by Friends API Project using Neptune and AppSync](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step53_api_project_one)
 
+[Tutorial: Building a GraphQL API on AWS with Amazon Neptune Graph Database, AppSync, TypeScript, and CDK](https://dev.to/dabit3/building-a-graphql-api-on-aws-with-amazon-neptune-graph-database-and-cdk-428a)
+
 
 ### Bootcamp 2020 Project 15B: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OpenAPI
 
