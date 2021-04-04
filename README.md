@@ -71,7 +71,7 @@ Overview of the concepts by the Students:
 # Table of Contents
 1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
 2. [Prerequisites](#prerequisites-html-css-and-javascript)
-3. [Part I: Front-End Fundamentals with React](part-i-front-end-fundamentals-with-react)
+3. [Part I: Front-End Fundamentals with React](#part-i-front-end-fundamentals-with-react)
 4. [Class 1: Development Setup](#class-1-development-setup)
 5. [Class 2: Starting React](#class-2-starting-react)
 6. [Class 3 and 4: Learn React](#class-3-and-4--learn-react)
