@@ -90,7 +90,7 @@ Overview of the concepts by the Students:
     * [Bootcamp 2020 Bonus/Extra Project 5: Build an Animated React Website which follows the Latest Trends like Animated Illustrations](#bootcamp-2020-bonus-extra-project-5-build-an-animated-react-website-which-follows-the-latest-trends-like-animated-illustrations)
 14. [Part II: Programming with TypeScript](#part-ii-programming-with-typescript)
     * [Bootcamp 2020 Project 6: Quiz App with React and TypeScript](#bootcamp-2020-project-6--quiz-app-with-react-and-typescript)
-15. [Part III: Progressive Web Apps (PWA)](part-iii-progressive-web-apps-pwa)
+15. [Part III: Progressive Web Apps (PWA)](#part-iii-progressive-web-apps-pwa)
 16. [Class 17 Progressive Web Apps (PWA) and Offline Availability](#class-17-progressive-web-apps-pwa-and-offline-availability)
 17. [Class 18 Progressive Web App (PWA) and Service Push Notification](#class-18-progressive-web-app-pwa-and-service-push-notification)
     * [Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA) with Offline Capability and Push Notifications](#bootcamp-2020-project-7a--rebuild-the-expense-tracker-app-and-quiz-app-with-react-typescript-it-should-be-a-progressive-web-app--pwa--with-offline-capability-and-push-notifications)
