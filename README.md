@@ -160,6 +160,8 @@ Note: Material in English is already available [extensively on the web](https://
 
 [Microsoft's Beginner's Series to: JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 
+## Part I: Front-End Fundamentals with React
+
 ## Class 1: Development Setup
 
 Learning Material for Class 1:
@@ -542,8 +544,7 @@ You may use AI to generate graphics:
 
 [Auto Draw: An AI Experiment](https://www.autodraw.com/)
 
-
-## Class 14, 15 and 16 TypeScript
+## Part II: Programming with TypeScript
 
 Begin by installing [TypeScript 4.0+](https://www.typescriptlang.org/download):
 
@@ -589,6 +590,7 @@ Note 1: You can also learn TypeScript 4.0 in detail from this Panacloud [repo](h
 
 [You can take help from here also: Your First React Typescript Project: a Todo List App](https://typeofnan.dev/your-first-react-typescript-project-todo-app/)
 
+## Part III: Progressive Web Apps (PWA)
 
 ## Class 17 Progressive Web Apps (PWA) and Offline Availability
 
@@ -652,7 +654,7 @@ Reference:
 
 
 
-## Class 19 and 20 How to Test React Components in TypeScript
+## Part IV: Testing React in TypeScript
 
 [You Can't Do CI/CD Without Automated Testing](https://dzone.com/articles/you-cant-do-cicd-without-automated-testing)
 
@@ -699,7 +701,7 @@ Note 2: In the Toptal article above they donot use TypeScipt, but you are requir
 
 
 
-## Class 21, 22, and 23 Client Side GraphQL in React Apps
+## Part V: Client Side GraphQL in React Apps
 
 Introduction to GraphQL:
 
@@ -797,7 +799,7 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 
 
-## Class 24, 25, and 26 Managing State with Redux Toolkit and Building API Mocking Servers with Mirage
+## Part VI: Managing State with Redux
 
 [Three dots ( … ) in JavaScript](https://dev.to/sagar/three-dots---in-javascript-26ci)
 
@@ -824,6 +826,8 @@ Learn Redux Toolkit
 [Class 24 in Urdu on Facebook](https://www.youtube.com/watch?v=K7J_Ju1r2fM)
 
 [Intermediate Tutorial: Redux Toolkit in Action](https://redux-toolkit.js.org/tutorials/intermediate-tutorial)
+
+## Part VII: API Mocking Servers with Mirage
 
 [Mirage Tutorial](https://miragejs.com/tutorial/intro/)
 
@@ -873,7 +877,7 @@ This Project is very important because up to now we have been doing small projec
 
 
 
-## Class 27 and 28 Forms with Formik and Yup
+## Part VIII: Forms with Formik and Yup
 
 [Easy forms with Formik - part I](https://softchris.github.io/books/react/formik-partI/)
 
@@ -916,7 +920,7 @@ This Project is very important because up to now we have been doing small projec
 
 
 
-## Class 29 and 30 React Component Driven Development with Storybook and Bit
+## Part IX: Component Driven Development with Storybook and Bit
 
 Component Driven Development (CDD)
 
@@ -982,7 +986,7 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 [Taskbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
 
 
-## Class 31 to 41 Learn JAMstack Serverless and Headless CMS
+## Part X: JAMstack Serverless and Headless CMS
 
 [Learn JAMstack Serverless in Baby Steps](https://github.com/panacloud-modern-global-apps/jamstack-serverless)
 
@@ -1149,7 +1153,7 @@ Note: In the above article the project is done using 11ty however you are requir
 ### All Bootcamp 2020 participants who have completed 12 projects and want to work with Panacloud, please send a Whatsapp message to Zia Khan at 92-300-826-3374 after completing 12 projects.
 
 
-## Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
+## Part XI: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
 
 [JAMstack Ecommerce Learning Project Repo (Ecommerce Projects 00 - 06)](https://github.com/panacloud-modern-global-apps/jamstack-ecommerce)
 
@@ -1230,7 +1234,7 @@ Note: In the above article the project is done using 11ty however you are requir
 
 [Ecommerce Shop Landing Page Design](https://www.uplabs.com/posts/e-commerce-shop-landing-page)
 
-## Class 51-81: Full Stack Serverless with Cloud Development Kit - CDK
+## Part XII: Full Stack Serverless with AWS Cloud Development Kit - CDK
 
 Get AWS Account
 
@@ -1554,7 +1558,7 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 [Dinning by Friends API Project using Aruora Serverless and API Gateway](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step54_api_project_two)
 
 
-## Class 82-86 Build Android, and iOS Mobile Full Stack Apps using React Native with Expo and Amplify
+## Part XIII: Android, and iOS Mobile Full Stack Apps using React Native with Expo and Amplify
 
 [7 Reasons React Native is Going to Be BIG in 2021](https://shift.infinite.red/7-reasons-react-native-is-going-to-be-big-in-2021-4b08c771788e)
 
