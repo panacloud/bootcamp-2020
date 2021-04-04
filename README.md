@@ -132,21 +132,13 @@ Overview of the concepts by the Students:
 
 ### English Section:
 
-Every Tuesday at 10:00 PM – 11:15 PM Pakistan Standard Time
-
-Every Saturday at 10:00 PM – 11:15 PM Pakistan Standard Time
-
-[English broadcast live on Facebook](https://www.facebook.com/groups/4irug)
+[English Class Facebook Group](https://www.facebook.com/groups/4irug)
 
 [YouTube English Channel](https://www.youtube.com/channel/UCZUgRzBPk8CoYeHhbPL8OWg)
 
 ### Urdu Section:
 
-Every Wednesday 10:00 pm to 11:15 pm Pakistan Standard Time
-
-Every Sunday 10:00 pm to 11:15 pm Pakistan Standard Time
-
-[Urdu broadcast live on Facebook](https://www.facebook.com/groups/freelance.remote.work/)
+[Urdu Class Facebook Group](https://www.facebook.com/groups/freelance.remote.work/)
 
 [YouTube Urdu Channel](https://www.youtube.com/channel/UCfAX44elSfBV66jU53akpBA)
 
@@ -167,7 +159,6 @@ These topics have been released for everyone in Urdu:
 Note: Material in English is already available [extensively on the web](https://css-tricks.com/where-do-you-learn-html-css-in-2020/).
 
 [Microsoft's Beginner's Series to: JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
-
 
 ## Class 1: Development Setup
 
