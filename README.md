@@ -1,6 +1,6 @@
 # Bootcamp 2020: Learn to Build Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs in Baby Steps and Build Your SaaS Startup
 
-We will teach you online to Build Modern Full Stack Serverless Mobile Web Apps and Websites including e-commerce apps using React, Gatsby.js, Redux, GraphQL, Serverless, MongoDB, FaunaDB, Git, GitHub, GitHub Actions, Netlify, Contentful, Stripe, SnipCart, Shopify, etc. and to sell your services on Upwork and Fiverr. 
+We will teach you online to Build Modern Full Stack Serverless Mobile Web Apps and Websites including e-commerce apps using React, Gatsby.js, Redux, GraphQL, RESTful OpenAPI, Serverless, AWS Lambda Functions, AWS Lambda Containers, AWS Aruora Serverless, AWS Neptune, AWS EventBridge, MongoDB, FaunaDB, Git, GitHub, GitHub Actions, Netlify, Contentful, Stripe, SnipCart, Shopify, etc. 
 
 We have to understand humanity is facing a COVID-19 induced global economic recession and only the high-tech and software companies have grown and their stock prices and business have risen in this environment. We need to immediately get ready to face the upcoming economic crises boldly.
 
