@@ -995,49 +995,49 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Our JAMstack Textbook for Bootcamp 2020 Read Chapter 1](https://www.apress.com/gp/book/9781484261767)
 
-[Class 31 in English on Facebook : Learning Modern Application Development With JAMStack](https://www.facebook.com/zeeshanhanif/videos/10224537825818010/)
+[Class 31 in English on Facebook : Learning Modern Application Development With JAMStack Serverless](https://www.facebook.com/zeeshanhanif/videos/10224537825818010/)
 
-[Class 31 in English on YouTube : Learning Modern Application Development With JAMStack](https://www.youtube.com/watch?v=deNpUAzAEH0)
+[Class 31 in English on YouTube : Learning Modern Application Development With JAMStack Serverless](https://www.youtube.com/watch?v=deNpUAzAEH0)
 
 [Class 31 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224546245988509/)
 
 [Class 31 in Urdu on YouTube](https://www.youtube.com/watch?v=sP2Amlw44fk)
 
-[Class 32 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224565563991447/)
+[Class 32 in English on Facebook : Learning JAMStack Serverless - Gatsby Part 1](https://www.facebook.com/zeeshanhanif/videos/10224565563991447/)
 
-[Class 32 in English on YouTube](https://www.youtube.com/watch?v=UP3-m4QigN4)
+[Class 32 in English on YouTube : Learning JAMStack Serverless - Gatsby Part 1](https://www.youtube.com/watch?v=UP3-m4QigN4)
 
 [Class 32 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224572927375527)
 
 [Class 32 in Urdu on YouTube](https://www.youtube.com/watch?v=r-G-i5spHGg)
 
-[Class 33 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224601577451761/)
+[Class 33 in English on Facebook :Learning JAMStack Serverless - Gatsby Part 2](https://www.facebook.com/zeeshanhanif/videos/10224601577451761/)
 
-[Class 33 in English on YouTube](https://www.youtube.com/watch?v=21dnsmxRRYM)
+[Class 33 in English on YouTube :Learning JAMStack Serverless - Gatsby Part 2](https://www.youtube.com/watch?v=21dnsmxRRYM)
 
 [Class 33 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224605671834118)
 
 [Class 33 in Urdu on YouTube](https://www.youtube.com/watch?v=rdcqnWJK2Mk)
 
-[Class 34 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224621671314095/)
+[Class 34 in English on Facebook : Learning JAMStack Serverless - Gatsby With Cntentful](https://www.facebook.com/zeeshanhanif/videos/10224621671314095/)
 
-[Class 34 in English on YouTube](https://www.youtube.com/watch?v=5bjdsQ95Z44)
+[Class 34 in English on YouTube : Learning JAMStack Serverless - Gatsby With Cntentful](https://www.youtube.com/watch?v=5bjdsQ95Z44)
 
 [Class 34 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224632582426866/)
 
 [Class 34 in Urdu on YouTube](https://www.youtube.com/watch?v=Q-QiqHBKQjQ)
 
-[Class 35 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224657363006365/)
+[Class 35 in English on Facebook : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 1](https://www.facebook.com/zeeshanhanif/videos/10224657363006365/)
 
-[Class 35 in English on YouTube](https://www.youtube.com/watch?v=8PxEZjYUKpc)
+[Class 35 in English on YouTube : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 1](https://www.youtube.com/watch?v=8PxEZjYUKpc)
 
 [Class 35 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224666332310592/)
 
 [Class 35 in Urdu on YouTube](https://www.youtube.com/watch?v=uMDyvor_k9k)
 
-[Class 36 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224681883899372/)
+[Class 36 in English on Facebook : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 2 And FaunaDB NoSQL database](https://www.facebook.com/zeeshanhanif/videos/10224681883899372/)
 
-[Class 36 in English on YouTube](https://www.youtube.com/watch?v=URXA_2HV61s)
+[Class 36 in English on YouTube : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 1 And FaunaDB NoSQL database](https://www.youtube.com/watch?v=URXA_2HV61s)
 
 [Class 36 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224690706039920/)
 
