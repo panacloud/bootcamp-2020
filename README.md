@@ -1392,121 +1392,121 @@ Base Technology Stack:
 
 [Class 66 Video in Urdu on YouTube](https://www.youtube.com/watch?v=MHgNzf2OAPc)
 
-[Class 67 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225683635182528)
+[Class 67 Video in English on Facebook : AWS Step Functions ](https://www.facebook.com/zeeshanhanif/videos/10225683635182528)
 
-[Class 67 Video in English on YouTube](https://www.youtube.com/watch?v=0gk3dYhwuJc)
+[Class 67 Video in English on YouTube : AWS Step Functions ](https://www.youtube.com/watch?v=0gk3dYhwuJc)
 
 [Class 67 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225695152750460)
 
 [Class 67 Video in Urdu on YouTube](https://www.youtube.com/watch?v=EQT1nJiSHNI)
 
-[Class 68 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225731558780588)
+[Class 68 Video in English on Facebook : AWS Cloud Watch ](https://www.facebook.com/zeeshanhanif/videos/10225731558780588)
 
-[Class 68 Video in English on YouTube](https://www.youtube.com/watch?v=R5ChiA-o5QY)
+[Class 68 Video in English on YouTube : AWS Cloud Watch ](https://www.youtube.com/watch?v=R5ChiA-o5QY)
 
 [Class 68 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225741135820008)
 
 [Class 68 Video in Urdu on YouTube](https://www.youtube.com/watch?v=c7hJn9KxqDE)
 
-[Class 69 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225763251372883)
+[Class 69 Video in English on Facebook : AWS Timestream DB and Visualization with Grafana ](https://www.facebook.com/zeeshanhanif/videos/10225763251372883)
 
-[Class 69 Video in English on YouTube](https://www.youtube.com/watch?v=6kwKtE8d9dc)
+[Class 69 Video in English on YouTube : AWS Timestream DB and Visualization with Grafana ](https://www.youtube.com/watch?v=6kwKtE8d9dc)
 
 [Class 69 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225811165650710)
 
 [Class 69 Video in Urdu on YouTube](https://www.youtube.com/watch?v=EgYiEO8P704)
 
-[Class 70 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225802789761318)
+[Class 70 Video in English on Facebook: AWS X-Ray](https://www.facebook.com/zeeshanhanif/videos/10225802789761318)
 
-[Class 70 Video in English on YouTube](https://www.youtube.com/watch?v=kUdnlL5Krhk)
+[Class 70 Video in English on YouTube : AWS X-Ray](https://www.youtube.com/watch?v=kUdnlL5Krhk)
 
 [Class 70 Video in Urdu on YouTube](https://www.facebook.com/zeeshanhanif/videos/10225839661283083)
 
 [Class 70 Video in Urdu on YouTube](https://www.youtube.com/watch?v=i5QTUdZBNO0)
 
-[Class 71 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225831683963655)
+[Class 71 Video in English on Facebook : AWS Lambda Layers](https://www.facebook.com/zeeshanhanif/videos/10225831683963655)
 
-[Class 71 Video in English on YouTube](https://www.youtube.com/watch?v=HrvCZGKI9SE)
+[Class 71 Video in English on YouTube : AWS Lambda Layers](https://www.youtube.com/watch?v=HrvCZGKI9SE)
 
 [Class 71 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225874842762598)
 
 [Class 71 Video in Urdu on YouTube](https://www.youtube.com/watch?v=fa6HHSD5Qfo)
 
-[Class 72 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225866783121112)
+[Class 72 Video in English on Facebook : AWS Lambda Edge and Lambda Destination](https://www.facebook.com/zeeshanhanif/videos/10225866783121112)
 
-[Class 72 Video in English on YouTube](https://www.youtube.com/watch?v=onx7b32jRcM)
+[Class 72 Video in English on YouTube : AWS Lambda Edge and Lambda Destination](https://www.youtube.com/watch?v=onx7b32jRcM)
 
 [Class 72 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225904417381945)
 
 [Class 72 Video in Urdu on Facebook](https://www.youtube.com/watch?v=LfhS4kuJTaI)
 
-[Class 73 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225893868638233/)
+[Class 73 Video in English on Facebook : Docker Containers and AWS Lambda Container Image ](https://www.facebook.com/zeeshanhanif/videos/10225893868638233/)
 
-[Class 73 Video in English on YouTube](https://www.youtube.com/watch?v=MA3nAbT-5cQ)
+[Class 73 Video in English on YouTube : Docker Containers and AWS Lambda Container Image ](https://www.youtube.com/watch?v=MA3nAbT-5cQ)
 
 [Class 73 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225939772465800)
 
 [Class 73 Video in Urdu on YouTube](https://www.youtube.com/watch?v=W5GbzrWs6gw)
 
-[Class 74 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225932463123071)
+[Class 74 Video in English on Facebook : AWS DynamoDB Streams and Constructs as Cloud components](https://www.facebook.com/zeeshanhanif/videos/10225932463123071)
 
-[Class 74 Video in English on YouTube](https://www.youtube.com/watch?v=LCY9ssPMWYY)
+[Class 74 Video in English on YouTube : AWS DynamoDB Streams and Constructs as Cloud components](https://www.youtube.com/watch?v=LCY9ssPMWYY)
 
 [Class 74 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225965758835443)
 
 [Class 74 Video in Urdu on YouTube](https://www.youtube.com/watch?v=v9QkNInvTz0)
 
-[Class 75 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225959184311084)
+[Class 75 Video in English on Facebook : CDK Multiple Stacks and AWS Route 53 ](https://www.facebook.com/zeeshanhanif/videos/10225959184311084)
 
-[Class 75 Video in English on YouTube](https://www.youtube.com/watch?v=9qvCPzMOOrk)
+[Class 75 Video in English on YouTube : CDK Multiple Stacks and AWS Route 53 ](https://www.youtube.com/watch?v=9qvCPzMOOrk)
 
 [Class 75 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226003175610839)
 
 [Class 75 Video in Urdu on YouTube](https://www.youtube.com/watch?v=IuGThHadaj0)
 
-[Class 76 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226021607111615)
+[Class 76 Video in English on Facebook : AWS Elastic File Storage and Testing CDK ](https://www.facebook.com/zeeshanhanif/videos/10226021607111615)
 
-[Class 76 Video in English on YouTube](https://www.youtube.com/watch?v=jTOu3Fd0CHs)
+[Class 76 Video in English on YouTube : AWS Elastic File Storage and Testing CDK ](https://www.youtube.com/watch?v=jTOu3Fd0CHs)
 
 [Class 76 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226030936944855)
 
 [Class 76 Video in Urdu on YouTube](https://www.youtube.com/watch?v=EcLqSHWo1Sw)
 
-[Class 77 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226050958845390)
+[Class 77 Video in English on Facebook : Serverless Event-Driven Architecture ](https://www.facebook.com/zeeshanhanif/videos/10226050958845390)
 
-[Class 77 Video in English on YouTube](https://www.youtube.com/watch?v=wN9-XYyecPI)
+[Class 77 Video in English on YouTube : Serverless Event-Driven Architecture ](https://www.youtube.com/watch?v=wN9-XYyecPI)
 
 [Class 77 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226060184996038)
 
 [Class 77 Video in Urdu on YouTube](https://www.youtube.com/watch?v=JCu31cqUrPM)
 
-[Class 78 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226081386086052)
+[Class 78 Video in English on Facebook : CDK Design Patterns ](https://www.facebook.com/zeeshanhanif/videos/10226081386086052)
 
-[Class 78 Video in English on YouTube](https://www.youtube.com/watch?v=MUDYeQ2HSLs)
+[Class 78 Video in English on YouTube : CDK Design Patterns ](https://www.youtube.com/watch?v=MUDYeQ2HSLs)
 
 [Class 78 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226089243162474)
 
 [Class 78 Video in Urdu on YouTube](https://www.youtube.com/watch?v=OgvmM1f-OjI)
 
-[Class 79 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226116722369437)
+[Class 79 Video in English on Facebook : AWS Aurora Serverless and Data API ](https://www.facebook.com/zeeshanhanif/videos/10226116722369437)
 
-[Class 79 Video in English on YouTube](https://www.youtube.com/watch?v=NC_az7syauM)
+[Class 79 Video in English on YouTube : AWS Aurora Serverless and Data API ](https://www.youtube.com/watch?v=NC_az7syauM)
 
 [Class 79 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226125216901795)
 
 [Class 79 Video in Urdu on YouTube](https://www.youtube.com/watch?v=OGS5Qr9TmsM)
 
-[Class 80 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226147281253390)
+[Class 80 Video in English on Facebook : AWS VPC And AWS Neptune Graph Database ](https://www.facebook.com/zeeshanhanif/videos/10226147281253390)
 
-[Class 80 Video in English on YouTube](https://www.youtube.com/watch?v=-1Prdv-hhG4)
+[Class 80 Video in English on YouTube : AWS VPC And AWS Neptune Graph Database](https://www.youtube.com/watch?v=-1Prdv-hhG4)
 
 [Class 80 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226153456967779)
 
 [Class 80 Video in Urdu on YouTube](https://www.youtube.com/watch?v=nySxSG9nqfU)
 
-[Class 81 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226182818781806)
+[Class 81 Video in English on Facebook: Gremlin Graph Traversal Language ](https://www.facebook.com/zeeshanhanif/videos/10226182818781806)
 
-[Class 81 Video in English on YouTube](https://www.youtube.com/watch?v=GzDkFWM7KAs)
+[Class 81 Video in English on YouTube: Gremlin Graph Traversal Language ](https://www.youtube.com/watch?v=GzDkFWM7KAs)
 
 [Class 81 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226190729259563)
 
@@ -1579,17 +1579,17 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 
 [Full Stack Mobile Apps with Amplify and Expo](https://docs.amplify.aws/start/q/integration/react-native)
 
-[Class 82 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226210301228850)
+[Class 82 Video in English on Facebook: Crash Course in Hybrid Mobile Development Class 1](https://www.facebook.com/zeeshanhanif/videos/10226210301228850)
 
-[Class 82 Video in English on YouTube](https://www.youtube.com/watch?v=vjce0lyQxaI)
+[Class 82 Video in English on YouTube: Crash Course in Hybrid Mobile Development Class 1](https://www.youtube.com/watch?v=vjce0lyQxaI)
 
 [Class 82 Video in Urdu on Facebook](https://web.facebook.com/zeeshanhanif/videos/10226221136659729)
 
 [Class 82 Video in Urdu on YouTube](https://www.youtube.com/watch?v=DbUJV0k7kVM)
 
-[Class 83 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226244738609763)
+[Class 83 Video in English on Facebook: Crash Course in Hybrid Mobile Development Class 2](https://www.facebook.com/zeeshanhanif/videos/10226244738609763)
 
-[Class 83 Video in English on YouTube](https://www.youtube.com/watch?v=JoRAYsEbi9I)
+[Class 83 Video in English on YouTube: Crash Course in Hybrid Mobile Development Class 2](https://www.youtube.com/watch?v=JoRAYsEbi9I)
 
 [Class 83 Code on Github](https://github.com/zeeshanhanif/reactnative-todolist)
 
@@ -1597,9 +1597,9 @@ The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technolo
 
 [Class 83 Video in Urdu on YouTube](https://www.youtube.com/watch?v=r0MHDJ6AXfc)
 
-[Class 84 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226271623321864)
+[Class 84 Video in English on Facebook: Crash Course in Hybrid Mobile Development Class 3](https://www.facebook.com/zeeshanhanif/videos/10226271623321864)
 
-[Class 84 Video in English on YouTube](https://www.youtube.com/watch?v=TX-pHbwQ92A)
+[Class 84 Video in English on YouTube: Crash Course in Hybrid Mobile Development Class 3](https://www.youtube.com/watch?v=TX-pHbwQ92A)
 
 [Class 84 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226279800766295)
 
