@@ -1160,73 +1160,73 @@ Note: In the above article the project is done using 11ty however you are requir
 
 [JAMstack Ecommerce Learning Project Repo (Ecommerce Projects 00 - 06)](https://github.com/panacloud-modern-global-apps/jamstack-ecommerce)
 
-[Class 42 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224856174736534/)
+[Class 42 in English on Facebook: Intro To Ecommerce](https://www.facebook.com/zeeshanhanif/videos/10224856174736534/)
 
-[Class 42 in English on YouTube](https://www.youtube.com/watch?v=u3KOcuxvb5w)
+[Class 42 in English on YouTube : Intro To Ecommerce](https://www.youtube.com/watch?v=u3KOcuxvb5w)
 
 [Class 42 in Urdu on facebook](https://www.facebook.com/zeeshanhanif/videos/10224865871098937/)
 
 [Class 42 in Urdu on YouTube](https://www.youtube.com/watch?v=c11-JmxKJfc) 
 
-[Class 43 Building Project 00 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224888744070747/)
+[Class 43 Building Project 00 Video in English on Facebook: Payment Gateway Using Stripe Checkout With Gatsby](https://www.facebook.com/zeeshanhanif/videos/10224888744070747/)
 
-[Class 43 Building Project 00 Video in English on YouTube](https://www.youtube.com/watch?v=cextuS_GgVI)
+[Class 43 Building Project 00 Video in English on YouTube : Payment Gateway Using Stripe Checkout With Gatsby](https://www.youtube.com/watch?v=cextuS_GgVI)
 
 [Class 43 Building Project 00 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224899533580478/)
 
 [Class 43 Building Project 00 Video in Urdu on YouTube](https://www.youtube.com/watch?v=Jhg8URgZH-s)
 
-[Class 44 Building Project 01 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224918482854198/)
+[Class 44 Building Project 01 Video in English on Facebook : Payment Gateway Using Stripe API With Gatsby](https://www.facebook.com/zeeshanhanif/videos/10224918482854198/)
 
-[Class 44 Building Project 01 Video in English on YouTube](https://www.youtube.com/watch?v=tamOJxju7fg)
+[Class 44 Building Project 01 Video in English on YouTube : Payment Gateway Using Stripe API With Gatsby](https://www.youtube.com/watch?v=tamOJxju7fg)
 
 [Class 44 Building Project 01 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224927228272828/)
 
 [Class 44 Building Project 01 Video in Urdu on YouTube](https://www.youtube.com/watch?v=vzeLykEV87w)
 
-[Class 45 Buidling Project 02 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224954863883701/)
+[Class 45 Buidling Project 02 Video in English on Facebook : Building Shopping Cart using Snapcart ](https://www.facebook.com/zeeshanhanif/videos/10224954863883701/)
 
-[Class 45 Buidling Project 02 Video in English on YouTube](https://www.youtube.com/watch?v=0APfFRm2hK8)
+[Class 45 Buidling Project 02 Video in English on YouTube  : Building Shopping Cart using Snapcart ](https://www.youtube.com/watch?v=0APfFRm2hK8)
 
 [Class 45 Building Project 02 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224961217042526/)
 
 [Class 45 Building Project 02 Video in Urdu on YouTube](https://www.youtube.com/watch?v=vzeLykEV87w&t=6s)
 
-[Class 46 Buiding Project 03 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224984117135014/)
+[Class 46 Buiding Project 03 Video in English on Facebook : USE-SHOPPING-CART Open Source Shopping Cart](https://www.facebook.com/zeeshanhanif/videos/10224984117135014/)
 
-[Class 46 Building Project 03 Video in English on YouTube](https://www.youtube.com/watch?v=tYGlZI4OPIs)
+[Class 46 Building Project 03 Video in English on YouTube : USE-SHOPPING-CART Open Source Shopping Cart](https://www.youtube.com/watch?v=tYGlZI4OPIs)
 
 [Class 46 Building Project 03 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224993742615645/)
 
 [Class 46 Building Project 03 Video in Urdu on YouTube](https://www.youtube.com/watch?v=gsfKhhB9_0M)
 
-[Class 47 Building Project 04 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225017709934813/)
+[Class 47 Building Project 04 Video in English on Facebook : Headless Ecommerce With Shopify And Gatsby Part 1](https://www.facebook.com/zeeshanhanif/videos/10225017709934813/)
 
-[Class 47 Building Project 04 Video in English on YouTube](https://www.youtube.com/watch?v=Unz_REIRjpg)
+[Class 47 Building Project 04 Video in English on YouTube : Headless Ecommerce With Shopify And Gatsby Part 1](https://www.youtube.com/watch?v=Unz_REIRjpg)
 
 [Class 47 Building Project 04 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225025711294842/)
 
 [Class 47 Building Project 04 Video in Urdu on YouTube](https://www.youtube.com/watch?v=tNcpbyt0a6g)
 
-[Class 48 Building Project 04 Part 2 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225072595506918)
+[Class 48 Building Project 04 Part 2 Video in English on Facebook : Headless Ecommerce With Shopify And Gatsby Part 2](https://www.facebook.com/zeeshanhanif/videos/10225072595506918)
 
-[Class 48 Building Project 04 Part 2 Video in English on YouTube](https://www.youtube.com/watch?v=Qn16dqu7jKc)
+[Class 48 Building Project 04 Part 2 Video in English on YouTube : Headless Ecommerce With Shopify And Gatsby Part 2](https://www.youtube.com/watch?v=Qn16dqu7jKc)
 
 [Class 48 Building Project 04 Part 2 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225081196721943)
 
 [Class 48 Building Project 04 Part 2 Video in Urdu on YouTube](https://www.youtube.com/watch?v=mz2ChgziBBk)
 
-[Class 49 Building Project 04 Part 3 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225098638837985)
+[Class 49 Building Project 04 Part 3 Video in English on Facebook : Headless Ecommerce With Shopify And Gatsby Part 3](https://www.facebook.com/zeeshanhanif/videos/10225098638837985)
 
-[Class 49 Building Project 04 Part 3 Video in English on YouTube](https://www.youtube.com/watch?v=xeAw__ofxtc)
+[Class 49 Building Project 04 Part 3 Video in English on YouTube : Headless Ecommerce With Shopify And Gatsby Part 3](https://www.youtube.com/watch?v=xeAw__ofxtc)
 
 [Class 49 Building Project 04 Part 3 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225107438537972)
 
 [Class 49 Building Project 04 Part 3 Video in Urdu on YouTube](https://www.youtube.com/watch?v=-grjtMNprWI)
 
-[Class 50 Building Project 05 and 06 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225129468128698)
+[Class 50 Building Project 05 and 06 Video in English on Facebook : Payment Gateway Using 2Checkout and PayFast](https://www.facebook.com/zeeshanhanif/videos/10225129468128698)
 
-[Class 50 Building Project 05 and 06 Video in English on YouTube](https://www.youtube.com/watch?v=dKHANO9U6IU)
+[Class 50 Building Project 05 and 06 Video in English on YouTube : Payment Gateway Using 2Checkout and PayFast](https://www.youtube.com/watch?v=dKHANO9U6IU)
 
 [Class 50 Building Project 05 and 06 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225139989951737)
 
