@@ -1264,129 +1264,129 @@ Base Technology Stack:
 
 [Learning Full Stack Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
 
-[Class 51 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225155745305611)
+[Class 51 Video in English on Facebook : Intro to AWS Technologies With Cloud Development Kit (CDK)](https://www.facebook.com/zeeshanhanif/videos/10225155745305611)
 
-[Class 51 Video in English on YouTube](https://www.youtube.com/watch?v=bnTCwunqhMc)
+[Class 51 Video in English on YouTube : Intro to AWS Technologies With Cloud Development Kit (CDK)](https://www.youtube.com/watch?v=bnTCwunqhMc)
 
 [Class 51 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225164884934096)
 
 [Class 51 Video in Urdu on YouTube](https://www.youtube.com/watch?v=JhFiu-krGZI)
 
-[Class 52 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225191381716499)
+[Class 52 Video in English on Facebook : Project Setup And Stack Deployment With S3 Bucket](https://www.facebook.com/zeeshanhanif/videos/10225191381716499)
 
-[Class 52 Video in English on YouTube](https://www.youtube.com/watch?v=UpuVx8c0-lA)
+[Class 52 Video in English on YouTube : Project Setup And Stack Deployment With S3 Bucket](https://www.youtube.com/watch?v=UpuVx8c0-lA)
 
 [Class 52 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225203759985948)
 
 [Class 52 Video in Urdu on YouTube](https://www.youtube.com/watch?v=xWF-LCTnSy4)
 
-[Class 53 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225216995316823)
+[Class 53 Video in English on Facebook : Deploying Serverless Lambda Function And Website Deployment With Cloudfront](https://www.facebook.com/zeeshanhanif/videos/10225216995316823)
 
-[Class 53 Video in English on YouTube](https://www.youtube.com/watch?v=JpLNn3_GbIc)
+[Class 53 Video in English on YouTube : Deploying Serverless Lambda Function And Website Deployment With Cloudfront](https://www.youtube.com/watch?v=JpLNn3_GbIc)
 
 [Class 53 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225226138185389)
 
 [Class 53 Video in Urdu on YouTube](https://www.youtube.com/watch?v=IJBowlCR7fk)
 
-[Class 54 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225249824337528)
+[Class 54 Video in English on Facebook : QraphQL API with AWS AppSync](https://www.facebook.com/zeeshanhanif/videos/10225249824337528)
 
-[Class 54 Video in English on YouTube](https://www.youtube.com/watch?v=iJj32I9A_Nc)
+[Class 54 Video in English on YouTube : QraphQL API with AWS AppSync](https://www.youtube.com/watch?v=iJj32I9A_Nc)
 
 [Class 54 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225258717359848)
 
 [Class 54 Video in Urdu on YouTube](https://www.youtube.com/watch?v=mzl8tQzygOA)
 
-[Class 55 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225276797051829)
+[Class 55 Video in English on Facebook : AWS AppSync And AWS DynamoDB](https://www.facebook.com/zeeshanhanif/videos/10225276797051829)
 
-[Class 55 Video in English on YouTube](https://www.youtube.com/watch?v=lbkrSIM_x_Y)
+[Class 55 Video in English on YouTube : AWS AppSync And AWS DynamoDB](https://www.youtube.com/watch?v=lbkrSIM_x_Y)
 
 [Class 55 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225286889784141)
 
 [Class 55 Video in Urdu on YouTube](https://www.youtube.com/watch?v=FVHkJRo4TdI)
 
-[Class 56 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225312535665272)
+[Class 56 Video in English on Facebook : AWS Amplify And AWS Appsync ](https://www.facebook.com/zeeshanhanif/videos/10225312535665272)
 
-[Class 56 Video in English on YouTube](https://www.youtube.com/watch?v=6hBaplgwE8s)
+[Class 56 Video in English on YouTube : AWS Amplify And AWS Appsync](https://www.youtube.com/watch?v=6hBaplgwE8s)
 
 [Class 56 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225319812407186)
 
 [Class 56 Video in Urdu on YouTube](https://www.youtube.com/watch?v=paHnI88zXSQ)
 
-[Class 57 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225337767976064)
+[Class 57 Video in English on Facebook : AWS AppSync With DynamoDB As A Datasource](https://www.facebook.com/zeeshanhanif/videos/10225337767976064)
 
-[Class 57 Video in English on YouTube](https://www.youtube.com/watch?v=DkMpDT-gsMk)
+[Class 57 Video in English on YouTube : AWS AppSync With DynamoDB As A Datasource](https://www.youtube.com/watch?v=DkMpDT-gsMk)
 
 [Class 57 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225347091729152)
 
 [Class 57 Video in Urdu on YouTube](https://www.youtube.com/watch?v=lpKaoZ4yAiE)
 
-[Class 58 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225372583806438)
+[Class 58 Video in English on Facebook : AWS Cognito Part 1](https://www.facebook.com/zeeshanhanif/videos/10225372583806438)
 
-[Class 58 Video in English on YouTube](https://www.youtube.com/watch?v=vC33wJ6DfjQ)
+[Class 58 Video in English on YouTube : AWS Cognito Part 1](https://www.youtube.com/watch?v=vC33wJ6DfjQ)
 
 [Class 58 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225381665553476)
 
 [Class 58 Video in Urdu on YouTube](https://www.youtube.com/watch?v=BXIWIUkl2tM)
 
-[Class 59 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225399426157480)
+[Class 59 Video in English on Facebook : AWS Cognito Part 2](https://www.facebook.com/zeeshanhanif/videos/10225399426157480)
 
-[Class 59 Video in English on YouTube](https://www.youtube.com/watch?v=2y0QrhvRMew)
+[Class 59 Video in English on YouTube : AWS Cognito Part 2](https://www.youtube.com/watch?v=2y0QrhvRMew)
 
 [Class 59 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225407400396831)
 
 [Class 59 Video in Urdu on YouTube](https://www.youtube.com/watch?v=Qdk95pExTaY)
 
-[Class 60 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225434631997604)
+[Class 60 Video in English on Facebook : AWS IAM Policies And Secret Manager Part 1](https://www.facebook.com/zeeshanhanif/videos/10225434631997604)
 
-[Class 60 Video in English on YouTube](https://www.youtube.com/watch?v=geV-TV7kTgE)
+[Class 60 Video in English on YouTube : AWS IAM Policies And Secret Manager Part 1](https://www.youtube.com/watch?v=geV-TV7kTgE)
 
 [Class 60 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225444019552287)
 
 [Class 60 Video in Urdu on YouTube](https://www.youtube.com/watch?v=AHam583oT7c)
 
-[Class 61 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225464556865707)
+[Class 61 Video in English on Facebook : AWS Secret Manager Part 2](https://www.facebook.com/zeeshanhanif/videos/10225464556865707)
 
-[Class 61 Video in English on YouTube](https://www.youtube.com/watch?v=J7C5nHmUDD4)
+[Class 61 Video in English on YouTube : AWS Secret Manager Part 2](https://www.youtube.com/watch?v=J7C5nHmUDD4)
 
 [Class 61 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225474211267061)
 
 [Class 61 Video in Urdu on YouTube](https://www.youtube.com/watch?v=9t_mhAn108Q)
 
-[Class 62 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225509036897680)
+[Class 62 Video in English on Facebook : AWS CI/CD Pipeline](https://www.facebook.com/zeeshanhanif/videos/10225509036897680)
 
-[Class 62 Video in English on YouTube](https://www.youtube.com/watch?v=7IwnB6yT0lU)
+[Class 62 Video in English on YouTube : AWS CI/CD Pipeline](https://www.youtube.com/watch?v=7IwnB6yT0lU)
 
 [Class 62 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225524262878320)
 
 [Class 62 Video in Urdu on YouTube](https://www.youtube.com/watch?v=JTDRS1u3924)
 
-[Class 63 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225545010436996)
+[Class 63 Video in English on Facebook : AWS EventBridge ](https://www.facebook.com/zeeshanhanif/videos/10225545010436996)
 
-[Class 63 Video in English on YouTube](https://www.youtube.com/watch?v=jrUDwrgBCqg)
+[Class 63 Video in English on YouTube : AWS EventBridge ](https://www.youtube.com/watch?v=jrUDwrgBCqg)
 
 [Class 63 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225564742050274)
 
 [Class 63 Video in Urdu on YouTube](https://www.youtube.com/watch?v=1y4REyORf1U)
 
-[Class 64 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225576641907763)
+[Class 64 Video in English on Facebook : AWS Simple Email Service](https://www.facebook.com/zeeshanhanif/videos/10225576641907763)
 
-[Class 64 Video in English on YouTube](https://www.youtube.com/watch?v=CPFYfPbSTUo)
+[Class 64 Video in English on YouTube : AWS Simple Email Service](https://www.youtube.com/watch?v=CPFYfPbSTUo)
 
 [Class 64 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225585267523398)
 
 [Class 64 Video in Urdu on YouTube](https://www.youtube.com/watch?v=jnym0CaBgkk)
 
-[Class 65 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225602951765493)
+[Class 65 Video in English on Facebook : AWS Simple Notification Service and Simple Queue Service](https://www.facebook.com/zeeshanhanif/videos/10225602951765493)
 
-[Class 65 Video in English on YouTube](https://www.youtube.com/watch?v=pHTtY_o-WO0)
+[Class 65 Video in English on YouTube : AWS Simple Notification Service and Simple Queue Service](https://www.youtube.com/watch?v=pHTtY_o-WO0)
 
 [Class 65 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225612202036744)
 
 [Class 65 Video in Urdu on YouTube](https://www.youtube.com/watch?v=BHDnDA1rzZY)
 
-[Class 66 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225636344840299)
+[Class 66 Video in English on Facebook : AWS Pinpoint ](https://www.facebook.com/zeeshanhanif/videos/10225636344840299)
 
-[Class 66 Video in English on YouTube](https://www.youtube.com/watch?v=C46KqvvImnA)
+[Class 66 Video in English on YouTube : AWS Pinpoint ](https://www.youtube.com/watch?v=C46KqvvImnA)
 
 [Class 66 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225650154145523)
 
