@@ -175,13 +175,13 @@ Learning Material for Class 1:
 
 [Notes](https://docs.google.com/document/d/11D43REjdlsoZgchrhwf8UeuGdtXaFFMnHS9CAkVkXoY/edit)
 
-[Class 1 in English on Facebook](https://www.facebook.com/piaic.main/videos/170335457846407/)
+[Class 1 in English on Facebook : Intro to Bootcamp 2020 and Development Setup](https://www.facebook.com/piaic.main/videos/170335457846407/)
 
-[Class 1 in English on YouTube](https://www.youtube.com/watch?v=pjc441QKJFE)
+[Class 1 in English on YouTube : Intro to Bootcamp 2020 and Development Setup](https://www.youtube.com/watch?v=pjc441QKJFE)
 
-[Class 1 in Urdu on Facebook](https://www.facebook.com/piaic.main/videos/170952927784660/)
+[Class 1 in Urdu on Facebook : Intro to Bootcamp 2020 and Development Setup](https://www.facebook.com/piaic.main/videos/170952927784660/)
 
-[Class 1 in Urdu on YouTube](https://www.youtube.com/watch?v=OiP7N_ztnik)
+[Class 1 in Urdu on YouTube : Intro to Bootcamp 2020 and Development Setup](https://www.youtube.com/watch?v=OiP7N_ztnik)
 
 
 
@@ -195,13 +195,13 @@ Learning material
 
 English Videos:
 
-[Class 2 in English on Facebook](https://www.facebook.com/piaic.main/videos/171414181071868/?fref=mentions)
+[Class 2 in English on Facebook : Github Actions And Intro to Learning React Part 1](https://www.facebook.com/piaic.main/videos/171414181071868/?fref=mentions)
 
-[Class 2 in English on YouTube](https://www.youtube.com/watch?v=G25BM3nPk3s)
+[Class 2 in English on YouTube : Github Actions And Intro to Learning React Part 1](https://www.youtube.com/watch?v=G25BM3nPk3s)
 
-[Class 2 in Urdu on Facebook](https://www.facebook.com/piaic.main/videos/171837241029562/)
+[Class 2 in Urdu on Facebook : Github Actions And Intro to Learning React Part 1](https://www.facebook.com/piaic.main/videos/171837241029562/)
 
-[Class 2 in Urdu on YouTube](https://www.youtube.com/watch?v=mEFq3YGiauM)
+[Class 2 in Urdu on YouTube : Github Actions And Intro to Learning React Part 1](https://www.youtube.com/watch?v=mEFq3YGiauM)
 
 
 ## Class 3 and 4: Learn React
@@ -209,21 +209,21 @@ English Videos:
 [Learn React Tutorial](https://daveceddia.com/react-tutorial/)
 Cover the Tutorial Before Fetching Data
 
-[Class 3 Facebook English Video](https://www.facebook.com/piaic.main/videos/173417630871523)
+[Class 3 Facebook English Video : Learning React Part 2](https://www.facebook.com/piaic.main/videos/173417630871523)
 
-[Class 3 YouTube English Video](https://www.youtube.com/watch?v=AHC-Gas_sok)
+[Class 3 YouTube English Video : Learning React Part 2](https://www.youtube.com/watch?v=AHC-Gas_sok)
 
-[Class 3 Facebook Urdu Video](https://www.facebook.com/piaic.main/videos/173553557524597/)
+[Class 3 Facebook Urdu Video : Learning React Part 2](https://www.facebook.com/piaic.main/videos/173553557524597/)
 
-[Class 3 YouTube Urdu Video](https://www.youtube.com/watch?v=8TQ1i93pRsk)
+[Class 3 YouTube Urdu Video : Learning React Part 2](https://www.youtube.com/watch?v=8TQ1i93pRsk)
 
-[Class 4 Facebook English Video](https://www.facebook.com/piaic.main/videos/174431544103465/)
+[Class 4 Facebook English Video : Learning React Part 3](https://www.facebook.com/piaic.main/videos/174431544103465/)
 
-[Class 4 YouTube English Video](https://www.youtube.com/watch?v=ye0yj5WdXg4)
+[Class 4 YouTube English Video : Learning React Part 3](https://www.youtube.com/watch?v=ye0yj5WdXg4)
 
-[Class 4 Facebook Urdu Video](https://www.facebook.com/piaic.main/videos/174837927396160/)
+[Class 4 Facebook Urdu Video : Learning React Part 3](https://www.facebook.com/piaic.main/videos/174837927396160/)
 
-[Class 4 YouTube Urdu Video](https://www.youtube.com/watch?v=i-DhkVmlgcI)
+[Class 4 YouTube Urdu Video : Learning React Part 3](https://www.youtube.com/watch?v=i-DhkVmlgcI)
 
 
 ## Class 5 and 6: Hooks
@@ -239,13 +239,13 @@ First we will learn the hooks:
 
 [Understanding the React useReducer Hook](https://alligator.io/react/usereducer/)
 
-[Class 5 YouTube English Video](https://www.youtube.com/watch?v=h27ABSn-27g)
+[Class 5 YouTube English Video : Learning React Part 4](https://www.youtube.com/watch?v=h27ABSn-27g)
 
-[Class 5 Facebook English Video](https://www.facebook.com/piaic.main/videos/176007070612579/)
+[Class 5 Facebook English Video : Learning React Part 4](https://www.facebook.com/piaic.main/videos/176007070612579/)
 
-[Class 5 YouTube Urdu Video](https://www.youtube.com/watch?v=_UUlRvbJPfQ)
+[Class 5 YouTube Urdu Video : Learning React Part 4](https://www.youtube.com/watch?v=_UUlRvbJPfQ)
 
-[Class 5 Facebook Urdu Video](https://www.facebook.com/piaic.main/videos/176512327228720/)
+[Class 5 Facebook Urdu Video : Learning React Part 4](https://www.facebook.com/piaic.main/videos/176512327228720/)
 
 
 ### Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API
@@ -254,13 +254,13 @@ Follow this Video and build the App: [Expense Tracker](https://www.youtube.com/w
 
 [Project Submit Form](https://docs.google.com/forms/d/e/1FAIpQLSfnJKOcI5t-IKt7ebmdRgr5llo4PIMXUVMKGAptMjaIeN0Gsg/viewform)
 
-[Class 6 YouTube English Video](https://www.youtube.com/watch?v=q6GmIxnflfM)
+[Class 6 YouTube English Video : Building a React Project](https://www.youtube.com/watch?v=q6GmIxnflfM)
 
-[Class 6 Facebook English Video](https://www.facebook.com/piaic.main/videos/177715090441777/)
+[Class 6 Facebook English Video : Building a React Project](https://www.facebook.com/piaic.main/videos/177715090441777/)
 
-[Class 6 Facebook Urdu Video](https://www.facebook.com/imran82ali/videos/283949636075779/)
+[Class 6 Facebook Urdu Video : Building a React Project](https://www.facebook.com/imran82ali/videos/283949636075779/)
 
-[Class 6 YouTube Urdu Video](https://www.youtube.com/watch?v=dkMba8oK55w)
+[Class 6 YouTube Urdu Video : Building a React Project](https://www.youtube.com/watch?v=dkMba8oK55w)
 
 Expense Tracker App By Adil Altaf
 
@@ -279,13 +279,13 @@ Expense Tracker App By Adil Altaf
 
 [Code for Class 7 English](https://github.com/zeeshanhanif/demo-async-programming)
 
-[Class 7 English Facebook Video](https://web.facebook.com/imran82ali/videos/286047259199350/)
+[Class 7 English Facebook Video : Learning Asynchronous JavaScript](https://web.facebook.com/imran82ali/videos/286047259199350/)
 
-[Class 7 English YouTube Video](https://www.youtube.com/watch?v=xSCo1sPk6mg)
+[Class 7 English YouTube Video : Learning Asynchronous JavaScript](https://www.youtube.com/watch?v=xSCo1sPk6mg)
 
-[Class 7 Urdu YouTube Video](https://www.youtube.com/watch?v=8a1oq_IjCHE)
+[Class 7 Urdu YouTube Video : Learning Asynchronous JavaScript](https://www.youtube.com/watch?v=8a1oq_IjCHE)
 
-[Class 7 Urdu Facebook Video](https://www.facebook.com/imran82ali/videos/286730542464355/)
+[Class 7 Urdu Facebook Video : Learning Asynchronous JavaScript](https://www.facebook.com/imran82ali/videos/286730542464355/)
 
 ## Class 8: Fetch Data
 
@@ -301,13 +301,13 @@ Different Options to get data in React
 
 [Class 8 Code](https://github.com/zeeshanhanif/demo-react-useeffect)
 
-[Class 8 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223639700845447/)
+[Class 8 English Facebook Video : JavaScript Fetch with React](https://www.facebook.com/zeeshanhanif/videos/10223639700845447/)
 
-[Class 8 English YouTube Video](https://www.youtube.com/watch?v=MoTfMsuexhk)
+[Class 8 English YouTube Video : JavaScript Fetch with React](https://www.youtube.com/watch?v=MoTfMsuexhk)
 
-[Class 8 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223652738571382/)
+[Class 8 Urdu Facebook Video : JavaScript Fetch with React](https://www.facebook.com/zeeshanhanif/videos/10223652738571382/)
 
-[Class 8 Urdu YouTube Video](https://www.youtube.com/watch?v=i7iuPKa2A-E)
+[Class 8 Urdu YouTube Video : JavaScript Fetch with React](https://www.youtube.com/watch?v=i7iuPKa2A-E)
 
 Data fetching with React Suspense
 
@@ -345,13 +345,13 @@ Learn Chart.js
 
 [Getting Started](https://www.chartjs.org/docs/latest/getting-started/)
 
-[Class 9 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223687587242577/)
+[Class 9 English Facebook Video : Learning Material UI and Chart.JS](https://www.facebook.com/zeeshanhanif/videos/10223687587242577/)
 
-[Class 9 English YouTube Video](https://www.youtube.com/watch?v=UVd9YQJ8Ge4)
+[Class 9 English YouTube Video : Learning Material UI and Chart.JS](https://www.youtube.com/watch?v=UVd9YQJ8Ge4)
 
-[Class 9 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223699956751807/)
+[Class 9 Urdu Facebook Video : Learning Material UI and Chart.JS](https://www.facebook.com/zeeshanhanif/videos/10223699956751807/)
 
-[Class 9 Urdu YouTube Video](https://www.youtube.com/watch?v=GqRXcnxEZt0)
+[Class 9 Urdu YouTube Video : Learning Material UI and Chart.JS](https://www.youtube.com/watch?v=GqRXcnxEZt0)
 
 
 ### Bootcamp 2020 Project 2: COVID-19 Tracker App
@@ -381,13 +381,13 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 
 Adil Altaf builds the COVID-19 Tracker App
 
-[Class 10 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223727984452482/)
+[Class 10 English Facebook Video : Building COVID-19 Tracker App](https://www.facebook.com/zeeshanhanif/videos/10223727984452482/)
 
-[Class 10 English YouTube Video](https://www.youtube.com/watch?v=_JcQ5ISu2PQ&lc)
+[Class 10 English YouTube Video : Building COVID-19 Tracker App](https://www.youtube.com/watch?v=_JcQ5ISu2PQ&lc)
 
-[Class 10 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223743572722179/)
+[Class 10 Urdu Facebook Video : Building COVID-19 Tracker App](https://www.facebook.com/zeeshanhanif/videos/10223743572722179/)
 
-[Class 10 Urdu YouTube Video](https://www.youtube.com/watch?v=hbVAt-44G9Y)
+[Class 10 Urdu YouTube Video : Building COVID-19 Tracker App](https://www.youtube.com/watch?v=hbVAt-44G9Y)
 
 ## Class 11 React Router v6
 
@@ -397,13 +397,13 @@ Adil Altaf builds the COVID-19 Tracker App
 
 Note: [Use the latest Beta Release of V6](https://github.com/ReactTraining/react-router/releases)
 
-[Class 11 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223782839183816/)
+[Class 11 English Facebook Video : Learning Routing With React Router](https://www.facebook.com/zeeshanhanif/videos/10223782839183816/)
 
-[Class 11 English YouTube Video](https://www.youtube.com/watch?v=Bj3u0Jm-Mtg)
+[Class 11 English YouTube Video : Learning Routing With React Router](https://www.youtube.com/watch?v=Bj3u0Jm-Mtg)
 
-[Class 11 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223796154156682/)
+[Class 11 Urdu Facebook Video : Learning Routing With React Router](https://www.facebook.com/zeeshanhanif/videos/10223796154156682/)
 
-[Class 11 Urdu YouTueb Video](https://www.youtube.com/watch?v=IcbIvXY7JCw)
+[Class 11 Urdu YouTueb Video : Learning Routing With React Router](https://www.youtube.com/watch?v=IcbIvXY7JCw)
 
 ### Bootcamp 2020 Project 3: Shoe Store 
 
@@ -433,13 +433,13 @@ Now build a Shoe Store after watching this [video](https://www.youtube.com/watch
 
 [More Web Animations Resources](http://danielcwilson.com/tags/web-animations-api/)
 
-[Class 12 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223819571102091/)
+[Class 12 English Facebook Video : Learning Web Animation](https://www.facebook.com/zeeshanhanif/videos/10223819571102091/)
 
-[Class 12 English YouTube Video](https://www.youtube.com/watch?v=DhUveECtjG4)
+[Class 12 English YouTube Video : Learning Web Animation](https://www.youtube.com/watch?v=DhUveECtjG4)
 
-[Class 12 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223831524160910/)
+[Class 12 Urdu Facebook Video : Learning Web Animation](https://www.facebook.com/zeeshanhanif/videos/10223831524160910/)
 
-[Class 12 Urdu YouTube Video](https://www.youtube.com/watch?v=PbXYsgtJAMc)
+[Class 12 Urdu YouTube Video : Learning Web Animation](https://www.youtube.com/watch?v=PbXYsgtJAMc)
 
 
 ## Class 13 Web Animations API with React
@@ -450,13 +450,13 @@ We will be using the following React hooks useEffect, useLayoutEffect and [useRe
 
 [Creating Highly-Performant Animations using Web Animations API and React hooks](https://hackernoon.com/creating-highly-performant-animations-using-web-animations-api-and-react-hooks-k92d3utf?source=rss)
 
-[Class 13 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223864192297593/)
+[Class 13 English Facebook Video : Web Animation In React](https://www.facebook.com/zeeshanhanif/videos/10223864192297593/)
 
-[Class 13 English YouTube Video](https://www.youtube.com/watch?v=Vi7yRwlE4bg)
+[Class 13 English YouTube Video : Web Animation In React](https://www.youtube.com/watch?v=Vi7yRwlE4bg)
 
-[Class 13 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223876685849924/)
+[Class 13 Urdu Facebook Video : Web Animation In React](https://www.facebook.com/zeeshanhanif/videos/10223876685849924/)
 
-[Class 13 Urdu YouTube Video](https://www.youtube.com/watch?v=BQRBFoYhWgE)
+[Class 13 Urdu YouTube Video : Web Animation In React](https://www.youtube.com/watch?v=BQRBFoYhWgE)
 
 
 
@@ -561,25 +561,25 @@ Chapters 1, 2, 3, 4, and 9
 
 Note 1: You can also learn TypeScript 4.0 in detail from this Panacloud [repo](https://github.com/panacloud-modern-global-apps/learn-typescript)
 
-[Class 14 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223895728525979/)
+[Class 14 English Facebook Video : Learning TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223895728525979/)
 
-[Class 14 English YouTube Video](https://www.youtube.com/watch?v=dVKnwn44U7w)
+[Class 14 English YouTube Video : Learning TypeScript](https://www.youtube.com/watch?v=dVKnwn44U7w)
 
-[Class 14 Urdu YouTube Video](https://www.youtube.com/watch?v=xMRyGAqnPEU)
+[Class 14 Urdu YouTube Video : Learning TypeScript](https://www.youtube.com/watch?v=xMRyGAqnPEU)
 
-[Class 14 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223906321590799)
+[Class 14 Urdu Facebook Video : Learning TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223906321590799)
 
-[Class 15 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223936688309948/)
+[Class 15 English Facebook Video : Building A React Quiz App In TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223936688309948/)
 
-[Class 15 English YouTube Video](https://www.youtube.com/watch?v=kJGlPhiPUjQ)
+[Class 15 English YouTube Video : Building A React Quiz App In TypeScript](https://www.youtube.com/watch?v=kJGlPhiPUjQ)
 
-[Class 15 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223948565926881/)
+[Class 15 Urdu Facebook Video : Building A React Quiz App In TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223948565926881/)
 
-[Class 15 Urdu YouTube Video](https://www.youtube.com/watch?v=H3tQTv2EPcM)
+[Class 15 Urdu YouTube Video : Building A React Quiz App In TypeScript](https://www.youtube.com/watch?v=H3tQTv2EPcM)
 
-[Class 16 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223966186247378/)
+[Class 16 English Facebook Video : Building A React Quiz App And TypeScript Part 2](https://www.facebook.com/zeeshanhanif/videos/10223966186247378/)
 
-[Class 16 English YouTube Video](https://www.youtube.com/watch?v=2gYKVaeApzU)
+[Class 16 English YouTube Video : Building A React Quiz App And TypeScript Part 2](https://www.youtube.com/watch?v=2gYKVaeApzU)
 
 [Class 16 Urdu YouTube Video](https://www.youtube.com/watch?v=R94xDXkvBgM)
 
@@ -627,11 +627,11 @@ Deploy PWA on All App Stores
 
 [How to Build Modern, Offline Apps With Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Offline_Service_workers)
 
-[Class 17 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224004740651214/)
+[Class 17 English Facebook Video : Learning Progressive Web App](https://www.facebook.com/zeeshanhanif/videos/10224004740651214/)
 
-[Class 17 English YouTube Video](https://www.youtube.com/watch?v=S9Jkb61_gac)
+[Class 17 English YouTube Video : Learning Progressive Web App](https://www.youtube.com/watch?v=S9Jkb61_gac)
 
-[Class 17 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224016274939564/)
+[Class 17 Urdu Facebook Video ](https://www.facebook.com/zeeshanhanif/videos/10224016274939564/)
 
 [Class 17 Urdu Facebook Video](https://www.youtube.com/watch?v=N5JHz6TvGnM)
 
@@ -639,9 +639,9 @@ Deploy PWA on All App Stores
 
 [Firebase Push Notifications in React](https://www.smashingmagazine.com/2020/06/firebase-push-notifications-react/)
 
-[Class 18 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224036506845349/)
+[Class 18 English Facebook Video : Progressive Web App And Push Notification](https://www.facebook.com/zeeshanhanif/videos/10224036506845349/)
 
-[Class 18 English YouTube Video](https://www.youtube.com/watch?v=4MwPXLcMRns)
+[Class 18 English YouTube Video : Progressive Web App And Push Notification](https://www.youtube.com/watch?v=4MwPXLcMRns)
 
 [Class 18 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224047034148525/)
 
@@ -673,9 +673,9 @@ Reference:
 
 [How To Test Your React Apps With The React Testing Library](https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
 
-[Class 19 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224107545941282/)
+[Class 19 English Facebook Video : Learning Test Driven Development](https://www.facebook.com/zeeshanhanif/videos/10224107545941282/)
 
-[Class 19 English YouTube Video](https://www.youtube.com/watch?v=gYYcGCpPA7g)
+[Class 19 English YouTube Video : Learning Test Driven Development](https://www.youtube.com/watch?v=gYYcGCpPA7g)
 
 [Class 19 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224118327250808/)
 
@@ -694,13 +694,13 @@ Note 1: While Building the CI/CD pipeline make sure the app passes all the autom
 
 Note 2: In the Toptal article above they donot use TypeScipt, but you are required to do so.
 
-[Class 20 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224150277569546/)
+[Class 20 English Facebook Video : Building a React Timer App](https://www.facebook.com/zeeshanhanif/videos/10224150277569546/)
 
-[Class 20 English YouTube Video](https://www.youtube.com/watch?v=xsf_NhEkQII)
+[Class 20 English YouTube Video : Building a React Timer App](https://www.youtube.com/watch?v=xsf_NhEkQII)
 
-[Class 20 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224162457554038/)
+[Class 20 Urdu Facebook Video : Building a React Timer App](https://www.facebook.com/zeeshanhanif/videos/10224162457554038/)
 
-[Class 20 Urdu YouTube Video](https://www.youtube.com/watch?v=VxDXySbiqhY)
+[Class 20 Urdu YouTube Video : Building a React Timer App](https://www.youtube.com/watch?v=VxDXySbiqhY)
 
 
 
@@ -761,17 +761,17 @@ TypeScript Code Generator:
 
 [How to configure GraphQL-Codegen and React Apollo Client to do work for you](https://medium.com/swlh/how-to-configure-react-apollo-client-and-graphql-codegen-to-do-work-for-you-ecb305d983aa)
 
-[Class 21 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224181188222293/)
+[Class 21 English Facebook Video : Learning GraphQL Part 1 And Using Apollo Client With React](https://www.facebook.com/zeeshanhanif/videos/10224181188222293/)
 
-[Class 21 English YouTube Video](https://www.youtube.com/watch?v=T_kLAkmxUi4)
+[Class 21 English YouTube Video : Learning GraphQL Part 1 And Using Apollo Client With React](https://www.youtube.com/watch?v=T_kLAkmxUi4)
 
 [Class 21 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224191488999806/)
 
 [Class 21 Urdu YouTube Video](https://www.youtube.com/watch?v=DETgbc4P2AM)
 
-[Class 22 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224218669319297/)
+[Class 22 English Facebook Video : Learning GraphQL Part 2](https://www.facebook.com/zeeshanhanif/videos/10224218669319297/)
 
-[Class 22 English YouTube Video](https://www.youtube.com/watch?v=81d1-zldsoQ)
+[Class 22 English YouTube Video : Learning GraphQL Part 2](https://www.youtube.com/watch?v=81d1-zldsoQ)
 
 [Class 22 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224230984267163/)
 
@@ -792,9 +792,9 @@ You are required to build your own App not just copy the Demo Apps.
 
 Note: You can generate the TypeScript code automatically by using the Code Generator.
 
-[Class 23 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224252222558107/)
+[Class 23 English Facebook Video : Building A project With React, TypeScript And GraphQL](https://www.facebook.com/zeeshanhanif/videos/10224252222558107/)
 
-[Class 23 English YouTube Video](https://www.youtube.com/watch?v=gavh9cTxGWI)
+[Class 23 English YouTube Video : Building A project With React, TypeScript And GraphQL](https://www.youtube.com/watch?v=gavh9cTxGWI)
 
 [Class 23 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224260317480475/)
 
@@ -818,9 +818,9 @@ Learn Redux Toolkit
 
 [Basic Tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
 
-[Class 24 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224286453093849/)
+[Class 24 in English on Facebook : Learning Redux](https://www.facebook.com/zeeshanhanif/videos/10224286453093849/)
 
-[Class 24 in English on YouTube](https://www.youtube.com/watch?v=OO0lhveAZks)
+[Class 24 in English on YouTube : Learning Redux](https://www.youtube.com/watch?v=OO0lhveAZks)
 
 [Redux Presentation by Aamir](https://docs.google.com/presentation/d/1AYPOmQ-5PgoCnasjZ3qMo_LCHp2jo0kxFlLHnP2dkaA/)
 
@@ -834,9 +834,9 @@ Learn Redux Toolkit
 
 [Mirage Tutorial](https://miragejs.com/tutorial/intro/)
 
-[Class 25 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224313589932253/)
+[Class 25 in English on Facebook : Learning Redux ToolKit And Mirage Mocking Server](https://www.facebook.com/zeeshanhanif/videos/10224313589932253/)
 
-[Class 25 in English on YouTube](https://www.youtube.com/watch?v=cZ5_x0BcJdQ)
+[Class 25 in English on YouTube : Learning Redux ToolKit And Mirage Mocking Server](https://www.youtube.com/watch?v=cZ5_x0BcJdQ)
 
 [Class 25 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224323086249655/)
 
@@ -846,9 +846,9 @@ Learn Redux Toolkit
 
 [Zeeshan's Code for Thunk](https://github.com/zeeshanhanif/redux-toolkit-async)
 
-[Class 26 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224378742081016/)
+[Class 26 in English on Facebook : Learning Redux Async Thunk](https://www.facebook.com/zeeshanhanif/videos/10224378742081016/)
 
-[Class 26 in English on YouTube](https://www.youtube.com/watch?v=NxnELWEdh1s)
+[Class 26 in English on YouTube : Learning Redux Async Thunk](https://www.youtube.com/watch?v=NxnELWEdh1s)
 
 [Class 26 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224388032073260/)
 
@@ -898,17 +898,17 @@ This Project is very important because up to now we have been doing small projec
 
 [Zeeshan's Formik Repo](https://github.com/zeeshanhanif/react-formik)
 
-[Class 27 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224414911585231/)
+[Class 27 in English on Facebook: Learning React Formik And Yup Part 1](https://www.facebook.com/zeeshanhanif/videos/10224414911585231/)
 
-[Class 27 in English on YouTube](https://www.youtube.com/watch?v=v09HCJpOspE)
+[Class 27 in English on YouTube : Learning React Formik And Yup Part 1](https://www.youtube.com/watch?v=v09HCJpOspE)
 
 [Class 27 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224423714485298/)
 
 [Class 27 in Urdu on YouTube](https://www.youtube.com/watch?v=rwEUvkA9a7g)
 
-[Class 28 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224443277214354/)
+[Class 28 in English on Facebook : Learning React Formik And Yup Part 2](https://www.facebook.com/zeeshanhanif/videos/10224443277214354/)
 
-[Class 28 in Engish on YouTube](https://www.youtube.com/watch?v=wi7a9TqQt7E)
+[Class 28 in Engish on YouTube : Learning React Formik And Yup Part 2](https://www.youtube.com/watch?v=wi7a9TqQt7E)
 
 [Class 28 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224452812932741/)
 
@@ -948,9 +948,9 @@ Storybook 6
 
 [Reference Learning Material](https://www.learnstorybook.com/intro-to-storybook/)
 
-[Class 29 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224477793477239/)
+[Class 29 in English on Facebook : Learning Component Driven Development Part 1 With Storybook](https://www.facebook.com/zeeshanhanif/videos/10224477793477239/)
 
-[Class 29 in English on YouTube](https://www.youtube.com/watch?v=ors4hsRJ8uM)
+[Class 29 in English on YouTube : Learning Component Driven Development Part 1 With Storybook](https://www.youtube.com/watch?v=ors4hsRJ8uM)
 
 [Class 29 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224486726500559/)
 
@@ -973,9 +973,9 @@ Design Systems for Developers
 [Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/)
 
 
-[Class 30 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224504982876957/)
+[Class 30 in English on Facebook : Learning Component Driven Development Part 2 With Bit And Design System](https://www.facebook.com/zeeshanhanif/videos/10224504982876957/)
 
-[Class 30 in English on YouTube](https://www.youtube.com/watch?v=QcKLURv-npc)
+[Class 30 in English on YouTube: Learning Component Driven Development Part 2 With Bit And Design System](https://www.youtube.com/watch?v=QcKLURv-npc)
 
 [Class 30 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224514496194784/)
 
@@ -995,9 +995,9 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Our JAMstack Textbook for Bootcamp 2020 Read Chapter 1](https://www.apress.com/gp/book/9781484261767)
 
-[Class 31 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224537825818010/)
+[Class 31 in English on Facebook : Learning Modern Application Development With JAMStack](https://www.facebook.com/zeeshanhanif/videos/10224537825818010/)
 
-[Class 31 in English on YouTube](https://www.youtube.com/watch?v=deNpUAzAEH0)
+[Class 31 in English on YouTube : Learning Modern Application Development With JAMStack](https://www.youtube.com/watch?v=deNpUAzAEH0)
 
 [Class 31 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224546245988509/)
 
