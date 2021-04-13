@@ -1035,25 +1035,25 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Class 35 in Urdu on YouTube](https://www.youtube.com/watch?v=uMDyvor_k9k)
 
-[Class 36 in English on Facebook : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 2 And FaunaDB NoSQL database](https://www.facebook.com/zeeshanhanif/videos/10224681883899372/)
+[Class 36 in English on Facebook : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 2 And Intro to FaunaDB NoSQL database](https://www.facebook.com/zeeshanhanif/videos/10224681883899372/)
 
-[Class 36 in English on YouTube : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 1 And FaunaDB NoSQL database](https://www.youtube.com/watch?v=URXA_2HV61s)
+[Class 36 in English on YouTube : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 2 And Intro to FaunaDB NoSQL database](https://www.youtube.com/watch?v=URXA_2HV61s)
 
 [Class 36 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224690706039920/)
 
 [Class 36 in Urdu on YouTube](https://www.youtube.com/watch?v=ysEQiXY9ozM)
 
-[Class 37 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224715900029754/)
+[Class 37 in English on Facebook : Learning JAMStack Serverless - Gatsby, Netlify Serverless Functions And FaunaDB](https://www.facebook.com/zeeshanhanif/videos/10224715900029754/)
 
-[Class 37 in English on YouTube](https://www.youtube.com/watch?v=3B_vkzD0kRI)
+[Class 37 in English on YouTube : Learning JAMStack Serverless - Gatsby, Netlify Serverless Functions And FaunaDB](https://www.youtube.com/watch?v=3B_vkzD0kRI)
 
 [Class 37 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224726664858868/)
 
 [Class 37 in Urdu on YouTube](https://www.youtube.com/watch?v=2mb2IFVL4Jw)
 
-[Class 38 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224741314065089/)
+[Class 38 in English on Facebook : Learning JAMStack Serverless - Gatsby, GraphQL, Netlify Serverless Functions And FaunaDB](https://www.facebook.com/zeeshanhanif/videos/10224741314065089/)
 
-[Class 38 in English on YouTube](https://www.youtube.com/watch?v=ZXzxL4LDQs4)
+[Class 38 in English on YouTube : Learning JAMStack Serverless - Gatsby, GraphQL, Netlify Serverless Functions And FaunaDB](https://www.youtube.com/watch?v=ZXzxL4LDQs4)
 
 [Class 38 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224750968586446/)
 
