@@ -1860,5 +1860,10 @@ The following 70 developers have submitted the 12 projects so far. Good news is 
 
 77. [Muhammad Salman khan](https://www.facebook.com/mohammadsalman.khan.794)
 
+78. [Fahad Shaikh](https://www.facebook.com/fahaad09)
+
+79. [Muhammad Uzair](https://www.facebook.com/m.uzair17)
+
+
 
 
