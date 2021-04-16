@@ -1704,7 +1704,7 @@ After that you should cover this book:
 
 ## Appendix E: List of Students who have completed the first 12 Projects and started to work towards becoming a Full Stack Serverless Cloud Developer
 
-The following 70 developers have submitted the 12 projects so far. Good news is that 4 female developers have also qualified for the Ninja group. Completing 12 projects is only way to become member of Panacloud team and work with and learn from top developers. Currently, they are going through extensive training, you can also join the Ninja team by completing 12 projects (the selection process will continue till December 2022):
+The following 80 developers have submitted the 12 projects so far. Good news is that 4 female developers have also qualified for the Ninja group. Completing 12 projects is only way to become member of Panacloud team and work with and learn from top developers. Currently, they are going through extensive training, you can also join the Ninja team by completing 12 projects (the selection process will continue till December 2022):
 
 1. [Mateen Mustafa](https://www.facebook.com/mateen.blaster.5)
 
@@ -1863,6 +1863,8 @@ The following 70 developers have submitted the 12 projects so far. Good news is 
 78. [Fahad Shaikh](https://www.facebook.com/fahaad09)
 
 79. [Muhammad Uzair](https://www.facebook.com/m.uzair17)
+
+80. [Farasat Ali](https://www.facebook.com/FarasatAliAzeemi/)
 
 
 
