@@ -275,7 +275,7 @@ Expense Tracker App By Adil Altaf
 
 [JavaScript Promises, Callbacks, and Async/Await for Beginners](https://hackernoon.com/javascript-promises-callbacks-and-asyncawait-pu7432af)
 
-[Asynchronous JavaScript: How Callbacks, Promises, and Async-Await Work](https://www.youtube.com/watch?v=XuFDcZABiDQ)
+[Asynchronous JavaScript: How Callbacks, Promises, and Async-Await Work](https://dev.to/nas5w/asynchronous-javascript-how-callbacks-promises-and-async-await-work-1f7p)
 
 [Code for Class 7 English](https://github.com/zeeshanhanif/demo-async-programming)
 
